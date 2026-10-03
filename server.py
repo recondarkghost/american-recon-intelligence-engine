@@ -172,6 +172,19 @@ def gdelt_behavior():
     return min(1.0, max(0.0, (ratio - .7) / 1.3)), {"recent_to_week_average": round(ratio, 2), "note": "media-volume signal, not verified events"}
 
 
+def cisa_kev_activity():
+    """CISA exploited-vulnerability activity; an indicator, not an incident count."""
+    catalog = request_json("https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json")
+    rows = catalog.get("vulnerabilities", [])
+    if not isinstance(rows, list):
+        raise ValueError("CISA KEV feed did not contain a vulnerability list")
+    cutoff = (utc_now() - timedelta(days=30)).date().isoformat()
+    recent = sum(1 for row in rows if str(row.get("dateAdded", "")) >= cutoff)
+    signal = min(1.0, .35 + recent / 20)
+    return signal, {"catalog_entries": len(rows), "added_last_30_days": recent,
+                    "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."}
+
+
 COLLECTORS = [
     ("NWS weather alerts", nws_alerts),
     ("USGS earthquakes", usgs_quakes),
@@ -180,13 +193,14 @@ COLLECTORS = [
     ("World Bank economy", world_bank),
     ("GDACS global disasters", gdacs_disasters),
     ("GDELT behavior signal", gdelt_behavior),
+    ("CISA known-exploited vulnerabilities", cisa_kev_activity),
 ]
 
 
 CATEGORIES = [
     {"id": "weather", "name": "Extreme weather & disasters", "annual": .29, "signals": {"NWS weather alerts": .55, "GDACS global disasters": .15, "NOAA space weather": .05}},
     {"id": "economy", "name": "Recession, jobs & housing stress", "annual": .11, "signals": {"BLS economy": .55, "World Bank economy": .25}},
-    {"id": "infrastructure", "name": "Power, internet or cyber outage", "annual": .09, "signals": {"NOAA space weather": .25, "NWS weather alerts": .20, "GDELT behavior signal": .10}},
+    {"id": "infrastructure", "name": "Major cyberattack against the United States", "annual": .09, "signals": {}},
     {"id": "conflict", "name": "War involving the United States", "annual": .025, "signals": {"GDELT behavior signal": .35}},
     {"id": "unrest", "name": "Political unrest or violence", "annual": .07, "signals": {"GDELT behavior signal": .45, "BLS economy": .15}},
     {"id": "health", "name": "Disease outbreak", "annual": .045, "signals": {}},
@@ -203,6 +217,13 @@ def probability(category, years, signals):
             centered = signals[source] - .35
             adjustment += centered * weight * (0.12 if years <= 1 else 0.05)
             evidence.append(source)
+    if category["id"] == "infrastructure":
+        kev_signal = signals.get("CISA known-exploited vulnerabilities")
+        if kev_signal is not None:
+            # Neutral .35 preserves the existing 9% annual prototype baseline.
+            # This experimental adjustment is not calibrated risk.
+            base *= max(.50, min(1.80, 1 + .90 * (kev_signal - .35)))
+            evidence.append("CISA known-exploited vulnerabilities")
     value = max(.01, min(.97, base + adjustment))
     uncertainty = min(.24, .06 + .018 * years + (.04 if len(evidence) < 2 else 0))
     return round(value * 100), round(uncertainty * 100), evidence
