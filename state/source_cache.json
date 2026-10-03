@@ -189,22 +189,22 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 256,
+    "latency_ms": 259,
     "region": "United States",
-    "last_success_at": "2026-10-03T21:10:26.649266+00:00"
+    "last_success_at": "2026-10-03T22:14:32.949567+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
     "ok": true,
-    "signal": 0.6944444444444444,
+    "signal": 0.6888888888888889,
     "details": {
-      "magnitude_4_5_week": 125,
+      "magnitude_4_5_week": 124,
       "magnitude_6_week": 0,
       "largest_magnitude": 5.8
     },
-    "latency_ms": 298,
+    "latency_ms": 239,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T21:10:26.679138+00:00"
+    "last_success_at": "2026-10-03T22:14:32.912874+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 2.67,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 352,
+    "latency_ms": 300,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T21:10:26.733171+00:00"
+    "last_success_at": "2026-10-03T22:14:32.973733+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 704,
+    "latency_ms": 676,
     "region": "Global",
-    "last_success_at": "2026-10-03T21:10:27.093514+00:00"
+    "last_success_at": "2026-10-03T22:14:33.364941+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -516,7 +516,7 @@
         {
           "title": "Medical plane with 6 on board missing off Massachusetts coast",
           "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-03T18:06:47+00:00",
+          "published_at": "2026-10-03T21:16:21+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -855,9 +855,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 442,
+    "latency_ms": 250,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T21:10:26.839864+00:00"
+    "last_success_at": "2026-10-03T22:14:32.948052+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -866,6 +866,15 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+          "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+          "published_at": "2026-10-03T21:15:05+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
         {
           "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
@@ -1087,22 +1096,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Qatar"
-        },
-        {
-          "title": "French high school engulfed in flames as student protests continue",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
-          "published_at": "2026-10-03T12:59:27+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 399,
+    "latency_ms": 405,
     "region": "Qatar",
-    "last_success_at": "2026-10-03T21:10:26.800983+00:00"
+    "last_success_at": "2026-10-03T22:14:33.107229+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1338,9 +1338,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 246,
+    "latency_ms": 381,
     "region": "France",
-    "last_success_at": "2026-10-03T21:10:26.655022+00:00"
+    "last_success_at": "2026-10-03T22:14:33.091072+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1424,7 +1424,7 @@
           "country": "Europe"
         },
         {
-          "title": "Latvia: Exit polls show ruling party leading as populist party gains momentum",
+          "title": "Latvians vote in parliamentary election amid concerns over rising cost of living and Russia",
           "url": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
           "published_at": "2026-10-03T07:00:57+00:00",
           "source": "Euronews / Europe",
@@ -1812,9 +1812,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 398,
+    "latency_ms": 190,
     "region": "Europe",
-    "last_success_at": "2026-10-03T21:10:26.818368+00:00"
+    "last_success_at": "2026-10-03T22:14:32.910907+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1824,9 +1824,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 305,
+    "latency_ms": 788,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T21:10:26.687606+00:00"
+    "last_success_at": "2026-10-03T22:14:33.463085+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -2157,6 +2157,15 @@
           "country": "United Kingdom"
         },
         {
+          "title": "Tories would expand free childcare to high earners, Badenoch says",
+          "url": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
+          "published_at": "2026-10-03T21:00:09+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
           "url": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
           "published_at": "2026-10-03T15:00:01+00:00",
@@ -2187,15 +2196,6 @@
           "title": "Badenoch returns to Conservative conference much stronger than a year ago",
           "url": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
           "published_at": "2026-10-03T13:00:01+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Two Iranian men identified Manchester synagogue as site for alleged bomb plot, court hears",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/03/iranian-men-manchester-synagogue-alleged-bomb-plot-court-hears",
-          "published_at": "2026-10-03T12:53:47+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2249,9 +2249,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 344,
+    "latency_ms": 443,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T21:10:26.744843+00:00"
+    "last_success_at": "2026-10-03T22:14:33.144632+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2260,6 +2260,24 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Two helicopter rescues in Tasmania after separate bushwalker mishaps",
+          "url": "https://www.abc.net.au/news/2026-10-04/two-helicopter-rescues-in-tasmania-after-bushwalker-mishaps/107226544",
+          "published_at": "2026-10-03T21:43:30+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "'Forgotten' outback town faces scorching summer without a pool",
+          "url": "https://www.abc.net.au/news/2026-10-04/outback-town-walgett-loses-swimming-pool-ahead-of-hot-summer/107211758",
+          "published_at": "2026-10-03T21:30:25+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
         {
           "title": "'Really unfair': Victim-survivor's almost two-year wait for her own records",
           "url": "https://www.abc.net.au/news/2026-10-04/victim-survivor-waits-23-months-for-records-right-to-information/107215664",
@@ -2270,7 +2288,7 @@
           "country": "Australia"
         },
         {
-          "title": "Cancer Council Qld backs chief executive amid bullying lawsuit",
+          "title": "Workplace dismissal lawsuit rocks top levels of cancer charity",
           "url": "https://www.abc.net.au/news/2026-10-04/cancer-council-qld-research-boss-alleges-bullying-ceo/107213572",
           "published_at": "2026-10-03T21:05:03+00:00",
           "source": "ABC / Australia",
@@ -2396,26 +2414,8 @@
           "country": "Australia"
         },
         {
-          "title": "Electrification offers an off-ramp from fossil fuels, but there is a hook",
-          "url": "https://www.abc.net.au/news/2026-10-04/iran-war-electrification-climate-goals/107213828",
-          "published_at": "2026-10-03T18:30:00+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
           "title": "Steve Reich's infinite loops influenced David Bowie and Radiohead",
           "url": "https://www.abc.net.au/news/2026-10-04/what-is-minimalism-in-music/107210720",
-          "published_at": "2026-10-03T18:30:00+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Is it safe to charge your phone overnight?",
-          "url": "https://www.abc.net.au/news/2026-10-04/safe-charging-mobile-phone-overnight/107219700",
           "published_at": "2026-10-03T18:30:00+00:00",
           "source": "ABC / Australia",
           "kind": "News report",
@@ -2441,6 +2441,26 @@
           "country": "Australia"
         },
         {
+          "title": "Is it safe to charge your phone overnight?",
+          "url": "https://www.abc.net.au/news/2026-10-04/safe-charging-mobile-phone-overnight/107219700",
+          "published_at": "2026-10-03T18:30:00+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Unintended consequences of war in Iran are helping the climate",
+          "url": "https://www.abc.net.au/news/2026-10-04/iran-war-electrification-climate-goals/107213828",
+          "published_at": "2026-10-03T18:30:00+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Australia"
+        },
+        {
           "title": "I sat down the wife of Ukraine's President Volodymyr Zelenskyy. Here's what I learnt",
           "url": "https://www.abc.net.au/news/2026-10-04/olena-zelenska-interview-foreign-correspondent/107197022",
           "published_at": "2026-10-03T18:28:17+00:00",
@@ -2450,7 +2470,7 @@
           "country": "Australia"
         },
         {
-          "title": "Teen charged for allegedly crashing into crowd of Newcastle Knights supporters",
+          "title": "Teen charged after crashing into crowd of Newcastle Knights supporters",
           "url": "https://www.abc.net.au/news/2026-10-03/teen-charged-for-alleged-crashing-into-crowd/107225432",
           "published_at": "2026-10-03T11:42:26+00:00",
           "source": "ABC / Australia",
@@ -2466,31 +2486,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Australia"
-        },
-        {
-          "title": "De Minaur fights into quarterfinals in China",
-          "url": "https://www.abc.net.au/news/2026-10-03/alex-de-minaur-reaches-china-open-quarterfinal/107225360",
-          "published_at": "2026-10-03T09:09:10+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Crash axe used in flydubai attack on pilot",
-          "url": "https://www.abc.net.au/news/2026-10-03/sources-say-omani-co-pilot-had-extreme-views/107225300",
-          "published_at": "2026-10-03T09:01:51+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 329,
+    "latency_ms": 473,
     "region": "Australia",
-    "last_success_at": "2026-10-03T21:10:26.741596+00:00"
+    "last_success_at": "2026-10-03T22:14:33.185951+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2499,6 +2501,42 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "From ‘red ocean’ to ‘blue ocean’: Why Singaporean firms are exploring Nanning to enter China’s market",
+          "url": "https://www.channelnewsasia.com/east-asia/nanning-business-caexpo-singapore-china-6407501",
+          "published_at": "2026-10-03T22:00:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Commentary: AI can be more comforting than a person. Here's what humans can learn from it",
+          "url": "https://www.channelnewsasia.com/commentary/ai-chatbot-friend-help-problems-comfort-6391616",
+          "published_at": "2026-10-03T22:00:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Houthis say Saudi Arabia launches dozens of strikes on Yemen capital",
+          "url": "https://www.channelnewsasia.com/world/houthis-say-saudi-arabia-launches-dozens-strikes-yemen-capital-6429646",
+          "published_at": "2026-10-03T21:55:12+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "UAE beat Oman to reach Gulf Cup final against Saudi",
+          "url": "https://www.channelnewsasia.com/sport/uae-beat-oman-reach-gulf-cup-final-against-saudi-6430206",
+          "published_at": "2026-10-03T21:46:07+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
         {
           "title": "Fernandes rejects talk of Portugal rift after Ronaldo's abrupt departure",
           "url": "https://www.channelnewsasia.com/sport/fernandes-rejects-talk-portugal-rift-after-ronaldos-abrupt-departure-6430141",
@@ -2518,8 +2556,8 @@
           "country": "Singapore"
         },
         {
-          "title": "Doubles from Kane and Saka power England to 7-0 rout of Croatia",
-          "url": "https://www.channelnewsasia.com/sport/doubles-kane-and-saka-power-england-7-0-rout-croatia-6429971",
+          "title": "England crush Croatia 7-0 as Spain stay perfect with Czech victory",
+          "url": "https://www.channelnewsasia.com/sport/england-crush-croatia-7-0-spain-stay-perfect-czech-victory-6429971",
           "published_at": "2026-10-03T18:06:46+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
@@ -2644,51 +2682,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Singapore"
-        },
-        {
-          "title": "Upgrades backfire as Wolff admits Mercedes going backwards",
-          "url": "https://www.channelnewsasia.com/sport/upgrades-backfire-wolff-admits-mercedes-going-backwards-6429061",
-          "published_at": "2026-10-03T10:24:54+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "As public fears of AI grow, Trump digs in on voluntary safeguards",
-          "url": "https://www.channelnewsasia.com/business/public-fears-ai-grow-trump-digs-in-voluntary-safeguards-6429041",
-          "published_at": "2026-10-03T10:05:31+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Brisbane 2032 logos accidentally revealed by official YouTube channel",
-          "url": "https://www.channelnewsasia.com/sport/brisbane-2032-logos-accidentally-revealed-official-youtube-channel-6429031",
-          "published_at": "2026-10-03T10:00:12+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "South Africa hamstring 'epidemic' strikes again as De Zorzi ruled out of test",
-          "url": "https://www.channelnewsasia.com/sport/south-africa-hamstring-epidemic-strikes-again-de-zorzi-ruled-out-test-6429016",
-          "published_at": "2026-10-03T09:51:17+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [
-            "health"
-          ],
-          "country": "Singapore"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 545,
+    "latency_ms": 364,
     "region": "Singapore",
-    "last_success_at": "2026-10-03T21:10:26.961789+00:00"
+    "last_success_at": "2026-10-03T22:14:33.082401+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2699,9 +2699,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 731,
+    "latency_ms": 576,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T21:10:27.112907+00:00"
+    "last_success_at": "2026-10-03T22:14:33.250221+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2710,6 +2710,15 @@
     "details": {
       "reports": 135,
       "articles": [
+        {
+          "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
+          "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-03T21:55:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
         {
           "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
           "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf",
@@ -2882,15 +2891,6 @@
           "title": "UK: Man charged with planning to attack Nigel Farage",
           "url": "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-02T20:38:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "New York governor condemns handling of Cornell rape case",
-          "url": "https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-02T19:09:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
           "topics": [],
@@ -3263,21 +3263,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 916,
+    "latency_ms": 777,
     "region": "Germany",
-    "last_success_at": "2026-10-03T21:10:27.319763+00:00"
+    "last_success_at": "2026-10-03T22:14:33.484837+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.835,
+    "signal": 0.6533333333333333,
     "details": {
-      "active_alerts": 301,
-      "high_impact_alerts": 6
+      "active_alerts": 292,
+      "high_impact_alerts": 3
     },
-    "latency_ms": 653,
+    "latency_ms": 576,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T21:10:27.034052+00:00"
+    "last_success_at": "2026-10-03T22:14:33.249178+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3424,9 +3424,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1027,
+    "latency_ms": 560,
     "region": "Euro area",
-    "last_success_at": "2026-10-03T21:10:27.459984+00:00"
+    "last_success_at": "2026-10-03T22:14:33.297165+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3582,9 +3582,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1176,
+    "latency_ms": 1195,
     "region": "International research",
-    "last_success_at": "2026-10-03T21:10:27.578451+00:00"
+    "last_success_at": "2026-10-03T22:14:33.898738+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3788,9 +3788,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 237,
+    "latency_ms": 222,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T21:10:26.664077+00:00"
+    "last_success_at": "2026-10-03T22:14:32.954878+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3982,9 +3982,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 282,
+    "latency_ms": 269,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T21:10:26.673439+00:00"
+    "last_success_at": "2026-10-03T22:14:32.958811+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4176,16 +4176,16 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 360,
+    "latency_ms": 623,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T21:10:26.782529+00:00"
+    "last_success_at": "2026-10-03T22:14:33.353665+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "active_global_items": 204,
+      "active_global_items": 167,
       "examples": [
         "Green flood alert in Thailand",
         "Green flood alert in Mexico",
@@ -4194,9 +4194,9 @@
         "Green flood alert in Malaysia"
       ]
     },
-    "latency_ms": 2279,
+    "latency_ms": 2486,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T21:10:28.664393+00:00"
+    "last_success_at": "2026-10-03T22:14:35.163479+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4302,9 +4302,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1054,
+    "latency_ms": 1006,
     "region": "Africa",
-    "last_success_at": "2026-10-03T21:10:27.445120+00:00"
+    "last_success_at": "2026-10-03T22:14:33.695063+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4315,8 +4315,8 @@
       "added_last_30_days": 39,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 437,
+    "latency_ms": 595,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T21:10:26.824372+00:00"
+    "last_success_at": "2026-10-03T22:14:33.278830+00:00"
   }
 }
