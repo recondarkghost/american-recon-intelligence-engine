@@ -1,6 +1,8 @@
-﻿import json, sqlite3, sys, shutil
+import json, sqlite3, sys, shutil
 from pathlib import Path
 import server as engine
+import intelligence_upgrade
+intelligence_upgrade.install(engine)
 
 root = Path(__file__).resolve().parent
 ledger = root / "state" / "ledger.json"

@@ -1,9 +1,10 @@
-﻿name: Update Intelligence Engine
+name: Update Intelligence Engine
 on:
   push:
     branches: [main]
     paths:
       - 'server.py'
+      - 'intelligence_upgrade.py'
       - 'static/**'
       - 'publish_online.py'
       - '.github/workflows/intelligence.yml'
@@ -20,7 +21,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
