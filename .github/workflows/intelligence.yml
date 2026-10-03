@@ -11,7 +11,7 @@ on:
       - '.github/workflows/intelligence.yml'
   workflow_dispatch:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    */5 * * * *,
 permissions:
   contents: write
   pages: write
