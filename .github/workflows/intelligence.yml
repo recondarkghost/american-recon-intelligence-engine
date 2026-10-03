@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - 'server.py'
+      - 'global_sources.py'
       - 'intelligence_upgrade.py'
       - 'static/**'
       - 'publish_online.py'
@@ -35,7 +36,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add state/ledger.json
+          git add state/ledger.json state/source_cache.json
           if ! git diff --cached --quiet; then
             git commit -m 'Save dated forecast ledger'
             git push

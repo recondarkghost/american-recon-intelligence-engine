@@ -3,6 +3,8 @@ from pathlib import Path
 import server as engine
 import intelligence_upgrade
 intelligence_upgrade.install(engine)
+import global_sources
+global_sources.install(engine)
 
 root = Path(__file__).resolve().parent
 ledger = root / "state" / "ledger.json"

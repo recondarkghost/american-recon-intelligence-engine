@@ -213,7 +213,7 @@ def build_forecasts(sources):
     result = []
     for category in CATEGORIES:
         horizons = {}
-        for years in (1, 5, 10):
+        for years in (1, 2, 3, 5, 10):
             pct, margin, evidence = probability(category, years, signals)
             horizons[str(years)] = {"probability": pct, "margin": margin, "evidence": evidence}
         result.append({"id": category["id"], "name": category["name"], "horizons": horizons})

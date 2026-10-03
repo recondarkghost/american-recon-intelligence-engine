@@ -124,6 +124,7 @@ def install(engine):
   articles.sort(key=lambda a:a.get('published_at') or '',reverse=True)
   now=engine.utc_now(); recent=[]
   for a in articles:
+   if a.get('stale'):continue
    stamp=a.get('published_at')
    if not stamp:continue
    try:age=(now-datetime.fromisoformat(stamp)).total_seconds()/86400
@@ -142,6 +143,6 @@ def install(engine):
     x['evidence']+=['Worldwide reporting (limited weight)'] if domains else []
     x['evidence']+=['USGS earthquakes'] if f['id']=='weather' and 'USGS earthquakes' in signals else []
    f['supporting_reports']=matching[:6]
-  engine.CACHE['intelligence']={'articles':articles[:200],'model_version':'2.0-public-evidence','method':'Experimental base-rate model with bounded evidence adjustments. Headline counts are not event probabilities. Margins are heuristic, not statistical confidence intervals. No measured accuracy improvement claimed.','coverage':'Public official feeds, worldwide news discovery, and PubMed. Not the whole internet; no private chatter.','sources_checked':len(sources),'recent_reports':len(recent)}
+  engine.CACHE['intelligence']={'articles':articles[:500],'model_version':'2.0-public-evidence','method':'Experimental base-rate model with bounded evidence adjustments. Headline counts are not event probabilities. Margins are heuristic, not statistical confidence intervals. No measured accuracy improvement claimed.','coverage':'Public official feeds, worldwide news discovery, and PubMed. Not the whole internet; no private chatter.','sources_checked':len(sources),'recent_reports':len(recent)}
   return forecasts,signals
  engine.build_forecasts=build
