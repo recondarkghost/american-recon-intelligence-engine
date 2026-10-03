@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 408,
+    "latency_ms": 220,
     "region": "United States",
-    "last_success_at": "2026-10-03T06:38:34.883840+00:00"
+    "last_success_at": "2026-10-03T06:59:55.139269+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 0,
       "largest_magnitude": 5.8
     },
-    "latency_ms": 460,
+    "latency_ms": 756,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T06:38:34.918468+00:00"
+    "last_success_at": "2026-10-03T06:59:55.660449+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 2.67,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 524,
+    "latency_ms": 744,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T06:38:34.982924+00:00"
+    "last_success_at": "2026-10-03T06:59:55.648675+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 548,
+    "latency_ms": 837,
     "region": "Global",
-    "last_success_at": "2026-10-03T06:38:35.018965+00:00"
+    "last_success_at": "2026-10-03T06:59:55.747447+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -808,9 +808,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 496,
+    "latency_ms": 735,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T06:38:34.973802+00:00"
+    "last_success_at": "2026-10-03T06:59:55.657690+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -820,9 +820,18 @@
       "reports": 25,
       "articles": [
         {
-          "title": "Gaza voters want jobs and security as Palestinian elections approach",
-          "url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
-          "published_at": "2026-10-03T05:39:29+00:00",
+          "title": "Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss",
+          "published_at": "2026-10-03T06:53:09+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
+          "url": "https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss",
+          "published_at": "2026-10-03T06:51:09+00:00",
           "source": "Al Jazeera world news",
           "kind": "News report",
           "topics": [],
@@ -831,7 +840,25 @@
         {
           "title": "India vs Pakistan live: Asian Games cricket final",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
-          "published_at": "2026-10-03T05:35:31+00:00",
+          "published_at": "2026-10-03T06:37:31+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Flydubai co-pilot stabbed captain with crash axe in ‘terrorist’ attack: UAE",
+          "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
+          "published_at": "2026-10-03T06:16:47+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Gaza voters want jobs and security as Palestinian elections approach",
+          "url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+          "published_at": "2026-10-03T05:39:29+00:00",
           "source": "Al Jazeera world news",
           "kind": "News report",
           "topics": [],
@@ -1022,40 +1049,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Qatar"
-        },
-        {
-          "title": "Bosnia’s elections explained",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss",
-          "published_at": "2026-10-02T21:21:47+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Israeli general: Gaza captives could have been freed a year earlier",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
-          "published_at": "2026-10-02T21:15:58+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Christa Pike unconscious, on ventilator after botched execution: Lawyers",
-          "url": "https://www.aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss",
-          "published_at": "2026-10-02T20:57:32+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 451,
+    "latency_ms": 611,
     "region": "Qatar",
-    "last_success_at": "2026-10-03T06:38:34.933483+00:00"
+    "last_success_at": "2026-10-03T06:59:55.534600+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1064,6 +1064,15 @@
     "details": {
       "reports": 24,
       "articles": [
+        {
+          "title": "Russia strikes another major bridge across Kyiv's Dnipro river",
+          "url": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv",
+          "published_at": "2026-10-03T06:40:29+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
         {
           "title": "Co-pilot on Flydubai flight was banned from flying by Oman for holding extremist views",
           "url": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
@@ -1274,22 +1283,13 @@
           "kind": "News report",
           "topics": [],
           "country": "France"
-        },
-        {
-          "title": "What's real and what's fake? How AI is impacting Brazil's election race",
-          "url": "https://www.france24.com/en/tv-shows/focus/20261002-what-s-real-and-what-s-fake-how-ai-is-impacting-brazil-s-election-race",
-          "published_at": "2026-10-02T11:34:37+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 509,
+    "latency_ms": 794,
     "region": "France",
-    "last_success_at": "2026-10-03T06:38:34.998231+00:00"
+    "last_success_at": "2026-10-03T06:59:55.733099+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1761,9 +1761,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 479,
+    "latency_ms": 202,
     "region": "Europe",
-    "last_success_at": "2026-10-03T06:38:34.975592+00:00"
+    "last_success_at": "2026-10-03T06:59:55.160305+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1773,9 +1773,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 519,
+    "latency_ms": 806,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T06:38:34.979023+00:00"
+    "last_success_at": "2026-10-03T06:59:55.712085+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -2204,9 +2204,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 568,
+    "latency_ms": 393,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T06:38:35.049312+00:00"
+    "last_success_at": "2026-10-03T06:59:55.316787+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2215,6 +2215,15 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Olympic star takes on challengers at pool's grand reopening",
+          "url": "https://www.abc.net.au/news/2026-10-03/glenorchy-war-memorial-pool-reopens-in-hobart/107221584",
+          "published_at": "2026-10-03T06:44:40+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
         {
           "title": "Essendon claims breakthrough AFLW victory against GWS",
           "url": "https://www.abc.net.au/news/2026-10-03/essendon-claims-breakthrough-aflw-victory/107225198",
@@ -2432,22 +2441,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Australia"
-        },
-        {
-          "title": "Clay burrows hoping to save little dragon from 'incredibly lethal' heat",
-          "url": "https://www.abc.net.au/news/2026-10-03/canberra-grassland-earless-dragon-clay-burrow-summer-heat/107221714",
-          "published_at": "2026-10-02T22:05:00+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 679,
+    "latency_ms": 702,
     "region": "Australia",
-    "last_success_at": "2026-10-03T06:38:35.169677+00:00"
+    "last_success_at": "2026-10-03T06:59:55.643811+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2456,6 +2456,15 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Marquez wins Japanese GP sprint to close in on Martin",
+          "url": "https://www.channelnewsasia.com/sport/marquez-wins-japanese-gp-sprint-close-in-martin-6428866",
+          "published_at": "2026-10-03T06:38:35+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
         {
           "title": "Antonelli finds his rhythm to top final Sepang practice",
           "url": "https://www.channelnewsasia.com/sport/antonelli-finds-his-rhythm-top-final-sepang-practice-6428846",
@@ -2628,22 +2637,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Singapore"
-        },
-        {
-          "title": "Pokemon events for fans in Singapore to enjoy as part of the franchise’s 30th anniversary",
-          "url": "https://www.channelnewsasia.com/living/pokemon-events-singapore-30th-anniversary-2026-6425766",
-          "published_at": "2026-10-02T23:14:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 644,
+    "latency_ms": 756,
     "region": "Singapore",
-    "last_success_at": "2026-10-03T06:38:35.138788+00:00"
+    "last_success_at": "2026-10-03T06:59:55.701227+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2654,9 +2654,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 641,
+    "latency_ms": 896,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T06:38:35.101205+00:00"
+    "last_success_at": "2026-10-03T06:59:55.801624+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2665,6 +2665,17 @@
     "details": {
       "reports": 134,
       "articles": [
+        {
+          "title": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
+          "url": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-03T06:51:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Germany"
+        },
         {
           "title": "Latvia votes in parliamentary election amid rising costs",
           "url": "https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-rdf",
@@ -2835,15 +2846,6 @@
           "title": "Can there be solar for all, everywhere by 2030?",
           "url": "https://www.dw.com/en/can-there-be-solar-for-all-everywhere-by-2030/a-79517056?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-02T13:48:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "North and South Korea trade accusations over landmines that injured three soldiers",
-          "url": "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-02T13:30:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
           "topics": [],
@@ -3216,21 +3218,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 920,
+    "latency_ms": 748,
     "region": "Germany",
-    "last_success_at": "2026-10-03T06:38:35.405147+00:00"
+    "last_success_at": "2026-10-03T06:59:55.681991+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.385,
+    "signal": 0.39,
     "details": {
-      "active_alerts": 231,
+      "active_alerts": 234,
       "high_impact_alerts": 0
     },
-    "latency_ms": 738,
+    "latency_ms": 787,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T06:38:35.195860+00:00"
+    "last_success_at": "2026-10-03T06:59:55.690923+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3377,9 +3379,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1146,
+    "latency_ms": 717,
     "region": "Euro area",
-    "last_success_at": "2026-10-03T06:38:35.653342+00:00"
+    "last_success_at": "2026-10-03T06:59:55.714440+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3535,9 +3537,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 2016,
+    "latency_ms": 946,
     "region": "International research",
-    "last_success_at": "2026-10-03T06:38:36.499436+00:00"
+    "last_success_at": "2026-10-03T06:59:55.872762+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3741,9 +3743,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 409,
+    "latency_ms": 1176,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T06:38:34.911089+00:00"
+    "last_success_at": "2026-10-03T06:59:56.167553+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3935,9 +3937,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 433,
+    "latency_ms": 1250,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T06:38:34.907079+00:00"
+    "last_success_at": "2026-10-03T06:59:56.166483+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4129,27 +4131,27 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 414,
+    "latency_ms": 1205,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-03T06:38:34.914078+00:00"
+    "last_success_at": "2026-10-03T06:59:56.169761+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "active_global_items": 193,
+      "active_global_items": 195,
       "examples": [
         "Green flood alert in Thailand",
         "Green flood alert in Mexico",
         "Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.",
         "Green forest fire notification in Kazakhstan",
-        "Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV."
+        "Green flood alert in Malaysia"
       ]
     },
-    "latency_ms": 2350,
+    "latency_ms": 1837,
     "region": "Global / United States",
-    "last_success_at": "2026-10-03T06:38:36.813902+00:00"
+    "last_success_at": "2026-10-03T06:59:56.745575+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4255,8 +4257,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1021,
+    "latency_ms": 1026,
     "region": "Africa",
-    "last_success_at": "2026-10-03T06:38:35.493992+00:00"
+    "last_success_at": "2026-10-03T06:59:55.941410+00:00"
   }
 }
