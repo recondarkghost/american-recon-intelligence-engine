@@ -204,7 +204,7 @@ def probability(category, years, signals):
             adjustment += centered * weight * (0.12 if years <= 1 else 0.05)
             evidence.append(source)
     value = max(.01, min(.97, base + adjustment))
-    uncertainty = min(.28, .07 + .025 * years + (.05 if len(evidence) < 2 else 0))
+    uncertainty = min(.24, .06 + .018 * years + (.04 if len(evidence) < 2 else 0))
     return round(value * 100), round(uncertainty * 100), evidence
 
 
