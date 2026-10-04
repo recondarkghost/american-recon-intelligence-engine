@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 428,
+    "latency_ms": 258,
     "region": "United States",
-    "last_success_at": "2026-10-04T00:40:46.552923+00:00"
+    "last_success_at": "2026-10-04T00:55:21.885484+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 0,
       "largest_magnitude": 5.9
     },
-    "latency_ms": 481,
+    "latency_ms": 245,
     "region": "Global / United States",
-    "last_success_at": "2026-10-04T00:40:46.582726+00:00"
+    "last_success_at": "2026-10-04T00:55:21.845637+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 2.67,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 439,
+    "latency_ms": 396,
     "region": "Global / United States",
-    "last_success_at": "2026-10-04T00:40:46.541920+00:00"
+    "last_success_at": "2026-10-04T00:55:21.997812+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 515,
+    "latency_ms": 683,
     "region": "Global",
-    "last_success_at": "2026-10-04T00:40:46.630829+00:00"
+    "last_success_at": "2026-10-04T00:55:22.300383+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -857,9 +857,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 417,
+    "latency_ms": 273,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-04T00:40:46.547686+00:00"
+    "last_success_at": "2026-10-04T00:55:21.905030+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -1102,9 +1102,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 394,
+    "latency_ms": 326,
     "region": "Qatar",
-    "last_success_at": "2026-10-04T00:40:46.536376+00:00"
+    "last_success_at": "2026-10-04T00:55:21.963804+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1340,9 +1340,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 403,
+    "latency_ms": 441,
     "region": "France",
-    "last_success_at": "2026-10-04T00:40:46.561124+00:00"
+    "last_success_at": "2026-10-04T00:55:22.083998+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1814,9 +1814,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 376,
+    "latency_ms": 241,
     "region": "Europe",
-    "last_success_at": "2026-10-04T00:40:46.557817+00:00"
+    "last_success_at": "2026-10-04T00:55:21.917357+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1826,9 +1826,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 592,
+    "latency_ms": 298,
     "region": "Global / United States",
-    "last_success_at": "2026-10-04T00:40:46.696950+00:00"
+    "last_success_at": "2026-10-04T00:55:21.903556+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -2251,9 +2251,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 456,
+    "latency_ms": 433,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-04T00:40:46.587449+00:00"
+    "last_success_at": "2026-10-04T00:55:22.065694+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2262,6 +2262,15 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Treasurer downplays chance of cost-of-living relief amid surging debt",
+          "url": "https://www.abc.net.au/news/2026-10-04/jim-chalmers-treasurer-cost-of-living-relief-budget-inflation/107226568",
+          "published_at": "2026-10-04T00:46:41+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
         {
           "title": "AFP confirms investigation of flydubai co-pilot's Australian links",
           "url": "https://www.abc.net.au/news/2026-10-04/flydubai-copilot-afp-investigation-australian-links/107226696",
@@ -2443,7 +2452,7 @@
           "country": "Australia"
         },
         {
-          "title": "Newcastle's joy tempered by heartache on NRL grand final day after car crash",
+          "title": "Newcastle Knights fans remain hospitalised as P-plate driver faces court",
           "url": "https://www.abc.net.au/news/2026-10-04/mixed-emotions-on-nrl-grand-final-day-after-newcastle-crash/107225230",
           "published_at": "2026-10-03T19:10:18+00:00",
           "source": "ABC / Australia",
@@ -2477,24 +2486,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Australia"
-        },
-        {
-          "title": "Unintended consequences of war in Iran are helping the climate",
-          "url": "https://www.abc.net.au/news/2026-10-04/iran-war-electrification-climate-goals/107213828",
-          "published_at": "2026-10-03T18:30:00+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "Australia"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 479,
+    "latency_ms": 373,
     "region": "Australia",
-    "last_success_at": "2026-10-04T00:40:46.640999+00:00"
+    "last_success_at": "2026-10-04T00:55:22.020741+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2503,6 +2501,15 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Israel targets top Hamas leader in deadly Gaza strike on anniversary",
+          "url": "https://www.channelnewsasia.com/world/israel-hamas-gaza-conflict-6430286",
+          "published_at": "2026-10-04T00:48:22+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
         {
           "title": "Tennessee prison chief resigns after failed execution",
           "url": "https://www.channelnewsasia.com/world/christa-pike-execution-tennessee-prison-chief-resigns-6429626",
@@ -2673,22 +2680,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Singapore"
-        },
-        {
-          "title": "I'm 12, and my handmade crafts raise funds for wildlife and charity",
-          "url": "https://www.channelnewsasia.com/cna-insider/voices/first-business-age-11-young-entrepreneur-6418291",
-          "published_at": "2026-10-03T13:30:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 419,
+    "latency_ms": 297,
     "region": "Singapore",
-    "last_success_at": "2026-10-04T00:40:46.597183+00:00"
+    "last_success_at": "2026-10-04T00:55:21.966904+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2699,9 +2697,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 540,
+    "latency_ms": 466,
     "region": "Global / United States",
-    "last_success_at": "2026-10-04T00:40:46.643167+00:00"
+    "last_success_at": "2026-10-04T00:55:22.068051+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -3263,21 +3261,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 405,
+    "latency_ms": 629,
     "region": "Germany",
-    "last_success_at": "2026-10-04T00:40:46.554548+00:00"
+    "last_success_at": "2026-10-04T00:55:22.271413+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.8416666666666667,
+    "signal": 0.8988888888888888,
     "details": {
-      "active_alerts": 405,
-      "high_impact_alerts": 3
+      "active_alerts": 406,
+      "high_impact_alerts": 4
     },
-    "latency_ms": 694,
+    "latency_ms": 514,
     "region": "Global / United States",
-    "last_success_at": "2026-10-04T00:40:46.795471+00:00"
+    "last_success_at": "2026-10-04T00:55:22.113703+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3424,9 +3422,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 810,
+    "latency_ms": 542,
     "region": "Euro area",
-    "last_success_at": "2026-10-04T00:40:47.017207+00:00"
+    "last_success_at": "2026-10-04T00:55:22.238411+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3582,9 +3580,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1970,
+    "latency_ms": 880,
     "region": "International research",
-    "last_success_at": "2026-10-04T00:40:48.118440+00:00"
+    "last_success_at": "2026-10-04T00:55:22.519331+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3788,9 +3786,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 868,
+    "latency_ms": 135,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-04T00:40:47.055881+00:00"
+    "last_success_at": "2026-10-04T00:55:21.830674+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3982,9 +3980,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 938,
+    "latency_ms": 250,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-04T00:40:47.054741+00:00"
+    "last_success_at": "2026-10-04T00:55:21.869509+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4176,9 +4174,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 875,
+    "latency_ms": 216,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-04T00:40:47.057511+00:00"
+    "last_success_at": "2026-10-04T00:55:21.895887+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4194,9 +4192,9 @@
         "Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III."
       ]
     },
-    "latency_ms": 2390,
+    "latency_ms": 1806,
     "region": "Global / United States",
-    "last_success_at": "2026-10-04T00:40:48.501770+00:00"
+    "last_success_at": "2026-10-04T00:55:23.412674+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4302,9 +4300,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1004,
+    "latency_ms": 824,
     "region": "Africa",
-    "last_success_at": "2026-10-04T00:40:47.120906+00:00"
+    "last_success_at": "2026-10-04T00:55:22.442717+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4315,8 +4313,8 @@
       "added_last_30_days": 39,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 685,
+    "latency_ms": 359,
     "region": "Global / United States",
-    "last_success_at": "2026-10-04T00:40:46.798260+00:00"
+    "last_success_at": "2026-10-04T00:55:21.967976+00:00"
   }
 }
