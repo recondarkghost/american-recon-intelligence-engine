@@ -189,22 +189,22 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 313,
+    "latency_ms": 353,
     "region": "United States",
-    "last_success_at": "2026-10-10T00:04:06.327714+00:00"
+    "last_success_at": "2026-10-10T05:38:50.052280+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "magnitude_4_5_week": 130,
-      "magnitude_6_week": 3,
+      "magnitude_4_5_week": 142,
+      "magnitude_6_week": 4,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 276,
+    "latency_ms": 332,
     "region": "Global / United States",
-    "last_success_at": "2026-10-10T00:04:06.266433+00:00"
+    "last_success_at": "2026-10-10T05:38:50.012121+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 4.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 340,
+    "latency_ms": 403,
     "region": "Global / United States",
-    "last_success_at": "2026-10-10T00:04:06.330631+00:00"
+    "last_success_at": "2026-10-10T05:38:50.083473+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,21 +455,88 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 632,
+    "latency_ms": 658,
     "region": "Global",
-    "last_success_at": "2026-10-10T00:04:06.636047+00:00"
+    "last_success_at": "2026-10-10T05:38:50.346103+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
     "ok": true,
     "signal": 0.35,
     "details": {
-      "reports": 32,
+      "reports": 36,
       "articles": [
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T21:54:28+00:00",
+          "published_at": "2026-10-10T04:38:20+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-09T22:30:22+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "US country music star Ella Langley cancels show due to 'security threat'",
+          "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T02:02:54+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+          "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T04:07:11+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T05:25:12+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [
+            "unrest"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T04:34:55+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T01:58:56+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [
+            "weather"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-09T21:50:47+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -479,15 +546,6 @@
           "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
           "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-09T18:40:10+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-          "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T21:50:47+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -505,15 +563,6 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-          "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T17:14:44+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
           "title": "Man named Hitler Mussolini elected mayor in Peru",
           "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-09T16:32:22+00:00",
@@ -523,18 +572,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-          "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T17:37:10+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-          "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T21:55:51+00:00",
+          "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+          "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-09T17:14:44+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -570,7 +610,7 @@
         {
           "title": "US immigration officials defend ICE agents who shot man in same car as child",
           "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T17:36:09+00:00",
+          "published_at": "2026-10-10T00:13:12+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -667,18 +707,38 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T09:43:22+00:00",
+          "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T04:51:57+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
         },
         {
-          "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-          "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T04:53:50+00:00",
+          "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+          "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-09T23:24:33+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+          "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T00:00:08+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [
+            "health"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-09T09:43:22+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -694,18 +754,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-          "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-08T23:14:02+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Why Elon Musk is taking on India's richest man over Starlink",
-          "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T06:42:37+00:00",
+          "title": "How the trial of two murdered Australian surfers ended in a guilty verdict",
+          "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T02:21:10+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -739,15 +790,6 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
-          "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T16:19:36+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
           "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
           "url": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-09T09:37:56+00:00",
@@ -759,9 +801,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 446,
+    "latency_ms": 327,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-10T00:04:06.462831+00:00"
+    "last_success_at": "2026-10-10T05:38:50.027130+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -770,6 +812,129 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Taiwan president says defence spending boost aims to ‘deter war’",
+          "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
+          "published_at": "2026-10-10T05:08:49+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Qatar"
+        },
+        {
+          "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
+          "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+          "published_at": "2026-10-10T04:54:59+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Supporters of jailed former Pakistani PM Khan marching to capital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss",
+          "published_at": "2026-10-10T04:54:10+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
+          "published_at": "2026-10-10T04:30:34+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "India deploys police and restricts transport ahead of mass protest in Delhi",
+          "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
+          "published_at": "2026-10-10T04:07:30+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [
+            "unrest"
+          ],
+          "country": "Qatar"
+        },
+        {
+          "title": "CCTV footage shows ICE shooting in New York",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
+          "published_at": "2026-10-10T03:38:05+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
+          "published_at": "2026-10-10T02:35:28+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+          "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
+          "published_at": "2026-10-10T01:40:51+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+          "url": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss",
+          "published_at": "2026-10-10T01:23:12+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Dual quakes devastate southern Panama",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
+          "published_at": "2026-10-10T00:53:15+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+          "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+          "published_at": "2026-10-10T00:22:52+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Intercommunal clashes kill 71 people in South Sudan",
+          "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+          "published_at": "2026-10-10T00:01:32+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Iran war live: Trump vows to quickly ‘settle or win’ Iran and Ukraine wars",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+          "published_at": "2026-10-10T00:00:00+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Qatar"
+        },
         {
           "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
@@ -879,134 +1044,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Qatar"
-        },
-        {
-          "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
-          "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
-          "published_at": "2026-10-09T19:22:56+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [
-            "weather"
-          ],
-          "country": "Qatar"
-        },
-        {
-          "title": "Injured Orangutan rescued from Indonesia wildfires",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
-          "published_at": "2026-10-09T19:14:56+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Katie Zacharia selected to be next White House press secretary",
-          "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
-          "published_at": "2026-10-09T18:49:24+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
-          "url": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss",
-          "published_at": "2026-10-09T18:30:58+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
-          "published_at": "2026-10-09T18:23:43+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-          "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
-          "published_at": "2026-10-09T18:15:06+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "Qatar"
-        },
-        {
-          "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
-          "published_at": "2026-10-09T18:06:48+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
-          "published_at": "2026-10-09T17:37:05+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
-          "url": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
-          "published_at": "2026-10-09T17:19:43+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Palestinians seek protection from violent settlers during olive harvest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
-          "published_at": "2026-10-09T17:05:25+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Powerful tornado rips through western Sicily",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/powerful-tornado-rips-through-western-sicily?traffic_source=rss",
-          "published_at": "2026-10-09T16:37:33+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-          "url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
-          "published_at": "2026-10-09T16:36:31+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-          "url": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
-          "published_at": "2026-10-09T16:33:26+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 503,
+    "latency_ms": 298,
     "region": "Qatar",
-    "last_success_at": "2026-10-10T00:04:06.529267+00:00"
+    "last_success_at": "2026-10-10T05:38:50.005848+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1015,6 +1059,15 @@
     "details": {
       "reports": 24,
       "articles": [
+        {
+          "title": "South African judge awarded Nobel Peace Prize",
+          "url": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
+          "published_at": "2026-10-09T21:53:23+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
         {
           "title": "Italy's biggest-ever wine heist",
           "url": "https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist",
@@ -1223,22 +1276,13 @@
           "kind": "News report",
           "topics": [],
           "country": "France"
-        },
-        {
-          "title": "Russia says all clear after contact tracing in reported plague case",
-          "url": "https://www.france24.com/en/video/20261009-russia-says-all-clear-after-contact-tracing-in-reported-plague-case",
-          "published_at": "2026-10-09T13:53:23+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 453,
+    "latency_ms": 408,
     "region": "France",
-    "last_success_at": "2026-10-10T00:04:06.483238+00:00"
+    "last_success_at": "2026-10-10T05:38:50.123768+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1247,6 +1291,15 @@
     "details": {
       "reports": 50,
       "articles": [
+        {
+          "title": "Latest news bulletin | October 10th, 2026 – Morning",
+          "url": "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-morning",
+          "published_at": "2026-10-10T05:00:32+00:00",
+          "source": "Euronews / Europe",
+          "kind": "News report",
+          "topics": [],
+          "country": "Europe"
+        },
         {
           "title": "Police clash with protesters in Brussels as thousands march against spending cuts",
           "url": "https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts",
@@ -1257,7 +1310,7 @@
           "country": "Europe"
         },
         {
-          "title": "Trump says US to import Russian diesel to ease prices",
+          "title": "Zelenskyy hits out at 'gifts to Putin' after Trump announces deal for Russian diesel",
           "url": "https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices",
           "published_at": "2026-10-09T19:43:08+00:00",
           "source": "Euronews / Europe",
@@ -1701,22 +1754,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Europe"
-        },
-        {
-          "title": "Israel says British consulate in East Jerusalem 'ceasing operations'",
-          "url": "https://www.euronews.com/2026/10/08/israel-says-british-consulate-in-east-jerusalem-ceasing-operations",
-          "published_at": "2026-10-08T07:23:07+00:00",
-          "source": "Euronews / Europe",
-          "kind": "News report",
-          "topics": [],
-          "country": "Europe"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 232,
+    "latency_ms": 372,
     "region": "Europe",
-    "last_success_at": "2026-10-10T00:04:06.279898+00:00"
+    "last_success_at": "2026-10-10T05:38:50.104053+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1726,9 +1770,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 554,
+    "latency_ms": 289,
     "region": "Global / United States",
-    "last_success_at": "2026-10-10T00:04:06.546623+00:00"
+    "last_success_at": "2026-10-10T05:38:49.972962+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1789,23 +1833,32 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-          "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-          "published_at": "2026-10-09T22:48:01+00:00",
+          "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+          "published_at": "2026-10-10T05:00:48+00:00",
           "source": "Guardian world news",
           "kind": "News report",
-          "topics": [
-            "weather"
-          ],
+          "topics": [],
           "country": "United Kingdom"
         },
         {
           "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
           "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-          "published_at": "2026-10-09T21:30:22+00:00",
+          "published_at": "2026-10-10T00:50:52+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+          "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+          "published_at": "2026-10-10T00:13:15+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [
+            "weather"
+          ],
           "country": "United Kingdom"
         },
         {
@@ -1821,15 +1874,6 @@
           "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
           "url": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
           "published_at": "2026-10-08T20:40:55+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
-          "url": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
-          "published_at": "2026-10-08T18:04:16+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -1926,6 +1970,15 @@
           "country": "United Kingdom"
         },
         {
+          "title": "Trump fumes over Nobel peace prize snub and criticizes Norway",
+          "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize",
+          "published_at": "2026-10-10T01:57:03+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
           "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
           "published_at": "2026-10-09T23:39:31+00:00",
@@ -1961,17 +2014,6 @@
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
-          "url": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
-          "published_at": "2026-10-09T13:31:04+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
           "country": "United Kingdom"
         },
         {
@@ -2067,6 +2109,17 @@
           "country": "United Kingdom"
         },
         {
+          "title": "Create new pre-apprenticeship scheme to close youth unemployment gap, says Milburn",
+          "url": "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report",
+          "published_at": "2026-10-10T05:00:47+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [
+            "economy"
+          ],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
           "url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
           "published_at": "2026-10-09T23:01:40+00:00",
@@ -2103,18 +2156,40 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Labour hails byelection win as return of leftwing voters after Starmer era",
-          "url": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
-          "published_at": "2026-10-09T17:08:19+00:00",
+          "title": "Hurricane Isaias makes landfall in Florida with severe effects expected across several states",
+          "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall",
+          "published_at": "2026-10-10T03:56:50+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [
+            "weather"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "‘I want to thank President Putin’, Trump says after agreeing to lift sanctions on Russian diesel – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+          "published_at": "2026-10-10T02:02:45+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
         },
         {
-          "title": "Zelenskyy denounces Trump’s decision to lift diesel sanctions on Russia as ‘weak’ – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
-          "published_at": "2026-10-09T23:37:19+00:00",
+          "title": "Key things to know about Hurricane Isaias as millions under evacuation orders",
+          "url": "https://www.theguardian.com/global/2026/oct/09/hurricane-isaias-where-path-landfall-preparation",
+          "published_at": "2026-10-10T01:50:32+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [
+            "weather"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "‘Life-threatening storm surge’ headed to US Gulf coast as residents brace for Isaias",
+          "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
+          "published_at": "2026-10-10T00:18:15+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2128,42 +2203,13 @@
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
-        },
-        {
-          "title": "Trump says he picked ‘devoted fan’ Katie Zacharia to be next press secretary",
-          "url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
-          "published_at": "2026-10-09T21:39:06+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Hurricane Isaias barrels toward Gulf coast as category 3 storm",
-          "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
-          "published_at": "2026-10-09T21:22:04+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [
-            "weather"
-          ],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "New York City’s Marble Hill residents furious after ICE shooting: ‘Why do this?’",
-          "url": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
-          "published_at": "2026-10-09T21:08:53+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 313,
+    "latency_ms": 340,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-10T00:04:06.336488+00:00"
+    "last_success_at": "2026-10-10T05:38:50.045436+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2173,7 +2219,133 @@
       "reports": 25,
       "articles": [
         {
-          "title": "Investigators say flydubai pilot's 'drift towards terrorism' started in Australia",
+          "title": "Live: Wallabies desperate to end 40-year hoodoo against All Blacks",
+          "url": "https://www.abc.net.au/news/2026-10-10/bledisloe-cup-test-wallabies-all-blacks-eden-park-live-blog/107251546",
+          "published_at": "2026-10-10T05:24:36+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Winner of scientific imagery contest was AI generated",
+          "url": "https://www.abc.net.au/news/2026-10-10/winner-of-nikon-small-world-in-motion-competition-ai-generated/107251164",
+          "published_at": "2026-10-10T05:00:32+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "In 1975 editor Hilary McPhee changed Australian publishing forever",
+          "url": "https://www.abc.net.au/news/2026-10-10/hilary-mcphee-australian-editor-publisher-obituary/107246522",
+          "published_at": "2026-10-10T05:00:00+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Bladder cancer mistaken for UTI, perimenopause in women",
+          "url": "https://www.abc.net.au/news/health/2026-10-10/women-bladder-cancer-symptoms-dismissed-utis-perimenopause/107206502",
+          "published_at": "2026-10-10T03:45:07+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Old Bendigo gold mine hosts underground piano concert",
+          "url": "https://www.abc.net.au/news/2026-10-10/piano-gold-mine-underground-concert-bendigo/107247298",
+          "published_at": "2026-10-10T03:13:40+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Hanson takes aim at Coalition in fiery pitch to conservative voters",
+          "url": "https://www.abc.net.au/news/2026-10-10/hanson-takes-aim-at-coalition-in-cpac-speech-brisbane/107251206",
+          "published_at": "2026-10-10T03:00:31+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "SA starts Shield defence with innings win over Victoria",
+          "url": "https://www.abc.net.au/news/2026-10-10/sa-starts-shield-defence-with-innings-win-over-victoria/107251344",
+          "published_at": "2026-10-10T02:45:15+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Victoria Police reopen Gippsland cold case from 40 years ago",
+          "url": "https://www.abc.net.au/news/2026-10-10/albert-pisani-moe-cold-case-fortieth-anniversary/107251034",
+          "published_at": "2026-10-10T01:36:56+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Police charge man with murder of twin found dead in yard",
+          "url": "https://www.abc.net.au/news/2026-10-10/police-charge-perth-man-with-murder-of-brother-found-dead/107251180",
+          "published_at": "2026-10-10T01:21:24+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Champion golfer reflects on lasting legacy in outback WA",
+          "url": "https://www.abc.net.au/news/2026-10-10/golfing-legend-graham-marsh-kalgoorlie-course-legacy/107242704",
+          "published_at": "2026-10-10T01:01:51+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Teen suffers serious injuries after Canberra man allegedly shoots at car",
+          "url": "https://www.abc.net.au/news/2026-10-10/man-charged-after-allegedly-shooting-at-car-injuring-teenager/107251086",
+          "published_at": "2026-10-10T00:57:09+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Homelessness camp in Perth's south tip of iceberg",
+          "url": "https://www.abc.net.au/news/2026-10-10/homelessness-increase-perth/107178436",
+          "published_at": "2026-10-10T00:45:37+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Police save man who jumped into river to evade capture",
+          "url": "https://www.abc.net.au/news/2026-10-10/police-save-man-who-jumped-into-river-torrens-evade-capture/107250890",
+          "published_at": "2026-10-10T00:08:51+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Kimberley leaders hope jailing of 'evil' Broome bishop exposes more abusers",
+          "url": "https://www.abc.net.au/news/2026-10-10/christopher-saunders-sentence-hope-for-future/107243456",
+          "published_at": "2026-10-10T00:04:46+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Investigators say flydubai pilot’s drift to 'extremism' began in Melbourne",
           "url": "https://www.abc.net.au/news/2026-10-10/flydubai-investigation-copilot-drift-to-extremism/107250928",
           "published_at": "2026-10-09T23:57:51+00:00",
           "source": "ABC / Australia",
@@ -2254,7 +2426,7 @@
           "country": "Australia"
         },
         {
-          "title": "NT council's China trade mission questioned amid cost-of-living crisis",
+          "title": "Darwin council leads China and Vietnam delegation after rate rise",
           "url": "https://www.abc.net.au/news/2026-10-10/darwin-city-council-china-vietnam-delegation-amid-rate-rise/107242730",
           "published_at": "2026-10-09T22:40:08+00:00",
           "source": "ABC / Australia",
@@ -2270,143 +2442,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Australia"
-        },
-        {
-          "title": "Retiring Riverland grape grower says industry support has come too late",
-          "url": "https://www.abc.net.au/news/rural/2026-10-10/retiring-riverland-grape-grower-says-industry-support-too-late/107215544",
-          "published_at": "2026-10-09T21:23:13+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Shark attack survivor thanks 'legends' who saved him",
-          "url": "https://www.abc.net.au/news/2026-10-10/mel-ismail-shark-attack-follow-geraldton/107243960",
-          "published_at": "2026-10-09T21:16:44+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Veterans call on prime minister to release official war histories",
-          "url": "https://www.abc.net.au/news/2026-10-10/veterans-call-on-prime-minister-release-official-war-histories/107250098",
-          "published_at": "2026-10-09T21:12:39+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "Australia"
-        },
-        {
-          "title": "Bulldogs dominant in win over Bombers to start Pride Round",
-          "url": "https://www.abc.net.au/news/2026-10-10/bulldogs-bring-ruthless-mentality-to-pride-round/107250876",
-          "published_at": "2026-10-09T21:12:28+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "'Incredibly important': Why these students are running for office",
-          "url": "https://www.abc.net.au/news/2026-10-10/student-elections-week-university-politics/107248096",
-          "published_at": "2026-10-09T21:11:21+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Mental health WorkCover claims in Qld double in five years",
-          "url": "https://www.abc.net.au/news/2026-10-10/qld-workcover-mental-health-claims-double-in-five-years/107249016",
-          "published_at": "2026-10-09T21:05:52+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Sam Wood's fall from fitness influencer to alleged DV offender",
-          "url": "https://www.abc.net.au/news/2026-10-10/sam-wood-fall-from-fitness-guru-to-alleged-dv-offender/107247592",
-          "published_at": "2026-10-09T21:04:04+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Man fined $10k for illegal dump that left $3m clean-up bill",
-          "url": "https://www.abc.net.au/news/2026-10-10/environmental-laws-criticised-over-illegal-wollert-dump-fine/107243534",
-          "published_at": "2026-10-09T20:58:49+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Russian couple's home targeted in Melbourne arson attack",
-          "url": "https://www.abc.net.au/news/2026-10-10/russian-australian-alexei-shishkin-targeted-firebombing/107249906",
-          "published_at": "2026-10-09T20:52:33+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Mexican men guilty of murdering brothers Jake and Callum Robinson",
-          "url": "https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538",
-          "published_at": "2026-10-09T20:42:18+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "'Parasitic twinning' could explain calf born with two extra legs",
-          "url": "https://www.abc.net.au/news/rural/2026-10-10/parastic-twinning-could-explain-calf-born-six-legs/107247344",
-          "published_at": "2026-10-09T20:36:11+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Shop owners ramp up security due to rise in Pokémon card thefts",
-          "url": "https://www.abc.net.au/news/2026-10-10/sa-traders-increase-security-fear-of-pokemon-card-thefts/107247058",
-          "published_at": "2026-10-09T20:10:51+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Father's trust in child care shattered by son's shocking injury",
-          "url": "https://www.abc.net.au/news/2026-10-10/fathers-trust-in-childcare-shattered-by-childs-shocking-injury/107194852",
-          "published_at": "2026-10-09T20:02:25+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Australia's Test start no disaster, but order issues hint at troubles ahead",
-          "url": "https://www.abc.net.au/news/2026-10-10/first-test-australia-south-africa-day-one-analysis/107250280",
-          "published_at": "2026-10-09T19:51:32+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [
-            "weather"
-          ],
-          "country": "Australia"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 487,
+    "latency_ms": 332,
     "region": "Australia",
-    "last_success_at": "2026-10-10T00:04:06.522967+00:00"
+    "last_success_at": "2026-10-10T05:38:50.054041+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2415,6 +2457,71 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "IMH to be expanded, redeveloped by 2040 as Singapore boosts mental health capacity",
+          "url": "https://www.channelnewsasia.com/singapore/imh-expand-redevelop-ong-ye-kung-6448376",
+          "published_at": "2026-10-10T04:05:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "From the racetrack to the wrist: 7 standout driving watches of 2026",
+          "url": "https://www.channelnewsasia.com/obsessions/best-driving-watches-2026-6445721",
+          "published_at": "2026-10-10T03:52:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "US says China's maritime actions off Taiwan 'deeply destabilising'",
+          "url": "https://www.channelnewsasia.com/east-asia/us-says-chinas-maritime-actions-taiwan-deeply-destabilising-6448331",
+          "published_at": "2026-10-10T02:46:39+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Palmer is committed to England, says Chelsea boss Alonso",
+          "url": "https://www.channelnewsasia.com/sport/palmer-committed-england-says-chelsea-boss-alonso-6448326",
+          "published_at": "2026-10-10T02:42:18+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Delhi shuts metro stations and internet before protest over election chief",
+          "url": "https://www.channelnewsasia.com/asia/delhi-shuts-metro-stations-and-internet-protest-over-election-chief-6448296",
+          "published_at": "2026-10-10T02:04:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [
+            "unrest"
+          ],
+          "country": "Singapore"
+        },
+        {
+          "title": "Singapore ‘stands ready’ to assist Indonesia on forest fires amid haze: Grace Fu",
+          "url": "https://www.channelnewsasia.com/singapore/singapore-indonesia-haze-support-grace-fu-6447076",
+          "published_at": "2026-10-10T01:52:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Venezuela president authorizes SpaceX's Starlink to operate in the country",
+          "url": "https://www.channelnewsasia.com/business/venezuela-president-authorizes-spacexs-starlink-operate-in-country-6448146",
+          "published_at": "2026-10-10T00:01:05+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
         {
           "title": "How drinking affects your dementia risk – and what studies say about moderate alcohol use",
           "url": "https://www.channelnewsasia.com/wellness/alcohol-dementia-risk-6424581",
@@ -2479,7 +2586,7 @@
           "country": "Singapore"
         },
         {
-          "title": "La Liga wants to ‘bridge gap’ with Premier League in Singapore – not overtake it, says Spanish league chief",
+          "title": "La Liga wants to ‘bridge gap’ with English Premier League in Singapore – not overtake it, says Spanish league chief",
           "url": "https://www.channelnewsasia.com/sport/la-liga-javier-tebas-singapore-football-fans-6446656",
           "published_at": "2026-10-09T22:00:00+00:00",
           "source": "CNA / Singapore",
@@ -2488,8 +2595,8 @@
           "country": "Singapore"
         },
         {
-          "title": "US green card crackdown clouds Indian tech workers' American dream",
-          "url": "https://www.channelnewsasia.com/asia/us-green-card-crackdown-clouds-indian-tech-workers-american-dream-6446536",
+          "title": "Trump curbs green card pathway: How Indian IT firms and workers could be affected",
+          "url": "https://www.channelnewsasia.com/asia/trump-curbs-green-card-pathway-how-indian-it-firms-and-workers-could-be-affected-6446536",
           "published_at": "2026-10-09T22:00:00+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
@@ -2528,70 +2635,7 @@
         {
           "title": "France students plan more protests, UN 'concerned' over violence",
           "url": "https://www.channelnewsasia.com/world/france-students-plan-more-protests-un-concerned-over-violence-6447841",
-          "published_at": "2026-10-09T21:53:49+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Lens hang on for much needed win to climb up Ligue 1 standings",
-          "url": "https://www.channelnewsasia.com/sport/lens-hang-much-needed-win-climb-up-ligue-1-standings-6448006",
-          "published_at": "2026-10-09T21:45:53+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Amazon shuffles Alexa leadership following high-end tablet release",
-          "url": "https://www.channelnewsasia.com/business/amazon-shuffles-alexa-leadership-following-high-end-tablet-release-6447996",
-          "published_at": "2026-10-09T21:38:04+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Fullkrug haunts former side as Bremen battle for 2-2 draw at Dortmund",
-          "url": "https://www.channelnewsasia.com/sport/fullkrug-haunts-former-side-bremen-battle-2-2-draw-dortmund-6447981",
-          "published_at": "2026-10-09T21:24:24+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "GTCR, Elliott in advanced talks to buy CCC Intelligent Solutions, source says",
-          "url": "https://www.channelnewsasia.com/business/gtcr-elliott-in-advanced-talks-buy-ccc-intelligent-solutions-source-says-6447966",
-          "published_at": "2026-10-09T21:15:10+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Trump says Putin agrees to major release of diesel to US, global markets",
-          "url": "https://www.channelnewsasia.com/world/trump-russia-diesel-putin-global-markets-6447926",
-          "published_at": "2026-10-09T20:53:46+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "US announces sanctions on ICC, hours after Nobel award to former judge",
-          "url": "https://www.channelnewsasia.com/world/us-icc-sanctions-rubio-nobel-prize-6447851",
-          "published_at": "2026-10-09T20:18:40+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Anthropic AI model submits false homicide tip to Philadelphia police website",
-          "url": "https://www.channelnewsasia.com/business/anthropic-ai-model-submits-false-homicide-tip-philadelphia-police-website-6447846",
-          "published_at": "2026-10-09T19:21:18+00:00",
+          "published_at": "2026-10-09T21:53:00+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
           "topics": [],
@@ -2600,9 +2644,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 323,
+    "latency_ms": 398,
     "region": "Singapore",
-    "last_success_at": "2026-10-10T00:04:06.370824+00:00"
+    "last_success_at": "2026-10-10T05:38:50.126002+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2613,9 +2657,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 549,
+    "latency_ms": 470,
     "region": "Global / United States",
-    "last_success_at": "2026-10-10T00:04:06.540913+00:00"
+    "last_success_at": "2026-10-10T05:38:50.152080+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2624,6 +2668,46 @@
     "details": {
       "reports": 139,
       "articles": [
+        {
+          "title": "India: Delhi braces for Cockroach protest amid strict curbs",
+          "url": "https://www.dw.com/en/india-delhi-braces-for-cockroach-protest-amid-strict-curbs/live-79624339?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-10T03:50:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [
+            "unrest"
+          ],
+          "country": "Germany"
+        },
+        {
+          "title": "Hurricane Isaias makes landfall in Florida",
+          "url": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-10T02:58:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [
+            "weather"
+          ],
+          "country": "Germany"
+        },
+        {
+          "title": "Mexico: Court finds three men guilty of murder of Australian, US surfers",
+          "url": "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-10T02:21:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
+        {
+          "title": "Trump weighs livestream execution amid bipartisan backlash",
+          "url": "https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-10T01:59:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
         {
           "title": "Trump names new press secretary to succeed Karoline Leavitt",
           "url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
@@ -2652,8 +2736,8 @@
           "country": "Germany"
         },
         {
-          "title": "Strong earthquakes shake Panama, prompting tsunami alert",
-          "url": "https://www.dw.com/en/strong-earthquakes-shake-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-all-1573-rdf",
+          "title": "Strong earthquakes shake Panama, buildings damaged",
+          "url": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-09T19:03:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
@@ -2771,38 +2855,9 @@
           "country": "Germany"
         },
         {
-          "title": "Hurricane Isaias intensifies en route to US Gulf Coast",
-          "url": "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-09T11:55:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [
-            "weather"
-          ],
-          "country": "Germany"
-        },
-        {
           "title": "World Cup 2034: Does Saudi Arabia shelving Neom Stadium spell trouble?",
           "url": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-09T11:43:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "France: Investigators recover 2 stolen Renoir paintings",
-          "url": "https://www.dw.com/en/france-investigators-recover-2-stolen-renoir-paintings/a-79614538?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-09T11:42:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "Voting to begin in local elections in the Czech Republic",
-          "url": "https://www.dw.com/en/voting-to-begin-in-local-elections-in-the-czech-republic/a-79612365?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-09T11:34:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
           "topics": [],
@@ -3158,34 +3213,25 @@
           "kind": "News report",
           "topics": [],
           "country": "Germany"
-        },
-        {
-          "title": "Euro plummets against US dollar: Has the next financial crisis begun?",
-          "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-05T14:28:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1107,
+    "latency_ms": 719,
     "region": "Germany",
-    "last_success_at": "2026-10-10T00:04:07.135653+00:00"
+    "last_success_at": "2026-10-10T05:38:50.430970+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 1.0,
+    "signal": 0.9966666666666666,
     "details": {
-      "active_alerts": 452,
-      "high_impact_alerts": 18
+      "active_alerts": 298,
+      "high_impact_alerts": 9
     },
-    "latency_ms": 739,
+    "latency_ms": 554,
     "region": "Global / United States",
-    "last_success_at": "2026-10-10T00:04:06.729002+00:00"
+    "last_success_at": "2026-10-10T05:38:50.233985+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3332,9 +3378,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 858,
+    "latency_ms": 813,
     "region": "Euro area",
-    "last_success_at": "2026-10-10T00:04:06.942609+00:00"
+    "last_success_at": "2026-10-10T05:38:50.560154+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3490,9 +3536,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1224,
+    "latency_ms": 937,
     "region": "International research",
-    "last_success_at": "2026-10-10T00:04:07.251550+00:00"
+    "last_success_at": "2026-10-10T05:38:50.648620+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3694,9 +3740,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 231,
+    "latency_ms": 302,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-10T00:04:06.314284+00:00"
+    "last_success_at": "2026-10-10T05:38:50.044189+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3890,9 +3936,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 293,
+    "latency_ms": 304,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-10T00:04:06.297903+00:00"
+    "last_success_at": "2026-10-10T05:38:49.998823+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4084,27 +4130,27 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 255,
+    "latency_ms": 292,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-10T00:04:06.307867+00:00"
+    "last_success_at": "2026-10-10T05:38:50.029606+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "active_global_items": 209,
+      "active_global_items": 211,
       "examples": [
+        "Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI>=VII).",
         "Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI>=VII).",
         "Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI>=VII).",
         "Green earthquake (Magnitude 5.5M, Depth:10km) in Panama 09/10/2026 18:22 UTC, Few people affected (in MMI>=VII).",
-        "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 590 thousand (in MMI>=VII).",
-        "Green earthquake (Magnitude 5.9M, Depth:10km) in West Of Macquarie Island 09/10/2026 14:49 UTC, [unknown]."
+        "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 590 thousand (in MMI>=VII)."
       ]
     },
-    "latency_ms": 2979,
+    "latency_ms": 1726,
     "region": "Global / United States",
-    "last_success_at": "2026-10-10T00:04:08.978073+00:00"
+    "last_success_at": "2026-10-10T05:38:51.410290+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4212,9 +4258,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1028,
+    "latency_ms": 809,
     "region": "Africa",
-    "last_success_at": "2026-10-10T00:04:07.032164+00:00"
+    "last_success_at": "2026-10-10T05:38:50.500896+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4225,8 +4271,8 @@
       "added_last_30_days": 36,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 372,
+    "latency_ms": 400,
     "region": "Global / United States",
-    "last_success_at": "2026-10-10T00:04:06.373485+00:00"
+    "last_success_at": "2026-10-10T05:38:50.084621+00:00"
   }
 }
