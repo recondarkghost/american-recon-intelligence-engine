@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 368,
+    "latency_ms": 345,
     "region": "United States",
-    "last_success_at": "2026-10-11T17:43:30.299833+00:00"
+    "last_success_at": "2026-10-11T17:59:27.722675+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 380,
+    "latency_ms": 287,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:43:30.294562+00:00"
+    "last_success_at": "2026-10-11T17:59:27.649579+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 481,
+    "latency_ms": 332,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:43:30.395596+00:00"
+    "last_success_at": "2026-10-11T17:59:27.695458+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 583,
+    "latency_ms": 734,
     "region": "Global",
-    "last_success_at": "2026-10-11T17:43:30.511719+00:00"
+    "last_success_at": "2026-10-11T17:59:28.103240+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -467,7 +467,7 @@
       "reports": 25,
       "articles": [
         {
-          "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
+          "title": "Saudi capital airport hit by second Houthi strike in two days",
           "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-11T16:41:37+00:00",
           "source": "BBC world news",
@@ -696,9 +696,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 456,
+    "latency_ms": 284,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:43:30.393909+00:00"
+    "last_success_at": "2026-10-11T17:59:27.666245+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -707,6 +707,44 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Liverpool fans give Manchester City a fiery welcome at Anfield",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
+          "published_at": "2026-10-11T17:52:27+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
+          "url": "https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss",
+          "published_at": "2026-10-11T17:39:26+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Is the Yemen war entering a new phase?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
+          "published_at": "2026-10-11T17:30:55+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Qatar"
+        },
+        {
+          "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
+          "published_at": "2026-10-11T17:14:50+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
         {
           "title": "‘Who will represent us?’ Palestinians react to election delay",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
@@ -905,49 +943,13 @@
             "conflict"
           ],
           "country": "Qatar"
-        },
-        {
-          "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
-          "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
-          "published_at": "2026-10-11T12:23:37+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Liverpool vs Man City live: Premier League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
-          "published_at": "2026-10-11T12:20:30+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
-          "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
-          "published_at": "2026-10-11T12:09:54+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
-          "url": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
-          "published_at": "2026-10-11T12:04:54+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 544,
+    "latency_ms": 342,
     "region": "Qatar",
-    "last_success_at": "2026-10-11T17:43:30.490547+00:00"
+    "last_success_at": "2026-10-11T17:59:27.725741+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -956,6 +958,51 @@
     "details": {
       "reports": 24,
       "articles": [
+        {
+          "title": "A profile of Raphaël Glucksmann, the man who wants to be French President",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president",
+          "published_at": "2026-10-11T17:50:02+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote",
+          "url": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote",
+          "published_at": "2026-10-11T17:45:32+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Raphaël Glucksmann wins French left-wing primary with 66% of vote",
+          "url": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote",
+          "published_at": "2026-10-11T17:41:49+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Ukraine: Coerced into a Corner?",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner",
+          "published_at": "2026-10-11T17:36:49+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike",
+          "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+          "published_at": "2026-10-11T16:44:37+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
         {
           "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
           "url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
@@ -1134,62 +1181,13 @@
           "kind": "News report",
           "topics": [],
           "country": "France"
-        },
-        {
-          "title": "At least 139 migrants dead, more than 84 missing after boat capsizes off Djibouti",
-          "url": "https://www.france24.com/en/africa/20261011-at-least-hundred-migrants-dead-scores-missing-after-boat-capsizes-off-djibouti",
-          "published_at": "2026-10-11T09:24:40+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "'Going bankrupt': Iran shopkeepers struggle as war dims demand",
-          "url": "https://www.france24.com/en/video/20261011-going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand",
-          "published_at": "2026-10-11T09:22:37+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "France"
-        },
-        {
-          "title": "Trump urges Zelensky replacement as diesel row rages",
-          "url": "https://www.france24.com/en/video/20261011-trump-urges-zelensky-replacement-as-diesel-row-rages",
-          "published_at": "2026-10-11T09:21:59+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "At least 4 dead as cyclone Isaias drenches southern US",
-          "url": "https://www.france24.com/en/video/20261011-at-least-4-dead-as-cyclone-isaias-drenches-southern-us",
-          "published_at": "2026-10-11T09:18:48+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [
-            "weather"
-          ],
-          "country": "France"
-        },
-        {
-          "title": "France's Seixas claims Il Lombardia glory after world championship heartbreak",
-          "url": "https://www.france24.com/en/tv-shows/sports/20261011-france-s-seixas-claims-il-lombardia-glory-after-world-championship-heartbreak",
-          "published_at": "2026-10-11T09:13:07+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 431,
+    "latency_ms": 430,
     "region": "France",
-    "last_success_at": "2026-10-11T17:43:30.390362+00:00"
+    "last_success_at": "2026-10-11T17:59:27.823748+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1663,9 +1661,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 452,
+    "latency_ms": 317,
     "region": "Europe",
-    "last_success_at": "2026-10-11T17:43:30.431850+00:00"
+    "last_success_at": "2026-10-11T17:59:27.727407+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1675,9 +1673,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 737,
+    "latency_ms": 387,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:43:30.654591+00:00"
+    "last_success_at": "2026-10-11T17:59:27.751149+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -2063,7 +2061,7 @@
         {
           "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-          "published_at": "2026-10-11T17:28:07+00:00",
+          "published_at": "2026-10-11T17:41:10+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [
@@ -2110,9 +2108,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 349,
+    "latency_ms": 281,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:43:30.290113+00:00"
+    "last_success_at": "2026-10-11T17:59:27.663234+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2353,9 +2351,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 422,
+    "latency_ms": 255,
     "region": "Australia",
-    "last_success_at": "2026-10-11T17:43:30.387889+00:00"
+    "last_success_at": "2026-10-11T17:59:27.655624+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2551,9 +2549,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 413,
+    "latency_ms": 315,
     "region": "Singapore",
-    "last_success_at": "2026-10-11T17:43:30.387070+00:00"
+    "last_success_at": "2026-10-11T17:59:27.722749+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2564,9 +2562,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 576,
+    "latency_ms": 465,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:43:30.492311+00:00"
+    "last_success_at": "2026-10-11T17:59:27.829025+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -3122,21 +3120,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 543,
+    "latency_ms": 424,
     "region": "Germany",
-    "last_success_at": "2026-10-11T17:43:30.497953+00:00"
+    "last_success_at": "2026-10-11T17:59:27.813427+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.7733333333333333,
+    "signal": 0.7177777777777778,
     "details": {
       "active_alerts": 264,
-      "high_impact_alerts": 6
+      "high_impact_alerts": 5
     },
-    "latency_ms": 1107,
+    "latency_ms": 563,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:43:31.020792+00:00"
+    "last_success_at": "2026-10-11T17:59:27.925445+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3283,9 +3281,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 903,
+    "latency_ms": 1315,
     "region": "Euro area",
-    "last_success_at": "2026-10-11T17:43:30.911251+00:00"
+    "last_success_at": "2026-10-11T17:59:28.742982+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3441,9 +3439,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 985,
+    "latency_ms": 1470,
     "region": "International research",
-    "last_success_at": "2026-10-11T17:43:30.936148+00:00"
+    "last_success_at": "2026-10-11T17:59:28.858775+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3643,9 +3641,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 309,
+    "latency_ms": 678,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:43:30.316053+00:00"
+    "last_success_at": "2026-10-11T17:59:28.101899+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3839,9 +3837,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 313,
+    "latency_ms": 776,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:43:30.244663+00:00"
+    "last_success_at": "2026-10-11T17:59:28.151262+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4033,9 +4031,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 291,
+    "latency_ms": 719,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:43:30.297063+00:00"
+    "last_success_at": "2026-10-11T17:59:28.139596+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4051,9 +4049,9 @@
         "Green forest fire notification in Mongolia"
       ]
     },
-    "latency_ms": 1988,
+    "latency_ms": 3458,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:43:31.909120+00:00"
+    "last_success_at": "2026-10-11T17:59:30.825257+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4161,9 +4159,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 746,
+    "latency_ms": 960,
     "region": "Africa",
-    "last_success_at": "2026-10-11T17:43:30.675570+00:00"
+    "last_success_at": "2026-10-11T17:59:28.333186+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4174,9 +4172,9 @@
       "added_last_30_days": 34,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 562,
+    "latency_ms": 388,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:43:30.488198+00:00"
+    "last_success_at": "2026-10-11T17:59:27.756700+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4189,6 +4187,15 @@
           "title": "'You're Russian now': Ukrainians raised in Crimea share how Russia trained them to become future soldiers",
           "url": "https://www.cbc.ca/news/world/ukrainian-children-russian-indoctrination-militarization-9.7372530?cmp=rss",
           "published_at": "2026-10-11T08:00:00+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Children among at least 139 dead after migrant boat capsizes off Djibouti coast",
+          "url": "https://www.cbc.ca/news/world/migrant-boat-capsizes-djibouti-9.7377625?cmp=rss",
+          "published_at": "2026-10-11T17:47:18+00:00",
           "source": "CBC / Canada",
           "kind": "News report",
           "topics": [],
@@ -4363,22 +4370,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Canada"
-        },
-        {
-          "title": "Anti-ICE protests continue in NYC after agents shoot man in car with child",
-          "url": "https://www.cbc.ca/news/world/livestory/nyc-ice-shooting-dhs-mamdani-mullin-new-york-dominican-9.7375447?cmp=rss",
-          "published_at": "2026-10-09T13:34:01+00:00",
-          "source": "CBC / Canada",
-          "kind": "News report",
-          "topics": [],
-          "country": "Canada"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 432,
+    "latency_ms": 342,
     "region": "Canada",
-    "last_success_at": "2026-10-11T17:43:30.434558+00:00"
+    "last_success_at": "2026-10-11T17:59:27.757914+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -4962,8 +4960,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 370,
+    "latency_ms": 332,
     "region": "Global",
-    "last_success_at": "2026-10-11T17:43:30.379193+00:00"
+    "last_success_at": "2026-10-11T17:59:27.765556+00:00"
   }
 }
