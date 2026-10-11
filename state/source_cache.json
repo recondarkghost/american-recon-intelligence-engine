@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 447,
+    "latency_ms": 293,
     "region": "United States",
-    "last_success_at": "2026-10-11T22:26:04.188183+00:00"
+    "last_success_at": "2026-10-11T22:40:10.267104+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 414,
+    "latency_ms": 263,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:26:04.137913+00:00"
+    "last_success_at": "2026-10-11T22:40:10.210924+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 476,
+    "latency_ms": 248,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:26:04.200199+00:00"
+    "last_success_at": "2026-10-11T22:40:10.196504+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 618,
+    "latency_ms": 567,
     "region": "Global",
-    "last_success_at": "2026-10-11T22:26:04.354456+00:00"
+    "last_success_at": "2026-10-11T22:40:10.533582+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -709,9 +709,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 522,
+    "latency_ms": 344,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:26:04.271169+00:00"
+    "last_success_at": "2026-10-11T22:40:10.331868+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -720,6 +720,15 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+          "published_at": "2026-10-11T22:24:07+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
         {
           "title": "Waves crash into homes as excavators try to protect California properties",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
@@ -943,22 +952,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Qatar"
-        },
-        {
-          "title": "Pope Leo XIV to undergo surgery after lump found in lung",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
-          "published_at": "2026-10-11T15:24:50+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 575,
+    "latency_ms": 196,
     "region": "Qatar",
-    "last_success_at": "2026-10-11T22:26:04.326525+00:00"
+    "last_success_at": "2026-10-11T22:40:10.225492+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1194,9 +1194,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 570,
+    "latency_ms": 209,
     "region": "France",
-    "last_success_at": "2026-10-11T22:26:04.334121+00:00"
+    "last_success_at": "2026-10-11T22:40:10.251621+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1670,9 +1670,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 470,
+    "latency_ms": 117,
     "region": "Europe",
-    "last_success_at": "2026-10-11T22:26:04.246873+00:00"
+    "last_success_at": "2026-10-11T22:40:10.177132+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1682,9 +1682,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 465,
+    "latency_ms": 292,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:26:04.190707+00:00"
+    "last_success_at": "2026-10-11T22:40:10.241279+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1837,7 +1837,7 @@
         {
           "title": "Politics live: Monique Ryan ‘not bothered’ by Josh Frydenberg comeback speculation",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-          "published_at": "2026-10-11T22:04:16+00:00",
+          "published_at": "2026-10-11T22:18:31+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2117,9 +2117,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 483,
+    "latency_ms": 231,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:26:04.232916+00:00"
+    "last_success_at": "2026-10-11T22:40:10.237887+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2128,6 +2128,15 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Neighbours describe explosions as Melbourne tobacco shop burns down",
+          "url": "https://www.abc.net.au/news/2026-10-12/victoria-fitzroy-north-suspicious-fire-arson-tobacco/107254786",
+          "published_at": "2026-10-11T22:29:52+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
         {
           "title": "Environmental watchdog to review new Kimberley gas project",
           "url": "https://www.abc.net.au/news/2026-10-12/conventional-gas-project-could-meet-local-energy-demand/107247116",
@@ -2343,22 +2352,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Australia"
-        },
-        {
-          "title": "What it's like to live and work in Antarctica",
-          "url": "https://www.abc.net.au/news/2026-10-12/living-and-working-antarctica-davis-research-station/107246416",
-          "published_at": "2026-10-11T18:30:00+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 780,
+    "latency_ms": 254,
     "region": "Australia",
-    "last_success_at": "2026-10-11T22:26:04.547692+00:00"
+    "last_success_at": "2026-10-11T22:40:10.310110+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2396,8 +2396,8 @@
         },
         {
           "title": "UK PM Burnham says Russia interfered in 2016 Brexit vote",
-          "url": "https://www.channelnewsasia.com/world/uk-pm-burnham-says-russia-interfered-in-2016-brexit-vote-6450551",
-          "published_at": "2026-10-11T21:42:34+00:00",
+          "url": "https://www.channelnewsasia.com/world/uk-andy-burham-russia-interfere-brexit-6450551",
+          "published_at": "2026-10-11T21:42:00+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
           "topics": [],
@@ -2515,7 +2515,7 @@
         },
         {
           "title": "Russia hits Ukraine power plants despite Trump energy ceasefire claim",
-          "url": "https://www.channelnewsasia.com/world/russia-hits-ukraine-power-plants-despite-trump-energy-ceasefire-claim-6450451",
+          "url": "https://www.channelnewsasia.com/world/russia-ukraine-power-plants-trump-energy-ceasefire-6450451",
           "published_at": "2026-10-11T14:59:00+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
@@ -2554,9 +2554,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 472,
+    "latency_ms": 113,
     "region": "Singapore",
-    "last_success_at": "2026-10-11T22:26:04.244703+00:00"
+    "last_success_at": "2026-10-11T22:40:10.172005+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2567,9 +2567,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 664,
+    "latency_ms": 438,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:26:04.389215+00:00"
+    "last_success_at": "2026-10-11T22:40:10.386614+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -3125,9 +3125,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 790,
+    "latency_ms": 643,
     "region": "Germany",
-    "last_success_at": "2026-10-11T22:26:04.550774+00:00"
+    "last_success_at": "2026-10-11T22:40:10.678385+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
@@ -3286,9 +3286,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1202,
+    "latency_ms": 759,
     "region": "Euro area",
-    "last_success_at": "2026-10-11T22:26:05.007160+00:00"
+    "last_success_at": "2026-10-11T22:40:10.824756+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3444,9 +3444,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1254,
+    "latency_ms": 1003,
     "region": "International research",
-    "last_success_at": "2026-10-11T22:26:05.010200+00:00"
+    "last_success_at": "2026-10-11T22:40:11.037801+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3646,9 +3646,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 855,
+    "latency_ms": 157,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:26:04.656255+00:00"
+    "last_success_at": "2026-10-11T22:40:10.221568+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3842,9 +3842,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 921,
+    "latency_ms": 422,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:26:04.659781+00:00"
+    "last_success_at": "2026-10-11T22:40:10.392688+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4036,9 +4036,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1437,
+    "latency_ms": 138,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:26:05.219054+00:00"
+    "last_success_at": "2026-10-11T22:40:10.202208+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4054,9 +4054,9 @@
         "Green forest fire notification in Mongolia"
       ]
     },
-    "latency_ms": 3248,
+    "latency_ms": 3091,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:26:06.977500+00:00"
+    "last_success_at": "2026-10-11T22:40:13.041939+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4164,9 +4164,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1229,
+    "latency_ms": 1028,
     "region": "Africa",
-    "last_success_at": "2026-10-11T22:26:04.967322+00:00"
+    "last_success_at": "2026-10-11T22:40:10.997368+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4177,9 +4177,9 @@
       "added_last_30_days": 34,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 526,
+    "latency_ms": 329,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:26:04.255242+00:00"
+    "last_success_at": "2026-10-11T22:40:10.290056+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4381,9 +4381,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 601,
+    "latency_ms": 245,
     "region": "Canada",
-    "last_success_at": "2026-10-11T22:26:04.381947+00:00"
+    "last_success_at": "2026-10-11T22:40:10.308322+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -4967,8 +4967,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 681,
+    "latency_ms": 205,
     "region": "Global",
-    "last_success_at": "2026-10-11T22:26:04.490578+00:00"
+    "last_success_at": "2026-10-11T22:40:10.271454+00:00"
   }
 }
