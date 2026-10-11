@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 406,
+    "latency_ms": 377,
     "region": "United States",
-    "last_success_at": "2026-10-11T15:59:20.129182+00:00"
+    "last_success_at": "2026-10-11T16:35:34.570540+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 312,
+    "latency_ms": 356,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:59:20.010166+00:00"
+    "last_success_at": "2026-10-11T16:35:34.532153+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 373,
+    "latency_ms": 423,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:59:20.071490+00:00"
+    "last_success_at": "2026-10-11T16:35:34.600155+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -457,7 +457,7 @@
     },
     "latency_ms": 622,
     "region": "Global",
-    "last_success_at": "2026-10-11T15:59:20.332048+00:00"
+    "last_success_at": "2026-10-11T16:35:34.808316+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -804,9 +804,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 460,
+    "latency_ms": 336,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:59:20.184336+00:00"
+    "last_success_at": "2026-10-11T16:35:34.529727+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -815,6 +815,33 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Football fans speak about City’s charges as they face Liverpool",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
+          "published_at": "2026-10-11T16:18:45+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "At least five people missing as flash floods in Nepal sweep away houses",
+          "url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+          "published_at": "2026-10-11T16:00:48+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Tour bus crash in Turkiye leaves at least 11 dead",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
+          "published_at": "2026-10-11T15:52:29+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
         {
           "title": "Power bank fire forces plane to emergency land in India",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
@@ -1022,40 +1049,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Qatar"
-        },
-        {
-          "title": "The scramble to rewrite Biden’s record on Gaza",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
-          "published_at": "2026-10-11T11:29:48+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Mohamed Salah sets Turkish Super Lig record for Trabzonspor",
-          "url": "https://www.aljazeera.com/sports/2026/10/11/mohamed-salah-sets-turkish-super-lig-record-for-trabzonspor?traffic_source=rss",
-          "published_at": "2026-10-11T10:48:34+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
-          "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
-          "published_at": "2026-10-11T10:45:15+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 460,
+    "latency_ms": 445,
     "region": "Qatar",
-    "last_success_at": "2026-10-11T15:59:20.191892+00:00"
+    "last_success_at": "2026-10-11T16:35:34.645741+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1064,6 +1064,35 @@
     "details": {
       "reports": 24,
       "articles": [
+        {
+          "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
+          "url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
+          "published_at": "2026-10-11T16:08:39+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
+          "url": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
+          "published_at": "2026-10-11T16:07:13+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
+          "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
+          "published_at": "2026-10-11T16:04:20+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "France"
+        },
         {
           "title": "Pope Leo says he will undergo surgery for small growth on lung",
           "url": "https://www.france24.com/en/video/20261011-pope-leo-says-he-will-undergo-surgery-for-small-growth-on-lung",
@@ -1262,40 +1291,13 @@
           "kind": "News report",
           "topics": [],
           "country": "France"
-        },
-        {
-          "title": "🔴Follow live: Houthis renew threats against Saudi airports as Riyadh attack prompts wave of condemnation",
-          "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
-          "published_at": "2026-10-11T08:44:53+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Spanish PM begins vote campaign overshadowed by housing protests",
-          "url": "https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests",
-          "published_at": "2026-10-11T08:37:13+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Spanish PM Sanchez kicks off election campaign amid housing crisis protests",
-          "url": "https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests",
-          "published_at": "2026-10-11T07:46:57+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 458,
+    "latency_ms": 392,
     "region": "France",
-    "last_success_at": "2026-10-11T15:59:20.209632+00:00"
+    "last_success_at": "2026-10-11T16:35:34.601719+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1304,6 +1306,15 @@
     "details": {
       "reports": 50,
       "articles": [
+        {
+          "title": "Latest news bulletin | October 11th, 2026 – Evening",
+          "url": "https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-evening",
+          "published_at": "2026-10-11T16:00:26+00:00",
+          "source": "Euronews / Europe",
+          "kind": "News report",
+          "topics": [],
+          "country": "Europe"
+        },
         {
           "title": "At least 139 migrants dead after boat capsizes off Djibouti, UN says",
           "url": "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says",
@@ -1754,22 +1765,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Europe"
-        },
-        {
-          "title": "Latest news bulletin | October 8th, 2026 – Evening",
-          "url": "https://www.euronews.com/video/2026/10/08/latest-news-bulletin-october-8th-2026-evening",
-          "published_at": "2026-10-08T16:00:26+00:00",
-          "source": "Euronews / Europe",
-          "kind": "News report",
-          "topics": [],
-          "country": "Europe"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 283,
+    "latency_ms": 405,
     "region": "Europe",
-    "last_success_at": "2026-10-11T15:59:20.051088+00:00"
+    "last_success_at": "2026-10-11T16:35:34.626494+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1779,9 +1781,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 518,
+    "latency_ms": 424,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:59:20.220964+00:00"
+    "last_success_at": "2026-10-11T16:35:34.603358+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1977,18 +1979,38 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
-          "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
-          "published_at": "2026-10-11T15:33:15+00:00",
+          "title": "Donald Tusk says man accused of plotting to kill him detained",
+          "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+          "published_at": "2026-10-11T16:01:25+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
         },
         {
-          "title": "Police in Poland ‘learn of possible plot to attack prime minister Donald Tusk’",
-          "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
-          "published_at": "2026-10-11T12:37:32+00:00",
+          "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
+          "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+          "published_at": "2026-10-11T15:56:29+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
+          "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+          "published_at": "2026-10-11T15:56:25+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
+          "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+          "published_at": "2026-10-11T15:33:15+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2004,39 +2026,23 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Pope Leo to have surgery to remove nodule on his lung",
-          "url": "https://www.theguardian.com/world/2026/oct/11/pope-leo-surgery-remove-nodule-lung",
-          "published_at": "2026-10-11T11:55:26+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
-          "url": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
-          "published_at": "2026-10-11T10:03:16+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Middle East crisis live: Riyadh airport reportedly hit again, day after deadly attack that killed 12",
+          "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
           "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-          "published_at": "2026-10-11T15:38:20+00:00",
+          "published_at": "2026-10-11T16:18:45+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
         },
         {
-          "title": "Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport",
+          "title": "Riyadh airport hit for second time after deadly Houthi missile attack, Saudi-led coalition says",
           "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-          "published_at": "2026-10-11T14:23:34+00:00",
+          "published_at": "2026-10-11T16:11:14+00:00",
           "source": "Guardian world news",
           "kind": "News report",
-          "topics": [],
+          "topics": [
+            "conflict"
+          ],
           "country": "United Kingdom"
         },
         {
@@ -2161,9 +2167,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Zelenskyy rejects Trump claim of Ukraine and Russia ‘energy ceasefire’ – live updates",
+          "title": "Zelenskyy signals support for Russia-Ukraine ‘energy ceasefire’ after surprise Trump announcement – live updates",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-          "published_at": "2026-10-11T15:46:20+00:00",
+          "published_at": "2026-10-11T16:22:50+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [
@@ -2210,9 +2216,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 278,
+    "latency_ms": 368,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:59:20.007588+00:00"
+    "last_success_at": "2026-10-11T16:35:34.568253+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2453,9 +2459,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 548,
+    "latency_ms": 504,
     "region": "Australia",
-    "last_success_at": "2026-10-11T15:59:20.310278+00:00"
+    "last_success_at": "2026-10-11T16:35:34.714862+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2464,6 +2470,15 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Boos, 'cheat' taunts greet Manchester City at Anfield",
+          "url": "https://www.channelnewsasia.com/sport/boos-cheat-taunts-greet-manchester-city-anfield-6450491",
+          "published_at": "2026-10-11T15:55:21+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
         {
           "title": "Struggling Corinthians sign Seedorf as manager",
           "url": "https://www.channelnewsasia.com/sport/struggling-corinthians-sign-seedorf-manager-6450471",
@@ -2636,22 +2651,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Singapore"
-        },
-        {
-          "title": "Malaysian low-cost carrier Firefly cancels all flights between Subang, Seletar airports due to haze",
-          "url": "https://www.channelnewsasia.com/asia/malaysia-firefly-flights-cancelled-seletar-airport-subang-6449996",
-          "published_at": "2026-10-11T06:01:25+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 381,
+    "latency_ms": 543,
     "region": "Singapore",
-    "last_success_at": "2026-10-11T15:59:20.147691+00:00"
+    "last_success_at": "2026-10-11T16:35:34.757639+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2662,9 +2668,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 522,
+    "latency_ms": 538,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:59:20.222429+00:00"
+    "last_success_at": "2026-10-11T16:35:34.716433+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2673,6 +2679,15 @@
     "details": {
       "reports": 138,
       "articles": [
+        {
+          "title": "Saudi Arabia: second strike on Riyadh airport",
+          "url": "https://www.dw.com/en/saudi-arabia-second-strike-on-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-11T16:24:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
         {
           "title": "German 'lawfare': When lawsuits become a political weapon",
           "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf",
@@ -2712,8 +2727,8 @@
           "country": "Germany"
         },
         {
-          "title": "Poland on alert amid possible attack on PM, defense minister",
-          "url": "https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-all-1573-rdf",
+          "title": "Poland arrests man over plot to kill PM Donald Tusk",
+          "url": "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-11T10:48:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
@@ -2724,15 +2739,6 @@
           "title": "Pakistan: President puts Khan stronghold province under emergency rule",
           "url": "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-11T09:37:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "Yemen's Houthis warn passengers not to use Saudi airports",
-          "url": "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-11T09:35:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
           "topics": [],
@@ -2757,8 +2763,8 @@
           "country": "Germany"
         },
         {
-          "title": "Demographic change: Germany's population is declining, but not everywhere",
-          "url": "https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf",
+          "title": "Germany's population is shrinking, but not everywhere",
+          "url": "https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-11T07:21:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
@@ -3220,21 +3226,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 843,
+    "latency_ms": 704,
     "region": "Germany",
-    "last_success_at": "2026-10-11T15:59:20.587449+00:00"
+    "last_success_at": "2026-10-11T16:35:34.911023+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.8811111111111111,
+    "signal": 0.6655555555555556,
     "details": {
-      "active_alerts": 262,
-      "high_impact_alerts": 8
+      "active_alerts": 266,
+      "high_impact_alerts": 4
     },
-    "latency_ms": 545,
+    "latency_ms": 672,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:59:20.242225+00:00"
+    "last_success_at": "2026-10-11T16:35:34.847359+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3381,9 +3387,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1026,
+    "latency_ms": 953,
     "region": "Euro area",
-    "last_success_at": "2026-10-11T15:59:20.852587+00:00"
+    "last_success_at": "2026-10-11T16:35:35.181320+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3539,9 +3545,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1465,
+    "latency_ms": 845,
     "region": "International research",
-    "last_success_at": "2026-10-11T15:59:21.204418+00:00"
+    "last_success_at": "2026-10-11T16:35:35.049341+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3741,9 +3747,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 338,
+    "latency_ms": 374,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:59:20.113826+00:00"
+    "last_success_at": "2026-10-11T16:35:34.598999+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3937,9 +3943,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 620,
+    "latency_ms": 392,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:59:20.335371+00:00"
+    "last_success_at": "2026-10-11T16:35:34.582926+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4131,9 +4137,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 492,
+    "latency_ms": 369,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:59:20.260251+00:00"
+    "last_success_at": "2026-10-11T16:35:34.592004+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4149,9 +4155,9 @@
         "Green forest fire notification in Mongolia"
       ]
     },
-    "latency_ms": 3074,
+    "latency_ms": 2114,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:59:22.779688+00:00"
+    "last_success_at": "2026-10-11T16:35:36.298208+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4259,9 +4265,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1375,
+    "latency_ms": 1138,
     "region": "Africa",
-    "last_success_at": "2026-10-11T15:59:21.088160+00:00"
+    "last_success_at": "2026-10-11T16:35:35.326607+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4272,8 +4278,796 @@
       "added_last_30_days": 34,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 421,
+    "latency_ms": 452,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:59:20.127673+00:00"
+    "last_success_at": "2026-10-11T16:35:34.637066+00:00"
+  },
+  "CBC / Canada": {
+    "name": "CBC / Canada",
+    "ok": true,
+    "signal": 0.35,
+    "details": {
+      "reports": 20,
+      "articles": [
+        {
+          "title": "'You're Russian now': Ukrainians raised in Crimea share how Russia trained them to become future soldiers",
+          "url": "https://www.cbc.ca/news/world/ukrainian-children-russian-indoctrination-militarization-9.7372530?cmp=rss",
+          "published_at": "2026-10-11T08:00:00+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Pope Leo will undergo surgery to remove a nodule on his lung",
+          "url": "https://www.cbc.ca/news/world/pope-leo-surgery-lung-9.7377448?cmp=rss",
+          "published_at": "2026-10-11T12:17:16+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Saudi-led coalition vows retaliation after deadly Houthi attack on Riyadh airport",
+          "url": "https://www.cbc.ca/news/world/riyadh-airport-blast-9.7377189?cmp=rss",
+          "published_at": "2026-10-10T17:13:33+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "What happens when a Google data centre comes to town? Southern India is finding out",
+          "url": "https://www.cbc.ca/news/world/ai-data-centre-google-india-9.7374345?cmp=rss",
+          "published_at": "2026-10-11T08:00:00+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Panama declares state of emergency as powerful quake aftershocks rattle communities",
+          "url": "https://www.cbc.ca/news/world/panama-earthquake-state-of-emergency-9.7377430?cmp=rss",
+          "published_at": "2026-10-11T09:20:14+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Trump says Ukraine should get a new president, blames Zelenskyy for U.S. diesel prices",
+          "url": "https://www.cbc.ca/news/world/russia-strikes-ukraine-trump-putin-diesel-9.7377049?cmp=rss",
+          "published_at": "2026-10-10T12:56:05+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal",
+          "url": "https://www.cbc.ca/news/world/nepal-flash-flood-villages-evacuated-9.7377429?cmp=rss",
+          "published_at": "2026-10-11T09:14:59+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [
+            "weather"
+          ],
+          "country": "Canada"
+        },
+        {
+          "title": "Category 4 Hurricane Simon barrels toward Mexico",
+          "url": "https://www.cbc.ca/news/world/hurricane-simon-mexico-9.7377259?cmp=rss",
+          "published_at": "2026-10-10T19:54:50+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [
+            "weather"
+          ],
+          "country": "Canada"
+        },
+        {
+          "title": "4 dead, hundreds of thousands without power as Isaias weakens",
+          "url": "https://www.cbc.ca/news/world/hurricane-isaias-power-outage-9.7377047?cmp=rss",
+          "published_at": "2026-10-10T12:28:14+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Netanyahu faces fresh allegations he ignored warnings about Oct. 7 — right before an election",
+          "url": "https://www.cbc.ca/news/world/netanyahu-warnings-attacks-election-israel-9.7376147?cmp=rss",
+          "published_at": "2026-10-10T12:00:00+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Children, pregnant woman among 9 dead in Pennsylvania shooting",
+          "url": "https://www.cbc.ca/news/world/pennsylvania-shooting-dead-9.7377285?cmp=rss",
+          "published_at": "2026-10-10T21:16:30+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Fish in American fish sticks is fueling a fight over trawling in Alaska",
+          "url": "https://www.cbc.ca/news/canada/north/us-fish-sticks-trawling-alaska-9.7376306?cmp=rss",
+          "published_at": "2026-10-09T20:59:38+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "He was ready to fight in the 'war on terror.' This post-9/11 veteran looks back at his decision to enlist",
+          "url": "https://www.cbc.ca/news/canada/post-911-veteran-24-years-later-9.7372954?cmp=rss",
+          "published_at": "2026-10-10T08:00:00+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Canada"
+        },
+        {
+          "title": "Trump wants to dismantle the ICC. These jurists want Canada to intervene",
+          "url": "https://www.cbc.ca/news/politics/international-criminal-court-trump-sanctions-canada-9.7376864?cmp=rss",
+          "published_at": "2026-10-10T08:00:00+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Christa Pike discharged from hospital after surviving execution attempt, attorney says",
+          "url": "https://www.cbc.ca/news/world/christa-pike-discharged-hospital-failed-execution-attempt-9.7377154?cmp=rss",
+          "published_at": "2026-10-10T16:07:03+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+          "url": "https://www.cbc.ca/news/world/ai-agents-false-homicide-tip-anthropic-claude-9.7377169?cmp=rss",
+          "published_at": "2026-10-10T16:33:06+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "India detains thousands as 'Cockroach' youth movement protests voter list revision",
+          "url": "https://www.cbc.ca/news/world/india-detains-thousands-youth-protests-9.7377069?cmp=rss",
+          "published_at": "2026-10-10T14:10:04+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "UN human rights office slams racist abuse of tennis star Coco Gauff",
+          "url": "https://www.cbc.ca/sports/tennis/united-nations-coco-gauff-racist-abuse-beijing-october-10-9.7377097?cmp=rss",
+          "published_at": "2026-10-10T13:24:56+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Anti-ICE protests continue in NYC after agents shoot man in car with child",
+          "url": "https://www.cbc.ca/news/world/livestory/nyc-ice-shooting-dhs-mamdani-mullin-new-york-dominican-9.7375447?cmp=rss",
+          "published_at": "2026-10-09T13:34:01+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Powerful earthquake hits Panama, triggers tsunami warnings",
+          "url": "https://www.cbc.ca/player/play/9.7376534?cmp=rss",
+          "published_at": "2026-10-09T20:57:03+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [
+            "weather"
+          ],
+          "country": "Canada"
+        }
+      ],
+      "note": "Statements are attributed to their issuing body; news reports require verification."
+    },
+    "latency_ms": 400,
+    "region": "Canada",
+    "last_success_at": "2026-10-11T16:35:34.622602+00:00"
+  },
+  "IAEA nuclear updates": {
+    "name": "IAEA nuclear updates",
+    "ok": true,
+    "signal": 0.35,
+    "details": {
+      "reports": 150,
+      "articles": [
+        {
+          "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-370-iaea-director-general-statement-on-situation-in-ukraine",
+          "published_at": "2026-10-09T15:15:35+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "ARASIA Countries Harmonize Data to Combat Cultural Heritage Trafficking",
+          "url": "http://www.iaea.org/newscenter/news/arasia-countries-harmonize-data-to-combat-cultural-heritage-trafficking",
+          "published_at": "2026-10-09T11:24:28+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Expands Cooperation to Support Nuclear Power Development",
+          "url": "http://www.iaea.org/newscenter/news/iaea-expands-cooperation-to-support-nuclear-power-development",
+          "published_at": "2026-10-09T10:49:07+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
+          "published_at": "2026-10-09T09:13:36+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Completes International Physical Protection Advisory Service Mission in Pakistan",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-completes-international-physical-protection-advisory-service-mission-in-pakistan",
+          "published_at": "2026-10-09T09:00:08+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "From Classroom to Field: School of Radiation Emergency Management in Austria",
+          "url": "http://www.iaea.org/news/photoessay/school-of-radiation-emergency-management-austria",
+          "published_at": "2026-10-09T06:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA-led Team Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-team-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
+          "published_at": "2026-10-07T05:57:25+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Helps Countries Mobilize Investment to Expand Radiotherapy Services",
+          "url": "http://www.iaea.org/newscenter/news/iaea-helps-countries-mobilize-investment-to-expand-radiotherapy-services",
+          "published_at": "2026-10-06T23:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Report Finds Japan's Monitoring of ALPS Treated Water Accurate and Reliable",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-report-finds-japans-monitoring-of-alps-treated-water-accurate-and-reliable",
+          "published_at": "2026-10-05T11:09:05+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Tritium Level Far Below Japan’s Operational Limit in 24th Batch of ALPS Treated Water, IAEA Confirms",
+          "url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-24th-batch-of-alps-treated-water-iaea-confirms",
+          "published_at": "2026-10-05T11:06:07+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Launches Research Project on Spent Fuel Characterization",
+          "url": "http://www.iaea.org/newscenter/news/iaea-launches-research-project-on-spent-fuel-characterization",
+          "published_at": "2026-10-05T10:06:24+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Launches First National Water Quality and Isotope Hydrology Atlas for the Central African Republic",
+          "url": "http://www.iaea.org/newscenter/news/iaea-launches-first-national-water-quality-and-isotope-hydrology-atlas-for-the-central-african-republic",
+          "published_at": "2026-10-05T07:08:33+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Seychelles Signs a Country Programme Framework for 2026-2031",
+          "url": "http://www.iaea.org/newscenter/news/seychelles-signs-a-country-programme-framework-for-2026-2031",
+          "published_at": "2026-10-02T10:49:32+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Update 369 – IAEA Director General Statement on Situation in Ukraine",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-369-iaea-director-general-statement-on-situation-in-ukraine",
+          "published_at": "2026-10-02T08:45:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Mexico Strengthens Expertise for Long-Term Nuclear Power Plant Operation",
+          "url": "http://www.iaea.org/newscenter/news/mexico-strengthens-expertise-for-long-term-nuclear-power-plant-operation",
+          "published_at": "2026-10-02T06:00:30+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Medical Assistance Supports Ukraine’s Nuclear Workers",
+          "url": "http://www.iaea.org/newscenter/multimedia/videos/iaea-medical-assistance-supports-ukraines-nuclear-workers",
+          "published_at": "2026-10-02T06:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA SMR School in the Russian Federation Offers Insights into Operating Technologies",
+          "url": "http://www.iaea.org/newscenter/news/iaea-smr-school-in-the-russian-federation-offers-insights-into-operating-technologies",
+          "published_at": "2026-09-30T10:40:12+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Lise Meitner Programme Advances Women’s Nuclear Careers through Visit to the Russian Federation",
+          "url": "http://www.iaea.org/newscenter/news/iaea-lise-meitner-programme-advances-womens-nuclear-careers-through-visit-to-the-russian-federation",
+          "published_at": "2026-09-30T04:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "How Nuclear Science Helps Tackle Food Waste",
+          "url": "http://www.iaea.org/newscenter/news/how-nuclear-science-helps-tackle-food-waste",
+          "published_at": "2026-09-29T07:22:39+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "Technical Cooperation Showcases Results at 70th IAEA General Conference",
+          "url": "http://www.iaea.org/news/photoessay/tc-showcases-results-iaeagc-70",
+          "published_at": "2026-09-28T12:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Regional Cooperation Drives Progress in the Peaceful Uses of Nuclear Technology",
+          "url": "http://www.iaea.org/newscenter/news/regional-cooperation-drives-progress-in-the-peaceful-uses-of-nuclear-technology",
+          "published_at": "2026-09-28T10:54:55+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA and Inter-American Development Bank Sign Partnership Agreement on Nuclear Energy for Development",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-and-inter-american-development-bank-sign-partnership-agreement-on-nuclear-energy-for-development",
+          "published_at": "2026-09-25T12:02:01+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "Türkiye Protects its Citrus Harvests with Nuclear Science",
+          "url": "http://www.iaea.org/newscenter/news/turkiye-protects-its-citrus-harvests-with-nuclear-science",
+          "published_at": "2026-09-25T06:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "Update 368 – IAEA Director General Statement on Situation in Ukraine",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-368-iaea-director-general-statement-on-situation-in-ukraine",
+          "published_at": "2026-09-25T02:34:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Signs Agreements with Six Industry Partners to Advance Cancer Care under Rays of Hope",
+          "url": "http://www.iaea.org/newscenter/news/iaea-signs-agreements-with-six-industry-partners-to-advance-cancer-care-under-rays-of-hope",
+          "published_at": "2026-09-24T06:00:24+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Signs Agreements with Six Industry Partners to Advance Cancer Care under Rays of Hope",
+          "url": "http://www.iaea.org/newscenter/news/iaea-signs-agreements-with-six-industry-partners-to-advance-cancer-care-under-rays-of-hope",
+          "published_at": "2026-09-24T06:00:24+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Nicaragua Signs a Country Programme Framework (CPF) for 2026–2031",
+          "url": "http://www.iaea.org/newscenter/news/nicaragua-signs-a-country-programme-framework-cpf-for-2026-2031",
+          "published_at": "2026-09-22T08:01:29+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Call for Abstracts: International Symposium on Trends in Radiopharmaceuticals",
+          "url": "http://www.iaea.org/newscenter/news/call-for-abstracts-international-symposium-on-trends-in-radiopharmaceuticals",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Board of Governors Elects New Chairperson for 2026-2027",
+          "url": "http://www.iaea.org/newscenter/news/iaea-board-of-governors-elects-new-chairperson-for-2026-2027",
+          "published_at": "2026-09-21T12:00:01+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "New Training Programme Supports Newcomer Countries in Nuclear Education Outreach",
+          "url": "http://www.iaea.org/newscenter/news/new-training-programme-supports-newcomer-countries-in-nuclear-education-outreach",
+          "published_at": "2026-09-21T07:15:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "Week in Review: IAEA 70th General Conference",
+          "url": "http://www.iaea.org/newscenter/news/week-in-review-iaea-70th-general-conference",
+          "published_at": "2026-09-21T04:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Brunei Darussalam Signs its Second Country Programme Framework (CPF) for 2025-2031",
+          "url": "http://www.iaea.org/newscenter/news/brunei-darussalam-signs-its-second-country-programme-framework-cpf-for-2025-2031",
+          "published_at": "2026-09-18T08:11:40+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "New Members Elected to the IAEA Board of Governors",
+          "url": "http://www.iaea.org/newscenter/news/GC70-new-members-elected-to-the-iaea-board-of-governors",
+          "published_at": "2026-09-18T04:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Update 367 – IAEA Director General Statement on Situation in Ukraine",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-367-iaea-director-general-statement-on-situation-in-ukraine",
+          "published_at": "2026-09-17T15:39:01+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Scientific Forum Highlights Progress in Expanding Access to Cancer Care",
+          "url": "http://www.iaea.org/newscenter/news/scientific-forum-highlights-progress-in-expanding-access-to-cancer-care",
+          "published_at": "2026-09-17T13:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Tunisia Signs a Country Programme Framework (CPF) for 2026-2030",
+          "url": "http://www.iaea.org/newscenter/news/tunisia-signs-a-country-programme-framework-cpf-for-2026-2030",
+          "published_at": "2026-09-17T09:00:25+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Visitor Centre Celebrates Its First Anniversary",
+          "url": "http://www.iaea.org/newscenter/news/iaea-visitor-centre-celebrates-its-first-anniversary",
+          "published_at": "2026-09-17T05:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "The Republic of Cabo Verde signs its First Country Programme Framework (CPF) for 2026-2031",
+          "url": "http://www.iaea.org/newscenter/news/the-republic-of-cabo-verde-signs-its-first-country-programme-framework-cpf-for-2026-2031",
+          "published_at": "2026-09-16T10:43:11+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "The Syrian Arab Republic Signs a Country Programme Framework (CPF) for 2026–2031",
+          "url": "http://www.iaea.org/newscenter/news/the-syrian-arab-republic-signs-a-country-programme-framework-cpf-for-2026-2031",
+          "published_at": "2026-09-16T07:06:43+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Scientific Forum Opening 2026: Delivering on the Promise of Cancer Care",
+          "url": "http://www.iaea.org/newscenter/multimedia/videos/scientific-forum-opening-2026-delivering-on-the-promise-of-cancer-care",
+          "published_at": "2026-09-15T07:59:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "The Commonwealth of The Bahamas Signs its First Country Programme Framework (CPF) for 2026–2031",
+          "url": "http://www.iaea.org/newscenter/news/the-commonwealth-of-the-bahamas-signs-its-first-country-programme-framework-cpf-for-2026-2031",
+          "published_at": "2026-09-15T06:09:37+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "How Isotopes Protect Mining Water Resources",
+          "url": "http://www.iaea.org/newscenter/news/how-isotopes-protect-mining-water-resources",
+          "published_at": "2026-09-15T04:14:30+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Bridging the Global Gap in Cancer Care",
+          "url": "http://www.iaea.org/newscenter/news/bridging-the-global-gap-in-cancer-care",
+          "published_at": "2026-09-15T02:30:02+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Conference Adopts Agenda",
+          "url": "http://www.iaea.org/newscenter/news/conference-adopts-agenda-0",
+          "published_at": "2026-09-14T12:52:10+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Director General's Statement to the Seventieth Regular Session of the IAEA General Conference",
+          "url": "http://www.iaea.org/newscenter/statements/director-generals-statement-to-the-seventieth-regular-session-of-the-iaea-general-conference",
+          "published_at": "2026-09-14T12:52:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Mexico Signs a Country Programme Framework (CPF) for 2026-2031",
+          "url": "http://www.iaea.org/newscenter/news/mexico-signs-a-country-programme-framework-cpf-for-2026-2031",
+          "published_at": "2026-09-14T10:05:13+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "The Week Ahead: IAEA Hosts 70th General Conference",
+          "url": "http://www.iaea.org/newscenter/news/the-week-ahead-iaea-hosts-70th-general-conference",
+          "published_at": "2026-09-14T08:36:27+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA General Conference Elects Argentine Ambassador as Conference President",
+          "url": "http://www.iaea.org/newscenter/news/iaea-general-conference-elects-argentine-ambassador-as-conference-president",
+          "published_at": "2026-09-14T07:30:20+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA Projects Global Nuclear Power Capacity Could Triple by 2060, Continuing Rising Trend",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-projects-global-nuclear-power-capacity-could-triple-by-2060-continuing-rising-trend",
+          "published_at": "2026-09-14T07:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "Adequate uranium resources available, but sustained investment essential to support global nuclear capacity growth",
+          "url": "http://www.iaea.org/newscenter/pressreleases/adequate-uranium-resources-available-but-sustained-investment-essential-to-support-global-nuclear-capacity-growth",
+          "published_at": "2026-09-14T06:34:25+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA-Led Mission Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-mission-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
+          "published_at": "2026-09-11T15:52:30+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "OLA Supports Regional Dialogue in Asia on the CSC",
+          "url": "http://www.iaea.org/newscenter/news/ola-supports-regional-dialogue-in-asia-on-the-csc",
+          "published_at": "2026-09-11T14:38:12+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Update 366 – IAEA Director General Statement on Situation in Ukraine",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-366-iaea-director-general-statement-on-situation-in-ukraine",
+          "published_at": "2026-09-11T07:18:50+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Atoms4Food Charts Path to Food Security in Liberia",
+          "url": "http://www.iaea.org/newscenter/news/atoms4food-charts-path-to-food-security-in-liberia",
+          "published_at": "2026-09-10T15:30:50+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Atoms4Food Charts Path to Food Security in Liberia",
+          "url": "http://www.iaea.org/newscenter/news/atoms4food-charts-path-to-food-security-in-liberia",
+          "published_at": "2026-09-10T15:30:50+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "UN Partners, Global Experts and Member States Come Together to Strengthen imPACT Reviews",
+          "url": "http://www.iaea.org/newscenter/news/un-partners-global-experts-and-member-states-come-together-to-strengthen-impact-reviews",
+          "published_at": "2026-09-10T12:40:05+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Third IAEA ISOP Innovation Awards Recognize Excellence in Nuclear Innovation",
+          "url": "http://www.iaea.org/newscenter/news/third-iaea-isop-innovation-awards-recognize-excellence-in-nuclear-innovation",
+          "published_at": "2026-09-10T11:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "Isotope Hydrology Symposium Call for Abstracts",
+          "url": "http://www.iaea.org/newscenter/news/isotope-hydrology-symposium-call-for-abstracts",
+          "published_at": "2026-09-10T10:40:25+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "What You Need to Know about the IAEA General Conference",
+          "url": "http://www.iaea.org/newscenter/news/what-you-need-to-know-about-the-iaea-general-conference",
+          "published_at": "2026-09-10T06:30:05+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "Global"
+        },
+        {
+          "title": "Nuclear Safety and Security Side Events at the 70th IAEA General Conference",
+          "url": "http://www.iaea.org/newscenter/news/nuclear-safety-and-security-side-events-at-the-70th-iaea-general-conference",
+          "published_at": "2026-09-10T05:00:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        }
+      ],
+      "note": "Statements are attributed to their issuing body; news reports require verification."
+    },
+    "latency_ms": 483,
+    "region": "Global",
+    "last_success_at": "2026-10-11T16:35:34.713510+00:00"
   }
 }
