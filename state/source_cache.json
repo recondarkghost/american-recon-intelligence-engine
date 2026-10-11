@@ -189,22 +189,22 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 279,
+    "latency_ms": 180,
     "region": "United States",
-    "last_success_at": "2026-10-11T21:51:10.855472+00:00"
+    "last_success_at": "2026-10-11T21:57:54.282973+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "magnitude_4_5_week": 160,
+      "magnitude_4_5_week": 161,
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 358,
+    "latency_ms": 267,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T21:51:10.913744+00:00"
+    "last_success_at": "2026-10-11T21:57:54.345650+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 348,
+    "latency_ms": 261,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T21:51:10.904062+00:00"
+    "last_success_at": "2026-10-11T21:57:54.340033+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 509,
+    "latency_ms": 318,
     "region": "Global",
-    "last_success_at": "2026-10-11T21:51:11.078402+00:00"
+    "last_success_at": "2026-10-11T21:57:54.408846+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -725,9 +725,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 323,
+    "latency_ms": 241,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T21:51:10.906062+00:00"
+    "last_success_at": "2026-10-11T21:57:54.347564+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -972,9 +972,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 358,
+    "latency_ms": 216,
     "region": "Qatar",
-    "last_success_at": "2026-10-11T21:51:10.942915+00:00"
+    "last_success_at": "2026-10-11T21:57:54.338939+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1210,9 +1210,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 410,
+    "latency_ms": 219,
     "region": "France",
-    "last_success_at": "2026-10-11T21:51:11.006708+00:00"
+    "last_success_at": "2026-10-11T21:57:54.343502+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1686,9 +1686,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 358,
+    "latency_ms": 155,
     "region": "Europe",
-    "last_success_at": "2026-10-11T21:51:10.966232+00:00"
+    "last_success_at": "2026-10-11T21:57:54.280606+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1698,9 +1698,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 295,
+    "latency_ms": 218,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T21:51:10.857802+00:00"
+    "last_success_at": "2026-10-11T21:57:54.297778+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1851,9 +1851,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Politics live: Greens call for US execution live stream to be blocked; Frydenberg doesn’t rule out politics return",
+          "title": "Politics live: Monique Ryan ‘not bothered’ by Josh Frydenberg comeback speculation",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-          "published_at": "2026-10-11T21:37:19+00:00",
+          "published_at": "2026-10-11T21:50:06+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2133,9 +2133,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 385,
+    "latency_ms": 219,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T21:51:10.970119+00:00"
+    "last_success_at": "2026-10-11T21:57:54.326811+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2145,7 +2145,7 @@
       "reports": 25,
       "articles": [
         {
-          "title": "Live: Roos and Swans deadlocked over Blakey deal AFL trade period's final days",
+          "title": "Live: Roos and Swans deadlocked over Blakey deal in AFL trade period's final days",
           "url": "https://www.abc.net.au/news/2026-10-12/afl-trade-period-day-monday-october-12-live-updates-blakey/107251880",
           "published_at": "2026-10-11T21:31:31+00:00",
           "source": "ABC / Australia",
@@ -2372,9 +2372,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1989,
+    "latency_ms": 294,
     "region": "Australia",
-    "last_success_at": "2026-10-11T21:51:12.592097+00:00"
+    "last_success_at": "2026-10-11T21:57:54.418813+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2384,18 +2384,18 @@
       "reports": 20,
       "articles": [
         {
-          "title": "From pink to Paraiba: Why tourmaline is October’s most captivating birthstone",
-          "url": "https://www.channelnewsasia.com/obsessions/october-birthstone-tourmaline-jewellery-6433681",
-          "published_at": "2026-10-11T21:42:43+00:00",
+          "title": "UK PM Burnham says Russia interfered in 2016 Brexit vote",
+          "url": "https://www.channelnewsasia.com/world/uk-pm-burnham-says-russia-interfered-in-2016-brexit-vote-6450551",
+          "published_at": "2026-10-11T21:42:34+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
           "topics": [],
           "country": "Singapore"
         },
         {
-          "title": "UK PM Burnham says Russia interfered in 2016 Brexit vote",
-          "url": "https://www.channelnewsasia.com/world/uk-pm-burnham-says-russia-interfered-in-2016-brexit-vote-6450551",
-          "published_at": "2026-10-11T21:42:34+00:00",
+          "title": "From pink to Paraiba: Why tourmaline is October’s most captivating birthstone",
+          "url": "https://www.channelnewsasia.com/obsessions/october-birthstone-tourmaline-jewellery-6433681",
+          "published_at": "2026-10-11T21:42:00+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
           "topics": [],
@@ -2570,9 +2570,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 412,
+    "latency_ms": 127,
     "region": "Singapore",
-    "last_success_at": "2026-10-11T21:51:11.018350+00:00"
+    "last_success_at": "2026-10-11T21:57:54.252122+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2583,9 +2583,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 471,
+    "latency_ms": 399,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T21:51:11.027761+00:00"
+    "last_success_at": "2026-10-11T21:57:54.477766+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -3141,9 +3141,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1018,
+    "latency_ms": 463,
     "region": "Germany",
-    "last_success_at": "2026-10-11T21:51:11.609297+00:00"
+    "last_success_at": "2026-10-11T21:57:54.586673+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
@@ -3153,9 +3153,9 @@
       "active_alerts": 271,
       "high_impact_alerts": 6
     },
-    "latency_ms": 525,
+    "latency_ms": 342,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T21:51:11.080293+00:00"
+    "last_success_at": "2026-10-11T21:57:54.419645+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3302,9 +3302,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1233,
+    "latency_ms": 737,
     "region": "Euro area",
-    "last_success_at": "2026-10-11T21:51:11.857638+00:00"
+    "last_success_at": "2026-10-11T21:57:54.868049+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3460,9 +3460,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1049,
+    "latency_ms": 1125,
     "region": "International research",
-    "last_success_at": "2026-10-11T21:51:11.638238+00:00"
+    "last_success_at": "2026-10-11T21:57:55.248551+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3662,9 +3662,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 308,
+    "latency_ms": 121,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T21:51:10.929540+00:00"
+    "last_success_at": "2026-10-11T21:57:54.250997+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3858,9 +3858,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 357,
+    "latency_ms": 175,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T21:51:10.931525+00:00"
+    "last_success_at": "2026-10-11T21:57:54.272420+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4052,9 +4052,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 846,
+    "latency_ms": 116,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T21:51:11.459441+00:00"
+    "last_success_at": "2026-10-11T21:57:54.245671+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4070,9 +4070,9 @@
         "Green forest fire notification in Mongolia"
       ]
     },
-    "latency_ms": 6299,
+    "latency_ms": 2370,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T21:51:16.862938+00:00"
+    "last_success_at": "2026-10-11T21:57:56.455943+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4180,9 +4180,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 957,
+    "latency_ms": 1165,
     "region": "Africa",
-    "last_success_at": "2026-10-11T21:51:11.527925+00:00"
+    "last_success_at": "2026-10-11T21:57:55.256457+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4193,9 +4193,9 @@
       "added_last_30_days": 34,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 508,
+    "latency_ms": 267,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T21:51:11.074726+00:00"
+    "last_success_at": "2026-10-11T21:57:54.356996+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4397,9 +4397,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 324,
+    "latency_ms": 153,
     "region": "Canada",
-    "last_success_at": "2026-10-11T21:51:10.936439+00:00"
+    "last_success_at": "2026-10-11T21:57:54.281708+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -4983,8 +4983,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 277,
+    "latency_ms": 125,
     "region": "Global",
-    "last_success_at": "2026-10-11T21:51:10.903070+00:00"
+    "last_success_at": "2026-10-11T21:57:54.255776+00:00"
   }
 }
