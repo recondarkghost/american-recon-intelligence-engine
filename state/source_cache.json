@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 332,
+    "latency_ms": 406,
     "region": "United States",
-    "last_success_at": "2026-10-11T15:32:26.202781+00:00"
+    "last_success_at": "2026-10-11T15:59:20.129182+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 291,
+    "latency_ms": 312,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:32:26.143541+00:00"
+    "last_success_at": "2026-10-11T15:59:20.010166+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -216,7 +216,7 @@
     },
     "latency_ms": 373,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:32:26.226274+00:00"
+    "last_success_at": "2026-10-11T15:59:20.071490+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 453,
+    "latency_ms": 622,
     "region": "Global",
-    "last_success_at": "2026-10-11T15:32:26.318294+00:00"
+    "last_success_at": "2026-10-11T15:59:20.332048+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -494,9 +494,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+          "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
           "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T12:08:20+00:00",
+          "published_at": "2026-10-11T15:32:23+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -658,7 +658,7 @@
         {
           "title": "Riyadh airport attack another dangerous moment in already tense conflict",
           "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T11:32:50+00:00",
+          "published_at": "2026-10-11T15:32:32+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -804,9 +804,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 422,
+    "latency_ms": 460,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:32:26.293677+00:00"
+    "last_success_at": "2026-10-11T15:59:20.184336+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -815,6 +815,24 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Power bank fire forces plane to emergency land in India",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+          "published_at": "2026-10-11T15:26:29+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Pope Leo XIV to undergo surgery after lump found in lung",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
+          "published_at": "2026-10-11T15:24:50+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
         {
           "title": "How the ICC can be saved",
           "url": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
@@ -997,7 +1015,7 @@
           "country": "Qatar"
         },
         {
-          "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+          "title": "At least 139 dead, 84 missing as migrant boat capsizes off Djibouti",
           "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
           "published_at": "2026-10-11T11:34:40+00:00",
           "source": "Al Jazeera world news",
@@ -1031,31 +1049,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Qatar"
-        },
-        {
-          "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
-          "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
-          "published_at": "2026-10-11T10:42:35+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Modi is in trouble",
-          "url": "https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss",
-          "published_at": "2026-10-11T10:31:45+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 316,
+    "latency_ms": 460,
     "region": "Qatar",
-    "last_success_at": "2026-10-11T15:32:26.201544+00:00"
+    "last_success_at": "2026-10-11T15:59:20.191892+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1293,9 +1293,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 355,
+    "latency_ms": 458,
     "region": "France",
-    "last_success_at": "2026-10-11T15:32:26.256709+00:00"
+    "last_success_at": "2026-10-11T15:59:20.209632+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1767,9 +1767,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 303,
+    "latency_ms": 283,
     "region": "Europe",
-    "last_success_at": "2026-10-11T15:32:26.215904+00:00"
+    "last_success_at": "2026-10-11T15:59:20.051088+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1779,9 +1779,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 451,
+    "latency_ms": 518,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:32:26.308672+00:00"
+    "last_success_at": "2026-10-11T15:59:20.220964+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1977,9 +1977,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Andy Burnham says it is clear Russia interfered in Brexit vote",
+          "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
           "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
-          "published_at": "2026-10-11T15:15:43+00:00",
+          "published_at": "2026-10-11T15:33:15+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2024,7 +2024,7 @@
         {
           "title": "Middle East crisis live: Riyadh airport reportedly hit again, day after deadly attack that killed 12",
           "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-          "published_at": "2026-10-11T15:09:05+00:00",
+          "published_at": "2026-10-11T15:38:20+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2143,7 +2143,7 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Campaign launched to safeguard site of first home of Scotland’s national football team",
+          "title": "Fans hope to save ‘tartan fortress’ where Scotland football team first played",
           "url": "https://www.theguardian.com/uk-news/2026/oct/11/first-hampden-campaign-glasgow-scotland-football",
           "published_at": "2026-10-11T13:00:27+00:00",
           "source": "Guardian world news",
@@ -2163,7 +2163,7 @@
         {
           "title": "Zelenskyy rejects Trump claim of Ukraine and Russia ‘energy ceasefire’ – live updates",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-          "published_at": "2026-10-11T15:22:06+00:00",
+          "published_at": "2026-10-11T15:46:20+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [
@@ -2210,9 +2210,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 289,
+    "latency_ms": 278,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:32:26.173182+00:00"
+    "last_success_at": "2026-10-11T15:59:20.007588+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2453,9 +2453,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 529,
+    "latency_ms": 548,
     "region": "Australia",
-    "last_success_at": "2026-10-11T15:32:26.440263+00:00"
+    "last_success_at": "2026-10-11T15:59:20.310278+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2464,6 +2464,15 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Struggling Corinthians sign Seedorf as manager",
+          "url": "https://www.channelnewsasia.com/sport/struggling-corinthians-sign-seedorf-manager-6450471",
+          "published_at": "2026-10-11T15:39:11+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
         {
           "title": "Trump says Russia and Ukraine agree to 'energy ceasefire'",
           "url": "https://www.channelnewsasia.com/world/trump-says-russia-and-ukraine-agree-energy-ceasefire-6450451",
@@ -2636,22 +2645,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Singapore"
-        },
-        {
-          "title": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks",
-          "url": "https://www.channelnewsasia.com/asia/south-korea-arctic-europe-commercial-voyage-6449811",
-          "published_at": "2026-10-11T04:57:24+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 399,
+    "latency_ms": 381,
     "region": "Singapore",
-    "last_success_at": "2026-10-11T15:32:26.311051+00:00"
+    "last_success_at": "2026-10-11T15:59:20.147691+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2662,9 +2662,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 526,
+    "latency_ms": 522,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:32:26.379882+00:00"
+    "last_success_at": "2026-10-11T15:59:20.222429+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2748,8 +2748,8 @@
           "country": "Germany"
         },
         {
-          "title": "Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs",
-          "url": "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-all-1573-rdf",
+          "title": "Surrogacy in Georgia is booming, but at what cost?",
+          "url": "https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-11T07:45:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
@@ -3220,21 +3220,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 588,
+    "latency_ms": 843,
     "region": "Germany",
-    "last_success_at": "2026-10-11T15:32:26.488518+00:00"
+    "last_success_at": "2026-10-11T15:59:20.587449+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.9805555555555556,
+    "signal": 0.8811111111111111,
     "details": {
-      "active_alerts": 255,
-      "high_impact_alerts": 10
+      "active_alerts": 262,
+      "high_impact_alerts": 8
     },
-    "latency_ms": 552,
+    "latency_ms": 545,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:32:26.403975+00:00"
+    "last_success_at": "2026-10-11T15:59:20.242225+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3381,9 +3381,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 676,
+    "latency_ms": 1026,
     "region": "Euro area",
-    "last_success_at": "2026-10-11T15:32:26.596876+00:00"
+    "last_success_at": "2026-10-11T15:59:20.852587+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3539,9 +3539,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 869,
+    "latency_ms": 1465,
     "region": "International research",
-    "last_success_at": "2026-10-11T15:32:26.768055+00:00"
+    "last_success_at": "2026-10-11T15:59:21.204418+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3741,9 +3741,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 255,
+    "latency_ms": 338,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:32:26.175431+00:00"
+    "last_success_at": "2026-10-11T15:59:20.113826+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3937,9 +3937,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 325,
+    "latency_ms": 620,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:32:26.195601+00:00"
+    "last_success_at": "2026-10-11T15:59:20.335371+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4131,9 +4131,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 273,
+    "latency_ms": 492,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T15:32:26.189590+00:00"
+    "last_success_at": "2026-10-11T15:59:20.260251+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4149,9 +4149,9 @@
         "Green forest fire notification in Mongolia"
       ]
     },
-    "latency_ms": 1672,
+    "latency_ms": 3074,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:32:27.530488+00:00"
+    "last_success_at": "2026-10-11T15:59:22.779688+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4259,9 +4259,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1213,
+    "latency_ms": 1375,
     "region": "Africa",
-    "last_success_at": "2026-10-11T15:32:27.079133+00:00"
+    "last_success_at": "2026-10-11T15:59:21.088160+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4272,8 +4272,8 @@
       "added_last_30_days": 34,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 435,
+    "latency_ms": 421,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T15:32:26.296440+00:00"
+    "last_success_at": "2026-10-11T15:59:20.127673+00:00"
   }
 }
