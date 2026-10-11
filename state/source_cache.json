@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 314,
+    "latency_ms": 391,
     "region": "United States",
-    "last_success_at": "2026-10-11T16:57:44.257463+00:00"
+    "last_success_at": "2026-10-11T17:10:49.008963+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 330,
+    "latency_ms": 427,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:57:44.254601+00:00"
+    "last_success_at": "2026-10-11T17:10:49.020673+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 569,
+    "latency_ms": 425,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:57:44.494041+00:00"
+    "last_success_at": "2026-10-11T17:10:49.019241+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 547,
+    "latency_ms": 786,
     "region": "Global",
-    "last_success_at": "2026-10-11T16:57:44.482175+00:00"
+    "last_success_at": "2026-10-11T17:10:49.393359+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -467,7 +467,7 @@
       "reports": 24,
       "articles": [
         {
-          "title": "Saudi capital airport hit by second strike in two days",
+          "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
           "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-11T16:41:37+00:00",
           "source": "BBC world news",
@@ -685,9 +685,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 481,
+    "latency_ms": 498,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:57:44.427090+00:00"
+    "last_success_at": "2026-10-11T17:10:49.121075+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -934,9 +934,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 349,
+    "latency_ms": 508,
     "region": "Qatar",
-    "last_success_at": "2026-10-11T16:57:44.302947+00:00"
+    "last_success_at": "2026-10-11T17:10:49.136129+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1176,9 +1176,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 433,
+    "latency_ms": 453,
     "region": "France",
-    "last_success_at": "2026-10-11T16:57:44.401027+00:00"
+    "last_success_at": "2026-10-11T17:10:49.094056+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1650,9 +1650,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 431,
+    "latency_ms": 380,
     "region": "Europe",
-    "last_success_at": "2026-10-11T16:57:44.411445+00:00"
+    "last_success_at": "2026-10-11T17:10:49.043509+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1662,9 +1662,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 411,
+    "latency_ms": 429,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:57:44.340869+00:00"
+    "last_success_at": "2026-10-11T17:10:49.024607+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1770,6 +1770,15 @@
           "country": "United Kingdom"
         },
         {
+          "title": "Volkswagen boss backs EU plan to boost domestic European industry",
+          "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+          "published_at": "2026-10-11T16:53:01+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
           "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
           "published_at": "2026-10-09T12:00:28+00:00",
@@ -1800,15 +1809,6 @@
           "title": "Japan beer giants raided over suspicions they colluded to set the price of beverages",
           "url": "https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages",
           "published_at": "2026-10-08T03:54:38+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
-          "url": "https://www.theguardian.com/world/2026/oct/08/indonesia-wildfires-gross-negligence-lawsuit-haze-region",
-          "published_at": "2026-10-08T03:54:09+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -1907,6 +1907,15 @@
           "country": "United Kingdom"
         },
         {
+          "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
+          "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+          "published_at": "2026-10-11T16:50:57+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi-led coalition says",
           "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
           "published_at": "2026-10-11T16:49:05+00:00",
@@ -1915,15 +1924,6 @@
           "topics": [
             "conflict"
           ],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
-          "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-          "published_at": "2026-10-11T16:39:07+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
           "country": "United Kingdom"
         },
         {
@@ -1976,6 +1976,15 @@
           "country": "United Kingdom"
         },
         {
+          "title": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
+          "url": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success",
+          "published_at": "2026-10-06T06:30:04+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Supporters of Imran Khan start march on locked-down Islamabad",
           "url": "https://www.theguardian.com/world/2026/oct/05/jailed-imran-khan-march-on-islamabad-pakistan",
           "published_at": "2026-10-05T15:19:46+00:00",
@@ -1988,15 +1997,6 @@
           "title": "India’s Cockroach movement launches new protests over changes to voter roll",
           "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
           "published_at": "2026-10-02T14:42:16+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Eastern Spain braces for torrential rain and flooding",
-          "url": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides",
-          "published_at": "2026-10-02T08:58:10+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2097,9 +2097,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 367,
+    "latency_ms": 539,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:57:44.315054+00:00"
+    "last_success_at": "2026-10-11T17:10:49.164640+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2340,9 +2340,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 436,
+    "latency_ms": 618,
     "region": "Australia",
-    "last_success_at": "2026-10-11T16:57:44.409642+00:00"
+    "last_success_at": "2026-10-11T17:10:49.262445+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2536,9 +2536,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 527,
+    "latency_ms": 494,
     "region": "Singapore",
-    "last_success_at": "2026-10-11T16:57:44.503586+00:00"
+    "last_success_at": "2026-10-11T17:10:49.144394+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2549,9 +2549,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 438,
+    "latency_ms": 863,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:57:44.363570+00:00"
+    "last_success_at": "2026-10-11T17:10:49.458135+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2997,7 +2997,7 @@
           "country": "Germany"
         },
         {
-          "title": "Nobel Prize in Chemistry goes to Henri B. Kagan and Kenso Soai",
+          "title": "Nobel Prize in chemistry goes to Henri B. Kagan and Kenso Soai",
           "url": "https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-07T09:51:00+00:00",
           "source": "DW / Germany",
@@ -3107,21 +3107,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 671,
+    "latency_ms": 914,
     "region": "Germany",
-    "last_success_at": "2026-10-11T16:57:44.635457+00:00"
+    "last_success_at": "2026-10-11T17:10:49.550286+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.6605555555555556,
+    "signal": 0.6655555555555556,
     "details": {
-      "active_alerts": 263,
+      "active_alerts": 266,
       "high_impact_alerts": 4
     },
-    "latency_ms": 596,
+    "latency_ms": 1004,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:57:44.519417+00:00"
+    "last_success_at": "2026-10-11T17:10:49.597040+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3268,9 +3268,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 644,
+    "latency_ms": 1048,
     "region": "Euro area",
-    "last_success_at": "2026-10-11T16:57:44.650332+00:00"
+    "last_success_at": "2026-10-11T17:10:49.743896+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3426,9 +3426,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 938,
+    "latency_ms": 1308,
     "region": "International research",
-    "last_success_at": "2026-10-11T16:57:44.892797+00:00"
+    "last_success_at": "2026-10-11T17:10:49.938981+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3628,9 +3628,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 406,
+    "latency_ms": 832,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:57:44.407694+00:00"
+    "last_success_at": "2026-10-11T17:10:49.522629+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3824,9 +3824,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 477,
+    "latency_ms": 1527,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:57:44.416044+00:00"
+    "last_success_at": "2026-10-11T17:10:50.141265+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4018,9 +4018,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 432,
+    "latency_ms": 1307,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:57:44.425486+00:00"
+    "last_success_at": "2026-10-11T17:10:49.994962+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4036,9 +4036,9 @@
         "Green forest fire notification in Mongolia"
       ]
     },
-    "latency_ms": 2635,
+    "latency_ms": 3231,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:57:46.567415+00:00"
+    "last_success_at": "2026-10-11T17:10:51.828236+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4146,9 +4146,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 839,
+    "latency_ms": 1407,
     "region": "Africa",
-    "last_success_at": "2026-10-11T16:57:44.776192+00:00"
+    "last_success_at": "2026-10-11T17:10:50.018398+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4159,9 +4159,9 @@
       "added_last_30_days": 34,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 541,
+    "latency_ms": 517,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:57:44.474291+00:00"
+    "last_success_at": "2026-10-11T17:10:49.119892+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4361,9 +4361,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 391,
+    "latency_ms": 522,
     "region": "Canada",
-    "last_success_at": "2026-10-11T16:57:44.375756+00:00"
+    "last_success_at": "2026-10-11T17:10:49.187881+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -4947,8 +4947,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 348,
+    "latency_ms": 724,
     "region": "Global",
-    "last_success_at": "2026-10-11T16:57:44.359101+00:00"
+    "last_success_at": "2026-10-11T17:10:49.447792+00:00"
   }
 }
