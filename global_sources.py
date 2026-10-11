@@ -14,6 +14,9 @@ OFFICIAL = [
  ('European Central Bank decisions','https://www.ecb.europa.eu/rss/press.html','Euro area')]
 REGIONS={'BBC world news':'United Kingdom','Guardian world news':'United Kingdom','Al Jazeera world news':'Qatar','WHO global health':'Global','WHO Africa health':'Africa','UK foreign policy':'United Kingdom','Federal Reserve decisions':'United States','Medical research / PubMed':'International research'}
 
+NEWS += [('CBC / Canada','https://www.cbc.ca/webfeed/rss/rss-world','Canada')]
+OFFICIAL += [('IAEA nuclear updates','https://www.iaea.org/feeds/news','Global')]
+
 def install(engine):
  cache_path=engine.ROOT/'state'/'source_cache.json'
  try:cache=json.loads(cache_path.read_text(encoding='utf-8-sig'))

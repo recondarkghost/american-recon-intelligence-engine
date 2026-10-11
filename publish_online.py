@@ -14,7 +14,7 @@ columns = "id,issued_at,category,horizon_days,probability,due_at,outcome,brier"
 if "--seed" in sys.argv:
     with sqlite3.connect(engine.DB_PATH) as db:
         rows = db.execute("SELECT " + columns + " FROM forecasts ORDER BY id").fetchall()
-    ledger.write_text(json.dumps(rows), encoding="utf-8")
+    ledger.with_suffix('.tmp').write_text(json.dumps(rows),encoding='utf-8'); ledger.with_suffix('.tmp').replace(ledger)
     print("Saved existing forecast history:", len(rows))
     sys.exit(0)
 
@@ -32,7 +32,7 @@ if not any(s["ok"] for s in data["sources"]):
 
 with sqlite3.connect(engine.DB_PATH) as db:
     rows = db.execute("SELECT " + columns + " FROM forecasts ORDER BY id").fetchall()
-ledger.write_text(json.dumps(rows), encoding="utf-8")
+ledger.with_suffix('.tmp').write_text(json.dumps(rows),encoding='utf-8'); ledger.with_suffix('.tmp').replace(ledger)
 
 out = root / ".site"
 if sys.platform == 'win32':
