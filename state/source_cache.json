@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 377,
+    "latency_ms": 314,
     "region": "United States",
-    "last_success_at": "2026-10-11T16:35:34.570540+00:00"
+    "last_success_at": "2026-10-11T16:57:44.257463+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 356,
+    "latency_ms": 330,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:35:34.532153+00:00"
+    "last_success_at": "2026-10-11T16:57:44.254601+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 423,
+    "latency_ms": 569,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:35:34.600155+00:00"
+    "last_success_at": "2026-10-11T16:57:44.494041+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,17 +455,26 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 622,
+    "latency_ms": 547,
     "region": "Global",
-    "last_success_at": "2026-10-11T16:35:34.808316+00:00"
+    "last_success_at": "2026-10-11T16:57:44.482175+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
     "ok": true,
     "signal": 0.35,
     "details": {
-      "reports": 37,
+      "reports": 24,
       "articles": [
+        {
+          "title": "Saudi capital airport hit by second strike in two days",
+          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T16:41:37+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
         {
           "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
           "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
@@ -566,15 +575,6 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T20:51:12+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
           "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
           "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-10T15:23:47+00:00",
@@ -584,79 +584,7 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T10:06:23+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T14:49:32+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "US country music star Ella Langley cancels show due to 'security threat'",
-          "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T02:02:54+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-          "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T04:34:55+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-          "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T21:55:51+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-          "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T21:50:47+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Man named Hitler Mussolini elected mayor in Peru",
-          "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T16:32:22+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-          "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T17:14:44+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+          "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
           "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-11T15:32:32+00:00",
           "source": "BBC world news",
@@ -695,53 +623,6 @@
           "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
           "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-10T04:51:57+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T22:30:22+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-          "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T23:24:33+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-          "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T00:00:08+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [
-            "health"
-          ],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T09:43:22+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-          "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T07:19:24+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -804,9 +685,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 336,
+    "latency_ms": 481,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:35:34.529727+00:00"
+    "last_success_at": "2026-10-11T16:57:44.427090+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -1053,9 +934,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 445,
+    "latency_ms": 349,
     "region": "Qatar",
-    "last_success_at": "2026-10-11T16:35:34.645741+00:00"
+    "last_success_at": "2026-10-11T16:57:44.302947+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1295,9 +1176,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 392,
+    "latency_ms": 433,
     "region": "France",
-    "last_success_at": "2026-10-11T16:35:34.601719+00:00"
+    "last_success_at": "2026-10-11T16:57:44.401027+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1769,9 +1650,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 405,
+    "latency_ms": 431,
     "region": "Europe",
-    "last_success_at": "2026-10-11T16:35:34.626494+00:00"
+    "last_success_at": "2026-10-11T16:57:44.411445+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1781,9 +1662,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 424,
+    "latency_ms": 411,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:35:34.603358+00:00"
+    "last_success_at": "2026-10-11T16:57:44.340869+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -2026,23 +1907,23 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
-          "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-          "published_at": "2026-10-11T16:18:45+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Riyadh airport hit for second time after deadly Houthi missile attack, Saudi-led coalition says",
+          "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi-led coalition says",
           "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-          "published_at": "2026-10-11T16:11:14+00:00",
+          "published_at": "2026-10-11T16:49:05+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [
             "conflict"
           ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
+          "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+          "published_at": "2026-10-11T16:39:07+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
           "country": "United Kingdom"
         },
         {
@@ -2169,7 +2050,7 @@
         {
           "title": "Zelenskyy signals support for Russia-Ukraine ‘energy ceasefire’ after surprise Trump announcement – live updates",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-          "published_at": "2026-10-11T16:22:50+00:00",
+          "published_at": "2026-10-11T16:46:55+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [
@@ -2216,9 +2097,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 368,
+    "latency_ms": 367,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:35:34.568253+00:00"
+    "last_success_at": "2026-10-11T16:57:44.315054+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2459,9 +2340,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 504,
+    "latency_ms": 436,
     "region": "Australia",
-    "last_success_at": "2026-10-11T16:35:34.714862+00:00"
+    "last_success_at": "2026-10-11T16:57:44.409642+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2471,8 +2352,8 @@
       "reports": 20,
       "articles": [
         {
-          "title": "Boos, 'cheat' taunts greet Manchester City at Anfield",
-          "url": "https://www.channelnewsasia.com/sport/boos-cheat-taunts-greet-manchester-city-anfield-6450491",
+          "title": "Manchester City met at Anfield with boos and 'cheat' taunts",
+          "url": "https://www.channelnewsasia.com/sport/manchester-city-met-anfield-boos-and-cheat-taunts-6450491",
           "published_at": "2026-10-11T15:55:21+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
@@ -2655,9 +2536,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 543,
+    "latency_ms": 527,
     "region": "Singapore",
-    "last_success_at": "2026-10-11T16:35:34.757639+00:00"
+    "last_success_at": "2026-10-11T16:57:44.503586+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2668,9 +2549,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 538,
+    "latency_ms": 438,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:35:34.716433+00:00"
+    "last_success_at": "2026-10-11T16:57:44.363570+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2680,8 +2561,8 @@
       "reports": 138,
       "articles": [
         {
-          "title": "Saudi Arabia: second strike on Riyadh airport",
-          "url": "https://www.dw.com/en/saudi-arabia-second-strike-on-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+          "title": "Saudi Arabia: Second strike hits Riyadh airport",
+          "url": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-11T16:24:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
@@ -3226,21 +3107,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 704,
+    "latency_ms": 671,
     "region": "Germany",
-    "last_success_at": "2026-10-11T16:35:34.911023+00:00"
+    "last_success_at": "2026-10-11T16:57:44.635457+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.6655555555555556,
+    "signal": 0.6605555555555556,
     "details": {
-      "active_alerts": 266,
+      "active_alerts": 263,
       "high_impact_alerts": 4
     },
-    "latency_ms": 672,
+    "latency_ms": 596,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:35:34.847359+00:00"
+    "last_success_at": "2026-10-11T16:57:44.519417+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3387,9 +3268,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 953,
+    "latency_ms": 644,
     "region": "Euro area",
-    "last_success_at": "2026-10-11T16:35:35.181320+00:00"
+    "last_success_at": "2026-10-11T16:57:44.650332+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3545,9 +3426,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 845,
+    "latency_ms": 938,
     "region": "International research",
-    "last_success_at": "2026-10-11T16:35:35.049341+00:00"
+    "last_success_at": "2026-10-11T16:57:44.892797+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3747,9 +3628,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 374,
+    "latency_ms": 406,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:35:34.598999+00:00"
+    "last_success_at": "2026-10-11T16:57:44.407694+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3943,9 +3824,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 392,
+    "latency_ms": 477,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:35:34.582926+00:00"
+    "last_success_at": "2026-10-11T16:57:44.416044+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4137,9 +4018,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 369,
+    "latency_ms": 432,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T16:35:34.592004+00:00"
+    "last_success_at": "2026-10-11T16:57:44.425486+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4155,9 +4036,9 @@
         "Green forest fire notification in Mongolia"
       ]
     },
-    "latency_ms": 2114,
+    "latency_ms": 2635,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:35:36.298208+00:00"
+    "last_success_at": "2026-10-11T16:57:46.567415+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4265,9 +4146,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1138,
+    "latency_ms": 839,
     "region": "Africa",
-    "last_success_at": "2026-10-11T16:35:35.326607+00:00"
+    "last_success_at": "2026-10-11T16:57:44.776192+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4278,9 +4159,9 @@
       "added_last_30_days": 34,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 452,
+    "latency_ms": 541,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T16:35:34.637066+00:00"
+    "last_success_at": "2026-10-11T16:57:44.474291+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4480,9 +4361,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 400,
+    "latency_ms": 391,
     "region": "Canada",
-    "last_success_at": "2026-10-11T16:35:34.622602+00:00"
+    "last_success_at": "2026-10-11T16:57:44.375756+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -5066,8 +4947,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 483,
+    "latency_ms": 348,
     "region": "Global",
-    "last_success_at": "2026-10-11T16:35:34.713510+00:00"
+    "last_success_at": "2026-10-11T16:57:44.359101+00:00"
   }
 }
