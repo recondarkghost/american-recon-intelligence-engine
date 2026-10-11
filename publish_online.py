@@ -35,6 +35,11 @@ with sqlite3.connect(engine.DB_PATH) as db:
 ledger.write_text(json.dumps(rows), encoding="utf-8")
 
 out = root / ".site"
+if sys.platform == 'win32':
+ import tempfile, uuid
+ out = Path(tempfile.gettempdir()) / ('ar-intelligence-' + uuid.uuid4().hex)
+ print('Local preview folder:', out)
+
 if out.exists():
     shutil.rmtree(out)
 shutil.copytree(root / "static", out, ignore=shutil.ignore_patterns("*backup*"))
