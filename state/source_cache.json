@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 530,
+    "latency_ms": 486,
     "region": "United States",
-    "last_success_at": "2026-10-11T22:44:40.040123+00:00"
+    "last_success_at": "2026-10-11T23:12:14.402005+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 539,
+    "latency_ms": 305,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:44:40.031331+00:00"
+    "last_success_at": "2026-10-11T23:12:14.201065+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 654,
+    "latency_ms": 279,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:44:40.146482+00:00"
+    "last_success_at": "2026-10-11T23:12:14.176152+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1018,
+    "latency_ms": 751,
     "region": "Global",
-    "last_success_at": "2026-10-11T22:44:40.518982+00:00"
+    "last_success_at": "2026-10-11T23:12:14.660572+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -478,9 +478,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
           "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T21:30:11+00:00",
+          "published_at": "2026-10-11T22:45:58+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -709,9 +709,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 677,
+    "latency_ms": 481,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:44:40.189903+00:00"
+    "last_success_at": "2026-10-11T23:12:14.400824+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -720,6 +720,24 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+          "published_at": "2026-10-11T22:49:23+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+          "published_at": "2026-10-11T22:24:07+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
         {
           "title": "Waves crash into homes as excavators try to protect California properties",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
@@ -934,31 +952,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Qatar"
-        },
-        {
-          "title": "Power bank fire forces plane to emergency land in India",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
-          "published_at": "2026-10-11T15:26:29+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Pope Leo XIV to undergo surgery after lump found in lung",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
-          "published_at": "2026-10-11T15:24:50+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 646,
+    "latency_ms": 481,
     "region": "Qatar",
-    "last_success_at": "2026-10-11T22:44:40.161206+00:00"
+    "last_success_at": "2026-10-11T23:12:14.405050+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1194,9 +1194,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 771,
+    "latency_ms": 474,
     "region": "France",
-    "last_success_at": "2026-10-11T22:44:40.298131+00:00"
+    "last_success_at": "2026-10-11T23:12:14.410704+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1235,7 +1235,7 @@
           "country": "Europe"
         },
         {
-          "title": "Riyadh airport strikes claimed by Yemen's Houthi day after deadliest attack in Saudi soil in ten years",
+          "title": "Saudi-led coalition says a projectile has struck a passenger terminal at the airport in Riyadh",
           "url": "https://www.euronews.com/2026/10/11/riyadh-airport-stays-shut-after-deadly-attack-as-trump-says-us-may-join-saudi-strikes-on-h",
           "published_at": "2026-10-11T13:05:41+00:00",
           "source": "Euronews / Europe",
@@ -1670,9 +1670,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 598,
+    "latency_ms": 260,
     "region": "Europe",
-    "last_success_at": "2026-10-11T22:44:40.141731+00:00"
+    "last_success_at": "2026-10-11T23:12:14.212106+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1682,9 +1682,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 550,
+    "latency_ms": 502,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:44:40.043727+00:00"
+    "last_success_at": "2026-10-11T23:12:14.407096+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1835,18 +1835,18 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
-          "published_at": "2026-10-11T22:39:10+00:00",
+          "title": "Politics live: Ryan ‘not bothered’ by possible Frydenberg return; Lambie accuses Labor of ‘financial coercion’ over FoI",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+          "published_at": "2026-10-11T23:03:31+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
         },
         {
-          "title": "Politics live: Ryan ‘not bothered’ by possible Frydenberg return; Lambie accuses Labor of ‘financial coercion’ over FoI",
-          "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-          "published_at": "2026-10-11T22:25:43+00:00",
+          "title": "Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
+          "published_at": "2026-10-11T22:39:10+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2023,6 +2023,24 @@
           "country": "United Kingdom"
         },
         {
+          "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+          "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+          "published_at": "2026-10-11T23:01:39+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Failure to fit tags left 5,000 offenders unmonitored in England and Wales, report finds",
+          "url": "https://www.theguardian.com/society/2026/oct/12/failure-fit-tags-offenders-unmonitored-england-wales",
+          "published_at": "2026-10-11T23:01:38+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Andy Burnham to publish all details of his dealings with Manchester City",
           "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city",
           "published_at": "2026-10-11T19:49:28+00:00",
@@ -2044,24 +2062,6 @@
           "title": "Wildlife park confirms tiger will not be euthanised after man mauled to death",
           "url": "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo",
           "published_at": "2026-10-11T13:48:21+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Flu cases higher than usual in England during September, experts say",
-          "url": "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa",
-          "published_at": "2026-10-11T13:32:58+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Fans hope to save ‘tartan fortress’ where Scotland football team first played",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/11/first-hampden-campaign-glasgow-scotland-football",
-          "published_at": "2026-10-11T13:00:27+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2117,9 +2117,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 542,
+    "latency_ms": 269,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:44:40.056526+00:00"
+    "last_success_at": "2026-10-11T23:12:14.191578+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2128,6 +2128,24 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Russia interfered in Brexit referendum, British PM says",
+          "url": "https://www.abc.net.au/news/2026-10-12/russia-interfered-in-brexit-referendum-british-pm-says/107254822",
+          "published_at": "2026-10-11T22:58:43+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Cow 'Fitbit' helps pastoralists care for newborn calves",
+          "url": "https://www.abc.net.au/news/2026-10-12/cow-fitbits-are-helping-pastoralists-learn-more-about-cattle/107248546",
+          "published_at": "2026-10-11T22:55:36+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
         {
           "title": "Trees down, hail fell across Adelaide during storm",
           "url": "https://www.abc.net.au/news/2026-10-12/severe-storm-cause-damage-trees-downed-across-adelaide/107254548",
@@ -2255,7 +2273,7 @@
           "country": "Australia"
         },
         {
-          "title": "Live: ASX set to rise after strong sessions on Wall Street and Europe",
+          "title": "Live: ABC names David Chau as new finance presenter on 7pm news",
           "url": "https://www.abc.net.au/news/2026-10-12/asx-markets-business-live-news/107253878",
           "published_at": "2026-10-11T19:59:13+00:00",
           "source": "ABC / Australia",
@@ -2334,31 +2352,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Australia"
-        },
-        {
-          "title": "Greens push for right to sue big tech as Labor axes ministerial powers",
-          "url": "https://www.abc.net.au/news/2026-10-12/greens-push-to-sue-big-tech-over-online-harm-safety-laws-labor/107253674",
-          "published_at": "2026-10-11T18:36:53+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Calls for Australia to ban live streaming of US firing squad execution",
-          "url": "https://www.abc.net.au/news/2026-10-12/greens-want-to-block-us-execution-live-stream/107253928",
-          "published_at": "2026-10-11T18:35:55+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 882,
+    "latency_ms": 557,
     "region": "Australia",
-    "last_success_at": "2026-10-11T22:44:40.412394+00:00"
+    "last_success_at": "2026-10-11T23:12:14.494041+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2468,8 +2468,8 @@
         },
         {
           "title": "Djibouti boat wreck leaves 139 migrants dead, 84 missing: UN",
-          "url": "https://www.channelnewsasia.com/world/djibouti-boat-wreck-leaves-139-migrants-dead-84-missing-un-6450621",
-          "published_at": "2026-10-11T18:17:41+00:00",
+          "url": "https://www.channelnewsasia.com/world/djibouti-boat-wreck-139-dead-84-missing-6450621",
+          "published_at": "2026-10-11T18:17:00+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
           "topics": [],
@@ -2477,8 +2477,8 @@
         },
         {
           "title": "Ukraine's Zelenskyy tells ABC he will organise elections if Russia agrees to 60-day ceasefire",
-          "url": "https://www.channelnewsasia.com/world/ukraines-zelenskyy-tells-abc-he-will-organise-elections-if-russia-agrees-60-day-ceasefire-6450376",
-          "published_at": "2026-10-11T17:36:47+00:00",
+          "url": "https://www.channelnewsasia.com/world/ukraine-zelenskyy-elections-russia-ceasefire-6450376",
+          "published_at": "2026-10-11T17:36:00+00:00",
           "source": "CNA / Singapore",
           "kind": "News report",
           "topics": [
@@ -2554,9 +2554,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 668,
+    "latency_ms": 271,
     "region": "Singapore",
-    "last_success_at": "2026-10-11T22:44:40.206549+00:00"
+    "last_success_at": "2026-10-11T23:12:14.216797+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2567,9 +2567,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 718,
+    "latency_ms": 522,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:44:40.211512+00:00"
+    "last_success_at": "2026-10-11T23:12:14.419041+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2578,6 +2578,15 @@
     "details": {
       "reports": 138,
       "articles": [
+        {
+          "title": "Saudi Arabia: Second strike kills 11 at Riyadh airport",
+          "url": "https://www.dw.com/en/saudi-arabia-second-strike-kills-11-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-11T22:52:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
         {
           "title": "UK's Burnham accuses Russia of meddling in Brexit vote",
           "url": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
@@ -2600,15 +2609,6 @@
           "title": "Who are the Ukrainian 'volunteers' under Russian command?",
           "url": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-11T18:57:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "Saudi Arabia: Second strike hits Riyadh airport",
-          "url": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-11T16:24:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
           "topics": [],
@@ -3125,21 +3125,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1040,
+    "latency_ms": 741,
     "region": "Germany",
-    "last_success_at": "2026-10-11T22:44:40.561392+00:00"
+    "last_success_at": "2026-10-11T23:12:14.672895+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.825,
+    "signal": 0.5944444444444444,
     "details": {
-      "active_alerts": 295,
-      "high_impact_alerts": 6
+      "active_alerts": 290,
+      "high_impact_alerts": 2
     },
-    "latency_ms": 838,
+    "latency_ms": 790,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:44:40.330201+00:00"
+    "last_success_at": "2026-10-11T23:12:14.685039+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3286,9 +3286,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1549,
+    "latency_ms": 2513,
     "region": "Euro area",
-    "last_success_at": "2026-10-11T22:44:41.116393+00:00"
+    "last_success_at": "2026-10-11T23:12:16.471815+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3444,9 +3444,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1603,
+    "latency_ms": 1243,
     "region": "International research",
-    "last_success_at": "2026-10-11T22:44:41.118405+00:00"
+    "last_success_at": "2026-10-11T23:12:15.168944+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3646,9 +3646,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 590,
+    "latency_ms": 925,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:44:40.150178+00:00"
+    "last_success_at": "2026-10-11T23:12:14.881042+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3842,9 +3842,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 653,
+    "latency_ms": 1042,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:44:40.158348+00:00"
+    "last_success_at": "2026-10-11T23:12:14.957114+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4036,27 +4036,27 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 774,
+    "latency_ms": 916,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T22:44:40.328634+00:00"
+    "last_success_at": "2026-10-11T23:12:14.871303+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "active_global_items": 225,
+      "active_global_items": 229,
       "examples": [
         "Green earthquake (Magnitude 6.2M, Depth:53.473km) in Papua New Guinea 11/10/2026 14:07 UTC, 3 thousand in MMI V.",
         "Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI>=VII).",
         "Green forest fire notification in Australia",
         "Green forest fire notification in Mongolia",
-        "Green forest fire notification in Mongolia"
+        "Green forest fire notification in Australia"
       ]
     },
-    "latency_ms": 2484,
+    "latency_ms": 2748,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:44:41.980528+00:00"
+    "last_success_at": "2026-10-11T23:12:16.654977+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4164,9 +4164,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1206,
+    "latency_ms": 1246,
     "region": "Africa",
-    "last_success_at": "2026-10-11T22:44:40.707899+00:00"
+    "last_success_at": "2026-10-11T23:12:15.160467+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4177,9 +4177,9 @@
       "added_last_30_days": 34,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 854,
+    "latency_ms": 340,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T22:44:40.351559+00:00"
+    "last_success_at": "2026-10-11T23:12:14.249269+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4381,9 +4381,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 633,
+    "latency_ms": 477,
     "region": "Canada",
-    "last_success_at": "2026-10-11T22:44:40.183525+00:00"
+    "last_success_at": "2026-10-11T23:12:14.430840+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -4967,8 +4967,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 520,
+    "latency_ms": 443,
     "region": "Global",
-    "last_success_at": "2026-10-11T22:44:40.093788+00:00"
+    "last_success_at": "2026-10-11T23:12:14.404071+00:00"
   }
 }
