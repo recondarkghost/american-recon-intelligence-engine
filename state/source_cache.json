@@ -189,22 +189,22 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 546,
+    "latency_ms": 368,
     "region": "United States",
-    "last_success_at": "2026-10-11T17:23:03.261837+00:00"
+    "last_success_at": "2026-10-11T17:43:30.299833+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "magnitude_4_5_week": 156,
+      "magnitude_4_5_week": 157,
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 648,
+    "latency_ms": 380,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:23:03.341020+00:00"
+    "last_success_at": "2026-10-11T17:43:30.294562+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 638,
+    "latency_ms": 481,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:23:03.331131+00:00"
+    "last_success_at": "2026-10-11T17:43:30.395596+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,16 +455,16 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 793,
+    "latency_ms": 583,
     "region": "Global",
-    "last_success_at": "2026-10-11T17:23:03.498253+00:00"
+    "last_success_at": "2026-10-11T17:43:30.511719+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
     "ok": true,
     "signal": 0.35,
     "details": {
-      "reports": 24,
+      "reports": 25,
       "articles": [
         {
           "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
@@ -485,18 +485,29 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Pope Leo to have surgery after lump found on lung",
-          "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T13:38:55+00:00",
+          "title": "Poland detains man suspected of planning assassination of PM Tusk",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T17:27:24+00:00",
           "source": "BBC world news",
           "kind": "News report",
-          "topics": [],
+          "topics": [
+            "unrest"
+          ],
           "country": "United Kingdom"
         },
         {
           "title": "Homes and bridges swept away as fresh floods hit Nepal",
           "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-11T12:03:52+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+          "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T15:18:52+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -512,9 +523,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-          "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T15:18:52+00:00",
+          "title": "Pope Leo to have surgery after lump found on lung",
+          "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T13:38:55+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -685,9 +696,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 549,
+    "latency_ms": 456,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:23:03.266873+00:00"
+    "last_success_at": "2026-10-11T17:43:30.393909+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -934,9 +945,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 618,
+    "latency_ms": 544,
     "region": "Qatar",
-    "last_success_at": "2026-10-11T17:23:03.338673+00:00"
+    "last_success_at": "2026-10-11T17:43:30.490547+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1176,9 +1187,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 533,
+    "latency_ms": 431,
     "region": "France",
-    "last_success_at": "2026-10-11T17:23:03.268713+00:00"
+    "last_success_at": "2026-10-11T17:43:30.390362+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1187,6 +1198,17 @@
     "details": {
       "reports": 50,
       "articles": [
+        {
+          "title": "Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood",
+          "url": "https://www.euronews.com/video/2026/10/11/nepal-orders-evacuations-after-landslide-triggers-budhi-gandaki-flash-flood",
+          "published_at": "2026-10-11T17:37:03+00:00",
+          "source": "Euronews / Europe",
+          "kind": "News report",
+          "topics": [
+            "weather"
+          ],
+          "country": "Europe"
+        },
         {
           "title": "Latest news bulletin | October 11th, 2026 – Evening",
           "url": "https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-evening",
@@ -1637,22 +1659,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Europe"
-        },
-        {
-          "title": "Tiny turtles take their first steps towards the sea",
-          "url": "https://www.euronews.com/video/2026/10/08/tiny-turtles-take-their-first-steps-towards-the-sea",
-          "published_at": "2026-10-08T16:18:10+00:00",
-          "source": "Euronews / Europe",
-          "kind": "News report",
-          "topics": [],
-          "country": "Europe"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 614,
+    "latency_ms": 452,
     "region": "Europe",
-    "last_success_at": "2026-10-11T17:23:03.365195+00:00"
+    "last_success_at": "2026-10-11T17:43:30.431850+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1662,9 +1675,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 618,
+    "latency_ms": 737,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:23:03.312295+00:00"
+    "last_success_at": "2026-10-11T17:43:30.654591+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1860,23 +1873,23 @@
           "country": "United Kingdom"
         },
         {
+          "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
+          "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+          "published_at": "2026-10-11T17:21:39+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Donald Tusk says man accused of plotting to kill him detained",
           "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
           "published_at": "2026-10-11T16:01:25+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
-          "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-          "published_at": "2026-10-11T15:56:29+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
           "country": "United Kingdom"
         },
         {
@@ -1907,16 +1920,16 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
+          "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12",
           "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-          "published_at": "2026-10-11T17:02:17+00:00",
+          "published_at": "2026-10-11T17:37:29+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
         },
         {
-          "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi-led coalition says",
+          "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
           "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
           "published_at": "2026-10-11T16:49:05+00:00",
           "source": "Guardian world news",
@@ -2048,14 +2061,23 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Zelenskyy says Trump claim of Russia-Ukraine ‘energy ceasefire’ was surprise but would back it if Moscow does – live updates – live updates",
+          "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-          "published_at": "2026-10-11T16:46:55+00:00",
+          "published_at": "2026-10-11T17:28:07+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [
             "conflict"
           ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Abdul El-Sayed: Democrats must ‘win by massive numbers’ to fend off Trump election denial",
+          "url": "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers",
+          "published_at": "2026-10-11T17:23:28+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
           "country": "United Kingdom"
         },
         {
@@ -2084,22 +2106,13 @@
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
-        },
-        {
-          "title": "US maternity wards face wave of closures as Medicaid cuts kick in",
-          "url": "https://www.theguardian.com/us-news/2026/oct/11/medicaid-cuts-maternity-wards",
-          "published_at": "2026-10-11T12:00:26+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 241,
+    "latency_ms": 349,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:23:02.959083+00:00"
+    "last_success_at": "2026-10-11T17:43:30.290113+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2340,9 +2353,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 546,
+    "latency_ms": 422,
     "region": "Australia",
-    "last_success_at": "2026-10-11T17:23:03.285772+00:00"
+    "last_success_at": "2026-10-11T17:43:30.387889+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2351,6 +2364,26 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Ukraine's Zelenskyy tells ABC he will organise elections if Russia agrees to 60-day ceasefire",
+          "url": "https://www.channelnewsasia.com/world/ukraines-zelenskyy-tells-abc-he-will-organise-elections-if-russia-agrees-60-day-ceasefire-6450376",
+          "published_at": "2026-10-11T17:36:47+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Singapore"
+        },
+        {
+          "title": "Man City silence hostile Anfield with 3-0 win over Liverpool",
+          "url": "https://www.channelnewsasia.com/sport/man-city-silence-hostile-anfield-3-0-win-over-liverpool-6450601",
+          "published_at": "2026-10-11T17:34:59+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
         {
           "title": "Manchester City met at Anfield with boos and 'cheat' taunts",
           "url": "https://www.channelnewsasia.com/sport/manchester-city-met-anfield-boos-and-cheat-taunts-6450491",
@@ -2514,31 +2547,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Singapore"
-        },
-        {
-          "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
-          "url": "https://www.channelnewsasia.com/business/musk-vows-affordable-starlink-in-india-days-ambanis-record-jio-ipo-6450016",
-          "published_at": "2026-10-11T07:11:19+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Indian capital braces for second day of protests against poll chief",
-          "url": "https://www.channelnewsasia.com/asia/india-youth-protests-cockroach-party-election-commission-6450011",
-          "published_at": "2026-10-11T06:44:12+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 518,
+    "latency_ms": 413,
     "region": "Singapore",
-    "last_success_at": "2026-10-11T17:23:03.264594+00:00"
+    "last_success_at": "2026-10-11T17:43:30.387070+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2549,9 +2564,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 589,
+    "latency_ms": 576,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:23:03.282308+00:00"
+    "last_success_at": "2026-10-11T17:43:30.492311+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -3107,21 +3122,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 708,
+    "latency_ms": 543,
     "region": "Germany",
-    "last_success_at": "2026-10-11T17:23:03.436384+00:00"
+    "last_success_at": "2026-10-11T17:43:30.497953+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.6705555555555556,
+    "signal": 0.7733333333333333,
     "details": {
-      "active_alerts": 269,
-      "high_impact_alerts": 4
+      "active_alerts": 264,
+      "high_impact_alerts": 6
     },
-    "latency_ms": 585,
+    "latency_ms": 1107,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:23:03.277176+00:00"
+    "last_success_at": "2026-10-11T17:43:31.020792+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3268,9 +3283,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1147,
+    "latency_ms": 903,
     "region": "Euro area",
-    "last_success_at": "2026-10-11T17:23:03.914587+00:00"
+    "last_success_at": "2026-10-11T17:43:30.911251+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3426,9 +3441,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1107,
+    "latency_ms": 985,
     "region": "International research",
-    "last_success_at": "2026-10-11T17:23:03.833932+00:00"
+    "last_success_at": "2026-10-11T17:43:30.936148+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3628,9 +3643,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 591,
+    "latency_ms": 309,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:23:03.356732+00:00"
+    "last_success_at": "2026-10-11T17:43:30.316053+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3824,9 +3839,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 641,
+    "latency_ms": 313,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:23:03.348504+00:00"
+    "last_success_at": "2026-10-11T17:43:30.244663+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4018,9 +4033,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1007,
+    "latency_ms": 291,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-11T17:23:03.765980+00:00"
+    "last_success_at": "2026-10-11T17:43:30.297063+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4036,9 +4051,9 @@
         "Green forest fire notification in Mongolia"
       ]
     },
-    "latency_ms": 3576,
+    "latency_ms": 1988,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:23:06.276034+00:00"
+    "last_success_at": "2026-10-11T17:43:31.909120+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4146,9 +4161,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1095,
+    "latency_ms": 746,
     "region": "Africa",
-    "last_success_at": "2026-10-11T17:23:03.802677+00:00"
+    "last_success_at": "2026-10-11T17:43:30.675570+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4159,9 +4174,9 @@
       "added_last_30_days": 34,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 704,
+    "latency_ms": 562,
     "region": "Global / United States",
-    "last_success_at": "2026-10-11T17:23:03.407074+00:00"
+    "last_success_at": "2026-10-11T17:43:30.488198+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4180,18 +4195,29 @@
           "country": "Canada"
         },
         {
-          "title": "Pope Leo will undergo surgery to remove a nodule on his lung",
-          "url": "https://www.cbc.ca/news/world/pope-leo-surgery-lung-9.7377448?cmp=rss",
-          "published_at": "2026-10-11T12:17:16+00:00",
+          "title": "Saudi-led coalition vows retaliation after deadly Houthi attack on Riyadh airport",
+          "url": "https://www.cbc.ca/news/world/riyadh-airport-blast-9.7377189?cmp=rss",
+          "published_at": "2026-10-10T17:13:33+00:00",
           "source": "CBC / Canada",
           "kind": "News report",
           "topics": [],
           "country": "Canada"
         },
         {
-          "title": "Saudi-led coalition vows retaliation after deadly Houthi attack on Riyadh airport",
-          "url": "https://www.cbc.ca/news/world/riyadh-airport-blast-9.7377189?cmp=rss",
-          "published_at": "2026-10-10T17:13:33+00:00",
+          "title": "Trump announces Russia-Ukraine 'energy ceasefire,' which Zelenskky says he hasn't seen but supports",
+          "url": "https://www.cbc.ca/news/world/kyiv-pushes-back-trump-call-for-new-ukraine-president-after-diesel-deal-9.7377471?cmp=rss",
+          "published_at": "2026-10-11T13:51:39+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Canada"
+        },
+        {
+          "title": "Pope Leo will undergo surgery to remove a nodule on his lung",
+          "url": "https://www.cbc.ca/news/world/pope-leo-surgery-lung-9.7377448?cmp=rss",
+          "published_at": "2026-10-11T12:17:16+00:00",
           "source": "CBC / Canada",
           "kind": "News report",
           "topics": [],
@@ -4346,24 +4372,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Canada"
-        },
-        {
-          "title": "Powerful earthquake hits Panama, triggers tsunami warnings",
-          "url": "https://www.cbc.ca/player/play/9.7376534?cmp=rss",
-          "published_at": "2026-10-09T20:57:03+00:00",
-          "source": "CBC / Canada",
-          "kind": "News report",
-          "topics": [
-            "weather"
-          ],
-          "country": "Canada"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 579,
+    "latency_ms": 432,
     "region": "Canada",
-    "last_success_at": "2026-10-11T17:23:03.333401+00:00"
+    "last_success_at": "2026-10-11T17:43:30.434558+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -4947,8 +4962,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 511,
+    "latency_ms": 370,
     "region": "Global",
-    "last_success_at": "2026-10-11T17:23:03.306554+00:00"
+    "last_success_at": "2026-10-11T17:43:30.379193+00:00"
   }
 }
