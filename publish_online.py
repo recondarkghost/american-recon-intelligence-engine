@@ -5,6 +5,8 @@ import intelligence_upgrade
 intelligence_upgrade.install(engine)
 import global_sources
 global_sources.install(engine)
+import prediction_context
+prediction_context.install(engine)
 
 root = Path(__file__).resolve().parent
 ledger = root / "state" / "ledger.json"
