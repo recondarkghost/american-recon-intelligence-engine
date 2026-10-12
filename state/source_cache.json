@@ -189,22 +189,22 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 505,
+    "latency_ms": 419,
     "region": "United States",
-    "last_success_at": "2026-10-12T02:27:08.645220+00:00"
+    "last_success_at": "2026-10-12T11:51:55.042570+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "magnitude_4_5_week": 169,
+      "magnitude_4_5_week": 168,
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 659,
+    "latency_ms": 601,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T09:39:52.572218+00:00"
+    "last_success_at": "2026-10-12T11:51:55.203315+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 712,
+    "latency_ms": 674,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T09:39:52.625199+00:00"
+    "last_success_at": "2026-10-12T11:51:55.276834+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,28 +455,17 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 713,
+    "latency_ms": 659,
     "region": "Global",
-    "last_success_at": "2026-10-12T09:39:52.643255+00:00"
+    "last_success_at": "2026-10-12T11:51:55.268342+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
     "ok": true,
     "signal": 0.35,
     "details": {
-      "reports": 23,
+      "reports": 22,
       "articles": [
-        {
-          "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
-          "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T21:36:40+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "United Kingdom"
-        },
         {
           "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
           "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
@@ -496,18 +485,63 @@
           "country": "United Kingdom"
         },
         {
-          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T22:45:58+00:00",
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-12T10:28:47+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
         },
         {
-          "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-          "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T23:13:51+00:00",
+          "title": "Indian opposition leaders march to top court to demand election chief resign",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-12T06:42:35+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Pupil arrested after two teachers shot at French school",
+          "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-12T10:33:28+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+          "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T23:13:20+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+          "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T23:48:25+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
+          "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T23:33:24+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-12T10:04:50+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -522,33 +556,6 @@
           "topics": [
             "unrest"
           ],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
-          "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T23:48:25+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-          "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T21:12:44+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
-          "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T23:33:24+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
           "country": "United Kingdom"
         },
         {
@@ -588,9 +595,18 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
-          "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T23:13:20+00:00",
+          "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+          "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T23:13:51+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
+          "url": "https://www.bbc.co.uk/news/articles/cmn5d92423vyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T23:39:12+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -606,36 +622,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-          "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T23:31:35+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-          "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T22:13:08+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-          "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T09:17:36+00:00",
-          "source": "BBC world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-          "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-10T04:51:57+00:00",
+          "title": "New rule, no change - has cricket missed a trick again with bad light?",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-12T05:19:46+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -682,9 +671,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 683,
+    "latency_ms": 411,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T09:39:52.623716+00:00"
+    "last_success_at": "2026-10-12T11:51:55.041092+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -693,6 +682,73 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
+          "url": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
+          "published_at": "2026-10-12T11:30:54+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Qatar"
+        },
+        {
+          "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
+          "url": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
+          "published_at": "2026-10-12T11:30:30+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
+          "published_at": "2026-10-12T11:17:02+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
+          "published_at": "2026-10-12T10:35:51+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Qatar"
+        },
+        {
+          "title": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
+          "url": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
+          "published_at": "2026-10-12T10:18:58+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Melbourne man ‘strongly rejects’ links to flydubai attack suspect",
+          "url": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
+          "published_at": "2026-10-12T10:05:19+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Indian YouTuber Dhruv Rathee alleges abduction ahead of Delhi protests",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/10-12-dhruv-rathee-india-protests-sv?traffic_source=rss",
+          "published_at": "2026-10-12T09:55:11+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
         {
           "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
           "url": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
@@ -759,7 +815,7 @@
           "country": "Qatar"
         },
         {
-          "title": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
+          "title": "Alvarez vs M’billi boxing bout to go ahead despite Saudi airport attacks",
           "url": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss",
           "published_at": "2026-10-12T07:40:31+00:00",
           "source": "Al Jazeera world news",
@@ -777,14 +833,12 @@
           "country": "Qatar"
         },
         {
-          "title": "India protest live: Opposition marches to Supreme Court over ‘vote theft’",
+          "title": "India opposition march live: Rally to Supreme Court against election chief",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
           "published_at": "2026-10-12T06:07:44+00:00",
           "source": "Al Jazeera world news",
           "kind": "News report",
-          "topics": [
-            "unrest"
-          ],
+          "topics": [],
           "country": "Qatar"
         },
         {
@@ -858,80 +912,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Qatar"
-        },
-        {
-          "title": "Bridge washed away by torrent of water in Nepal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
-          "published_at": "2026-10-12T01:24:26+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
-          "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
-          "published_at": "2026-10-12T01:12:35+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks",
-          "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
-          "published_at": "2026-10-12T00:39:08+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
-          "url": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss",
-          "published_at": "2026-10-12T00:21:46+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [
-            "weather"
-          ],
-          "country": "Qatar"
-        },
-        {
-          "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
-          "url": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
-          "published_at": "2026-10-12T00:14:46+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Iran war live: Tehran says Yemen escalation benefits ‘only’ Israel",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
-          "published_at": "2026-10-12T00:00:00+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "Qatar"
-        },
-        {
-          "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
-          "published_at": "2026-10-11T23:20:46+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 717,
+    "latency_ms": 440,
     "region": "Qatar",
-    "last_success_at": "2026-10-12T09:39:52.660630+00:00"
+    "last_success_at": "2026-10-12T11:51:55.073551+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -940,6 +927,163 @@
     "details": {
       "reports": 24,
       "articles": [
+        {
+          "title": "Inside Jeffrey Epstein's network: How favours, money and influence kept it running",
+          "url": "https://www.france24.com/en/americas/20261012-inside-jeffrey-epstein-s-network-how-favours-money-and-influence-kept-it-running",
+          "published_at": "2026-10-12T11:36:06+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "🔴 Live: NATO commander Grynkewich warns Russia attack would be 'utterly futile'",
+          "url": "https://www.france24.com/en/europe/20261012-live-oil-prices-fall-after-trump-unilaterally-announces-russia-ukraine-energy-ceasefire",
+          "published_at": "2026-10-12T11:25:42+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Netanyahu demands probe into Israeli anonymous whistleblowers in 'NAZA' documentary",
+          "url": "https://www.france24.com/en/netanyahu-demands-probe-into-israeli-anonymous-whistleblowers-in-naza-documentary",
+          "published_at": "2026-10-12T11:17:27+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Prison 'Games of Hope' olympics in Italy unite inmates and staff",
+          "url": "https://www.france24.com/en/prison-games-of-hope-olympics-in-italy-unite-inmates-and-staff",
+          "published_at": "2026-10-12T10:54:23+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Poland: Police foils alleged assassination attempt against PM",
+          "url": "https://www.france24.com/en/poland-police-foils-alleged-assassination-attempt-against-pm",
+          "published_at": "2026-10-12T10:52:11+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [
+            "unrest"
+          ],
+          "country": "France"
+        },
+        {
+          "title": "'Illegal detentions' in India, as protesters allege foul play at Electoral Commission",
+          "url": "https://www.france24.com/en/tv-shows/press-review/20261012-illegal-detentions-in-india-as-protesters-allege-foul-play-at-electoral-commission",
+          "published_at": "2026-10-12T10:51:05+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Fire ravages oldest covered food market in Paris",
+          "url": "https://www.france24.com/en/video/20261012-fire-ravages-oldest-covered-food-market-in-paris",
+          "published_at": "2026-10-12T10:31:22+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Fire destroys historic French market of Enfants-Rouges in Paris",
+          "url": "https://www.france24.com/en/fire-destroys-historic-french-market-of-enfants-rouges-in-paris",
+          "published_at": "2026-10-12T10:28:09+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Are European automakers capable of withstanding Chinese competition?",
+          "url": "https://www.france24.com/en/are-european-automakers-capable-of-withstanding-chinese-competition",
+          "published_at": "2026-10-12T10:26:22+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "At least 139 migrants die in boat wreck between Djibouti and Yemen",
+          "url": "https://www.france24.com/en/at-least-139-migrants-die-in-boat-wreck-between-djibouti-and-yemen",
+          "published_at": "2026-10-12T10:24:11+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Zelensky says surprised to hear about Trump's 'energy ceasefire' between Ukraine and Russia",
+          "url": "https://www.france24.com/en/zelensky-says-surprised-to-hear-about-trump-s-energy-ceasefire-between-ukraine-and-russia",
+          "published_at": "2026-10-12T10:19:32+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "France"
+        },
+        {
+          "title": "Who is Raphael Glucksmann, winner of the French left presidential primary?",
+          "url": "https://www.france24.com/en/who-is-raphael-glucksmann-winner-of-the-french-left-presidential-primary",
+          "published_at": "2026-10-12T10:14:51+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "France scrambles to deploy supply teachers, but will it be enough to quell student anger?",
+          "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261012-france-scrambles-to-deploy-supply-teachers-but-will-it-be-enough-to-quell-student-anger",
+          "published_at": "2026-10-12T10:08:17+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "🔴 Americans Robert E. Hall and Michael Woodford win Nobel Prize in Economics",
+          "url": "https://www.france24.com/en/europe/20261012-americans-robert-e-hall-and-michael-woodford-win-nobel-prize-in-economics",
+          "published_at": "2026-10-12T09:55:33+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Americans Robert E. Hall and Michael Woodford win Nobel Prize in Economics",
+          "url": "https://www.france24.com/en/europe/20261012-americans-robert-e-hall-and-michael-woodford-win-nobel-prize-in-economics",
+          "published_at": "2026-10-12T09:54:52+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "France: Founder of small centre-left party wins presidential primary",
+          "url": "https://www.france24.com/en/france-founder-of-small-centre-left-party-wins-presidential-primary",
+          "published_at": "2026-10-12T09:47:13+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "French police arrest 14-year-old after two teaching staff wounded by hunting rifle fire",
+          "url": "https://www.france24.com/en/france/20261012-french-police-arrest-14-year-old-after-two-teaching-staff-wounded-by-hunting-rifle-fire",
+          "published_at": "2026-10-12T09:43:38+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
         {
           "title": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
           "url": "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
@@ -988,7 +1132,7 @@
           "country": "France"
         },
         {
-          "title": "Live: EU’s top diplomat says she will welcome Russia-Ukraine energy ceasefire ‘when it holds’",
+          "title": "Live: Top NATO military commander says a Russian attack would be 'utterly futile'",
           "url": "https://www.france24.com/en/europe/20261012-live-oil-prices-fall-after-trump-unilaterally-announces-russia-ukraine-energy-ceasefire",
           "published_at": "2026-10-12T05:29:41+00:00",
           "source": "France 24 / France",
@@ -1006,168 +1150,13 @@
           "kind": "News report",
           "topics": [],
           "country": "France"
-        },
-        {
-          "title": "Melbourne Islamic leader linked to suspected Flydubai hijacker condemns 'false accusations'",
-          "url": "https://www.france24.com/en/asia-pacific/20261012-melbourne-man-linked-to-suspected-flydubai-hijacker-condemns-false-accusations",
-          "published_at": "2026-10-12T03:49:40+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "El Nino breaks Pacific temperature record as weather pattern intensifies",
-          "url": "https://www.france24.com/en/environment/20261012-el-nino-pacific-temperature-record-weather",
-          "published_at": "2026-10-12T02:12:30+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "North Korea fires multiple ballistic missiles off east coast, Seoul says",
-          "url": "https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul",
-          "published_at": "2026-10-12T01:54:19+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "NATO top commander to warn Russia over alliance’s ability to counter-attack",
-          "url": "https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack",
-          "published_at": "2026-10-12T01:41:18+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Scores of gold miners killed in air strikes on Egypt-Sudan border, rights group says",
-          "url": "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed",
-          "published_at": "2026-10-12T01:28:27+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Fresh Houthi strike hits Riyadh airport a day after deadly attack",
-          "url": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
-          "published_at": "2026-10-12T01:01:39+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Slovenia rejects bill in blow to PM Janez Jansa’s reform agenda",
-          "url": "https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform",
-          "published_at": "2026-10-11T22:01:13+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
-          "url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
-          "published_at": "2026-10-11T19:42:09+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Raphaël Glucksmann, the man who wants to be French president",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president",
-          "published_at": "2026-10-11T17:50:02+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote",
-          "url": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote",
-          "published_at": "2026-10-11T17:45:32+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Raphaël Glucksmann wins French left-wing primary with 66% of vote",
-          "url": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote",
-          "published_at": "2026-10-11T17:41:49+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Ukraine: Coerced into a corner?",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner",
-          "published_at": "2026-10-11T17:36:49+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike",
-          "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
-          "published_at": "2026-10-11T16:44:37+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
-          "url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
-          "published_at": "2026-10-11T16:08:39+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
-          "url": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
-          "published_at": "2026-10-11T16:07:13+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
-          "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
-          "published_at": "2026-10-11T16:04:20+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "France"
-        },
-        {
-          "title": "Pope Leo says he will undergo surgery for small growth on lung",
-          "url": "https://www.france24.com/en/video/20261011-pope-leo-says-he-will-undergo-surgery-for-small-growth-on-lung",
-          "published_at": "2026-10-11T15:17:39+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 449,
+    "latency_ms": 533,
     "region": "France",
-    "last_success_at": "2026-10-12T09:39:52.403627+00:00"
+    "last_success_at": "2026-10-12T11:51:55.185993+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1176,6 +1165,24 @@
     "details": {
       "reports": 50,
       "articles": [
+        {
+          "title": "Citroën revives its classic 2CV with a new electric concept",
+          "url": "https://www.euronews.com/2026/10/12/citroen-revives-its-classic-2cv-with-a-new-electric-concept",
+          "published_at": "2026-10-12T11:08:50+00:00",
+          "source": "Euronews / Europe",
+          "kind": "News report",
+          "topics": [],
+          "country": "Europe"
+        },
+        {
+          "title": "Latest news bulletin | October 12th, 2026 – Midday",
+          "url": "https://www.euronews.com/video/2026/10/12/latest-news-bulletin-october-12th-2026-midday",
+          "published_at": "2026-10-12T10:00:15+00:00",
+          "source": "Euronews / Europe",
+          "kind": "News report",
+          "topics": [],
+          "country": "Europe"
+        },
         {
           "title": "CCTV shows moment of strike at King Khalid International Airport in Riyadh",
           "url": "https://www.euronews.com/2026/10/12/cctv-shows-moment-of-strike-at-king-khalid-international-airport-in-riyadh",
@@ -1258,6 +1265,15 @@
           "title": "Latest news bulletin | October 11th, 2026 – Evening",
           "url": "https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-evening",
           "published_at": "2026-10-11T16:00:26+00:00",
+          "source": "Euronews / Europe",
+          "kind": "News report",
+          "topics": [],
+          "country": "Europe"
+        },
+        {
+          "title": "Turkmenistan summits focus on regional cooperation and Caspian Sea crisis",
+          "url": "https://www.euronews.com/2026/10/11/turkmenistan-summits-focus-on-regional-cooperation-and-caspian-sea-crisis",
+          "published_at": "2026-10-11T14:58:52+00:00",
           "source": "Euronews / Europe",
           "kind": "News report",
           "topics": [],
@@ -1614,40 +1630,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Europe"
-        },
-        {
-          "title": "Russia slashes cancer care as defence spending hits post-Soviet record",
-          "url": "https://www.euronews.com/2026/10/09/russia-slashes-cancer-care-as-defence-spending-hits-post-soviet-record",
-          "published_at": "2026-10-09T05:00:40+00:00",
-          "source": "Euronews / Europe",
-          "kind": "News report",
-          "topics": [],
-          "country": "Europe"
-        },
-        {
-          "title": "Latest news bulletin | October 9th, 2026 – Morning",
-          "url": "https://www.euronews.com/video/2026/10/09/latest-news-bulletin-october-9th-2026-morning",
-          "published_at": "2026-10-09T05:00:32+00:00",
-          "source": "Euronews / Europe",
-          "kind": "News report",
-          "topics": [],
-          "country": "Europe"
-        },
-        {
-          "title": "Six injured as heavy rains batter Chile's capital, sweeping away cars and flooding homes",
-          "url": "https://www.euronews.com/2026/10/09/six-injured-as-heavy-rains-batter-chiles-capital-sweeping-away-cars-and-flooding-homes",
-          "published_at": "2026-10-09T04:40:59+00:00",
-          "source": "Euronews / Europe",
-          "kind": "News report",
-          "topics": [],
-          "country": "Europe"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 540,
+    "latency_ms": 397,
     "region": "Europe",
-    "last_success_at": "2026-10-12T09:39:52.503245+00:00"
+    "last_success_at": "2026-10-12T11:51:55.077707+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1657,9 +1646,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 467,
+    "latency_ms": 619,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T09:39:52.381390+00:00"
+    "last_success_at": "2026-10-12T11:51:55.222992+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1720,6 +1709,15 @@
           "country": "United Kingdom"
         },
         {
+          "title": "Balkan temperatures swing as heavy rain heads for Greece",
+          "url": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
+          "published_at": "2026-10-12T10:48:26+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Thousands without power in Florida and Alabama as Isaias moves north",
           "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
           "published_at": "2026-10-11T13:45:27+00:00",
@@ -1756,9 +1754,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
-          "published_at": "2026-10-10T05:00:48+00:00",
+          "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
+          "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
+          "published_at": "2026-10-12T11:23:55+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -1801,9 +1799,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Japan beer giants raided over suspicions they colluded to set the price of beverages",
-          "url": "https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages",
-          "published_at": "2026-10-08T03:54:38+00:00",
+          "title": "Doctor warned Elizabeth Struhs would not be safe years before sect killed her by withdrawing medicine",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/12/elizabeth-struhs-death-inquest-doctor-home-warning-queensland-coroner-ntwnfb",
+          "published_at": "2026-10-12T11:28:00+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -1837,15 +1835,6 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Doctor warned Elizabeth Struhs would not be safe at home years before religious sect killed her by withdrawing medicine",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/12/elizabeth-struhs-death-inquest-doctor-home-warning-queensland-coroner-ntwnfb",
-          "published_at": "2026-10-12T06:34:55+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
           "title": "Lawyers who helped detained Australian Robert Pether leave Iraq criticise Wong for announcing news",
           "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison",
           "published_at": "2026-10-12T05:49:52+00:00",
@@ -1855,9 +1844,9 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Russia hit Ukraine power plant ‘immediately after’ Trump declared energy ceasefire, says Zelenskyy – Europe live",
+          "title": "Kremlin rejects 60-day truce offer and refuses to comment on Trump’s ‘energy ceasefire’ – Europe live",
           "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-          "published_at": "2026-10-12T09:24:12+00:00",
+          "published_at": "2026-10-12T11:39:13+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [
@@ -1866,38 +1855,36 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Burnham to urge MPs to embrace closer ties with EU",
+          "title": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
+          "url": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
+          "published_at": "2026-10-12T10:41:55+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Chagall or Lenepveu or both? Row over Paris opera house dome enters legal arena",
+          "url": "https://www.theguardian.com/world/2026/oct/12/row-paris-opera-house-ceiling-lawsuit-threat-original-fresco-marc-chagall-canvases",
+          "published_at": "2026-10-12T10:04:44+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "French centre left must wage ‘existential battle’ to prevent far right winning presidency",
+          "url": "https://www.theguardian.com/world/2026/oct/12/french-centre-left-must-wage-existential-battle-to-prevent-far-right-winning-presidency",
+          "published_at": "2026-10-12T09:41:59+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Burnham: not pursuing better EU deal would be ‘dereliction of duty’",
           "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
           "published_at": "2026-10-12T05:00:46+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
-          "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-          "published_at": "2026-10-11T17:21:39+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Donald Tusk says man accused of plotting to kill him detained",
-          "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
-          "published_at": "2026-10-11T16:01:25+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-          "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-          "published_at": "2026-10-11T15:56:25+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -1951,20 +1938,18 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Delhi police shut metro stations ahead of election protest march",
-          "url": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march",
-          "published_at": "2026-10-12T05:51:48+00:00",
+          "title": "Pakistan detains hundreds of politicians from Imran Khan’s PTI party",
+          "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+          "published_at": "2026-10-12T10:48:24+00:00",
           "source": "Guardian world news",
           "kind": "News report",
-          "topics": [
-            "unrest"
-          ],
+          "topics": [],
           "country": "United Kingdom"
         },
         {
-          "title": "Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government",
-          "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
-          "published_at": "2026-10-12T00:22:11+00:00",
+          "title": "Delhi police shut metro stations ahead of election protest march",
+          "url": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march",
+          "published_at": "2026-10-12T05:51:48+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [
@@ -2004,18 +1989,27 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Former Grenfell Tower housing boss leaves £150,000 council property role after backlash",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/12/former-grenfell-tower-housing-boss-laura-johnson-leaves-council-property-role-after-backlash",
-          "published_at": "2026-10-12T09:24:59+00:00",
+          "title": "Burnham a ‘liar’ over Russian interference in Brexit campaign, says Farage – UK politics live",
+          "url": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
+          "published_at": "2026-10-12T11:36:50+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
         },
         {
-          "title": "UK politics live: Tories accuse Burnham of being ‘dangerous and divisive’ after he confirms Russian interference in Brexit campaign",
-          "url": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
-          "published_at": "2026-10-12T08:53:44+00:00",
+          "title": "BBC defends editing out trans rights slogan on Strictly contestant’s T-shirt",
+          "url": "https://www.theguardian.com/media/2026/oct/12/bbc-strictly-come-dancing-editing-out-trans-rights-slogan-bethany-antonia",
+          "published_at": "2026-10-12T11:17:45+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Ex-director who oversaw Grenfell cost-cutting leaves council housing role after backlash",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/12/former-grenfell-tower-housing-boss-laura-johnson-leaves-council-property-role-after-backlash",
+          "published_at": "2026-10-12T09:24:59+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2040,9 +2034,38 @@
           "country": "United Kingdom"
         },
         {
-          "title": "UK van drivers face extra £2.5bn in diesel costs this year, figures show",
-          "url": "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty",
-          "published_at": "2026-10-12T06:00:49+00:00",
+          "title": "Zelenskyy blindsided after Trump announces ‘energy ceasefire’ in Ukraine war | | First Thing",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/first-thing-zelenskyy-blindsided-trump-announces-energy-ceasefire-ukraine-war-russia",
+          "published_at": "2026-10-12T11:38:00+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "This Georgia county is one of the US’s most diverse – and that could flip multiple elections",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/georgia-gwinnett-county-midterm-elections",
+          "published_at": "2026-10-12T11:00:54+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "How immigration is molding the US midterms: ‘Trump has gone too far’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/immigration-us-midterms-trump",
+          "published_at": "2026-10-12T11:00:53+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Republican US senator facing re-election settles six-year bakery debt",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/roger-marshall-republican-senator-pays-off-bakery-bill-six-years",
+          "published_at": "2026-10-12T10:00:52+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2056,51 +2079,13 @@
           "kind": "News report",
           "topics": [],
           "country": "United Kingdom"
-        },
-        {
-          "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-          "published_at": "2026-10-11T18:36:54+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Trump and Rubio weigh firing Kimberly Guilfoyle after reports of improper conduct",
-          "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-rubio-weigh-firing-kimberly-guilfoyle",
-          "published_at": "2026-10-11T18:34:10+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Abdul El-Sayed: Democrats must ‘win by massive numbers’ to fend off Trump election denial",
-          "url": "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers",
-          "published_at": "2026-10-11T17:23:28+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "ICE agent strikes man with vehicle during pursuit in Texas, officials say",
-          "url": "https://www.theguardian.com/us-news/2026/oct/11/ice-agent-strikes-man-with-car-texas",
-          "published_at": "2026-10-11T14:54:52+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 565,
+    "latency_ms": 415,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T09:39:52.506792+00:00"
+    "last_success_at": "2026-10-12T11:51:55.045784+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2109,6 +2094,51 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "AI boom could widen income inequality, Labor MP warns",
+          "url": "https://www.abc.net.au/news/2026-10-12/andrew-leigh-questions-whether-ai-could-increase-inequality/107257758",
+          "published_at": "2026-10-12T11:45:08+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Australians in Riyadh told to shelter as Saudis and Houthis trade attacks",
+          "url": "https://www.abc.net.au/news/2026-10-12/saudi-arabia-and-yemen-houthis-trade-new-attacks/107257992",
+          "published_at": "2026-10-12T11:14:48+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Molly Ticehurst's killer intends to appeal murder sentence",
+          "url": "https://www.abc.net.au/news/2026-10-12/molly-ticehurst-killer-daniel-billings-murder-sentence-appeal/107257888",
+          "published_at": "2026-10-12T11:10:59+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "American professors Hall and Woodford win Nobel economics prize",
+          "url": "https://www.abc.net.au/news/2026-10-12/hall-and-woodford-win-2026-nobel-economics-prize/107257982",
+          "published_at": "2026-10-12T10:39:27+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
+        {
+          "title": "Woman with heart condition considers sleeping rough as Darwin facility shuts",
+          "url": "https://www.abc.net.au/news/2026-10-12/darwin-shelter-yissa-move-medically-vulnerable-residents-shifted/107257208",
+          "published_at": "2026-10-12T10:21:29+00:00",
+          "source": "ABC / Australia",
+          "kind": "News report",
+          "topics": [],
+          "country": "Australia"
+        },
         {
           "title": "Russia striking fuel reserves despite 'energy ceasefire', Zelenskyy says",
           "url": "https://www.abc.net.au/news/2026-10-12/russia-attacking-ukraine-energy-zelenskyy-ceasefire/107257666",
@@ -2184,7 +2214,7 @@
           "country": "Australia"
         },
         {
-          "title": "Live: Aussies flying despite wickets falling in entertaining start to day four",
+          "title": "Live: Renshaw showing the way as lead ticks over 350 on day four in Durban",
           "url": "https://www.abc.net.au/news/2026-10-12/south-africa-australia-kingsmead-test-day-four-live-blog/107255926",
           "published_at": "2026-10-12T07:00:18+00:00",
           "source": "ABC / Australia",
@@ -2290,60 +2320,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Australia"
-        },
-        {
-          "title": "Job losses likely at remote island mine as costs nearly double due to flooding",
-          "url": "https://www.abc.net.au/news/2026-10-12/south-32-job-losses-nt/107255864",
-          "published_at": "2026-10-12T04:50:37+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Man filmed speeding denies being driver in fatal highway crash",
-          "url": "https://www.abc.net.au/news/2026-10-12/dubbo-trial-begins-for-jack-bowd-newell-highway-crash-2024/107212610",
-          "published_at": "2026-10-12T04:44:58+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Teenager who raped girl, 14, jailed under 'adult time' laws",
-          "url": "https://www.abc.net.au/news/2026-10-12/queensland-teenager-jailed-for-raping-girl/107256604",
-          "published_at": "2026-10-12T04:33:23+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Kaniva wants to be known as an EV charging hub",
-          "url": "https://www.abc.net.au/news/2026-10-12/tesla-charging-station-kaniva-application-country-town/107215686",
-          "published_at": "2026-10-12T04:23:36+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [],
-          "country": "Australia"
-        },
-        {
-          "title": "Behind Trump's war of words on Ukraine is a worrying threat",
-          "url": "https://www.abc.net.au/news/2026-10-12/trump-russia-ukraine-energy/107255500",
-          "published_at": "2026-10-12T04:23:08+00:00",
-          "source": "ABC / Australia",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "Australia"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 671,
+    "latency_ms": 585,
     "region": "Australia",
-    "last_success_at": "2026-10-12T09:39:52.628816+00:00"
+    "last_success_at": "2026-10-12T11:51:55.256665+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2352,6 +2335,105 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "UN refugee agency's funding shortfall is impacting refugees worldwide, its chief says",
+          "url": "https://www.channelnewsasia.com/world/un-refugee-agency-funding-shortfall-6452876",
+          "published_at": "2026-10-12T11:44:48+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "CNA Explains: How the new Huanggang Port will improve Hong Kong-mainland connectivity",
+          "url": "https://www.channelnewsasia.com/east-asia/cna-explains-huanggang-port-crossing-hong-kong-shenzhen-china-6452391",
+          "published_at": "2026-10-12T11:19:40+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "India's HCLTech signs a pact with Anthropic, to set up business unit",
+          "url": "https://www.channelnewsasia.com/business/indias-hcltech-signs-pact-anthropic-set-up-business-unit-6452836",
+          "published_at": "2026-10-12T11:05:33+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Former primary school head of department charged with voyeurism",
+          "url": "https://www.channelnewsasia.com/singapore/primary-school-head-department-voyeurism-teacher-6452726",
+          "published_at": "2026-10-12T10:58:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Norway fines Microsoft's Xandr $9.6 million over Grindr data sharing",
+          "url": "https://www.channelnewsasia.com/business/norway-fines-microsofts-xandr-96-million-over-grindr-data-sharing-6452806",
+          "published_at": "2026-10-12T10:56:38+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Philippine lower house approves bill restricting minors' social media access",
+          "url": "https://www.channelnewsasia.com/asia/philippines-social-media-access-restriction-children-6452766",
+          "published_at": "2026-10-12T10:47:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Singapore government worried AI may break 'bottom rung' of career ladder for young workers: PM Wong",
+          "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-ai-jobs-training-6452176",
+          "published_at": "2026-10-12T10:32:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Financial, mental health issues pushing women towards early retirement",
+          "url": "https://www.channelnewsasia.com/sport/financial-mental-health-issues-pushing-women-towards-early-retirement-6452741",
+          "published_at": "2026-10-12T10:28:58+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Australia stretch lead over South Africa to 280 runs",
+          "url": "https://www.channelnewsasia.com/sport/australia-stretch-lead-over-south-africa-280-runs-6452731",
+          "published_at": "2026-10-12T10:27:17+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Malaysia urges citizens to postpone Umrah trips as Indonesia calls for vigilance after deadly Saudi airport attacks",
+          "url": "https://www.channelnewsasia.com/asia/malaysia-indonesia-umrah-pilgrimage-riyadh-airport-houthi-attack-6452656",
+          "published_at": "2026-10-12T10:14:00+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Weekly flu activity highest since 2024; doctors say haze can worsen respiratory conditions",
+          "url": "https://www.channelnewsasia.com/singapore/weekly-flu-activity-highest-2024-doctors-say-haze-can-worsen-respiratory-conditions-6452511",
+          "published_at": "2026-10-12T09:51:06+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
         {
           "title": "NEA tracking haze hotspots and sources as earlier investigations under Transboundary Haze Pollution Act continue",
           "url": "https://www.channelnewsasia.com/singapore/singapore-haze-transboundary-haze-pollution-act-nea-6452196",
@@ -2435,116 +2517,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Singapore"
-        },
-        {
-          "title": "EU top diplomat says will welcome Ukraine energy truce 'when it holds'",
-          "url": "https://www.channelnewsasia.com/world/eu-top-diplomat-says-will-welcome-ukraine-energy-truce-when-it-holds-6452396",
-          "published_at": "2026-10-12T08:29:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Man charged with trespassing into F1 Singapore Grand Prix event area",
-          "url": "https://www.channelnewsasia.com/singapore/man-charged-trespass-f1-grand-prix-6452286",
-          "published_at": "2026-10-12T07:57:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "NEA to pilot weekly ferry service for ash scattering at sea from 2027",
-          "url": "https://www.channelnewsasia.com/singapore/ash-scattering-sea-cremated-remains-pilot-ferry-service-nea-6452241",
-          "published_at": "2026-10-12T07:33:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Barrett says All Blacks exile was mentally challenging",
-          "url": "https://www.channelnewsasia.com/sport/barrett-says-all-blacks-exile-was-mentally-challenging-6452316",
-          "published_at": "2026-10-12T07:29:52+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Delhi shuts metro stations, restricts traffic ahead of new protest against election chief",
-          "url": "https://www.channelnewsasia.com/asia/india-metro-stations-closed-protest-election-chief-6452086",
-          "published_at": "2026-10-12T07:29:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [
-            "unrest"
-          ],
-          "country": "Singapore"
-        },
-        {
-          "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies",
-          "url": "https://www.channelnewsasia.com/business/oil-falls-hopes-russia-ukraine-energy-ceasefire-will-boost-supplies-6451591",
-          "published_at": "2026-10-12T06:47:01+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "Singapore"
-        },
-        {
-          "title": "Malaysia education minister defends day-to-day decisions on haze-related school closures",
-          "url": "https://www.channelnewsasia.com/asia/malaysia-school-closure-parents-concerns-fadhlina-sidek-6452096",
-          "published_at": "2026-10-12T06:35:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Football meme sparks boycott calls in Malaysia; Indonesian grooming brand apologises",
-          "url": "https://www.channelnewsasia.com/asia/indonesia-brand-kahf-malaysia-boycott-6452076",
-          "published_at": "2026-10-12T05:52:42+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "New advisory committee among initiatives to boost lifelong learning, job opportunities for people with disabilities",
-          "url": "https://www.channelnewsasia.com/singapore/disabilities-jobs-lifelong-learning-advisory-committee-sg-enable-6451941",
-          "published_at": "2026-10-12T05:29:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Opposition, journalists allege police abuses during India protests",
-          "url": "https://www.channelnewsasia.com/asia/india-protests-opposition-journalists-police-abuse-6452111",
-          "published_at": "2026-10-12T05:27:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Better understanding of AI cybersecurity risks needed, says TikTok’s Chew Shou Zi",
-          "url": "https://www.channelnewsasia.com/singapore/tiktok-ceo-shou-chew-ai-6451691",
-          "published_at": "2026-10-12T05:16:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 447,
+    "latency_ms": 533,
     "region": "Singapore",
-    "last_success_at": "2026-10-12T09:39:52.407366+00:00"
+    "last_success_at": "2026-10-12T11:51:55.210304+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2555,9 +2534,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 865,
+    "latency_ms": 635,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T09:39:52.778634+00:00"
+    "last_success_at": "2026-10-12T11:51:55.238334+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2566,6 +2545,51 @@
     "details": {
       "reports": 136,
       "articles": [
+        {
+          "title": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
+          "url": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-12T10:48:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
+        {
+          "title": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
+          "url": "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-12T10:41:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
+        {
+          "title": "Nobel Prize in Economics goes to pair of US economists",
+          "url": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-12T09:55:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
+        {
+          "title": "India news: Opposition parties march to Supreme Court",
+          "url": "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-12T09:38:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
+        {
+          "title": "Germany's women: Ena Mahmutovic makes her case to become Germany's next No.1 goalkeeper",
+          "url": "https://www.dw.com/en/germany-s-women-ena-mahmutovic-makes-her-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-12T09:27:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [],
+          "country": "Germany"
+        },
         {
           "title": "Frankfurt Book Fair: Rights lawyer Sands awarded peace prize",
           "url": "https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-all-1573-rdf",
@@ -2706,42 +2730,6 @@
           "country": "Germany"
         },
         {
-          "title": "Pope Leo XIV to undergo surgery to remove lump on lung",
-          "url": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-11T11:49:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
-          "url": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-11T11:35:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "Poland arrests man over plot to kill PM Donald Tusk",
-          "url": "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-11T10:48:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "Pakistan: President puts Khan stronghold province under emergency rule",
-          "url": "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-11T09:37:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
           "title": "Surrogacy in Georgia is booming but at what cost?",
           "url": "https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-11T07:45:00+00:00",
@@ -2826,15 +2814,6 @@
           "title": "World Cup 2034: Does Saudi Arabia shelving Neom Stadium spell trouble?",
           "url": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf",
           "published_at": "2026-10-09T11:43:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
-        },
-        {
-          "title": "Germany women's football team: Can Ena Mahmutovic make a case to become Germany's next No.1 goalkeeper?",
-          "url": "https://www.dw.com/en/germany-women-s-football-team-can-ena-mahmutovic-make-a-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-09T09:23:00+00:00",
           "source": "DW / Germany",
           "kind": "News report",
           "topics": [],
@@ -3113,21 +3092,21 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1135,
+    "latency_ms": 485,
     "region": "Germany",
-    "last_success_at": "2026-10-12T09:39:53.085389+00:00"
+    "last_success_at": "2026-10-12T11:51:55.134158+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.39666666666666667,
+    "signal": 0.5444444444444445,
     "details": {
-      "active_alerts": 238,
-      "high_impact_alerts": 0
+      "active_alerts": 260,
+      "high_impact_alerts": 2
     },
-    "latency_ms": 608,
+    "latency_ms": 746,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T09:39:52.519761+00:00"
+    "last_success_at": "2026-10-12T11:51:55.347838+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3274,9 +3253,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1092,
+    "latency_ms": 805,
     "region": "Euro area",
-    "last_success_at": "2026-10-12T09:39:53.083339+00:00"
+    "last_success_at": "2026-10-12T11:51:55.524492+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3432,9 +3411,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1330,
+    "latency_ms": 1074,
     "region": "International research",
-    "last_success_at": "2026-10-12T09:39:53.275632+00:00"
+    "last_success_at": "2026-10-12T11:51:55.714557+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3443,6 +3422,15 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Guidance: ​​Contact with Parliamentarians​",
+          "url": "https://www.gov.uk/government/publications/contact-with-parliamentarians",
+          "published_at": "2026-10-12T10:50:15+00:00",
+          "source": "UK defence decisions",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United Kingdom"
+        },
         {
           "title": "Faster front-line delivery with new Testing and Evaluation programme",
           "url": "https://www.gov.uk/government/news/faster-front-line-delivery-with-new-testing-and-evaluation-programme",
@@ -3619,24 +3607,13 @@
           "kind": "Primary source",
           "topics": [],
           "country": "United Kingdom"
-        },
-        {
-          "title": "Guidance: Military low flying: MOD sponsored air exercises",
-          "url": "https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises",
-          "published_at": "2026-10-07T10:41:55+00:00",
-          "source": "UK defence decisions",
-          "kind": "Primary source",
-          "topics": [
-            "conflict"
-          ],
-          "country": "United Kingdom"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 435,
+    "latency_ms": 623,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T09:39:52.426018+00:00"
+    "last_success_at": "2026-10-12T11:51:55.337124+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3645,6 +3622,24 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Solomon Islands travel advice",
+          "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands",
+          "published_at": "2026-10-12T11:44:41+00:00",
+          "source": "UK foreign policy",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Policy paper: Open Government that Delivers: Trust, Prosperity and Democratic Resilience",
+          "url": "https://www.gov.uk/government/publications/open-government-that-delivers-trust-prosperity-and-democratic-resilience",
+          "published_at": "2026-10-12T11:17:37+00:00",
+          "source": "UK foreign policy",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United Kingdom"
+        },
         {
           "title": "Thailand travel advice",
           "url": "https://www.gov.uk/foreign-travel-advice/thailand",
@@ -3808,31 +3803,13 @@
             "conflict"
           ],
           "country": "United Kingdom"
-        },
-        {
-          "title": "UK Statement on Responses to Questions regarding the Agreement on E-Commerce Interim Arrangements",
-          "url": "https://www.gov.uk/government/speeches/uk-statement-on-responses-to-questions-regarding-the-agreement-on-e-commerce-interim-arrangements",
-          "published_at": "2026-10-08T15:29:02+00:00",
-          "source": "UK foreign policy",
-          "kind": "Primary source",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "WTO Reform – Statement by the Chairperson",
-          "url": "https://www.gov.uk/government/speeches/wto-reform-statement-by-the-chairperson",
-          "published_at": "2026-10-08T15:24:28+00:00",
-          "source": "UK foreign policy",
-          "kind": "Primary source",
-          "topics": [],
-          "country": "United Kingdom"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 488,
+    "latency_ms": 713,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T09:39:52.423936+00:00"
+    "last_success_at": "2026-10-12T11:51:55.333870+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4024,27 +4001,27 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 428,
+    "latency_ms": 611,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T09:39:52.417127+00:00"
+    "last_success_at": "2026-10-12T11:51:55.325049+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "active_global_items": 242,
+      "active_global_items": 254,
       "examples": [
         "Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.",
         "Green notification for tropical cyclone TWENTYEIGHT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "Green earthquake (Magnitude 6.2M, Depth:53.473km) in Papua New Guinea 11/10/2026 14:07 UTC, 3 thousand in MMI V.",
         "Green flood alert in Nepal",
-        "Volcanic eruption is on going for Kanlaon in Philippines"
+        "Green forest fire notification in Mongolia, China"
       ]
     },
-    "latency_ms": 2737,
+    "latency_ms": 2096,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T09:39:54.655613+00:00"
+    "last_success_at": "2026-10-12T11:51:56.702902+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4154,9 +4131,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 1156,
+    "latency_ms": 803,
     "region": "Africa",
-    "last_success_at": "2026-10-12T09:39:53.089762+00:00"
+    "last_success_at": "2026-10-12T11:51:55.418954+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4167,9 +4144,9 @@
       "added_last_30_days": 30,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 562,
+    "latency_ms": 730,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T09:39:52.488549+00:00"
+    "last_success_at": "2026-10-12T11:51:55.339089+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4178,6 +4155,17 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Zelenskyy says Russia violating Trump's 'energy ceasefire' as attacks on Ukraine continue",
+          "url": "https://www.cbc.ca/news/world/zelenskyy-russia-violating-energy-ceasefire-9.7377881?cmp=rss",
+          "published_at": "2026-10-12T09:48:16+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Canada"
+        },
         {
           "title": "How the ICE surge in Minnesota could impact the midterms",
           "url": "https://www.cbc.ca/news/world/minnesota-midterms-ice-surge-democracy-defender-9.7374926?cmp=rss",
@@ -4191,6 +4179,15 @@
           "title": "'We can’t deal with it in Canada': Some women turn to Mexico for endometriosis care",
           "url": "https://www.cbc.ca/news/world/endometriosis-canada-health-care-mexico-9.7375759?cmp=rss",
           "published_at": "2026-10-12T08:00:00+00:00",
+          "source": "CBC / Canada",
+          "kind": "News report",
+          "topics": [],
+          "country": "Canada"
+        },
+        {
+          "title": "Nobel memorial prize in economics awarded to Robert E. Hall and Michael Woodford",
+          "url": "https://www.cbc.ca/news/world/hall-woodford-nobel-economics-9.7377888?cmp=rss",
+          "published_at": "2026-10-12T11:06:42+00:00",
           "source": "CBC / Canada",
           "kind": "News report",
           "topics": [],
@@ -4349,31 +4346,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Canada"
-        },
-        {
-          "title": "Netanyahu faces fresh allegations he ignored warnings about Oct. 7 — right before an election",
-          "url": "https://www.cbc.ca/news/world/netanyahu-warnings-attacks-election-israel-9.7376147?cmp=rss",
-          "published_at": "2026-10-10T12:00:00+00:00",
-          "source": "CBC / Canada",
-          "kind": "News report",
-          "topics": [],
-          "country": "Canada"
-        },
-        {
-          "title": "Children, pregnant woman among 9 dead in Pennsylvania shooting",
-          "url": "https://www.cbc.ca/news/world/pennsylvania-shooting-dead-9.7377285?cmp=rss",
-          "published_at": "2026-10-10T21:16:30+00:00",
-          "source": "CBC / Canada",
-          "kind": "News report",
-          "topics": [],
-          "country": "Canada"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 538,
+    "latency_ms": 401,
     "region": "Canada",
-    "last_success_at": "2026-10-12T09:39:52.504819+00:00"
+    "last_success_at": "2026-10-12T11:51:55.082082+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -4382,6 +4361,17 @@
     "details": {
       "reports": 150,
       "articles": [
+        {
+          "title": "Viet Nam Studies Water Resources Using Nuclear Techniques",
+          "url": "http://www.iaea.org/newscenter/news/viet-nam-studies-water-resources-using-nuclear-techniques",
+          "published_at": "2026-10-12T07:51:58+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
         {
           "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
           "url": "http://www.iaea.org/newscenter/pressreleases/update-370-iaea-director-general-statement-on-situation-in-ukraine",
@@ -4942,23 +4932,1290 @@
           "kind": "Primary source",
           "topics": [],
           "country": "Global"
-        },
-        {
-          "title": "Nuclear Safety and Security Side Events at the 70th IAEA General Conference",
-          "url": "http://www.iaea.org/newscenter/news/nuclear-safety-and-security-side-events-at-the-70th-iaea-general-conference",
-          "published_at": "2026-09-10T05:00:00+00:00",
-          "source": "IAEA nuclear updates",
-          "kind": "Primary source",
-          "topics": [
-            "conflict"
-          ],
-          "country": "Global"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 495,
+    "latency_ms": 554,
     "region": "Global",
-    "last_success_at": "2026-10-12T09:39:52.490443+00:00"
+    "last_success_at": "2026-10-12T11:51:55.278514+00:00"
+  },
+  "Sky News World": {
+    "name": "Sky News World",
+    "ok": true,
+    "signal": 0.35,
+    "details": {
+      "reports": 6,
+      "articles": [
+        {
+          "title": "Oldest covered food market in Paris destroyed in fire",
+          "url": "https://news.sky.com/story/oldest-covered-food-market-in-paris-destroyed-in-fire-13598110",
+          "published_at": "2026-10-12T10:07:00+00:00",
+          "source": "Sky News World",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Staff shot at school in France - as pupil detained",
+          "url": "https://news.sky.com/story/staff-shot-at-school-near-marseille-13598028",
+          "published_at": "2026-10-12T06:18:00+00:00",
+          "source": "Sky News World",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Children among at least 139 dead after migrant boat capsizes",
+          "url": "https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707",
+          "published_at": "2026-10-11T10:08:00+00:00",
+          "source": "Sky News World",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "'At least 72' miners killed in airstrike",
+          "url": "https://news.sky.com/story/at-least-72-miners-killed-in-airstrike-on-sudan-egypt-border-13597904",
+          "published_at": "2026-10-11T16:25:00+00:00",
+          "source": "Sky News World",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Pakistan's president declares state of emergency in province run by Imran Khan's party",
+          "url": "https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796",
+          "published_at": "2026-10-11T13:48:00+00:00",
+          "source": "Sky News World",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Pope Leo to undergo surgery in coming days after nodule discovered on his lung",
+          "url": "https://news.sky.com/story/pope-leo-to-undergo-surgery-in-coming-days-after-nodule-discovered-on-his-lung-13597712",
+          "published_at": "2026-10-11T10:25:00+00:00",
+          "source": "Sky News World",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        }
+      ],
+      "note": "Statements are attributed to their issuing body; news reports require verification."
+    },
+    "latency_ms": 442,
+    "region": "United Kingdom",
+    "last_success_at": "2026-10-12T11:51:55.139521+00:00"
+  },
+  "BBC Middle East": {
+    "name": "BBC Middle East",
+    "ok": true,
+    "signal": 0.35,
+    "details": {
+      "reports": 35,
+      "articles": [
+        {
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-12T10:28:47+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T22:45:58+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Airport attacks another dangerous moment in already tense conflict",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T15:32:32+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+          "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T21:12:44+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Children among 139 dead after Yemen-bound boat capsizes off Djibouti, UN says",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T15:32:23+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T08:41:30+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T04:34:55+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+          "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-09T13:50:25+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+          "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-08T15:21:46+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+          "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-08T05:00:44+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+          "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-08T12:11:31+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-08T03:32:35+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-07T20:27:03+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-08T05:06:09+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Israelis demand accountability over 7 October failures three years after attacks",
+          "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-07T16:00:18+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-07T05:02:18+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Children brave snipers and mortars to go to school near Yemen front line",
+          "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-06T07:23:24+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+          "url": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-02T15:29:28+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Inside Yemen's front-line city as Houthis battle for control",
+          "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-27T21:16:31+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Who are the Houthis and what do they want?",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-24T13:58:46+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Reports of violence against women in Gaza surge, UN agency finds",
+          "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-23T05:02:26+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-21T14:14:16+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
+          "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-19T23:18:18+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+          "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-18T01:31:43+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Algae bloom that crippled Israel's desalination plants raises water security concerns",
+          "url": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-17T08:40:41+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "AI 'SpongeBob' parody of problems in Egypt draws scrutiny of authorities",
+          "url": "https://www.bbc.co.uk/news/articles/c5y4g65vjnmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-15T06:02:35+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+          "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-11T19:44:58+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "British-Israeli relations at lowest ebb in decades",
+          "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-08T21:46:31+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+          "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-08T15:36:34+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+          "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-07T21:12:37+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "How could US-Iran conflict end? Three experts give their views",
+          "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-04T09:14:57+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+          "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-08T12:01:55+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Candles lit in memory of those killed in October 7 attacks",
+          "url": "https://www.bbc.co.uk/news/videos/cme8r9ke1n9yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-07T04:34:20+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "The situation in Gaza three years on",
+          "url": "https://www.bbc.co.uk/news/videos/c6pwgrgd9zpzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-07T09:19:21+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Teenager shows BBC life inside Gaza displacement camp",
+          "url": "https://www.bbc.co.uk/news/videos/c3x2w5dd21eyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-05T16:31:33+00:00",
+          "source": "BBC Middle East",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        }
+      ],
+      "note": "Statements are attributed to their issuing body; news reports require verification."
+    },
+    "latency_ms": 525,
+    "region": "United Kingdom",
+    "last_success_at": "2026-10-12T11:51:55.212439+00:00"
+  },
+  "US State Department Travel Advisories": {
+    "name": "US State Department Travel Advisories",
+    "ok": true,
+    "signal": 0.35,
+    "details": {
+      "reports": 223,
+      "articles": [
+        {
+          "title": "Yemen - Level 4: Do Not Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Saudi Arabia - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Cambodia - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.khm.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Italy - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ita.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "North Macedonia - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mkd.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Curaçao - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cuw.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "United Kingdom - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gbr.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Suriname - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sur.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Hong Kong - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.hkg.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "São Tomé and Príncipe - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.stp.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "China - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.chn.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Nepal - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Morocco - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mar.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Peru - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.per.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Tajikistan - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tjk.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Bhutan - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.btn.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Macau - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mac.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Philippines - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.phl.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Brazil - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bra.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Libya - Level 4: Do Not Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lby.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Oman - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.omn.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Iraq - Level 4: Do Not Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "United Arab Emirates - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.are.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Jordan - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jor.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Qatar - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.qat.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Kuwait - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kwt.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Ukraine - Level 4: Do Not Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ukr.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Serbia - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.srb.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Ethiopia - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.eth.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Bahrain - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bhr.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Bosnia and Herzegovina - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bih.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Montenegro - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mne.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Bosnia and Herzegovina - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bosinia-and-herzegovina-travel-advisory.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Guyana - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.guy.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Albania - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.alb.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Israel - Level 3: Reconsider Travel - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/israel-west-bank-and-gaza-travel-advisory.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "West Bank - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/west-bank.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Gaza - Level 4: Do Not Travel",
+          "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/Gaza.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Algeria - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dza.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Honduras - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.hnd.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Kosovo - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xks.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Sint Maarten - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sxm.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Turkmenistan - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tkm.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Lebanon - Level 4: Do Not Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Mozambique - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.moz.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Austria - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.aut.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Guadeloupe - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.glp.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Saint Barthelemy - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.blm.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Bonaire - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bes.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Saba and Sint Eustatius - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xqx.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Aruba - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.abw.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Martinique - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mtq.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Panama - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pan.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Paraguay - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pry.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Chile - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.chl.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Mauritania - Level 3: Reconsider Travel",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mrt.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Liechtenstein - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lie.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Ecuador - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ecu.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Bolivia - Level 2: Exercise Increased Caution",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bol.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        },
+        {
+          "title": "Australia - Level 1: Exercise Normal Precautions",
+          "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.aus.html",
+          "published_at": null,
+          "source": "US State Department Travel Advisories",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United States"
+        }
+      ],
+      "note": "Statements are attributed to their issuing body; news reports require verification."
+    },
+    "latency_ms": 476,
+    "region": "United States",
+    "last_success_at": "2026-10-12T11:51:55.232421+00:00"
+  },
+  "Jerusalem Post Headlines": {
+    "name": "Jerusalem Post Headlines",
+    "ok": true,
+    "signal": 0.35,
+    "details": {
+      "reports": 26,
+      "articles": [
+        {
+          "title": "Immigration Authority rejects German journalist's work visa application over anti-Zionist politics",
+          "url": "https://www.jpost.com/israel-news/article-911400",
+          "published_at": "2026-10-12T11:27:22+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Israel Police arrest Kfar Saba mayor, wife, and 15 others in major municipal corruption probe",
+          "url": "https://www.jpost.com/israel-news/crime-in-israel/article-911392",
+          "published_at": "2026-10-12T10:26:13+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Bennett's comments about sitting with Netanyahu in next gov't were 'unsuccesful irony,' Lapid says",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911408",
+          "published_at": "2026-10-12T11:41:05+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Trump, Rubio reportedly furious over misconduct allegations against US amb. to Greece Guilfoyle",
+          "url": "https://www.jpost.com/american-politics/article-911405",
+          "published_at": "2026-10-12T12:43:25+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Saudi Arabia needs allies against the Houthis, but will it turn to Israel? - analysis",
+          "url": "https://www.jpost.com/israel-news/article-911363",
+          "published_at": "2026-10-11T21:08:45+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "High Court seeks timeline for steps toward Palestinians’ return to northern West Bank camps",
+          "url": "https://www.jpost.com/israel-news/article-911386",
+          "published_at": "2026-10-12T08:55:04+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Board of Peace expects Gaza reconstruction to ramp up after Israeli election, US midterms - report",
+          "url": "https://www.jpost.com/middle-east/article-911389",
+          "published_at": "2026-10-12T09:49:58+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Iran launches drone strikes on Iranian Kurdish opposition camp in northern Iraq",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-911436",
+          "published_at": "2026-10-12T14:38:03+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Iraq targets lingering ISIS pockets with airstrikes, operations in security vacuum after US pullout",
+          "url": "https://www.jpost.com/middle-east/article-911425",
+          "published_at": "2026-10-12T13:24:07+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Pakistani physics gold medalist’s death sparks fraud investigation over fake US scholarship",
+          "url": "https://www.jpost.com/international/article-911434",
+          "published_at": "2026-10-12T14:24:21+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Fourteen-year-old student opens fire with hunting rifle at French school, wounding two",
+          "url": "https://www.jpost.com/international/article-911435",
+          "published_at": "2026-10-12T14:24:35+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Where global leaders exchange ideas and shape policy",
+          "url": "https://www.jpost.com/conferences/article-910930",
+          "published_at": "2026-10-07T15:47:56+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "No. 1: Jared Kushner and Ivanka Trump: Remembering who brought the hostages home",
+          "url": "https://www.jpost.com/influencers-26/50jews-26/article-908121",
+          "published_at": "2026-09-10T18:30:47+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "No. 3: Gadi Eisenkot: Israel’s next prime minister?",
+          "url": "https://www.jpost.com/influencers-26/50jews-26/article-908126",
+          "published_at": "2026-09-10T18:30:27+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "No. 4: Naftali Bennett: The former PM seeking a comeback to ‘repair Israel’",
+          "url": "https://www.jpost.com/influencers-26/50jews-26/article-908128",
+          "published_at": "2026-09-10T18:30:17+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "No. 5: Ronald Lauder: Standing at the forefront of the fight against antisemitism",
+          "url": "https://www.jpost.com/influencers-26/50jews-26/article-908131",
+          "published_at": "2026-09-10T18:30:04+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "No. 2: Benjamin Netanyahu: Shaping Israel’s politics and global image for a generation",
+          "url": "https://www.jpost.com/influencers-26/50jews-26/article-908123",
+          "published_at": "2026-09-10T18:30:37+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Mandelblit says he would be surprised if prosecutors hid evidence in Netanyahu trial",
+          "url": "https://www.jpost.com/israel-news/article-911416",
+          "published_at": "2026-10-12T12:28:16+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "'Change the time': Netanyahu aide allegedly sought to alter October 7 call log, transcript shows",
+          "url": "https://www.jpost.com/israel-news/article-911384",
+          "published_at": "2026-10-12T08:59:23+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Knesset Speaker Amir Ohana urges Herzog to pardon Netanyahu in letter with no formal legal basis",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911404",
+          "published_at": "2026-10-12T11:33:29+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "High Court seeks timeline for steps toward Palestinians’ return to northern West Bank camps",
+          "url": "https://www.jpost.com/israel-news/article-911386",
+          "published_at": "2026-10-12T08:55:04+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Board of Peace expects Gaza reconstruction to ramp up after Israeli election, US midterms - report",
+          "url": "https://www.jpost.com/middle-east/article-911389",
+          "published_at": "2026-10-12T09:49:58+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "US-Israel relationship may be irreparably damaged, former Biden official warns",
+          "url": "https://www.jpost.com/israel-news/article-911368",
+          "published_at": "2026-10-11T22:05:31+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "The next generation of Israeli entrepreneurs is in defense tech - opinion",
+          "url": "https://www.jpost.com/defense-and-tech/article-911426",
+          "published_at": "2026-10-12T13:36:40+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Over 700 researchers attend computer science conference at BGU, celebrating 'golden age' of tech",
+          "url": "https://www.jpost.com/israel-news/article-911412",
+          "published_at": "2026-10-12T13:13:43+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "'I became paranoid': Flydubai passenger suspects crew members aided hijacker, calls for probe",
+          "url": "https://www.jpost.com/israel-news/article-911331",
+          "published_at": "2026-10-11T16:45:23+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        }
+      ],
+      "note": "Statements are attributed to their issuing body; news reports require verification."
+    },
+    "latency_ms": 540,
+    "region": "Israel",
+    "last_success_at": "2026-10-12T11:51:55.251080+00:00"
+  },
+  "UK Egypt Travel Advice": {
+    "name": "UK Egypt Travel Advice",
+    "ok": true,
+    "signal": 0.35,
+    "details": {
+      "reports": 1,
+      "articles": [
+        {
+          "title": "Egypt travel advice",
+          "url": "https://www.gov.uk/foreign-travel-advice/egypt.atom",
+          "published_at": "2026-08-04T10:10:57+00:00",
+          "source": "UK Egypt Travel Advice",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United Kingdom"
+        }
+      ],
+      "note": "Statements are attributed to their issuing body; news reports require verification."
+    },
+    "latency_ms": 618,
+    "region": "United Kingdom",
+    "last_success_at": "2026-10-12T11:51:55.410937+00:00"
+  },
+  "UK Iran Travel Advice": {
+    "name": "UK Iran Travel Advice",
+    "ok": true,
+    "signal": 0.35,
+    "details": {
+      "reports": 1,
+      "articles": [
+        {
+          "title": "Iran travel advice",
+          "url": "https://www.gov.uk/foreign-travel-advice/iran.atom",
+          "published_at": "2026-08-13T15:37:44+00:00",
+          "source": "UK Iran Travel Advice",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United Kingdom"
+        }
+      ],
+      "note": "Statements are attributed to their issuing body; news reports require verification."
+    },
+    "latency_ms": 655,
+    "region": "United Kingdom",
+    "last_success_at": "2026-10-12T11:51:55.413130+00:00"
+  },
+  "UK Israel Travel Advice": {
+    "name": "UK Israel Travel Advice",
+    "ok": true,
+    "signal": 0.35,
+    "details": {
+      "reports": 1,
+      "articles": [
+        {
+          "title": "Israel travel advice",
+          "url": "https://www.gov.uk/foreign-travel-advice/israel.atom",
+          "published_at": "2026-07-22T12:45:00+00:00",
+          "source": "UK Israel Travel Advice",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United Kingdom"
+        }
+      ],
+      "note": "Statements are attributed to their issuing body; news reports require verification."
+    },
+    "latency_ms": 881,
+    "region": "United Kingdom",
+    "last_success_at": "2026-10-12T11:51:55.673384+00:00"
   }
 }
