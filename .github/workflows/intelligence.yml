@@ -8,6 +8,7 @@ on:
       - 'intelligence_upgrade.py'
       - 'static/**'
       - 'publish_online.py'
+      - 'collect_money_watch.py'
       - 'collect_video_sources.py'
       - '.github/workflows/intelligence.yml'
   workflow_dispatch:
@@ -33,6 +34,9 @@ jobs:
         with:
           python-version: '3.12'
       - run: python publish_online.py
+      - name: Collect official foreign assistance
+        continue-on-error: true
+        run: python collect_money_watch.py
       - name: Collect video catalogue
         continue-on-error: true
         run: python collect_video_sources.py
