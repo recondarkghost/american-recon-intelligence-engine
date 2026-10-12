@@ -1,0 +1,728 @@
+{
+  "updated_at": "2026-10-12T13:10:19.849094+00:00",
+  "videos": [
+    {
+      "name": "Al Jazeera | 🔴 Al Jazeera English | Live",
+      "id": "gCNeDWCI0vo",
+      "region": "MIDDLE EAST",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 25.29,
+      "lng": 51.53,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "DW News | DW News livestream | Headline news from around the world",
+      "id": "LuKwFajn37U",
+      "region": "EUROPE",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 52.52,
+      "lng": 13.4,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "Sky News | Watch Sky News",
+      "id": "xDWQ3LkccY8",
+      "region": "EUROPE",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 51.51,
+      "lng": -0.13,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "CNA | [CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
+      "id": "XWq5kBlakcQ",
+      "region": "ASIA",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 1.35,
+      "lng": 103.82,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "NHK WORLD | LIVE: NHK WORLD-JAPAN News",
+      "id": "IimtbuqYIE8",
+      "region": "ASIA",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 35.68,
+      "lng": 139.69,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "ABC News | LIVE: ABC News Live - Monday, October 12",
+      "id": "KrRZuVZXUDI",
+      "region": "AMERICAS",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "CBS News | LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "id": "SGGJBg6wBDc",
+      "region": "AMERICAS",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "NBC News | LIVE: NBC News NOW - Oct. 12",
+      "id": "jeJ4kdpSCJk",
+      "region": "AMERICAS",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "Euronews | Euronews English Live",
+      "id": "pykpO5kQJ98",
+      "region": "EUROPE",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 45.76,
+      "lng": 4.84,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "NASA | Live Video from the International Space Station (Official NASA Stream)",
+      "id": "M3HKLzjvKPc",
+      "region": "AMERICAS",
+      "kind": "LIVE AT COLLECTION / broadcaster",
+      "lat": 38.91,
+      "lng": -77.04,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": true
+    },
+    {
+      "name": "Euronews | Can sustainable fashion tackle the industry's overproduction problem?",
+      "id": "yU530Vul01Y",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 45.76,
+      "lng": 4.84,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T13:09:15+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "CNA | Thailand hosts IMF-World Bank annual meeting",
+      "id": "cXbsDmIjD5U",
+      "region": "ASIA",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 1.35,
+      "lng": 103.82,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T13:03:23+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Euronews | Gijs de Best urges shared enforcement to curb illicit trade",
+      "id": "pjjPfs4WrTY",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 45.76,
+      "lng": 4.84,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T13:01:33+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Euronews | On Agios Efstratios, each kilowatt-hour of electricity is cheaper thanks to renewable energy",
+      "id": "HFK-55wNHnI",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 45.76,
+      "lng": 4.84,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T13:01:30+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Euronews | Agios Efstratios: the first Greek island to get all its electricity from renewables",
+      "id": "xFgdmRRAclQ",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 45.76,
+      "lng": 4.84,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T13:00:30+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Bloomberg | Oil Swings on Russia-Ukraine Progress, Saudi Attacks",
+      "id": "YaTCtwrc4lI",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:56:47+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "CNA | Pakistan politics: Hundreds from ex-PM Khan's party detained",
+      "id": "AEgToz5ZdFU",
+      "region": "ASIA",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 1.35,
+      "lng": 103.82,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:53:06+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Bloomberg | Russia Sanctions Must Stay in Place, Says Dutch Defense Minister",
+      "id": "cdI2-IDytBo",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:52:10+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Bloomberg | Russia Diesel Deal, Energy Ceasefire ‘Extremely Desperate,’ Sen Says",
+      "id": "4uJsgmw_HVU",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:52:02+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Sky News | Exclusive: The Burnham devolution plan revealed",
+      "id": "L6BHLRE5syA",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 51.51,
+      "lng": -0.13,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:43:46+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "CNA | India protests: Opposition parties march to Supreme Court against election chief",
+      "id": "ECkht3LLJOQ",
+      "region": "ASIA",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 1.35,
+      "lng": 103.82,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:41:06+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "ABC News | U.S. weighs response to deadly attack on Saudi airport",
+      "id": "0iYevnk76Lw",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:32:33+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Bloomberg | Inside Bloomberg’s New Economy Forum Preparations",
+      "id": "sIy5nlMIuUk",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:27:14+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Sky News | On mountain patrol with Kurdistan's anti-drug forces",
+      "id": "6HjFU7rVjA0",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 51.51,
+      "lng": -0.13,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:17:59+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Al Jazeera | Global energy sector under pressure | Talk to Al Jazeera",
+      "id": "vUd73EbNjMw",
+      "region": "MIDDLE EAST",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 25.29,
+      "lng": 51.53,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:17:37+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Al Jazeera | Nepal floods: Oxfam warns communities fear more monsoon disasters",
+      "id": "-M4mnDmlqqY",
+      "region": "MIDDLE EAST",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 25.29,
+      "lng": 51.53,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:15:26+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "CNA | Over 100 foreign trekkers stranded as Nepal floods wash away trails and bridges",
+      "id": "d2BPV4r_9cM",
+      "region": "ASIA",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 1.35,
+      "lng": 103.82,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:09:51+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Sky News | Kurdish forces step up efforts to prevent the region being used as a corridor for narcotics",
+      "id": "TaE-q2GPdCg",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 51.51,
+      "lng": -0.13,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T12:00:36+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "ABC News | Reactions to Trump’s agreement with Russia and calls for new leadership in Ukraine",
+      "id": "ggRbknHHKOg",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T11:51:54+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "ABC News | Good Morning America: News to start your day | October 12",
+      "id": "rS9fHVyIer8",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T11:47:05+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Al Jazeera | Iraq turns to Syria for fuel as Strait of Hormuz disruptions bite",
+      "id": "LOtr4Nlt5yc",
+      "region": "MIDDLE EAST",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 25.29,
+      "lng": 51.53,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T11:45:05+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "DW News | Russian attacks continue despite Trump’s ‘energy ceasefire’ | DW News",
+      "id": "oxS05_SogAE",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 52.52,
+      "lng": 13.4,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T11:44:09+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Sky News | NATO chief sends warning to Russia amid threat",
+      "id": "CeKnq5HF0To",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 51.51,
+      "lng": -0.13,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T11:42:26+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "Al Jazeera | Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
+      "id": "2K2qnag7aOU",
+      "region": "MIDDLE EAST",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 25.29,
+      "lng": 51.53,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T11:15:20+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "CBS News | Inside Scotland's anti-migrant backlash",
+      "id": "Kuvc1N5DvT0",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T11:02:29+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "NBC News | New video shows deadly attack on Riyadh's airport",
+      "id": "PlYFfeyRqWk",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T10:58:50+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "NBC News | Tropical Storm Rachel brings powerful waves to California",
+      "id": "h2WHWo9GuN0",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T09:35:01+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "DW News | They served the Iranian regime: Now they're exposing it | DW News",
+      "id": "Xvl1UpLx3Nc",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 52.52,
+      "lng": 13.4,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T09:33:28+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "NHK WORLD | Gunma: Kusatsu Onsen and Daruma Dolls - A Cat's-Eye View of Japan",
+      "id": "sJSGqa7RahQ",
+      "region": "ASIA",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 35.68,
+      "lng": 139.69,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T09:30:00+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "DW News | Cooling gets a high-tech magnetic makeover | DW News",
+      "id": "67JdKZMDvm4",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 52.52,
+      "lng": 13.4,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T08:52:47+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "DW News | Over 130 dead after migrant boat capsizes off Djibouti coast | DW News",
+      "id": "OxHj9emU_xI",
+      "region": "EUROPE",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 52.52,
+      "lng": 13.4,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T08:18:27+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "NBC News | DOJ investigates TV networks over Trump pool coverage",
+      "id": "atbqxMN86-E",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T07:38:51+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "NHK WORLD | 'Dress like a Museum Exhibit' contest breathes new life into Korean relicsーNHK WORLD-JAPAN NEWS",
+      "id": "HmzY5CMPJDE",
+      "region": "ASIA",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 35.68,
+      "lng": 139.69,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T03:00:19+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "NHK WORLD | Preserving culture through textilesーNHK WORLD-JAPAN NEWS",
+      "id": "0LNChXdFhpI",
+      "region": "ASIA",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 35.68,
+      "lng": 139.69,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T03:00:02+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "CBS News | Details ahead of Pope Leo's surgery",
+      "id": "_gfQ-7tqK0Q",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T00:46:34+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "CBS News | Tropical Storm Rachel remnants soak West",
+      "id": "GuFp3Jddn1Q",
+      "region": "AMERICAS",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 40.71,
+      "lng": -74.01,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-12T00:44:52+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    },
+    {
+      "name": "NHK WORLD | China's Aspiring AI Entrepreneurs - Asia Insight",
+      "id": "ajjzoRaDJKU",
+      "region": "ASIA",
+      "kind": "RECENT VIDEO / live status unverified",
+      "lat": 35.68,
+      "lng": 139.69,
+      "locationLabel": "Publisher origin; not footage location",
+      "published_at": "2026-10-11T02:30:24+00:00",
+      "checked_at": "2026-10-12T13:10:19.849094+00:00",
+      "live": false
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "France 24",
+      "videos": 0,
+      "errors": [
+        "Live check: HTTP Error 404: Not Found",
+        "Recent videos: HTTP Error 404: Not Found"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "videos": 5,
+      "errors": []
+    },
+    {
+      "source": "DW News",
+      "videos": 5,
+      "errors": []
+    },
+    {
+      "source": "Sky News",
+      "videos": 5,
+      "errors": []
+    },
+    {
+      "source": "CNA",
+      "videos": 5,
+      "errors": []
+    },
+    {
+      "source": "NHK WORLD",
+      "videos": 5,
+      "errors": []
+    },
+    {
+      "source": "ABC News",
+      "videos": 4,
+      "errors": []
+    },
+    {
+      "source": "CBS News",
+      "videos": 4,
+      "errors": []
+    },
+    {
+      "source": "NBC News",
+      "videos": 4,
+      "errors": []
+    },
+    {
+      "source": "Bloomberg",
+      "videos": 4,
+      "errors": [
+        "Live check: The read operation timed out"
+      ]
+    },
+    {
+      "source": "Euronews",
+      "videos": 5,
+      "errors": []
+    },
+    {
+      "source": "NASA",
+      "videos": 1,
+      "errors": []
+    },
+    {
+      "source": "DW / Germany",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "France 24 / France",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "ABC / Australia",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "CNA / Singapore",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "Euronews / Europe",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "CBC / Canada",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "BBC Middle East",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "Sky News World",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "Times of Israel",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "Jerusalem Post Headlines",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "UK prime minister decisions",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "UK defence decisions",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "European Central Bank decisions",
+      "videos": 0,
+      "errors": [
+        "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issue"
+      ]
+    },
+    {
+      "source": "IAEA nuclear updates",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "US State Department Travel Advisories",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "UK Iran Travel Advice",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "UK Israel Travel Advice",
+      "videos": 0,
+      "errors": []
+    },
+    {
+      "source": "UK Egypt Travel Advice",
+      "videos": 0,
+      "errors": []
+    }
+  ]
+}

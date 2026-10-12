@@ -8,6 +8,7 @@ on:
       - 'intelligence_upgrade.py'
       - 'static/**'
       - 'publish_online.py'
+      - 'collect_video_sources.py'
       - '.github/workflows/intelligence.yml'
   workflow_dispatch:
   schedule:
@@ -32,6 +33,9 @@ jobs:
         with:
           python-version: '3.12'
       - run: python publish_online.py
+      - name: Collect video catalogue
+       continue-on-error: true
+       run: python collect_video_sources.py
       - name: Preserve forecast ledger
         run: |
           git config user.name 'github-actions[bot]'
