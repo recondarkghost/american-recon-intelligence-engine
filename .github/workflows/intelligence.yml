@@ -8,6 +8,7 @@ on:
       - 'intelligence_upgrade.py'
       - 'static/**'
       - 'publish_online.py'
+      - 'collect_us_watch.py'
       - 'collect_money_watch.py'
       - 'collect_video_sources.py'
       - '.github/workflows/intelligence.yml'
@@ -34,6 +35,9 @@ jobs:
         with:
           python-version: '3.12'
       - run: python publish_online.py
+      - name: Collect U.S. cyber and unrest reports
+       continue-on-error: true
+       run: python collect_us_watch.py
       - name: Collect official foreign assistance
         continue-on-error: true
         run: python collect_money_watch.py
