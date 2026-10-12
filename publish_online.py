@@ -53,7 +53,7 @@ html = html.replace("Collect new data now", "Load latest published data")
 html = html.replace("Could not reach local engine", "Could not load published data")
 html = html.replace(
     '<div class="notice">',
-    '<div class="notice">Online collection is scheduled every 15 minutes; runs may be delayed. This button loads the latest published collection.<br>'
+    '<div class="notice">Online collection is scheduled every 10 minutes; runs may be delayed. This button loads the latest published collection.<br>'
 )
 html = html.replace(
     "Math.round((1-data.metrics.brier_score)*100)+'%'",

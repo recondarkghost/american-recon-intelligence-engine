@@ -48,6 +48,12 @@ def install(engine):
   result['region']=REGIONS.get(name,'Global / United States')
   if result['ok']:
    for a in result.get('details',{}).get('articles',[]):a['country']=result['region']
+   detected_at=engine.utc_now().isoformat()
+   previous_articles={a.get('url'):a for a in cache.get(name,{}).get('details',{}).get('articles',[])}
+   for article in result.get('details',{}).get('articles',[]):
+       prior=previous_articles.get(article.get('url'),{})
+       article['first_detected_at']=prior.get('first_detected_at') or detected_at
+       article['last_seen_at']=detected_at
    result['last_success_at']=engine.utc_now().isoformat()
    with lock:cache[name]=result.copy()
   else:
