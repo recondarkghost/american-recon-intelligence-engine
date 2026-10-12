@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 352,
+    "latency_ms": 417,
     "region": "United States",
-    "last_success_at": "2026-10-12T12:06:37.348751+00:00"
+    "last_success_at": "2026-10-12T12:18:16.717286+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 391,
+    "latency_ms": 483,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T12:06:37.365334+00:00"
+    "last_success_at": "2026-10-12T12:18:16.763966+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 399,
+    "latency_ms": 497,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T12:06:37.374248+00:00"
+    "last_success_at": "2026-10-12T12:18:16.778240+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,9 +455,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 427,
+    "latency_ms": 572,
     "region": "Global",
-    "last_success_at": "2026-10-12T12:06:37.411166+00:00"
+    "last_success_at": "2026-10-12T12:18:16.865049+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
@@ -680,9 +680,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 345,
+    "latency_ms": 447,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.345601+00:00"
+    "last_success_at": "2026-10-12T12:18:16.747257+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -691,6 +691,24 @@
     "details": {
       "reports": 25,
       "articles": [
+        {
+          "title": "Gaza: Still Reporting",
+          "url": "https://www.aljazeera.com/video/witness/2026/10/12/gaza-still-reporting?traffic_source=rss",
+          "published_at": "2026-10-12T12:00:00+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
+        {
+          "title": "Azerbaijan’s school hijab ban: What’s behind it, and what’s next?",
+          "url": "https://www.aljazeera.com/news/2026/10/12/azerbaijans-school-hijab-ban-whats-behind-it-and-whats-next?traffic_source=rss",
+          "published_at": "2026-10-12T11:59:24+00:00",
+          "source": "Al Jazeera world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "Qatar"
+        },
         {
           "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
           "url": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
@@ -903,31 +921,13 @@
           "kind": "News report",
           "topics": [],
           "country": "Qatar"
-        },
-        {
-          "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
-          "published_at": "2026-10-12T03:09:11+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
-        },
-        {
-          "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-          "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
-          "published_at": "2026-10-12T02:11:21+00:00",
-          "source": "Al Jazeera world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "Qatar"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 354,
+    "latency_ms": 577,
     "region": "Qatar",
-    "last_success_at": "2026-10-12T12:06:37.356501+00:00"
+    "last_success_at": "2026-10-12T12:18:16.890238+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -936,6 +936,35 @@
     "details": {
       "reports": 24,
       "articles": [
+        {
+          "title": "Citroën bets on nostalgia at Paris motor show amis struggling French sales",
+          "url": "https://www.france24.com/en/video/20261012-citro%C3%ABn-bets-on-nostalgia-at-paris-motor-show-amis-struggling-french-sales",
+          "published_at": "2026-10-12T12:15:40+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Striking images show new flash floods hitting central Nepal",
+          "url": "https://www.france24.com/en/striking-images-show-new-flash-floods-hitting-central-nepal",
+          "published_at": "2026-10-12T12:14:35+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [],
+          "country": "France"
+        },
+        {
+          "title": "Russian continues to strike Ukraine despite Trump's announcement of an 'energy ceasefire'",
+          "url": "https://www.france24.com/en/video/20261012-russian-continues-to-strike-ukraine-despite-trump-s-announcement-of-an-energy-ceasefire",
+          "published_at": "2026-10-12T12:12:51+00:00",
+          "source": "France 24 / France",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "France"
+        },
         {
           "title": "Inside Jeffrey Epstein's network: How favours, money and influence kept it running",
           "url": "https://www.france24.com/en/americas/20261012-inside-jeffrey-epstein-s-network-how-favours-money-and-influence-kept-it-running",
@@ -1130,42 +1159,13 @@
           "kind": "News report",
           "topics": [],
           "country": "France"
-        },
-        {
-          "title": "Fire burns down Paris's oldest covered food market",
-          "url": "https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market",
-          "published_at": "2026-10-12T08:02:55+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
-        },
-        {
-          "title": "Live: Top NATO military commander says a Russian attack would be 'utterly futile'",
-          "url": "https://www.france24.com/en/europe/20261012-live-oil-prices-fall-after-trump-unilaterally-announces-russia-ukraine-energy-ceasefire",
-          "published_at": "2026-10-12T05:29:41+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
-          "country": "France"
-        },
-        {
-          "title": "Opposition leaders and journalists allege police abuses as fresh protests break out in India",
-          "url": "https://www.france24.com/en/asia-pacific/20261012-opposition-leaders-and-journalists-allege-police-abuses-as-fresh-protests-break-out-in-india",
-          "published_at": "2026-10-12T04:33:41+00:00",
-          "source": "France 24 / France",
-          "kind": "News report",
-          "topics": [],
-          "country": "France"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 363,
+    "latency_ms": 2125,
     "region": "France",
-    "last_success_at": "2026-10-12T12:06:37.375693+00:00"
+    "last_success_at": "2026-10-12T12:18:18.447237+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1643,9 +1643,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 329,
+    "latency_ms": 545,
     "region": "Europe",
-    "last_success_at": "2026-10-12T12:06:37.358798+00:00"
+    "last_success_at": "2026-10-12T12:18:16.887548+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1655,9 +1655,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 487,
+    "latency_ms": 470,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T12:06:37.463655+00:00"
+    "last_success_at": "2026-10-12T12:18:16.752725+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1855,7 +1855,7 @@
         {
           "title": "Kremlin rejects 60-day truce offer and refuses to comment on Trump’s ‘energy ceasefire’ – Europe live",
           "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-          "published_at": "2026-10-12T11:39:13+00:00",
+          "published_at": "2026-10-12T11:58:57+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [
@@ -2092,9 +2092,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 276,
+    "latency_ms": 493,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.276818+00:00"
+    "last_success_at": "2026-10-12T12:18:16.794836+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2223,7 +2223,7 @@
           "country": "Australia"
         },
         {
-          "title": "Live: Renshaw dismissed with bizarre juggling take as Aussie lead passes 350",
+          "title": "Live: Australia sets South Africa 421 to win after explosive Cummins cameo",
           "url": "https://www.abc.net.au/news/2026-10-12/south-africa-australia-kingsmead-test-day-four-live-blog/107255926",
           "published_at": "2026-10-12T07:00:18+00:00",
           "source": "ABC / Australia",
@@ -2333,9 +2333,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 347,
+    "latency_ms": 618,
     "region": "Australia",
-    "last_success_at": "2026-10-12T12:06:37.360885+00:00"
+    "last_success_at": "2026-10-12T12:18:16.950359+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2530,9 +2530,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 351,
+    "latency_ms": 519,
     "region": "Singapore",
-    "last_success_at": "2026-10-12T12:06:37.380374+00:00"
+    "last_success_at": "2026-10-12T12:18:16.855756+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2543,9 +2543,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 526,
+    "latency_ms": 698,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T12:06:37.501321+00:00"
+    "last_success_at": "2026-10-12T12:18:16.979939+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -3103,9 +3103,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 315,
+    "latency_ms": 862,
     "region": "Germany",
-    "last_success_at": "2026-10-12T12:06:37.327074+00:00"
+    "last_success_at": "2026-10-12T12:18:17.181627+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
@@ -3115,9 +3115,9 @@
       "active_alerts": 256,
       "high_impact_alerts": 1
     },
-    "latency_ms": 581,
+    "latency_ms": 639,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T12:06:37.555453+00:00"
+    "last_success_at": "2026-10-12T12:18:16.918629+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3264,9 +3264,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 648,
+    "latency_ms": 1022,
     "region": "Euro area",
-    "last_success_at": "2026-10-12T12:06:37.709166+00:00"
+    "last_success_at": "2026-10-12T12:18:17.405000+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3422,9 +3422,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 895,
+    "latency_ms": 2152,
     "region": "International research",
-    "last_success_at": "2026-10-12T12:06:37.902312+00:00"
+    "last_success_at": "2026-10-12T12:18:18.468474+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3622,9 +3622,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 278,
+    "latency_ms": 379,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.336453+00:00"
+    "last_success_at": "2026-10-12T12:18:16.759288+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3818,9 +3818,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 421,
+    "latency_ms": 452,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.416487+00:00"
+    "last_success_at": "2026-10-12T12:18:16.751011+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4012,9 +4012,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 289,
+    "latency_ms": 568,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.341323+00:00"
+    "last_success_at": "2026-10-12T12:18:16.940658+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
@@ -4030,9 +4030,9 @@
         "Green flood alert in Nepal"
       ]
     },
-    "latency_ms": 2609,
+    "latency_ms": 2841,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T12:06:39.588046+00:00"
+    "last_success_at": "2026-10-12T12:18:19.129295+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4142,9 +4142,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 807,
+    "latency_ms": 1067,
     "region": "Africa",
-    "last_success_at": "2026-10-12T12:06:37.801450+00:00"
+    "last_success_at": "2026-10-12T12:18:17.362721+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4155,9 +4155,9 @@
       "added_last_30_days": 30,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 408,
+    "latency_ms": 714,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T12:06:37.388229+00:00"
+    "last_success_at": "2026-10-12T12:18:17.003043+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4361,9 +4361,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 296,
+    "latency_ms": 479,
     "region": "Canada",
-    "last_success_at": "2026-10-12T12:06:37.331049+00:00"
+    "last_success_at": "2026-10-12T12:18:16.825643+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -4376,6 +4376,28 @@
           "title": "Viet Nam Studies Water Resources Using Nuclear Techniques",
           "url": "http://www.iaea.org/newscenter/news/viet-nam-studies-water-resources-using-nuclear-techniques",
           "published_at": "2026-10-12T07:51:58+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA and OECD/NEA Release New Guide for Rating and Communicating Nuclear and Radiological Events",
+          "url": "http://www.iaea.org/newscenter/news/iaea-and-oecdnea-release-new-guide-for-rating-and-communicating-nuclear-and-radiological-events",
+          "published_at": "2026-10-12T03:14:00+00:00",
+          "source": "IAEA nuclear updates",
+          "kind": "Primary source",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Global"
+        },
+        {
+          "title": "IAEA and OECD/NEA Release New Guide for Rating and Communicating Nuclear and Radiological Events",
+          "url": "http://www.iaea.org/newscenter/news/iaea-and-oecdnea-release-new-guide-for-rating-and-communicating-nuclear-and-radiological-events",
+          "published_at": "2026-10-12T03:14:00+00:00",
           "source": "IAEA nuclear updates",
           "kind": "Primary source",
           "topics": [
@@ -4925,31 +4947,13 @@
             "conflict"
           ],
           "country": "Global"
-        },
-        {
-          "title": "Isotope Hydrology Symposium Call for Abstracts",
-          "url": "http://www.iaea.org/newscenter/news/isotope-hydrology-symposium-call-for-abstracts",
-          "published_at": "2026-09-10T10:40:25+00:00",
-          "source": "IAEA nuclear updates",
-          "kind": "Primary source",
-          "topics": [],
-          "country": "Global"
-        },
-        {
-          "title": "What You Need to Know about the IAEA General Conference",
-          "url": "http://www.iaea.org/newscenter/news/what-you-need-to-know-about-the-iaea-general-conference",
-          "published_at": "2026-09-10T06:30:05+00:00",
-          "source": "IAEA nuclear updates",
-          "kind": "Primary source",
-          "topics": [],
-          "country": "Global"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 362,
+    "latency_ms": 677,
     "region": "Global",
-    "last_success_at": "2026-10-12T12:06:37.428226+00:00"
+    "last_success_at": "2026-10-12T12:18:17.062932+00:00"
   },
   "Sky News World": {
     "name": "Sky News World",
@@ -5006,7 +5010,7 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Pope Leo to undergo surgery in coming days after nodule discovered on his lung",
+          "title": "Pope Leo to be admitted to hospital on Tuesday after nodule discovered on his lung",
           "url": "https://news.sky.com/story/pope-leo-to-undergo-surgery-in-coming-days-after-nodule-discovered-on-his-lung-13597712",
           "published_at": "2026-10-11T10:25:00+00:00",
           "source": "Sky News World",
@@ -5017,9 +5021,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 334,
+    "latency_ms": 814,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.373425+00:00"
+    "last_success_at": "2026-10-12T12:18:17.169147+00:00"
   },
   "BBC Middle East": {
     "name": "BBC Middle East",
@@ -5354,9 +5358,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 399,
+    "latency_ms": 587,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.434234+00:00"
+    "last_success_at": "2026-10-12T12:18:16.937917+00:00"
   },
   "US State Department Travel Advisories": {
     "name": "US State Department Travel Advisories",
@@ -5908,9 +5912,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 391,
+    "latency_ms": 933,
     "region": "United States",
-    "last_success_at": "2026-10-12T12:06:37.461885+00:00"
+    "last_success_at": "2026-10-12T12:18:17.328250+00:00"
   },
   "Jerusalem Post Headlines": {
     "name": "Jerusalem Post Headlines",
@@ -5923,6 +5927,15 @@
           "title": "Two-state solution a 'trap we set for Israel,' Lebanon-based Fatah official brags",
           "url": "https://www.jpost.com/middle-east/article-911419",
           "published_at": "2026-10-12T12:42:17+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "Some 12 wounded in explosion of unknown ordnance near Lebanese border",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-911444",
+          "published_at": "2026-10-12T15:12:37+00:00",
           "source": "Jerusalem Post Headlines",
           "kind": "News report",
           "topics": [],
@@ -5953,17 +5966,6 @@
           "source": "Jerusalem Post Headlines",
           "kind": "News report",
           "topics": [],
-          "country": "Israel"
-        },
-        {
-          "title": "EU establishes new support mission in Lebanon, advisory to military forces",
-          "url": "https://www.jpost.com/international/article-911431",
-          "published_at": "2026-10-12T14:07:32+00:00",
-          "source": "Jerusalem Post Headlines",
-          "kind": "News report",
-          "topics": [
-            "conflict"
-          ],
           "country": "Israel"
         },
         {
@@ -6158,9 +6160,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 513,
+    "latency_ms": 605,
     "region": "Israel",
-    "last_success_at": "2026-10-12T12:06:37.563440+00:00"
+    "last_success_at": "2026-10-12T12:18:16.974096+00:00"
   },
   "UK Egypt Travel Advice": {
     "name": "UK Egypt Travel Advice",
@@ -6181,9 +6183,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 445,
+    "latency_ms": 932,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.565656+00:00"
+    "last_success_at": "2026-10-12T12:18:17.335060+00:00"
   },
   "UK Iran Travel Advice": {
     "name": "UK Iran Travel Advice",
@@ -6204,9 +6206,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 235,
+    "latency_ms": 928,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.355180+00:00"
+    "last_success_at": "2026-10-12T12:18:17.329881+00:00"
   },
   "UK Israel Travel Advice": {
     "name": "UK Israel Travel Advice",
@@ -6227,8 +6229,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 201,
+    "latency_ms": 782,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T12:06:37.321977+00:00"
+    "last_success_at": "2026-10-12T12:18:17.184509+00:00"
   }
 }
