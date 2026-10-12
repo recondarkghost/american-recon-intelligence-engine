@@ -17,6 +17,15 @@ REGIONS={'BBC world news':'United Kingdom','Guardian world news':'United Kingdom
 NEWS += [('CBC / Canada','https://www.cbc.ca/webfeed/rss/rss-world','Canada')]
 OFFICIAL += [('IAEA nuclear updates','https://www.iaea.org/feeds/news','Global')]
 
+NEWS += [('BBC Middle East', 'https://feeds.bbci.co.uk/news/world/middle_east/rss.xml', 'United Kingdom')]
+NEWS += [('Sky News World', 'https://feeds.skynews.com/feeds/rss/world.xml', 'United Kingdom')]
+NEWS += [('Times of Israel', 'https://www.timesofisrael.com/feed/', 'Israel')]
+NEWS += [('Jerusalem Post Headlines', 'https://www.jpost.com/Rss/RssFeedsFrontPage.aspx', 'Israel')]
+OFFICIAL += [('US State Department Travel Advisories', 'https://travel.state.gov/_res/rss/TAsTWs.xml', 'United States')]
+OFFICIAL += [('UK Iran Travel Advice', 'https://www.gov.uk/foreign-travel-advice/iran.atom', 'United Kingdom')]
+OFFICIAL += [('UK Israel Travel Advice', 'https://www.gov.uk/foreign-travel-advice/israel.atom', 'United Kingdom')]
+OFFICIAL += [('UK Egypt Travel Advice', 'https://www.gov.uk/foreign-travel-advice/egypt.atom', 'United Kingdom')]
+
 def install(engine):
  cache_path=engine.ROOT/'state'/'source_cache.json'
  try:cache=json.loads(cache_path.read_text(encoding='utf-8-sig'))
