@@ -189,9 +189,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 419,
+    "latency_ms": 352,
     "region": "United States",
-    "last_success_at": "2026-10-12T11:51:55.042570+00:00"
+    "last_success_at": "2026-10-12T12:06:37.348751+00:00"
   },
   "USGS earthquakes": {
     "name": "USGS earthquakes",
@@ -202,9 +202,9 @@
       "magnitude_6_week": 5,
       "largest_magnitude": 7.7
     },
-    "latency_ms": 601,
+    "latency_ms": 391,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T11:51:55.203315+00:00"
+    "last_success_at": "2026-10-12T12:06:37.365334+00:00"
   },
   "NOAA space weather": {
     "name": "NOAA space weather",
@@ -214,9 +214,9 @@
       "recent_max_kp": 7.0,
       "scale": "0 quiet to 9 extreme"
     },
-    "latency_ms": 674,
+    "latency_ms": 399,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T11:51:55.276834+00:00"
+    "last_success_at": "2026-10-12T12:06:37.374248+00:00"
   },
   "WHO global health": {
     "name": "WHO global health",
@@ -455,16 +455,16 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 659,
+    "latency_ms": 427,
     "region": "Global",
-    "last_success_at": "2026-10-12T11:51:55.268342+00:00"
+    "last_success_at": "2026-10-12T12:06:37.411166+00:00"
   },
   "BBC world news": {
     "name": "BBC world news",
     "ok": true,
     "signal": 0.35,
     "details": {
-      "reports": 22,
+      "reports": 23,
       "articles": [
         {
           "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -506,6 +506,15 @@
           "title": "Pupil arrested after two teachers shot at French school",
           "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-12T10:33:28+00:00",
+          "source": "BBC world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
+          "title": "Tom Cruise film Digger could lose $245m at box office",
+          "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-12T11:29:18+00:00",
           "source": "BBC world news",
           "kind": "News report",
           "topics": [],
@@ -671,9 +680,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 411,
+    "latency_ms": 345,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.041092+00:00"
+    "last_success_at": "2026-10-12T12:06:37.345601+00:00"
   },
   "Al Jazeera world news": {
     "name": "Al Jazeera world news",
@@ -916,9 +925,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 440,
+    "latency_ms": 354,
     "region": "Qatar",
-    "last_success_at": "2026-10-12T11:51:55.073551+00:00"
+    "last_success_at": "2026-10-12T12:06:37.356501+00:00"
   },
   "France 24 / France": {
     "name": "France 24 / France",
@@ -1154,9 +1163,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 533,
+    "latency_ms": 363,
     "region": "France",
-    "last_success_at": "2026-10-12T11:51:55.185993+00:00"
+    "last_success_at": "2026-10-12T12:06:37.375693+00:00"
   },
   "Euronews / Europe": {
     "name": "Euronews / Europe",
@@ -1634,9 +1643,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 397,
+    "latency_ms": 329,
     "region": "Europe",
-    "last_success_at": "2026-10-12T11:51:55.077707+00:00"
+    "last_success_at": "2026-10-12T12:06:37.358798+00:00"
   },
   "World Bank economy": {
     "name": "World Bank economy",
@@ -1646,9 +1655,9 @@
       "latest_gdp_growth_percent": 2.16,
       "year": "2025"
     },
-    "latency_ms": 619,
+    "latency_ms": 487,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T11:51:55.222992+00:00"
+    "last_success_at": "2026-10-12T12:06:37.463655+00:00"
   },
   "Guardian world news": {
     "name": "Guardian world news",
@@ -1891,6 +1900,15 @@
           "country": "United Kingdom"
         },
         {
+          "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+          "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+          "published_at": "2026-10-12T11:49:34+00:00",
+          "source": "Guardian world news",
+          "kind": "News report",
+          "topics": [],
+          "country": "United Kingdom"
+        },
+        {
           "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
           "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
           "published_at": "2026-10-11T22:28:50+00:00",
@@ -1923,15 +1941,6 @@
           "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
           "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
           "published_at": "2026-10-10T23:37:27+00:00",
-          "source": "Guardian world news",
-          "kind": "News report",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
-          "title": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
-          "url": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
-          "published_at": "2026-10-10T16:52:15+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -1991,7 +2000,7 @@
         {
           "title": "Burnham a ‘liar’ over Russian interference in Brexit campaign, says Farage – UK politics live",
           "url": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
-          "published_at": "2026-10-12T11:36:50+00:00",
+          "published_at": "2026-10-12T11:51:39+00:00",
           "source": "Guardian world news",
           "kind": "News report",
           "topics": [],
@@ -2034,7 +2043,7 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Zelenskyy blindsided after Trump announces ‘energy ceasefire’ in Ukraine war | | First Thing",
+          "title": "Zelenskyy blindsided after Trump announces ‘energy ceasefire’ in Ukraine war | First Thing",
           "url": "https://www.theguardian.com/us-news/2026/oct/12/first-thing-zelenskyy-blindsided-trump-announces-energy-ceasefire-ukraine-war-russia",
           "published_at": "2026-10-12T11:38:00+00:00",
           "source": "Guardian world news",
@@ -2083,9 +2092,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 415,
+    "latency_ms": 276,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.045784+00:00"
+    "last_success_at": "2026-10-12T12:06:37.276818+00:00"
   },
   "ABC / Australia": {
     "name": "ABC / Australia",
@@ -2214,7 +2223,7 @@
           "country": "Australia"
         },
         {
-          "title": "Live: Renshaw showing the way as lead ticks over 350 on day four in Durban",
+          "title": "Live: Renshaw dismissed with bizarre juggling take as Aussie lead passes 350",
           "url": "https://www.abc.net.au/news/2026-10-12/south-africa-australia-kingsmead-test-day-four-live-blog/107255926",
           "published_at": "2026-10-12T07:00:18+00:00",
           "source": "ABC / Australia",
@@ -2324,9 +2333,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 585,
+    "latency_ms": 347,
     "region": "Australia",
-    "last_success_at": "2026-10-12T11:51:55.256665+00:00"
+    "last_success_at": "2026-10-12T12:06:37.360885+00:00"
   },
   "CNA / Singapore": {
     "name": "CNA / Singapore",
@@ -2335,6 +2344,33 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Crowd trouble at Anfield leads to arrests and injured police officer",
+          "url": "https://www.channelnewsasia.com/sport/crowd-trouble-anfield-leads-arrests-and-injured-police-officer-6452936",
+          "published_at": "2026-10-12T11:57:47+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "Osasuna sack Ramis, Arrasate returns as manager",
+          "url": "https://www.channelnewsasia.com/sport/osasuna-sack-ramis-arrasate-returns-manager-6452941",
+          "published_at": "2026-10-12T11:56:24+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
+        {
+          "title": "CNA Explains: Why PSI and AQI readings differ - and which one should you follow during haze season?",
+          "url": "https://www.channelnewsasia.com/singapore/haze-psi-aqi-air-quality-pm25-6452896",
+          "published_at": "2026-10-12T11:55:42+00:00",
+          "source": "CNA / Singapore",
+          "kind": "News report",
+          "topics": [],
+          "country": "Singapore"
+        },
         {
           "title": "UN refugee agency's funding shortfall is impacting refugees worldwide, its chief says",
           "url": "https://www.channelnewsasia.com/world/un-refugee-agency-funding-shortfall-6452876",
@@ -2490,40 +2526,13 @@
             "economy"
           ],
           "country": "Singapore"
-        },
-        {
-          "title": "Riyadh airport extends suspension after weekend attacks",
-          "url": "https://www.channelnewsasia.com/world/riyadh-airport-cancel-flights-houthi-attacks-saudi-6452381",
-          "published_at": "2026-10-12T08:56:46+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "MAS tightens financial roadshow guidelines, representatives must get consent before sales pitches",
-          "url": "https://www.channelnewsasia.com/singapore/financial-roadshow-rules-sales-pitches-mas-6452236",
-          "published_at": "2026-10-12T08:54:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
-        },
-        {
-          "title": "Man devised 'deliberate scheme' to rent home without paying through shell company, sued elderly landlords",
-          "url": "https://www.channelnewsasia.com/singapore/anthony-price-deliberate-scheme-rent-home-free-6451681",
-          "published_at": "2026-10-12T08:40:00+00:00",
-          "source": "CNA / Singapore",
-          "kind": "News report",
-          "topics": [],
-          "country": "Singapore"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 533,
+    "latency_ms": 351,
     "region": "Singapore",
-    "last_success_at": "2026-10-12T11:51:55.210304+00:00"
+    "last_success_at": "2026-10-12T12:06:37.380374+00:00"
   },
   "BLS economy": {
     "name": "BLS economy",
@@ -2534,9 +2543,9 @@
       "cpi_yoy_percent": 3.4,
       "observation_month": "(2026, 9)"
     },
-    "latency_ms": 635,
+    "latency_ms": 526,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T11:51:55.238334+00:00"
+    "last_success_at": "2026-10-12T12:06:37.501321+00:00"
   },
   "DW / Germany": {
     "name": "DW / Germany",
@@ -2545,6 +2554,17 @@
     "details": {
       "reports": 136,
       "articles": [
+        {
+          "title": "Ukraine: Zelenskyy accuses Russia of ceasefire violations",
+          "url": "https://www.dw.com/en/ukraine-zelenskyy-accuses-russia-of-ceasefire-violations/a-79640911?maca=en-rss-en-all-1573-rdf",
+          "published_at": "2026-10-12T11:54:00+00:00",
+          "source": "DW / Germany",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
+          "country": "Germany"
+        },
         {
           "title": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
           "url": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-rdf",
@@ -3079,34 +3099,25 @@
           "kind": "News report",
           "topics": [],
           "country": "Germany"
-        },
-        {
-          "title": "Paramount and Warner Bros merge into one Hollywood giant",
-          "url": "https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf",
-          "published_at": "2026-10-06T14:18:00+00:00",
-          "source": "DW / Germany",
-          "kind": "News report",
-          "topics": [],
-          "country": "Germany"
         }
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 485,
+    "latency_ms": 315,
     "region": "Germany",
-    "last_success_at": "2026-10-12T11:51:55.134158+00:00"
+    "last_success_at": "2026-10-12T12:06:37.327074+00:00"
   },
   "NWS weather alerts": {
     "name": "NWS weather alerts",
     "ok": true,
-    "signal": 0.5444444444444445,
+    "signal": 0.4822222222222222,
     "details": {
-      "active_alerts": 260,
-      "high_impact_alerts": 2
+      "active_alerts": 256,
+      "high_impact_alerts": 1
     },
-    "latency_ms": 746,
+    "latency_ms": 581,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T11:51:55.347838+00:00"
+    "last_success_at": "2026-10-12T12:06:37.555453+00:00"
   },
   "European Central Bank decisions": {
     "name": "European Central Bank decisions",
@@ -3253,9 +3264,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 805,
+    "latency_ms": 648,
     "region": "Euro area",
-    "last_success_at": "2026-10-12T11:51:55.524492+00:00"
+    "last_success_at": "2026-10-12T12:06:37.709166+00:00"
   },
   "Medical research / PubMed": {
     "name": "Medical research / PubMed",
@@ -3411,9 +3422,9 @@
       ],
       "note": "Research publication does not establish clinical effectiveness; does not increase outbreak risk."
     },
-    "latency_ms": 1074,
+    "latency_ms": 895,
     "region": "International research",
-    "last_success_at": "2026-10-12T11:51:55.714557+00:00"
+    "last_success_at": "2026-10-12T12:06:37.902312+00:00"
   },
   "UK defence decisions": {
     "name": "UK defence decisions",
@@ -3611,9 +3622,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 623,
+    "latency_ms": 278,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.337124+00:00"
+    "last_success_at": "2026-10-12T12:06:37.336453+00:00"
   },
   "UK foreign policy": {
     "name": "UK foreign policy",
@@ -3622,6 +3633,15 @@
     "details": {
       "reports": 20,
       "articles": [
+        {
+          "title": "Eritrea travel advice",
+          "url": "https://www.gov.uk/foreign-travel-advice/eritrea",
+          "published_at": "2026-10-12T11:48:05+00:00",
+          "source": "UK foreign policy",
+          "kind": "Primary source",
+          "topics": [],
+          "country": "United Kingdom"
+        },
         {
           "title": "Solomon Islands travel advice",
           "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands",
@@ -3749,15 +3769,6 @@
           "country": "United Kingdom"
         },
         {
-          "title": "Eritrea travel advice",
-          "url": "https://www.gov.uk/foreign-travel-advice/eritrea",
-          "published_at": "2026-10-09T09:14:54+00:00",
-          "source": "UK foreign policy",
-          "kind": "Primary source",
-          "topics": [],
-          "country": "United Kingdom"
-        },
-        {
           "title": "Transparency data: List of Foreign, Commonwealth & Development Office posts abroad",
           "url": "https://www.gov.uk/government/publications/list-of-foreign-office-posts",
           "published_at": "2026-10-09T09:07:31+00:00",
@@ -3807,9 +3818,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 713,
+    "latency_ms": 421,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.333870+00:00"
+    "last_success_at": "2026-10-12T12:06:37.416487+00:00"
   },
   "UK prime minister decisions": {
     "name": "UK prime minister decisions",
@@ -4001,27 +4012,27 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 611,
+    "latency_ms": 289,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.325049+00:00"
+    "last_success_at": "2026-10-12T12:06:37.341323+00:00"
   },
   "GDACS global disasters": {
     "name": "GDACS global disasters",
     "ok": true,
     "signal": 1.0,
     "details": {
-      "active_global_items": 254,
+      "active_global_items": 255,
       "examples": [
+        "Green earthquake (Magnitude 5.7M, Depth:10km) in Mid-Indian Ridge 12/10/2026 11:28 UTC, [unknown].",
         "Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.",
         "Green notification for tropical cyclone TWENTYEIGHT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "Green earthquake (Magnitude 6.2M, Depth:53.473km) in Papua New Guinea 11/10/2026 14:07 UTC, 3 thousand in MMI V.",
-        "Green flood alert in Nepal",
-        "Green forest fire notification in Mongolia, China"
+        "Green flood alert in Nepal"
       ]
     },
-    "latency_ms": 2096,
+    "latency_ms": 2609,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T11:51:56.702902+00:00"
+    "last_success_at": "2026-10-12T12:06:39.588046+00:00"
   },
   "WHO Africa health": {
     "name": "WHO Africa health",
@@ -4131,9 +4142,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 803,
+    "latency_ms": 807,
     "region": "Africa",
-    "last_success_at": "2026-10-12T11:51:55.418954+00:00"
+    "last_success_at": "2026-10-12T12:06:37.801450+00:00"
   },
   "CISA known-exploited vulnerabilities": {
     "name": "CISA known-exploited vulnerabilities",
@@ -4144,9 +4155,9 @@
       "added_last_30_days": 30,
       "note": "CISA KEV records exploited vulnerabilities; it does not confirm a U.S. target attack."
     },
-    "latency_ms": 730,
+    "latency_ms": 408,
     "region": "Global / United States",
-    "last_success_at": "2026-10-12T11:51:55.339089+00:00"
+    "last_success_at": "2026-10-12T12:06:37.388229+00:00"
   },
   "CBC / Canada": {
     "name": "CBC / Canada",
@@ -4350,9 +4361,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 401,
+    "latency_ms": 296,
     "region": "Canada",
-    "last_success_at": "2026-10-12T11:51:55.082082+00:00"
+    "last_success_at": "2026-10-12T12:06:37.331049+00:00"
   },
   "IAEA nuclear updates": {
     "name": "IAEA nuclear updates",
@@ -4936,9 +4947,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 554,
+    "latency_ms": 362,
     "region": "Global",
-    "last_success_at": "2026-10-12T11:51:55.278514+00:00"
+    "last_success_at": "2026-10-12T12:06:37.428226+00:00"
   },
   "Sky News World": {
     "name": "Sky News World",
@@ -5006,9 +5017,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 442,
+    "latency_ms": 334,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.139521+00:00"
+    "last_success_at": "2026-10-12T12:06:37.373425+00:00"
   },
   "BBC Middle East": {
     "name": "BBC Middle East",
@@ -5343,9 +5354,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 525,
+    "latency_ms": 399,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.212439+00:00"
+    "last_success_at": "2026-10-12T12:06:37.434234+00:00"
   },
   "US State Department Travel Advisories": {
     "name": "US State Department Travel Advisories",
@@ -5897,9 +5908,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 476,
+    "latency_ms": 391,
     "region": "United States",
-    "last_success_at": "2026-10-12T11:51:55.232421+00:00"
+    "last_success_at": "2026-10-12T12:06:37.461885+00:00"
   },
   "Jerusalem Post Headlines": {
     "name": "Jerusalem Post Headlines",
@@ -5909,9 +5920,9 @@
       "reports": 26,
       "articles": [
         {
-          "title": "Immigration Authority rejects German journalist's work visa application over anti-Zionist politics",
-          "url": "https://www.jpost.com/israel-news/article-911400",
-          "published_at": "2026-10-12T11:27:22+00:00",
+          "title": "Two-state solution a 'trap we set for Israel,' Lebanon-based Fatah official brags",
+          "url": "https://www.jpost.com/middle-east/article-911419",
+          "published_at": "2026-10-12T12:42:17+00:00",
           "source": "Jerusalem Post Headlines",
           "kind": "News report",
           "topics": [],
@@ -5927,12 +5938,32 @@
           "country": "Israel"
         },
         {
-          "title": "Bennett's comments about sitting with Netanyahu in next gov't were 'unsuccesful irony,' Lapid says",
-          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911408",
-          "published_at": "2026-10-12T11:41:05+00:00",
+          "title": "Immigration Authority rejects German journalist's work visa application over anti-Zionist politics",
+          "url": "https://www.jpost.com/israel-news/article-911400",
+          "published_at": "2026-10-12T11:27:22+00:00",
           "source": "Jerusalem Post Headlines",
           "kind": "News report",
           "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "IDF probes suspected negligence after officer killed in Humvee accident in southern Lebanon",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-911427",
+          "published_at": "2026-10-12T13:44:20+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [],
+          "country": "Israel"
+        },
+        {
+          "title": "EU establishes new support mission in Lebanon, advisory to military forces",
+          "url": "https://www.jpost.com/international/article-911431",
+          "published_at": "2026-10-12T14:07:32+00:00",
+          "source": "Jerusalem Post Headlines",
+          "kind": "News report",
+          "topics": [
+            "conflict"
+          ],
           "country": "Israel"
         },
         {
@@ -5945,27 +5976,9 @@
           "country": "Israel"
         },
         {
-          "title": "Saudi Arabia needs allies against the Houthis, but will it turn to Israel? - analysis",
-          "url": "https://www.jpost.com/israel-news/article-911363",
-          "published_at": "2026-10-11T21:08:45+00:00",
-          "source": "Jerusalem Post Headlines",
-          "kind": "News report",
-          "topics": [],
-          "country": "Israel"
-        },
-        {
-          "title": "High Court seeks timeline for steps toward Palestinians’ return to northern West Bank camps",
-          "url": "https://www.jpost.com/israel-news/article-911386",
-          "published_at": "2026-10-12T08:55:04+00:00",
-          "source": "Jerusalem Post Headlines",
-          "kind": "News report",
-          "topics": [],
-          "country": "Israel"
-        },
-        {
-          "title": "Board of Peace expects Gaza reconstruction to ramp up after Israeli election, US midterms - report",
-          "url": "https://www.jpost.com/middle-east/article-911389",
-          "published_at": "2026-10-12T09:49:58+00:00",
+          "title": "Bennett's comments about sitting with Netanyahu in next gov't were 'unsuccesful irony,' Lapid says",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911408",
+          "published_at": "2026-10-12T11:41:05+00:00",
           "source": "Jerusalem Post Headlines",
           "kind": "News report",
           "topics": [],
@@ -6145,9 +6158,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 540,
+    "latency_ms": 513,
     "region": "Israel",
-    "last_success_at": "2026-10-12T11:51:55.251080+00:00"
+    "last_success_at": "2026-10-12T12:06:37.563440+00:00"
   },
   "UK Egypt Travel Advice": {
     "name": "UK Egypt Travel Advice",
@@ -6168,9 +6181,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 618,
+    "latency_ms": 445,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.410937+00:00"
+    "last_success_at": "2026-10-12T12:06:37.565656+00:00"
   },
   "UK Iran Travel Advice": {
     "name": "UK Iran Travel Advice",
@@ -6191,9 +6204,9 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 655,
+    "latency_ms": 235,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.413130+00:00"
+    "last_success_at": "2026-10-12T12:06:37.355180+00:00"
   },
   "UK Israel Travel Advice": {
     "name": "UK Israel Travel Advice",
@@ -6214,8 +6227,8 @@
       ],
       "note": "Statements are attributed to their issuing body; news reports require verification."
     },
-    "latency_ms": 881,
+    "latency_ms": 201,
     "region": "United Kingdom",
-    "last_success_at": "2026-10-12T11:51:55.673384+00:00"
+    "last_success_at": "2026-10-12T12:06:37.321977+00:00"
   }
 }
