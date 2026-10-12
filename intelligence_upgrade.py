@@ -134,7 +134,7 @@ def install(engine):
    matching=[a for a in recent if f['id'] in a['topics']]
    primary=[a for a in matching if a['kind']=='Primary source']
    domains={urllib.parse.urlparse(a['url']).netloc for a in matching if a['kind']=='News report'}
-   adjustment=min(2,len(primary)*.35)+min(1,len(domains)*.1)
+   adjustment=0.0 # News volume alone is not a calibrated probability signal
    if f['id']=='weather':adjustment+=min(1,signals.get('USGS earthquakes',0))
    for years,x in f['horizons'].items():
     x['probability']=round(min(97,x['probability']+adjustment*(1 if years=='1' else .5)))
@@ -143,6 +143,6 @@ def install(engine):
     x['evidence']+=['Worldwide reporting (limited weight)'] if domains else []
     x['evidence']+=['USGS earthquakes'] if f['id']=='weather' and 'USGS earthquakes' in signals else []
    f['supporting_reports']=matching[:6]
-  engine.CACHE['intelligence']={'articles':articles[:500],'model_version':'2.0-public-evidence','method':'Experimental base-rate model with bounded evidence adjustments. Headline counts are not event probabilities. Margins are heuristic, not statistical confidence intervals. No measured accuracy improvement claimed.','coverage':'Public official feeds, worldwide news discovery, and PubMed. Not the whole internet; no private chatter.','sources_checked':len(sources),'recent_reports':len(recent)}
+  engine.CACHE['intelligence']={'articles':articles[:2000],'model_version':'2.1-no-news-volume-bump','method':'Experimental base-rate model with bounded evidence adjustments. Headline counts are not event probabilities. Margins are heuristic, not statistical confidence intervals. No measured accuracy improvement claimed.','coverage':'Public official feeds, worldwide news discovery, and PubMed. Not the whole internet; no private chatter.','sources_checked':len(sources),'recent_reports':len(recent)}
   return forecasts,signals
  engine.build_forecasts=build
