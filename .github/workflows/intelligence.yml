@@ -3,14 +3,15 @@ on:
   push:
     branches: [main]
     paths:
-      - 'server.py'
-      - 'global_sources.py'
-      - 'intelligence_upgrade.py'
-      - 'static/**'
-      - 'publish_online.py'
-      - 'collect_money_watch.py'
-      - 'collect_video_sources.py'
-      - '.github/workflows/intelligence.yml'
+      - server.py
+      - global_sources.py
+      - intelligence_upgrade.py
+      - static/**
+      - publish_online.py
+      - collect_money_watch.py
+      - collect_video_sources.py
+      - collect_us_watch.py
+      - .github/workflows/intelligence.yml
   workflow_dispatch:
   schedule:
     - cron: '7,17,27,37,47,57 * * * *'
@@ -33,9 +34,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: |
-       python publish_online.py
-       python collect_us_watch.py || echo U.S.-watch-collection-failed
+      - run: python publish_online.py
+      - name: Collect U.S. cyber and unrest reports
+        continue-on-error: true
+        run: python collect_us_watch.py
       - name: Collect official foreign assistance
         continue-on-error: true
         run: python collect_money_watch.py
