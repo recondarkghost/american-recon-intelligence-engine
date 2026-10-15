@@ -66,4 +66,6 @@ html = html.replace(
     "$('#dot').className=Date.now()-Date.parse(data.updated_at)>3600000?'dot':'dot ok';"
 )
 page.write_text(html, encoding="utf-8")
+import broadcast_rundown
+broadcast_rundown.build(out, data)
 print("Published collection:", data["updated_at"])
