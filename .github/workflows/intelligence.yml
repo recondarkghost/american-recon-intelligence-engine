@@ -14,6 +14,7 @@ on:
       - collect_public_investments.py
       - prediction_context.py
       - broadcast_rundown.py
+      - election_watch.py
       - .github/workflows/intelligence.yml
   workflow_dispatch:
   schedule:
@@ -53,12 +54,17 @@ jobs:
       - name: Collect video catalogue
         continue-on-error: true
         run: python collect_video_sources.py
+      - name: Collect experimental election forecasts
+        continue-on-error: true
+        timeout-minutes: 3
+        run: python election_watch.py
       - run: python publish_online.py
       - name: Preserve forecast ledger
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add state/ledger.json state/source_cache.json static/public-investments.json
+          if [ -f static/election-watch.json ]; then git add static/election-watch.json; fi
           if [ -f static/broadcast-rundown.json ]; then git add static/broadcast-rundown.json; fi
           if ! git diff --cached --quiet; then
             git commit -m 'Save dated forecast ledger'
