@@ -1,0 +1,87 @@
+{
+  "show_date": "2026-10-15",
+  "prepared_at": "2026-10-15T22:34:04.371284+00:00",
+  "reports": [
+    {
+      "title": "Melbourne's Royal Children's Hospital handed $66m funding boost",
+      "url": "https://www.abc.net.au/news/2026-10-16/vic-royal-childrens-hospital-funding/107273706",
+      "source": "ABC / Australia",
+      "published_at": "2026-10-15T22:30:40+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Complex surgery successfully separates Fijian conjoined twins",
+      "url": "https://www.abc.net.au/news/2026-10-16/surgery-separates-fijian-conjoined-twins-in-saudi-arabia/107271702",
+      "source": "ABC / Australia",
+      "published_at": "2026-10-15T22:28:16+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Hadassah inaugurates Cyprus medical center, plans hospital near Nicosia",
+      "url": "https://www.jpost.com/israel-news/article-911884",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-10-15T22:26:33+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Multiple people, including children, injured in elementary school shooting in Oregon",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+      "source": "Guardian world news",
+      "published_at": "2026-10-15T22:04:56+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Commentary: India’s ‘cockroach’ youth are proving hard to crush",
+      "url": "https://www.channelnewsasia.com/commentary/india-modi-cockroach-party-protests-bjp-youth-6462581",
+      "source": "CNA / Singapore",
+      "published_at": "2026-10-15T22:00:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "‘AI lowers the capital needed’: India’s drug discovery push faces test of human trials",
+      "url": "https://www.channelnewsasia.com/asia/ai-lowers-capital-needed-indias-drug-discovery-push-faces-test-human-trials-6462176",
+      "source": "CNA / Singapore",
+      "published_at": "2026-10-15T22:00:00+00:00",
+      "topic": "research",
+      "kind": "News report"
+    },
+    {
+      "title": "'Multiple victims' at elementary school shooting in US city of Bend, Oregon. Suspected shooter is dead, officials say",
+      "url": "https://www.dw.com/en/multiple-victims-at-elementary-school-shooting-in-us-city-of-bend-oregon-suspected-shooter-is-dead-officials-say/a-79674849?maca=en-rss-en-all-1573-rdf",
+      "source": "DW / Germany",
+      "published_at": "2026-10-15T21:59:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Two hospitalised after shooting at Oregon elementary school; gunman dead",
+      "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
+      "source": "France 24 / France",
+      "published_at": "2026-10-15T21:58:33+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-10-15T21:57:58+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+      "source": "Guardian world news",
+      "published_at": "2026-10-15T21:54:53+00:00",
+      "topic": "News",
+      "kind": "News report"
+    }
+  ],
+  "note": "Original source articles selected from collected feeds, not independently verified or AI-written briefings. Publication is scheduled after 6 PM Eastern; job delays are possible."
+}
