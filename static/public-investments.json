@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-10-15T16:40:00.684564+00:00",
+  "records": [
+    {
+      "government": "Palm Beach County",
+      "state": "Florida",
+      "level": "County",
+      "country": "Israel",
+      "amount": 1000000000,
+      "date": "2026-01",
+      "basis": "Announced bond holdings",
+      "source": "https://www.wlrn.org/government-politics/2026-07-30/palm-beach-county-israeli-bonds-lawsuit-ruling",
+      "publisher": "WLRN, reporting the county announcement",
+      "update_status": "Historical record; current amount not automatically verified"
+    },
+    {
+      "government": "Ohio state investment accounts",
+      "state": "Ohio",
+      "level": "State",
+      "country": "Israel",
+      "amount": 262500000.0,
+      "date": "2026-09-30",
+      "basis": "Official monthly closing bond balance",
+      "source": "https://www.tos.ohio.gov/files/Pdfs/BOD/2026/September2026_MonthlyPortfolioReview_2.pdf",
+      "publisher": "Ohio Treasurer, June 2026 portfolio report",
+      "update_status": "Amount extracted from official closing-balance summary",
+      "source_sha256": "920a901dc400b6ada60e18d06566c7f52d925507a573b9e17bc783b83307bfbd",
+      "last_verified_at": "2026-10-15T16:40:00.684564+00:00"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "Ohio monthly report",
+      "ok": true,
+      "url": "https://www.tos.ohio.gov/files/Pdfs/BOD/2026/September2026_MonthlyPortfolioReview_2.pdf",
+      "report_date": "2026-09-30"
+    },
+    {
+      "source": "Palm Beach County report index",
+      "ok": false,
+      "amount_verified": false,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "palm_index_sha256": null,
+  "coverage": "Partial inventory. Ohio has a guarded amount adapter; Palm Beach County requires manual amount review. Other governments and countries are not covered. Checks are not real-time transfers."
+}

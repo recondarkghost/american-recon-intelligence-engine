@@ -26,6 +26,9 @@ OFFICIAL += [('UK Iran Travel Advice', 'https://www.gov.uk/foreign-travel-advice
 OFFICIAL += [('UK Israel Travel Advice', 'https://www.gov.uk/foreign-travel-advice/israel.atom', 'United Kingdom')]
 OFFICIAL += [('UK Egypt Travel Advice', 'https://www.gov.uk/foreign-travel-advice/egypt.atom', 'United Kingdom')]
 
+NEWS = [row for row in NEWS if row[0] != 'Times of Israel']
+NEWS += [('NPR News', 'https://feeds.npr.org/1001/rss.xml', 'United States'), ('BBC Business', 'https://feeds.bbci.co.uk/news/business/rss.xml', 'United Kingdom'), ('BBC U.S. and Canada', 'https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml', 'United Kingdom'), ('UN News', 'https://news.un.org/feed/subscribe/en/news/all/rss.xml', 'Global'), ('PBS NewsHour', 'https://www.pbs.org/newshour/feeds/rss/headlines', 'United States'), ('CNBC Economy', 'https://www.cnbc.com/id/20910258/device/rss/rss.html', 'United States')]
+
 def install(engine):
  cache_path=engine.ROOT/'state'/'source_cache.json'
  try:cache=json.loads(cache_path.read_text(encoding='utf-8-sig'))
