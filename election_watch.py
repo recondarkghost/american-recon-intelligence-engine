@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor
 ROOT=Path(__file__).resolve().parent
 BASE='https://api.pollresults.org/v1.0/politics/results/'
 ELECTION=date(2026,11,3)
-VERSION='1.1-state-lean-prior-unvalidated'
+VERSION='1.2-current-polls-trend-unvalidated'
 HISTORY=json.loads((ROOT/'static/election-baselines.json').read_text(encoding='utf-8'))
 
 def flag(v):
@@ -78,28 +78,30 @@ def model(rows,now,environment=None):
         sampling=sum(z*z*10000*((x['dem_pct']+x['rep_pct'])/100-((x['dem_pct']-x['rep_pct'])/100)**2)/x['n'] for z,x in zip(w,items))
         days=max(0,(ELECTION-now.date()).days);und=max(0,100-dem-rep)
         sigma=math.sqrt(4**2+variance/max(1,neff)+sampling+(days*.06)**2+(und*.12)**2)
-        forecast_margin=margin; prior=None; prior_weight=0.0
-        if latest['office'] in ('senate','governor'):
-            state_margin=HISTORY['states'][latest['state']]['margin']
-            # Polling absence does not imply no change since 2024. With no
-            # usable generic ballot, the prior stays centered on 2024 and wider.
-            prior=state_margin if national_margin is None else state_margin-HISTORY['national_margin']+national_margin
-            prior_sd=12.0 if national_margin is None else 10.0
-            if len(items)<3 or neff<2:sigma=math.sqrt(sigma*sigma+4**2)
-            prior_weight=sigma*sigma/(sigma*sigma+prior_sd*prior_sd)
-            forecast_margin=(1-prior_weight)*margin+prior_weight*prior
-            sigma=math.sqrt(1/(1/(sigma*sigma)+1/(prior_sd*prior_sd)))
+        # Compare the same pollster and candidate pair across time to reduce
+        # changes caused only by which polling firms published this week.
+        changes=[]
+        for current in items:
+            older=[x for x in groups[ident] if x['pair']==latest['pair'] and x['pollster']==current['pollster'] and 7<=x['age']-current['age']<=28 and x['population']==current['population']]
+            if older:
+                previous=min(older,key=lambda x:x['age'])
+                changes.append((current['dem_pct']-current['rep_pct']-previous['dem_pct']+previous['rep_pct'])/(previous['age']-current['age']))
+        trend=sorted(changes)[len(changes)//2] if len(changes)>=3 else 0.0
+        adjustment=max(-2.0,min(2.0,trend*min(days,7)*0.5))
+        forecast_margin=margin+adjustment; prior=None; prior_weight=0.0
+        if len(items)<3 or neff<2:sigma=math.sqrt(sigma*sigma+4**2)
+        sigma=math.sqrt(sigma*sigma+adjustment*adjustment)
         reason=None
         if now.date()>=ELECTION:reason='Pre-election model stopped; consult official election results'
         elif latest['state']=='AK' or (latest['state']=='ME' and latest['office'] in ('house','senate')):reason='Ranked-choice rules require a separate model'
         elif max(x['other'] for x in items)>5:reason='Material third-candidate support; two-candidate model withheld'
-        elif (len(items)<3 or neff<2) and prior is None:reason='District history missing; sparse House polling cannot support a win forecast'
+        elif latest['office']=='house' and (len(items)<3 or neff<2):reason='Sparse House polling cannot support a win forecast'
         elif (len(items)<3 or neff<2) and latest['n']<250:reason='Sparse statewide polling requires sample of at least 250'
         elif latest['age']>14:reason='Latest poll is more than 14 days old'
         probability=None if reason else 50*(1+math.erf(forecast_margin/(sigma*math.sqrt(2))))
         r={k:latest[k] for k in ('id','office','state','seat','race_id','dem','rep')}
         r.update(dem_poll=round(dem,1),rep_poll=round(rep,1),margin=round(margin,1),dem_win=None if probability is None else round(probability,1),rep_win=None if probability is None else round(100-round(probability,1),1),sigma=round(sigma,2),pollsters=len(items),effective_polls=round(neff,2),latest_poll=latest['end'],status=reason or 'Experimental probability; not historically calibrated',polls=[{k:x[k] for k in ('pollster_name','end','dem_pct','rep_pct','n','url','internal')} for x in items])
-        r.update(model_basis='Polls + 2024 state lean' if prior is not None else 'Polls only',evidence_level='Low: fewer than 3 pollsters or effective polls below 2' if len(items)<3 or neff<2 else 'Multiple pollsters; calibration still untested',forecast_margin=round(forecast_margin,2),prior_margin=None if prior is None else round(prior,2),prior_weight=round(prior_weight,3),historical_source=HISTORY['source'] if prior is not None else None,national_poll_margin=None if national_margin is None else round(national_margin,2))
+        r.update(trend_adjustment=round(adjustment,2),trend_pollsters=len(changes),model_basis='Current polls + matched-pollster trend' if len(changes)>=3 else 'Current polls; trend evidence insufficient',evidence_level='Low: fewer than 3 pollsters or effective polls below 2' if len(items)<3 or neff<2 else 'Multiple pollsters; calibration still untested',forecast_margin=round(forecast_margin,2),prior_margin=None if prior is None else round(prior,2),prior_weight=round(prior_weight,3),historical_source=HISTORY['source'] if prior is not None else None,national_poll_margin=None if national_margin is None else round(national_margin,2))
         results.append(r)
     return sorted(results,key=lambda x:(x['state'],x['office'],x['seat'],x['id']))
 
@@ -124,7 +126,7 @@ def main():
         else:
             for r in previous.get('races',[]):
                 if r.get('office')==kind:races.append(dict(r,dem_win=None,rep_win=None,status='Source unavailable; older poll snapshot retained, win odds withheld'))
-    payload=dict(checked_at=now.isoformat(),election_date=ELECTION.isoformat(),model_version=VERSION,races=races,source_checks=checks,method='Statewide races combine polls with an assumed wide 2024 presidential state-lean prior (SD 10 points when adjusted by a fresh national generic ballot, otherwise SD 12). Sparse statewide polling adds a 4-point uncertainty term. Prior weights and uncertainty are assumptions, not fitted or calibrated. House races retain the original multi-poll requirement because district history is missing. Generic ballot entries are not district forecasts. Poll input method: latest observation per pollster and current candidate pair; 14-day recency half-life; square-root sample weight capped at 1500; partisan/internal polls half weight. Normal margin model with assumed 4-point shared error floor, poll disagreement, sampling, undecided and time terms. These assumptions have NOT been fitted or validated against historical outcomes. Poll percentages are not win probabilities. Historical state lean is not an incumbency or candidate-quality model. Maine gubernatorial general election uses plurality; federal Maine and Alaska races remain withheld. No chamber-control odds: complete race roster and correlated seat model not implemented. States without usable polls are unknown, not necessarily states without elections.',attribution='PollResults.org; poll data from The New York Times, CC BY 4.0. Adapted into American Recon poll averages and experimental estimates. Candidate and poll details remain attributed to original pollsters.',license='https://creativecommons.org/licenses/by/4.0/',data_source='https://pollresults.org/')
+    payload=dict(checked_at=datetime.now(timezone.utc).isoformat(),election_date=ELECTION.isoformat(),model_version=VERSION,races=races,source_checks=checks,method='Current-poll experimental forecast: no 2024 state-lean adjustment. Latest poll per pollster and current candidate pair; 14-day recency half-life; square-root sample weight capped at 1500; partisan/internal polls half weight. Trend uses at least three matched pollsters, same candidate pair and population, with polls 7-28 days apart. Median daily movement is projected at half strength for at most 7 days and capped at 2 margin points; its size is also added to uncertainty. Trend rules are assumptions, not fitted. Normal margin model retains a 4-point shared-error floor, disagreement, sampling, undecided and time terms; sparse statewide polling adds 4 points of uncertainty and requires sample 250 or larger. House needs at least 3 pollsters and effective poll count 2. Third-candidate and ranked-choice restrictions remain. Historical accuracy is NOT established. No candidate-quality, fundraising, economic or news model is implemented. No chamber-control forecast. Candidate roster not independently verified.',attribution='PollResults.org; poll data from The New York Times, CC BY 4.0. Adapted into American Recon poll averages and experimental estimates. Candidate and poll details remain attributed to original pollsters.',license='https://creativecommons.org/licenses/by/4.0/',data_source='https://pollresults.org/')
     output.parent.mkdir(parents=True,exist_ok=True);tmp=output.with_suffix('.tmp');tmp.write_text(json.dumps(payload,indent=2),encoding='utf-8');tmp.replace(output)
     print('ELECTION WATCH:',len(races),'race snapshots;',sum(r.get('dem_win') is not None for r in races),'experimental forecasts')
     for c in checks:print(c)

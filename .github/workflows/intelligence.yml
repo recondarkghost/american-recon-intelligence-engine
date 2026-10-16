@@ -38,6 +38,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Collect experimental election forecasts
+        continue-on-error: true
+        timeout-minutes: 4
+        run: python election_watch.py
       - name: Install investment report reader
         continue-on-error: true
         run: python -m pip install --disable-pip-version-check pypdf==6.10.0
@@ -54,10 +58,6 @@ jobs:
       - name: Collect video catalogue
         continue-on-error: true
         run: python collect_video_sources.py
-      - name: Collect experimental election forecasts
-        continue-on-error: true
-        timeout-minutes: 3
-        run: python election_watch.py
       - run: python publish_online.py
       - name: Preserve forecast ledger
         run: |

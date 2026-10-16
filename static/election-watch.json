@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-16T14:16:53.178352+00:00",
+  "checked_at": "2026-10-16T14:30:11.511425+00:00",
   "election_date": "2026-11-03",
-  "model_version": "1.1-state-lean-prior-unvalidated",
+  "model_version": "1.2-current-polls-trend-unvalidated",
   "races": [
     {
       "id": "senate:AK:aee37b62-7038-4e8a-b856-dff0e1e76b63",
@@ -16,7 +16,7 @@
       "margin": 1.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.73,
+      "sigma": 5.36,
       "pollsters": 3,
       "effective_polls": 2.84,
       "latest_poll": "2026-10-01",
@@ -50,14 +50,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 0.47,
-      "prior_margin": -3.81,
-      "prior_weight": 0.223,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 1.7,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:AL:a58c75c1-3077-4166-b423-7fc106199529",
@@ -72,7 +74,7 @@
       "margin": -21.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.61,
+      "sigma": 6.78,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-25",
@@ -88,14 +90,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": -21.05,
-      "prior_margin": -21.15,
-      "prior_weight": 0.315,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -21.0,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:AR:8815ec42-9966-4a24-8d13-e9e88e52747f",
@@ -108,9 +112,9 @@
       "dem_poll": 40.6,
       "rep_poll": 50.0,
       "margin": -9.4,
-      "dem_win": 0.9,
-      "rep_win": 99.1,
-      "sigma": 5.5,
+      "dem_win": 7.6,
+      "rep_win": 92.4,
+      "sigma": 6.59,
       "pollsters": 2,
       "effective_polls": 1.52,
       "latest_poll": "2026-10-13",
@@ -135,14 +139,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": -13.03,
-      "prior_margin": -21.31,
-      "prior_weight": 0.303,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -9.44,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:FL:b59d96b4-5318-4497-a4d1-9bd83217ac76",
@@ -155,9 +161,9 @@
       "dem_poll": 42.8,
       "rep_poll": 49.3,
       "margin": -6.5,
-      "dem_win": 7.2,
-      "rep_win": 92.8,
-      "sigma": 4.13,
+      "dem_win": 7.0,
+      "rep_win": 93.0,
+      "sigma": 4.54,
       "pollsters": 9,
       "effective_polls": 7.13,
       "latest_poll": "2026-10-10",
@@ -245,14 +251,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": -0.19,
+      "trend_pollsters": 3,
+      "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -6.05,
-      "prior_margin": -3.77,
-      "prior_weight": 0.171,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -6.72,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:GA:00fd3a01-c10a-4a40-89fd-9b97bcc17d82",
@@ -265,9 +273,9 @@
       "dem_poll": 52.3,
       "rep_poll": 43.5,
       "margin": 8.8,
-      "dem_win": 98.2,
-      "rep_win": 1.8,
-      "sigma": 4.07,
+      "dem_win": 97.5,
+      "rep_win": 2.5,
+      "sigma": 4.46,
       "pollsters": 6,
       "effective_polls": 5.68,
       "latest_poll": "2026-10-09",
@@ -328,14 +336,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 8.5,
-      "prior_margin": 7.13,
-      "prior_weight": 0.166,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 8.77,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:IA:6504c9a1-f6af-4517-8475-b563a47234cf",
@@ -350,7 +360,7 @@
       "margin": 0.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.04,
+      "sigma": 4.42,
       "pollsters": 12,
       "effective_polls": 8.84,
       "latest_poll": "2026-10-12",
@@ -465,14 +475,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -0.23,
-      "prior_margin": -3.88,
-      "prior_weight": 0.163,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 0.49,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:IL:3be1195b-6fc6-42c2-b5cd-8605748da86a",
@@ -487,7 +499,7 @@
       "margin": 13.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.81,
+      "sigma": 7.14,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
@@ -503,14 +515,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 15.44,
-      "prior_margin": 20.22,
-      "prior_weight": 0.338,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 13.0,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:KS:5cb51572-4167-49a2-b7a6-eec3fa3a1945",
@@ -525,7 +539,7 @@
       "margin": 0.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.1,
+      "sigma": 4.5,
       "pollsters": 9,
       "effective_polls": 5.6,
       "latest_poll": "2026-10-14",
@@ -613,14 +627,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -0.52,
-      "prior_margin": -6.79,
-      "prior_weight": 0.168,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 0.75,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:LA:08728cf9-27d9-4d84-8a37-2168f60a35cb",
@@ -635,7 +651,7 @@
       "margin": -4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.87,
+      "sigma": 7.24,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-19",
@@ -651,14 +667,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": -6.99,
-      "prior_margin": -12.68,
-      "prior_weight": 0.344,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -4.0,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:MA:98240db9-3ce6-4ded-8a07-afc3f0903c21",
@@ -673,7 +691,7 @@
       "margin": 24.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.54,
+      "sigma": 6.66,
       "pollsters": 2,
       "effective_polls": 1.97,
       "latest_poll": "2026-09-22",
@@ -698,14 +716,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 27.7,
-      "prior_margin": 34.52,
-      "prior_weight": 0.307,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 24.67,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:ME:eea2d6d6-bcb0-4fe7-b1da-ec22a14df253",
@@ -720,7 +740,7 @@
       "margin": 2.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 3.96,
+      "sigma": 4.32,
       "pollsters": 15,
       "effective_polls": 11.45,
       "latest_poll": "2026-10-14",
@@ -862,14 +882,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 2,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 4.23,
-      "prior_margin": 16.26,
-      "prior_weight": 0.157,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 1.98,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:MI:8069ba7e-4ac6-449d-ae1e-f7fc5dee4a19",
@@ -884,7 +906,7 @@
       "margin": 3.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 3.97,
+      "sigma": 4.33,
       "pollsters": 22,
       "effective_polls": 15.95,
       "latest_poll": "2026-10-10",
@@ -1089,14 +1111,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.05,
+      "trend_pollsters": 3,
+      "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 3.76,
-      "prior_margin": 7.91,
-      "prior_weight": 0.158,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 3.03,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:MN:fd4a6546-ff73-46f2-a9df-6f92f6f959a8",
@@ -1111,7 +1135,7 @@
       "margin": 3.3,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.17,
+      "sigma": 4.59,
       "pollsters": 9,
       "effective_polls": 6.76,
       "latest_poll": "2026-10-12",
@@ -1199,14 +1223,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 5.1,
-      "prior_margin": 13.57,
-      "prior_weight": 0.174,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 3.32,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:MS:f137f0b7-6bc7-42c5-a594-d1a8a3ef3e15",
@@ -1219,9 +1245,9 @@
       "dem_poll": 48.0,
       "rep_poll": 52.0,
       "margin": -4.0,
-      "dem_win": 10.7,
-      "rep_win": 89.3,
-      "sigma": 5.87,
+      "dem_win": 29.1,
+      "rep_win": 70.9,
+      "sigma": 7.26,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
@@ -1237,14 +1263,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": -7.3,
-      "prior_margin": -13.56,
-      "prior_weight": 0.345,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -4.0,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:MT:2de1c5ad-374a-4c51-9f99-8432d8e980f6",
@@ -1259,7 +1287,7 @@
       "margin": -23.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.59,
+      "sigma": 6.74,
       "pollsters": 5,
       "effective_polls": 4.47,
       "latest_poll": "2026-10-08",
@@ -1311,14 +1339,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -19.74,
-      "prior_margin": -10.6,
-      "prior_weight": 0.312,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -23.88,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:NC:70395c5f-9aee-4a8f-a647-b656d0f894a3",
@@ -1333,7 +1363,7 @@
       "margin": 9.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.09,
+      "sigma": 4.48,
       "pollsters": 12,
       "effective_polls": 10.5,
       "latest_poll": "2026-10-11",
@@ -1448,14 +1478,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 9.28,
-      "prior_margin": 6.11,
-      "prior_weight": 0.167,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 9.92,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:NE:b2dc7f12-eb1a-4ec9-9b9e-69d91c1030ca",
@@ -1468,9 +1500,9 @@
       "dem_poll": 46.5,
       "rep_poll": 47.0,
       "margin": -0.5,
-      "dem_win": 28.2,
-      "rep_win": 71.8,
-      "sigma": 4.24,
+      "dem_win": 45.4,
+      "rep_win": 54.6,
+      "sigma": 4.69,
       "pollsters": 5,
       "effective_polls": 3.2,
       "latest_poll": "2026-10-03",
@@ -1522,14 +1554,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -2.45,
-      "prior_margin": -11.13,
-      "prior_weight": 0.18,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -0.54,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:NH:85026c96-181d-4074-b438-5798d23c7077",
@@ -1542,9 +1576,9 @@
       "dem_poll": 49.7,
       "rep_poll": 42.9,
       "margin": 6.8,
-      "dem_win": 97.0,
-      "rep_win": 3.0,
-      "sigma": 4.09,
+      "dem_win": 93.6,
+      "rep_win": 6.4,
+      "sigma": 4.49,
       "pollsters": 7,
       "effective_polls": 5.54,
       "latest_poll": "2026-10-05",
@@ -1614,14 +1648,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 7.71,
-      "prior_margin": 12.11,
-      "prior_weight": 0.168,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 6.82,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:NM:77777465-3b79-4824-bc90-a88a503b985d",
@@ -1634,9 +1670,9 @@
       "dem_poll": 53.3,
       "rep_poll": 36.7,
       "margin": 16.6,
-      "dem_win": 99.9,
-      "rep_win": 0.1,
-      "sigma": 5.36,
+      "dem_win": 99.6,
+      "rep_win": 0.4,
+      "sigma": 6.35,
       "pollsters": 2,
       "effective_polls": 1.75,
       "latest_poll": "2026-10-09",
@@ -1661,14 +1697,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 16.25,
-      "prior_margin": 15.33,
-      "prior_weight": 0.287,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 16.63,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:OH:df65b49b-388c-4867-ab75-d8e2a78ed5ea",
@@ -1683,7 +1721,7 @@
       "margin": 3.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.08,
+      "sigma": 4.47,
       "pollsters": 11,
       "effective_polls": 9.59,
       "latest_poll": "2026-10-09",
@@ -1789,14 +1827,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 2,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 2.67,
-      "prior_margin": -1.88,
-      "prior_weight": 0.166,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 3.58,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:RI:3134e4df-3e8b-413d-acad-5c82c9839a34",
@@ -1811,7 +1851,7 @@
       "margin": 30.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.26,
+      "sigma": 8.02,
       "pollsters": 2,
       "effective_polls": 1.58,
       "latest_poll": "2026-10-11",
@@ -1836,14 +1876,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 27.53,
-      "prior_margin": 23.11,
-      "prior_weight": 0.391,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 30.37,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:SC:15314566-c454-4722-b119-8ac87efa2e93",
@@ -1858,7 +1900,7 @@
       "margin": -1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.31,
+      "sigma": 6.27,
       "pollsters": 2,
       "effective_polls": 1.68,
       "latest_poll": "2026-09-29",
@@ -1883,14 +1925,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": -3.15,
-      "prior_margin": -8.54,
-      "prior_weight": 0.282,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -1.03,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "senate:TX:d99dd21d-c466-4b21-b6cc-5018468d17de",
@@ -1905,7 +1949,7 @@
       "margin": 2.2,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 3.98,
+      "sigma": 4.33,
       "pollsters": 20,
       "effective_polls": 14.3,
       "latest_poll": "2026-10-14",
@@ -2092,14 +2136,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 2,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 1.14,
-      "prior_margin": -4.36,
-      "prior_weight": 0.158,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 2.18,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:AZ:9e8a65f0-fe48-466c-a9e7-7294d4645cdd",
@@ -2114,11 +2160,11 @@
       "margin": 2.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.44,
+      "sigma": 7.58,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "FirstStrategic Communications and Public Affairs",
@@ -2130,14 +2176,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 2.8,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:CA:3cbd0c4c-f073-481c-9380-66603077c5dd",
@@ -2152,11 +2200,11 @@
       "margin": 9.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.05,
+      "sigma": 7.26,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-07",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "SurveyUSA",
@@ -2168,14 +2216,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 9.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:CO:b01b53b0-5e63-4549-bc95-c87319e246a3",
@@ -2190,7 +2240,7 @@
       "margin": -5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.44,
+      "sigma": 7.58,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
@@ -2206,14 +2256,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -5.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:CO:92ea55ee-1b9b-4153-a024-667a7f5c8ca3",
@@ -2228,11 +2280,11 @@
       "margin": -1.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.42,
+      "sigma": 7.56,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-17",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "McLaughlin & Associates",
@@ -2244,14 +2296,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -1.7,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:FL:09cf2fd1-1aad-4a04-adf7-278e794f0d64",
@@ -2266,11 +2320,11 @@
       "margin": -4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.11,
+      "sigma": 7.3,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-02",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -2282,14 +2336,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -4.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:FL:7073f3e5-55fd-4688-9dfd-e9b2f11d6f3b",
@@ -2304,11 +2360,11 @@
       "margin": -1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.78,
+      "sigma": 7.03,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-13",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Tulchin Research",
@@ -2320,14 +2376,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -1.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:GA:b759d3d7-d667-4100-aecb-0b26a1cd24b8",
@@ -2342,11 +2400,11 @@
       "margin": 2.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.5,
+      "sigma": 7.63,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-11",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Miller Consulting Services",
@@ -2358,14 +2416,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 2.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:GA:56abfe70-7ae1-46b5-804c-ad438295804c",
@@ -2380,11 +2440,11 @@
       "margin": -5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.0,
+      "sigma": 8.06,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-07",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "VoteNexus",
@@ -2396,14 +2456,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -5.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:GA:cbacdaff-d586-46ff-97a6-a9c1bdf0fe18",
@@ -2418,11 +2480,11 @@
       "margin": 2.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.18,
+      "sigma": 7.36,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "20/20 Insight",
@@ -2434,14 +2496,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 2.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:KY:fb3da71c-9247-4285-b5ae-462b5e4f19ed",
@@ -2499,14 +2563,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
       "forecast_margin": 5.95,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:ME:6eda5a76-27ad-4e19-ba29-cb52553b4020",
@@ -2521,7 +2587,7 @@
       "margin": 22.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.6,
+      "sigma": 6.88,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-21",
@@ -2537,14 +2603,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 22.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:ME:c587aa21-f06f-47d6-ae64-ebbd9d0a43d7",
@@ -2593,14 +2661,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
       "forecast_margin": 3.72,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:MI:4487bd50-4a44-4e2f-8d00-ffd1d89bd3b8",
@@ -2615,11 +2685,11 @@
       "margin": 1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.04,
+      "sigma": 7.24,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-16",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "GBAO",
@@ -2631,14 +2701,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 1.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:MN:f5eea5b5-b636-4540-b741-58694bf575cb",
@@ -2653,11 +2725,11 @@
       "margin": 1.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.54,
+      "sigma": 6.83,
       "pollsters": 2,
       "effective_polls": 1.32,
       "latest_poll": "2026-10-12",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "SurveyUSA",
@@ -2678,14 +2750,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 1.86,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:MN:88150f1d-9570-4456-ac30-361283162f33",
@@ -2700,11 +2774,11 @@
       "margin": 12.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.02,
+      "sigma": 7.22,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-13",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -2716,14 +2790,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 12.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:MO:9fc28897-7a41-4c9c-8288-07e3fe08ff34",
@@ -2738,11 +2814,11 @@
       "margin": -1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.95,
+      "sigma": 7.17,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-15",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Remington",
@@ -2754,14 +2830,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -1.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:MT:f34abca0-d7c7-44c0-a113-a8978a9dad47",
@@ -2819,14 +2897,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
       "forecast_margin": 0.62,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NC:814ce247-ec2e-47c3-8d53-de7470be442e",
@@ -2884,14 +2964,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
       "forecast_margin": 5.93,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NC:b92bd39b-6854-4de2-80f9-7cb42c9ac517",
@@ -2906,11 +2988,11 @@
       "margin": -4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.42,
+      "sigma": 7.56,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-03",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Lake Research Partners",
@@ -2922,14 +3004,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -4.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NE:3a4928b3-08d1-40f4-9a86-5f6a641fd724",
@@ -2944,11 +3028,11 @@
       "margin": 4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.77,
+      "sigma": 7.02,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-03",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Global Strategy Group",
@@ -2960,14 +3044,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 4.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NE:4f7e53a6-1e78-4ae8-ad13-c676356569fb",
@@ -2982,11 +3068,11 @@
       "margin": 4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 8.22,
+      "sigma": 9.14,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-13",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "SurveyUSA",
@@ -2998,14 +3084,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 4.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NH:8772ab65-140c-4d53-8108-50b88b523dce",
@@ -3020,11 +3108,11 @@
       "margin": 4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.63,
+      "sigma": 6.9,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-21",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -3036,14 +3124,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 4.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NH:10137906-94cd-42be-933a-74f28309d24f",
@@ -3058,11 +3148,11 @@
       "margin": 21.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.55,
+      "sigma": 6.84,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-21",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -3074,14 +3164,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 21.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NJ:4b0ae732-48b7-4572-a896-107b4fba126b",
@@ -3096,11 +3188,11 @@
       "margin": 5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.06,
+      "sigma": 7.26,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-12",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "StimSight Research",
@@ -3112,14 +3204,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 5.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NM:9e8a1134-ef1c-40b4-bceb-8c9af73a2681",
@@ -3134,11 +3228,11 @@
       "margin": 18.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.45,
+      "sigma": 7.59,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -3150,14 +3244,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 18.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NM:1e2b969c-7a2e-4def-bb6d-7768188df3d7",
@@ -3172,11 +3268,11 @@
       "margin": 3.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.96,
+      "sigma": 7.18,
       "pollsters": 2,
       "effective_polls": 1.37,
       "latest_poll": "2026-10-09",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -3197,14 +3293,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 3.84,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NM:5d3e4495-d08e-48e7-a8f0-f0c7aa91bc75",
@@ -3219,11 +3317,11 @@
       "margin": 14.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.55,
+      "sigma": 7.68,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -3235,14 +3333,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 14.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NV:3a9cb474-0063-46c6-b61e-4259a5474d81",
@@ -3257,7 +3357,7 @@
       "margin": 1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.42,
+      "sigma": 7.56,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-03",
@@ -3273,14 +3373,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 1.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NY:f78af32c-a079-4969-9b04-00752b7e0de2",
@@ -3295,11 +3397,11 @@
       "margin": 0.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.83,
+      "sigma": 7.07,
       "pollsters": 2,
       "effective_polls": 1.82,
       "latest_poll": "2026-09-30",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "McLaughlin & Associates",
@@ -3320,14 +3422,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 0.47,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NY:09c0b3f1-d400-483f-bebc-782fac808201",
@@ -3342,11 +3446,11 @@
       "margin": 17.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.88,
+      "sigma": 7.11,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-30",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -3358,14 +3462,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 17.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NY:3344edbf-b5c1-4f1c-a0d9-fe706d6c307a",
@@ -3414,14 +3520,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
       "forecast_margin": 1.19,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:NY:27dd113f-29fb-4660-8043-bae2d34ea2e9",
@@ -3436,11 +3544,11 @@
       "margin": -17.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.75,
+      "sigma": 7.0,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-23",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -3452,14 +3560,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -17.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:OH:cb91fa27-43b7-4f38-bb13-fa7928a64174",
@@ -3474,7 +3584,7 @@
       "margin": 1.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.41,
+      "sigma": 7.56,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-02",
@@ -3490,14 +3600,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 1.6,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:OH:f0193a3b-5e5c-4b7a-b6cb-8dca9a94f2a6",
@@ -3512,11 +3624,11 @@
       "margin": 1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.04,
+      "sigma": 7.25,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Hart Research Associates",
@@ -3528,14 +3640,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 1.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:OH:1c4705be-f4e7-4561-9665-29199794732f",
@@ -3550,11 +3664,11 @@
       "margin": 0.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.11,
+      "sigma": 7.3,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-23",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -3566,14 +3680,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 0.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:OK:26553913-f86b-4671-8756-c97a992f0375",
@@ -3588,11 +3704,11 @@
       "margin": -5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.04,
+      "sigma": 7.24,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-20",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "GBAO",
@@ -3604,14 +3720,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -5.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:PA:74b4585d-53eb-4f7c-b06a-39f485261149",
@@ -3626,11 +3744,11 @@
       "margin": -1.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.73,
+      "sigma": 6.99,
       "pollsters": 2,
       "effective_polls": 1.37,
       "latest_poll": "2026-10-08",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Global Strategy Group",
@@ -3651,14 +3769,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -1.44,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:PA:7a73a2bb-7253-43a0-bb03-78ae58794086",
@@ -3673,11 +3793,11 @@
       "margin": 3.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.51,
+      "sigma": 7.64,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-20",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Franklin & Marshall College",
@@ -3689,14 +3809,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 3.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:PA:bfab286e-07a7-490d-b463-a655e61481ab",
@@ -3711,11 +3833,11 @@
       "margin": 5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.68,
+      "sigma": 7.79,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-20",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Franklin & Marshall College",
@@ -3727,14 +3849,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 5.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:RI:ef3ff558-8054-4c65-a27a-5c9735a6d9b5",
@@ -3749,7 +3873,7 @@
       "margin": 28.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.43,
+      "sigma": 7.57,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-11",
@@ -3765,14 +3889,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 28.06,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:RI:f92e5ccf-c49e-4f83-83a8-975b8eb230b2",
@@ -3787,11 +3913,11 @@
       "margin": 16.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.34,
+      "sigma": 7.5,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-11",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3803,14 +3929,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 16.06,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:SC:1fa0063d-2105-4335-a22a-93aaf03f359b",
@@ -3825,11 +3953,11 @@
       "margin": -5.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.52,
+      "sigma": 6.82,
       "pollsters": 2,
       "effective_polls": 1.28,
       "latest_poll": "2026-10-01",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "co/efficient",
@@ -3850,14 +3978,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -5.38,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:TN:5fa03260-8362-4444-b1cb-93746056c378",
@@ -3872,11 +4002,11 @@
       "margin": -5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.94,
+      "sigma": 7.16,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -3888,14 +4018,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -5.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:TN:f9ac7c3e-d3ef-4ee0-b872-2d72195fe667",
@@ -3910,11 +4042,11 @@
       "margin": -4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.41,
+      "sigma": 7.55,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-03",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Hart Research Associates",
@@ -3926,14 +4058,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -4.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:TX:f2824fcb-026e-41e1-8edf-befb6821bd66",
@@ -3948,11 +4082,11 @@
       "margin": -7.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.77,
+      "sigma": 7.02,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-22",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Change Research",
@@ -3964,14 +4098,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -7.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:TX:c3aca1fa-8928-4ee0-ae7a-7fcb6774d8ce",
@@ -3986,11 +4122,11 @@
       "margin": 13.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.39,
+      "sigma": 7.54,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-28",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Normington, Petts & Associates",
@@ -4002,14 +4138,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 13.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:TX:e27a8bd0-d019-4c33-b14e-747a92f8f5ad",
@@ -4024,11 +4162,11 @@
       "margin": -9.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.14,
+      "sigma": 7.33,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-04",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -4040,14 +4178,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -9.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:TX:7e1c30ea-72d7-4d57-90a4-22c6c5d3f770",
@@ -4062,11 +4202,11 @@
       "margin": -6.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.35,
+      "sigma": 6.68,
       "pollsters": 2,
       "effective_polls": 1.36,
       "latest_poll": "2026-10-07",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "University of Houston Hobby School of Public Affairs",
@@ -4087,14 +4227,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -6.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:UT:b63fe1ab-a4c8-4994-912e-16a8b6ac6829",
@@ -4109,11 +4251,11 @@
       "margin": 41.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.82,
+      "sigma": 7.06,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-10",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Lighthouse Research",
@@ -4125,14 +4267,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 41.5,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:UT:3664833e-1f2f-44cd-8202-3b81c8a5e98f",
@@ -4147,11 +4291,11 @@
       "margin": -5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.46,
+      "sigma": 7.6,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Lighthouse Research",
@@ -4163,14 +4307,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -5.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:UT:b278901b-6b18-4ba9-9e95-da976c14e451",
@@ -4185,7 +4331,7 @@
       "margin": -18.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.53,
+      "sigma": 7.66,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-15",
@@ -4201,14 +4347,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -18.1,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:UT:f6c68ed2-3413-44a8-864c-f710a16a7adb",
@@ -4223,7 +4371,7 @@
       "margin": -8.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.39,
+      "sigma": 7.54,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-17",
@@ -4239,14 +4387,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -8.8,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:VA:b4ed2906-ddb9-4b3a-880e-b8443d5dcc16",
@@ -4261,11 +4411,11 @@
       "margin": 2.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.55,
+      "sigma": 6.84,
       "pollsters": 2,
       "effective_polls": 1.5,
       "latest_poll": "2026-09-28",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "The Washington Post/George Mason University Schar School of Policy and Government",
@@ -4286,14 +4436,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 2.94,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:VA:df823ad4-9e56-413d-ac88-0b96f98841e1",
@@ -4308,11 +4460,11 @@
       "margin": 3.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.62,
+      "sigma": 6.9,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-10",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Christopher Newport University",
@@ -4324,14 +4476,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 3.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:VA:9172b6a3-f2ac-4630-855a-e7a73a90babf",
@@ -4346,7 +4500,7 @@
       "margin": -4.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.56,
+      "sigma": 6.85,
       "pollsters": 2,
       "effective_polls": 1.6,
       "latest_poll": "2026-09-28",
@@ -4371,14 +4525,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -4.75,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:VA:f90cc099-7c5f-4964-ac56-38287da89d45",
@@ -4393,11 +4549,11 @@
       "margin": -30.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.41,
+      "sigma": 6.73,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-30",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "co/efficient",
@@ -4409,14 +4565,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -30.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:VT:35715f3a-d630-4af0-b766-a3ebafa87cdf",
@@ -4431,11 +4589,11 @@
       "margin": 26.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 8.45,
+      "sigma": 9.35,
       "pollsters": 2,
       "effective_polls": 2.0,
       "latest_poll": "2026-09-21",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -4456,14 +4614,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 26.64,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:WA:c8fd3235-6723-4535-b93f-38cce6627569",
@@ -4478,11 +4638,11 @@
       "margin": -1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.92,
+      "sigma": 7.14,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-27",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "DHM Research",
@@ -4494,14 +4654,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": -1.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "house:WI:97df6c18-2da3-407e-a447-cbce4d15d0b6",
@@ -4516,11 +4678,11 @@
       "margin": 0.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.25,
+      "sigma": 6.6,
       "pollsters": 2,
       "effective_polls": 1.92,
       "latest_poll": "2026-10-01",
-      "status": "District history missing; sparse House polling cannot support a win forecast",
+      "status": "Sparse House polling cannot support a win forecast",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -4541,14 +4703,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls only",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
       "forecast_margin": 0.6,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:AL:ff4ece22-ea3e-48ca-9955-d0e4c01d8e3a",
@@ -4563,7 +4727,7 @@
       "margin": -13.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.62,
+      "sigma": 6.8,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-25",
@@ -4579,14 +4743,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": -15.58,
-      "prior_margin": -21.15,
-      "prior_weight": 0.316,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -13.0,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:AZ:118daea0-3ebb-4a32-af77-bb896d1c7e6d",
@@ -4599,9 +4765,9 @@
       "dem_poll": 49.6,
       "rep_poll": 40.5,
       "margin": 9.1,
-      "dem_win": 94.1,
-      "rep_win": 5.9,
-      "sigma": 4.96,
+      "dem_win": 94.4,
+      "rep_win": 5.6,
+      "sigma": 5.72,
       "pollsters": 3,
       "effective_polls": 2.52,
       "latest_poll": "2026-10-08",
@@ -4635,14 +4801,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 7.78,
-      "prior_margin": 3.8,
-      "prior_weight": 0.246,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 9.08,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:CA:6d765d6a-c857-4bea-b1fe-bf9bae0713a1",
@@ -4657,7 +4825,7 @@
       "margin": 18.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.45,
+      "sigma": 4.97,
       "pollsters": 6,
       "effective_polls": 5.28,
       "latest_poll": "2026-10-01",
@@ -4718,14 +4886,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 20.27,
-      "prior_margin": 29.46,
-      "prior_weight": 0.198,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 18.0,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:CT:53ee206c-198b-40d7-b3e5-9c2970c20843",
@@ -4740,7 +4910,7 @@
       "margin": 17.1,
       "dem_win": 100.0,
       "rep_win": 0.0,
-      "sigma": 4.43,
+      "sigma": 4.95,
       "pollsters": 6,
       "effective_polls": 4.38,
       "latest_poll": "2026-10-12",
@@ -4801,14 +4971,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 18.39,
-      "prior_margin": 23.83,
-      "prior_weight": 0.197,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 17.06,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:FL:5c30013f-cca8-40cc-bdbf-2dfb75c5214b",
@@ -4821,9 +4993,9 @@
       "dem_poll": 43.1,
       "rep_poll": 47.7,
       "margin": -4.6,
-      "dem_win": 14.5,
-      "rep_win": 85.5,
-      "sigma": 4.22,
+      "dem_win": 16.0,
+      "rep_win": 84.0,
+      "sigma": 4.65,
       "pollsters": 8,
       "effective_polls": 7.29,
       "latest_poll": "2026-10-11",
@@ -4902,14 +5074,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 3,
+      "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -4.47,
-      "prior_margin": -3.77,
-      "prior_weight": 0.178,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -4.62,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:GA:51846c5c-5e12-4a8c-bd23-e24dbcd12ef5",
@@ -4922,9 +5096,9 @@
       "dem_poll": 47.3,
       "rep_poll": 49.2,
       "margin": -1.8,
-      "dem_win": 47.2,
-      "rep_win": 52.8,
-      "sigma": 4.17,
+      "dem_win": 34.3,
+      "rep_win": 65.7,
+      "sigma": 4.59,
       "pollsters": 4,
       "effective_polls": 3.31,
       "latest_poll": "2026-10-13",
@@ -4967,14 +5141,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -0.29,
-      "prior_margin": 7.13,
-      "prior_weight": 0.174,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -1.85,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:IA:75a8a639-52be-4bd4-8d35-f46ea99c5786",
@@ -4987,9 +5163,9 @@
       "dem_poll": 51.1,
       "rep_poll": 43.6,
       "margin": 7.4,
-      "dem_win": 91.4,
-      "rep_win": 8.6,
-      "sigma": 4.07,
+      "dem_win": 95.3,
+      "rep_win": 4.7,
+      "sigma": 4.46,
       "pollsters": 9,
       "effective_polls": 6.78,
       "latest_poll": "2026-10-12",
@@ -5077,14 +5253,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 5.57,
-      "prior_margin": -3.88,
-      "prior_weight": 0.166,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 7.44,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:IL:120431fc-7a75-4bf8-b06a-e67a6d7732ec",
@@ -5099,7 +5277,7 @@
       "margin": 20.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.77,
+      "sigma": 7.07,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
@@ -5115,14 +5293,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 20.07,
-      "prior_margin": 20.22,
-      "prior_weight": 0.333,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 20.0,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:KS:87794e93-b6e9-4ae8-90f2-349d5ede05ca",
@@ -5135,9 +5315,9 @@
       "dem_poll": 44.8,
       "rep_poll": 48.7,
       "margin": -4.0,
-      "dem_win": 14.2,
-      "rep_win": 85.8,
-      "sigma": 4.18,
+      "dem_win": 19.3,
+      "rep_win": 80.7,
+      "sigma": 4.6,
       "pollsters": 6,
       "effective_polls": 4.17,
       "latest_poll": "2026-10-04",
@@ -5198,14 +5378,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -4.47,
-      "prior_margin": -6.79,
-      "prior_weight": 0.175,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -3.98,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:MA:f715ce1b-4cbf-42a3-baee-d2ed158596e3",
@@ -5220,7 +5402,7 @@
       "margin": 19.3,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.61,
+      "sigma": 6.77,
       "pollsters": 2,
       "effective_polls": 1.97,
       "latest_poll": "2026-09-22",
@@ -5245,14 +5427,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 24.11,
-      "prior_margin": 34.52,
-      "prior_weight": 0.314,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 19.34,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:MD:53f66065-619f-4925-be3a-27d73c487076",
@@ -5267,7 +5451,7 @@
       "margin": 27.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.81,
+      "sigma": 7.13,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-27",
@@ -5283,14 +5467,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 30.66,
-      "prior_margin": 37.86,
-      "prior_weight": 0.337,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 27.0,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:ME:c907ae73-739f-4b4d-af3f-bd59c57ed993",
@@ -5305,7 +5491,7 @@
       "margin": 11.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.09,
+      "sigma": 4.49,
       "pollsters": 10,
       "effective_polls": 8.36,
       "latest_poll": "2026-10-11",
@@ -5402,14 +5588,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 12.27,
-      "prior_margin": 16.26,
-      "prior_weight": 0.168,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 11.47,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:MI:8f54223a-e319-4635-b757-4e45fc86c856",
@@ -5424,7 +5612,7 @@
       "margin": 7.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.08,
+      "sigma": 4.46,
       "pollsters": 15,
       "effective_polls": 11.46,
       "latest_poll": "2026-10-09",
@@ -5566,14 +5754,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 7.77,
-      "prior_margin": 7.91,
-      "prior_weight": 0.166,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 7.74,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:MN:3450e89a-4d4b-454e-bd27-b92950f69af0",
@@ -5586,9 +5776,9 @@
       "dem_poll": 48.5,
       "rep_poll": 40.7,
       "margin": 7.7,
-      "dem_win": 98.0,
-      "rep_win": 2.0,
-      "sigma": 4.31,
+      "dem_win": 94.7,
+      "rep_win": 5.3,
+      "sigma": 4.78,
       "pollsters": 5,
       "effective_polls": 3.71,
       "latest_poll": "2026-10-12",
@@ -5640,14 +5830,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 8.83,
-      "prior_margin": 13.57,
-      "prior_weight": 0.186,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 7.75,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:NE:17ee3d2c-159b-45f4-b3bb-5ba1b867bee9",
@@ -5662,7 +5854,7 @@
       "margin": -4.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.8,
+      "sigma": 5.47,
       "pollsters": 6,
       "effective_polls": 3.48,
       "latest_poll": "2026-10-03",
@@ -5723,14 +5915,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -5.74,
-      "prior_margin": -11.13,
-      "prior_weight": 0.23,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -4.12,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:NH:aa4c8492-41ef-43e6-8771-ad6f1238b696",
@@ -5743,9 +5937,9 @@
       "dem_poll": 41.3,
       "rep_poll": 50.3,
       "margin": -9.0,
-      "dem_win": 13.9,
-      "rep_win": 86.1,
-      "sigma": 4.46,
+      "dem_win": 3.5,
+      "rep_win": 96.5,
+      "sigma": 4.98,
       "pollsters": 5,
       "effective_polls": 4.02,
       "latest_poll": "2026-10-05",
@@ -5797,14 +5991,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -4.83,
-      "prior_margin": 12.11,
-      "prior_weight": 0.199,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -9.03,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:NM:8c21109e-b56d-4126-81d7-88b555c9cec3",
@@ -5817,9 +6013,9 @@
       "dem_poll": 48.4,
       "rep_poll": 41.7,
       "margin": 6.7,
-      "dem_win": 95.7,
-      "rep_win": 4.3,
-      "sigma": 5.35,
+      "dem_win": 85.5,
+      "rep_win": 14.5,
+      "sigma": 6.33,
       "pollsters": 2,
       "effective_polls": 1.75,
       "latest_poll": "2026-10-09",
@@ -5844,14 +6040,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 9.16,
-      "prior_margin": 15.33,
-      "prior_weight": 0.286,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 6.69,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:NV:3d1bb307-25e7-4313-a1a0-142ed01dd9fd",
@@ -5866,7 +6064,7 @@
       "margin": -0.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.62,
+      "sigma": 6.8,
       "pollsters": 2,
       "effective_polls": 1.69,
       "latest_poll": "2026-09-26",
@@ -5891,14 +6089,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 1.41,
-      "prior_margin": 6.23,
-      "prior_weight": 0.316,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -0.82,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:NY:830006b7-3338-4479-91e2-6676f21dde7f",
@@ -5913,7 +6113,7 @@
       "margin": 12.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.39,
+      "sigma": 4.89,
       "pollsters": 6,
       "effective_polls": 5.24,
       "latest_poll": "2026-10-06",
@@ -5974,14 +6174,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 14.55,
-      "prior_margin": 21.92,
-      "prior_weight": 0.193,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 12.79,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:OH:f53d2c84-3d3b-451a-ad32-a0355ffaeae9",
@@ -5996,7 +6198,7 @@
       "margin": 4.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.17,
+      "sigma": 4.59,
       "pollsters": 8,
       "effective_polls": 7.39,
       "latest_poll": "2026-10-09",
@@ -6075,14 +6277,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 3.09,
-      "prior_margin": -1.88,
-      "prior_weight": 0.174,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 4.14,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:OR:97bf563e-8aaf-462b-9b20-2acf8b435179",
@@ -6097,7 +6301,7 @@
       "margin": 2.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.48,
+      "sigma": 6.55,
       "pollsters": 2,
       "effective_polls": 1.94,
       "latest_poll": "2026-10-04",
@@ -6122,14 +6326,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 9.07,
-      "prior_margin": 23.63,
-      "prior_weight": 0.3,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 2.82,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:PA:85f663f1-ccfd-4b88-991f-d204dbaec233",
@@ -6144,7 +6350,7 @@
       "margin": 23.2,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.33,
+      "sigma": 4.81,
       "pollsters": 5,
       "effective_polls": 4.09,
       "latest_poll": "2026-10-05",
@@ -6196,14 +6402,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 20.24,
-      "prior_margin": 7.62,
-      "prior_weight": 0.188,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 23.16,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:RI:f1a05535-a07c-4c91-bc78-41280b96f1a8",
@@ -6218,7 +6426,7 @@
       "margin": 31.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.03,
+      "sigma": 7.55,
       "pollsters": 3,
       "effective_polls": 2.07,
       "latest_poll": "2026-10-11",
@@ -6252,14 +6460,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 28.68,
-      "prior_margin": 23.11,
-      "prior_weight": 0.363,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 31.87,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:TN:a48ea5a3-9d42-4555-a32b-c10094ad634a",
@@ -6274,7 +6484,7 @@
       "margin": -9.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.84,
+      "sigma": 7.19,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-12",
@@ -6290,14 +6500,16 @@
           "internal": true
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": -12.88,
-      "prior_margin": -20.39,
-      "prior_weight": 0.341,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -9.0,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:TX:fe1f0a9f-398c-415d-a0f1-74b42972f5db",
@@ -6312,7 +6524,7 @@
       "margin": -2.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.0,
+      "sigma": 4.36,
       "pollsters": 17,
       "effective_polls": 12.71,
       "latest_poll": "2026-10-14",
@@ -6472,14 +6684,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 1,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -2.68,
-      "prior_margin": -4.36,
-      "prior_weight": 0.16,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -2.36,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:VT:0cfd4c9a-8767-4d53-bc7b-33584b6c53e5",
@@ -6492,9 +6706,9 @@
       "dem_poll": 42.5,
       "rep_poll": 44.7,
       "margin": -2.2,
-      "dem_win": 95.9,
-      "rep_win": 4.1,
-      "sigma": 5.06,
+      "dem_win": 35.2,
+      "rep_win": 64.8,
+      "sigma": 5.86,
       "pollsters": 3,
       "effective_polls": 2.62,
       "latest_poll": "2026-10-04",
@@ -6528,14 +6742,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 8.8,
-      "prior_margin": 40.83,
-      "prior_weight": 0.256,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": -2.23,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     },
     {
       "id": "governor:WI:21105b67-0435-425e-a9ef-284ab91297b8",
@@ -6550,7 +6766,7 @@
       "margin": 3.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.4,
+      "sigma": 6.42,
       "pollsters": 2,
       "effective_polls": 1.95,
       "latest_poll": "2026-10-01",
@@ -6575,14 +6791,16 @@
           "internal": false
         }
       ],
-      "model_basis": "Polls + 2024 state lean",
+      "trend_adjustment": 0.0,
+      "trend_pollsters": 0,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 5.19,
-      "prior_margin": 8.47,
-      "prior_weight": 0.292,
-      "historical_source": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx",
+      "forecast_margin": 3.84,
+      "prior_margin": null,
+      "prior_weight": 0.0,
+      "historical_source": null,
       "national_poll_margin": 7.85,
-      "collected_at": "2026-10-16T14:16:53.178352+00:00"
+      "collected_at": "2026-10-16T14:30:05.427900+00:00"
     }
   ],
   "source_checks": [
@@ -6611,7 +6829,7 @@
       "rejected": 0
     }
   ],
-  "method": "Statewide races combine polls with an assumed wide 2024 presidential state-lean prior (SD 10 points when adjusted by a fresh national generic ballot, otherwise SD 12). Sparse statewide polling adds a 4-point uncertainty term. Prior weights and uncertainty are assumptions, not fitted or calibrated. House races retain the original multi-poll requirement because district history is missing. Generic ballot entries are not district forecasts. Poll input method: latest observation per pollster and current candidate pair; 14-day recency half-life; square-root sample weight capped at 1500; partisan/internal polls half weight. Normal margin model with assumed 4-point shared error floor, poll disagreement, sampling, undecided and time terms. These assumptions have NOT been fitted or validated against historical outcomes. Poll percentages are not win probabilities. Historical state lean is not an incumbency or candidate-quality model. Maine gubernatorial general election uses plurality; federal Maine and Alaska races remain withheld. No chamber-control odds: complete race roster and correlated seat model not implemented. States without usable polls are unknown, not necessarily states without elections.",
+  "method": "Current-poll experimental forecast: no 2024 state-lean adjustment. Latest poll per pollster and current candidate pair; 14-day recency half-life; square-root sample weight capped at 1500; partisan/internal polls half weight. Trend uses at least three matched pollsters, same candidate pair and population, with polls 7-28 days apart. Median daily movement is projected at half strength for at most 7 days and capped at 2 margin points; its size is also added to uncertainty. Trend rules are assumptions, not fitted. Normal margin model retains a 4-point shared-error floor, disagreement, sampling, undecided and time terms; sparse statewide polling adds 4 points of uncertainty and requires sample 250 or larger. House needs at least 3 pollsters and effective poll count 2. Third-candidate and ranked-choice restrictions remain. Historical accuracy is NOT established. No candidate-quality, fundraising, economic or news model is implemented. No chamber-control forecast. Candidate roster not independently verified.",
   "attribution": "PollResults.org; poll data from The New York Times, CC BY 4.0. Adapted into American Recon poll averages and experimental estimates. Candidate and poll details remain attributed to original pollsters.",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "data_source": "https://pollresults.org/"
