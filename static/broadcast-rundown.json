@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-10-19",
-  "prepared_at": "2026-10-19T23:02:37.000456+00:00",
+  "show_date": "2026-10-20",
+  "prepared_at": "2026-10-20T23:20:43.568677+00:00",
   "reports": [
     {
-      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
-      "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+      "title": "The tech helping crack decades-old cold cases",
+      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published_at": "2026-10-19T23:00:21+00:00",
+      "published_at": "2026-10-20T23:13:24+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Ten songs named after famous people from Nicole Kidman to Elon Musk",
-      "url": "https://www.abc.net.au/news/2026-10-20/ten-songs-named-after-famous-people-nicole-kidman-elon-musk/107283250",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-10-20T23:11:17+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Portugal housing protests continue after police clear camps",
+      "url": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf",
+      "source": "DW / Germany",
+      "published_at": "2026-10-20T23:11:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Air quality in Singapore sees slight improvement; 1-hour PM2.5 readings elevated in two regions",
+      "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-21-6476941",
+      "source": "CNA / Singapore",
+      "published_at": "2026-10-20T23:10:02+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Barcelona take heart despite third straight defeat to PSG",
+      "url": "https://www.channelnewsasia.com/sport/barcelona-take-heart-despite-third-straight-defeat-psg-6477001",
+      "source": "CNA / Singapore",
+      "published_at": "2026-10-20T23:07:42+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Nigeria confirms case of Ebola in capital city of Abuja",
+      "url": "https://www.cbc.ca/news/health/nigeria-ebola-case-confirmed-abuja-9.7389261?cmp=rss",
+      "source": "CBC / Canada",
+      "published_at": "2026-10-20T23:05:51+00:00",
+      "topic": "health",
+      "kind": "News report"
+    },
+    {
+      "title": "Proposed depression subtype involves waking up tired or being a night owl",
+      "url": "https://www.abc.net.au/news/health/2026-10-21/circadian-depression-clinical-genetic-implications/107261644",
       "source": "ABC / Australia",
-      "published_at": "2026-10-19T23:00:00+00:00",
+      "published_at": "2026-10-20T23:01:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Breaking: Man in custody over alleged attack against Helen Haines named",
-      "url": "https://www.abc.net.au/news/2026-10-20/man-in-custody-alleged-attack-against-helen-haines-named/107286318",
-      "source": "ABC / Australia",
-      "published_at": "2026-10-19T22:59:35+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Trump escalates clash with Zelenskyy as Russia continues deadly attacks on Ukraine",
-      "url": "https://www.pbs.org/newshour/show/trump-escalates-clash-with-zelenskyy-as-russia-continues-deadly-attacks-on-ukraine",
-      "source": "PBS NewsHour",
-      "published_at": "2026-10-19T22:55:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Tel Aviv's Zemack Gallery goes on an American Dream ‘Road Trip’ with artist Yigal Ozeri",
-      "url": "https://www.jpost.com/israel-news/culture/article-912205",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-19T22:53:07+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "US, Israel weigh renewed strikes on Iran as experts warn renewed conflict may be inevitable",
-      "url": "https://www.jpost.com/middle-east/article-912207",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-19T22:52:21+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "U.S. must put pressure on Russia so Putin ends the war, Ukrainian official says",
-      "url": "https://www.pbs.org/newshour/show/u-s-must-put-pressure-on-russia-so-putin-ends-the-war-ukrainian-official-says",
-      "source": "PBS NewsHour",
-      "published_at": "2026-10-19T22:50:35+00:00",
-      "topic": "conflict",
-      "kind": "News report"
-    },
-    {
-      "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+      "title": "Australian researchers identify new subtype of depression linked to body clock disruptions",
+      "url": "https://www.theguardian.com/society/2026/oct/21/australian-researchers-identify-new-subtype-of-depression-linked-to-body-clock-disruptions",
       "source": "Guardian world news",
-      "published_at": "2026-10-19T22:43:47+00:00",
+      "published_at": "2026-10-20T23:00:48+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-10-19T22:37:19+00:00",
+      "title": "Hind Rajab Foundation files US complaint against Israeli officer over Gaza girl's death",
+      "url": "https://www.jpost.com/diaspora/article-912339",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-10-20T22:59:32+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
-      "source": "Guardian world news",
-      "published_at": "2026-10-19T22:34:43+00:00",
+      "title": "Zelenskyy seeks to mend ties with Trump ahead of Witkoff-Putin meeting",
+      "url": "https://www.pbs.org/newshour/show/zelenskyy-seeks-to-mend-ties-with-trump-ahead-of-witkoff-putin-meeting",
+      "source": "PBS NewsHour",
+      "published_at": "2026-10-20T22:55:59+00:00",
       "topic": "News",
       "kind": "News report"
     }
