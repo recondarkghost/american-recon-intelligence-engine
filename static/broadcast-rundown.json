@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-10-20",
-  "prepared_at": "2026-10-20T23:20:43.568677+00:00",
+  "show_date": "2026-10-21",
+  "prepared_at": "2026-10-21T23:41:17.619785+00:00",
   "reports": [
     {
-      "title": "The tech helping crack decades-old cold cases",
-      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "title": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation",
+      "url": "https://www.jpost.com/international/article-912467",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-10-21T23:41:54+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Meta ordered to pay New Mexico $25b for deceiving users about Facebook privacy",
+      "url": "https://www.abc.net.au/news/2026-10-22/meta-ordered-to-pay-new-mexico-us25-billion/107294964",
+      "source": "ABC / Australia",
+      "published_at": "2026-10-21T23:35:45+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published_at": "2026-10-20T23:13:24+00:00",
+      "published_at": "2026-10-21T23:27:05+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-10-20T23:11:17+00:00",
+      "title": "UAE set to nominate Lana Nusseibeh to succeed Guterres as UN secretary-general, sources tell 'Post'",
+      "url": "https://www.jpost.com/international/article-912466",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-10-21T23:21:21+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Portugal housing protests continue after police clear camps",
-      "url": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf",
-      "source": "DW / Germany",
-      "published_at": "2026-10-20T23:11:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Air quality in Singapore sees slight improvement; 1-hour PM2.5 readings elevated in two regions",
-      "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-21-6476941",
+      "title": "London's cult-favourite Bao founders to open BFF at New Bahru with Taiwanese fried chicken, gravy-filled baos",
+      "url": "https://www.channelnewsasia.com/dining/london-bao-bff-new-bahru-taiwanese-fried-chicken-6458811",
       "source": "CNA / Singapore",
-      "published_at": "2026-10-20T23:10:02+00:00",
+      "published_at": "2026-10-21T23:21:12+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Barcelona take heart despite third straight defeat to PSG",
-      "url": "https://www.channelnewsasia.com/sport/barcelona-take-heart-despite-third-straight-defeat-psg-6477001",
-      "source": "CNA / Singapore",
-      "published_at": "2026-10-20T23:07:42+00:00",
-      "topic": "News",
+      "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+      "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-10-21T23:20:58+00:00",
+      "topic": "research",
       "kind": "News report"
     },
     {
-      "title": "Nigeria confirms case of Ebola in capital city of Abuja",
-      "url": "https://www.cbc.ca/news/health/nigeria-ebola-case-confirmed-abuja-9.7389261?cmp=rss",
-      "source": "CBC / Canada",
-      "published_at": "2026-10-20T23:05:51+00:00",
+      "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+      "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-10-21T23:20:12+00:00",
       "topic": "health",
       "kind": "News report"
     },
     {
-      "title": "Proposed depression subtype involves waking up tired or being a night owl",
-      "url": "https://www.abc.net.au/news/health/2026-10-21/circadian-depression-clinical-genetic-implications/107261644",
-      "source": "ABC / Australia",
-      "published_at": "2026-10-20T23:01:00+00:00",
+      "title": "KKH says abused baby had no injuries during admission months before death; case later closed",
+      "url": "https://www.channelnewsasia.com/singapore/kkh-trevor-neo-abuse-death-6478016",
+      "source": "CNA / Singapore",
+      "published_at": "2026-10-21T23:20:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Australian researchers identify new subtype of depression linked to body clock disruptions",
-      "url": "https://www.theguardian.com/society/2026/oct/21/australian-researchers-identify-new-subtype-of-depression-linked-to-body-clock-disruptions",
-      "source": "Guardian world news",
-      "published_at": "2026-10-20T23:00:48+00:00",
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-10-21T23:12:06+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Hind Rajab Foundation files US complaint against Israeli officer over Gaza girl's death",
-      "url": "https://www.jpost.com/diaspora/article-912339",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-20T22:59:32+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Zelenskyy seeks to mend ties with Trump ahead of Witkoff-Putin meeting",
-      "url": "https://www.pbs.org/newshour/show/zelenskyy-seeks-to-mend-ties-with-trump-ahead-of-witkoff-putin-meeting",
-      "source": "PBS NewsHour",
-      "published_at": "2026-10-20T22:55:59+00:00",
+      "title": "German youth plan France-style mass protests",
+      "url": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf",
+      "source": "DW / Germany",
+      "published_at": "2026-10-21T23:11:00+00:00",
       "topic": "News",
       "kind": "News report"
     }
