@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T23:20:20.051611+00:00",
+  "checked_at": "2026-10-21T01:43:26.297472+00:00",
   "election_date": "2026-11-03",
   "model_version": "1.2-current-polls-trend-unvalidated",
   "races": [
@@ -16,7 +16,7 @@
       "margin": 1.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.32,
+      "sigma": 5.31,
       "pollsters": 3,
       "effective_polls": 2.84,
       "latest_poll": "2026-10-01",
@@ -58,8 +58,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:AL:a58c75c1-3077-4166-b423-7fc106199529",
@@ -74,7 +74,7 @@
       "margin": -21.0,
       "dem_win": 0.1,
       "rep_win": 99.9,
-      "sigma": 6.66,
+      "sigma": 6.65,
       "pollsters": 2,
       "effective_polls": 1.39,
       "latest_poll": "2026-10-16",
@@ -107,8 +107,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:AR:8815ec42-9966-4a24-8d13-e9e88e52747f",
@@ -156,8 +156,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:FL:b59d96b4-5318-4497-a4d1-9bd83217ac76",
@@ -170,9 +170,9 @@
       "dem_poll": 43.3,
       "rep_poll": 49.8,
       "margin": -6.5,
-      "dem_win": 6.7,
-      "rep_win": 93.3,
-      "sigma": 4.45,
+      "dem_win": 6.6,
+      "rep_win": 93.4,
+      "sigma": 4.44,
       "pollsters": 10,
       "effective_polls": 8.13,
       "latest_poll": "2026-10-15",
@@ -277,8 +277,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:GA:00fd3a01-c10a-4a40-89fd-9b97bcc17d82",
@@ -288,17 +288,26 @@
       "race_id": "00fd3a01-c10a-4a40-89fd-9b97bcc17d82",
       "dem": "Jon Ossoff",
       "rep": "Mike Collins",
-      "dem_poll": 52.6,
-      "rep_poll": 44.1,
-      "margin": 8.6,
-      "dem_win": 97.3,
-      "rep_win": 2.7,
-      "sigma": 4.44,
+      "dem_poll": 52.7,
+      "rep_poll": 44.4,
+      "margin": 8.2,
+      "dem_win": 96.6,
+      "rep_win": 3.4,
+      "sigma": 4.5,
       "pollsters": 6,
-      "effective_polls": 4.79,
-      "latest_poll": "2026-10-17",
+      "effective_polls": 4.78,
+      "latest_poll": "2026-10-20",
       "status": "Experimental probability; not historically calibrated",
       "polls": [
+        {
+          "pollster_name": "ActiVote",
+          "end": "2026-10-20",
+          "dem_pct": 54.0,
+          "rep_pct": 46.0,
+          "n": 400.0,
+          "url": "https://www.activote.net/polls/2026/ga-governor/",
+          "internal": false
+        },
         {
           "pollster_name": "Quantus Insights",
           "end": "2026-10-17",
@@ -316,15 +325,6 @@
           "n": 1101.0,
           "url": "https://www.thetrafalgargroup.org/news/ga-senate-gen-1010/",
           "internal": true
-        },
-        {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-10-03",
-          "dem_pct": 55.0,
-          "rep_pct": 45.0,
-          "n": 600.0,
-          "url": "https://drive.google.com/file/d/1-Qoij2YeWwq-EFaTY_W0iTf1fotSrKHI/view",
-          "internal": false
         },
         {
           "pollster_name": "InsiderAdvantage",
@@ -358,12 +358,12 @@
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 8.58,
+      "forecast_margin": 8.24,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:IA:6504c9a1-f6af-4517-8475-b563a47234cf",
@@ -378,7 +378,7 @@
       "margin": -0.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.35,
+      "sigma": 4.33,
       "pollsters": 13,
       "effective_polls": 10.13,
       "latest_poll": "2026-10-19",
@@ -510,8 +510,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:IL:3be1195b-6fc6-42c2-b5cd-8605748da86a",
@@ -521,17 +521,26 @@
       "race_id": "3be1195b-6fc6-42c2-b5cd-8605748da86a",
       "dem": "Juliana Stratton",
       "rep": "Don Tracy",
-      "dem_poll": 49.0,
-      "rep_poll": 36.0,
-      "margin": 13.0,
-      "dem_win": null,
-      "rep_win": null,
-      "sigma": 7.11,
-      "pollsters": 1,
-      "effective_polls": 1.0,
-      "latest_poll": "2026-10-01",
-      "status": "Latest poll is more than 14 days old",
+      "dem_poll": 55.5,
+      "rep_poll": 39.8,
+      "margin": 15.7,
+      "dem_win": 98.9,
+      "rep_win": 1.1,
+      "sigma": 6.91,
+      "pollsters": 2,
+      "effective_polls": 1.77,
+      "latest_poll": "2026-10-20",
+      "status": "Experimental probability; not historically calibrated",
       "polls": [
+        {
+          "pollster_name": "ActiVote",
+          "end": "2026-10-20",
+          "dem_pct": 58.5,
+          "rep_pct": 41.5,
+          "n": 400.0,
+          "url": "https://www.activote.net/polls/2026/il-u-s-senate/",
+          "internal": false
+        },
         {
           "pollster_name": "Public Policy Polling",
           "end": "2026-10-01",
@@ -546,12 +555,12 @@
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 13.0,
+      "forecast_margin": 15.73,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:KS:5cb51572-4167-49a2-b7a6-eec3fa3a1945",
@@ -561,14 +570,14 @@
       "race_id": "5cb51572-4167-49a2-b7a6-eec3fa3a1945",
       "dem": "Adam Hamilton",
       "rep": "Roger Marshall",
-      "dem_poll": 46.9,
-      "rep_poll": 46.1,
-      "margin": 0.8,
+      "dem_poll": 46.6,
+      "rep_poll": 46.0,
+      "margin": 0.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.45,
-      "pollsters": 9,
-      "effective_polls": 5.6,
+      "sigma": 4.48,
+      "pollsters": 8,
+      "effective_polls": 4.95,
       "latest_poll": "2026-10-14",
       "status": "Material third-candidate support; two-candidate model withheld",
       "polls": [
@@ -618,15 +627,6 @@
           "internal": false
         },
         {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-09-24",
-          "dem_pct": 50.0,
-          "rep_pct": 48.0,
-          "n": 500.0,
-          "url": "https://drive.google.com/file/d/1MxCohCdxLl3Gy2iIUBnctm4oPipKwjSg/view",
-          "internal": false
-        },
-        {
           "pollster_name": "Global Strategy Group",
           "end": "2026-09-16",
           "dem_pct": 49.0,
@@ -658,12 +658,12 @@
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 0.75,
+      "forecast_margin": 0.65,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:LA:08728cf9-27d9-4d84-8a37-2168f60a35cb",
@@ -678,7 +678,7 @@
       "margin": -4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.21,
+      "sigma": 7.2,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-19",
@@ -702,8 +702,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:MA:98240db9-3ce6-4ded-8a07-afc3f0903c21",
@@ -718,7 +718,7 @@
       "margin": 26.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.91,
+      "sigma": 4.9,
       "pollsters": 4,
       "effective_polls": 3.16,
       "latest_poll": "2026-10-18",
@@ -769,8 +769,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:ME:eea2d6d6-bcb0-4fe7-b1da-ec22a14df253",
@@ -780,14 +780,14 @@
       "race_id": "eea2d6d6-bcb0-4fe7-b1da-ec22a14df253",
       "dem": "Troy Jackson",
       "rep": "Susan Collins",
-      "dem_poll": 49.1,
-      "rep_poll": 47.2,
-      "margin": 2.0,
+      "dem_poll": 49.0,
+      "rep_poll": 47.1,
+      "margin": 1.9,
       "dem_win": null,
       "rep_win": null,
       "sigma": 4.26,
-      "pollsters": 15,
-      "effective_polls": 11.45,
+      "pollsters": 14,
+      "effective_polls": 10.64,
       "latest_poll": "2026-10-14",
       "status": "Ranked-choice rules require a separate model",
       "polls": [
@@ -844,15 +844,6 @@
           "n": 1091.0,
           "url": "https://www.thetrafalgargroup.org/news/me-senate-gen-1002/",
           "internal": true
-        },
-        {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-10-01",
-          "dem_pct": 52.0,
-          "rep_pct": 48.0,
-          "n": 400.0,
-          "url": "https://drive.google.com/file/d/1sycfLKEWvUxaW7oNYTdih5DzlXlcmtXC/view",
-          "internal": false
         },
         {
           "pollster_name": "co/efficient",
@@ -931,12 +922,12 @@
       "trend_pollsters": 2,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 1.98,
+      "forecast_margin": 1.88,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:MI:8069ba7e-4ac6-449d-ae1e-f7fc5dee4a19",
@@ -946,14 +937,14 @@
       "race_id": "8069ba7e-4ac6-449d-ae1e-f7fc5dee4a19",
       "dem": "Abdul El-Sayed",
       "rep": "Mike Rogers",
-      "dem_poll": 48.4,
-      "rep_poll": 45.4,
-      "margin": 3.0,
-      "dem_win": 76.5,
-      "rep_win": 23.5,
-      "sigma": 4.28,
-      "pollsters": 21,
-      "effective_polls": 15.56,
+      "dem_poll": 48.0,
+      "rep_poll": 45.2,
+      "margin": 2.8,
+      "dem_win": 74.6,
+      "rep_win": 25.4,
+      "sigma": 4.27,
+      "pollsters": 20,
+      "effective_polls": 14.65,
       "latest_poll": "2026-10-10",
       "status": "Experimental probability; not historically calibrated",
       "polls": [
@@ -964,15 +955,6 @@
           "rep_pct": 45.5,
           "n": 1200.0,
           "url": "https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/",
-          "internal": false
-        },
-        {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-10-09",
-          "dem_pct": 53.0,
-          "rep_pct": 47.0,
-          "n": 607.0,
-          "url": "https://drive.google.com/file/d/1aJZLOtyfQnZtPDHogNEN2UATqMhrLgxc/view?usp=drivesdk",
           "internal": false
         },
         {
@@ -1151,12 +1133,12 @@
       "trend_pollsters": 3,
       "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 3.09,
+      "forecast_margin": 2.82,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:MN:fd4a6546-ff73-46f2-a9df-6f92f6f959a8",
@@ -1171,7 +1153,7 @@
       "margin": 3.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.48,
+      "sigma": 4.47,
       "pollsters": 9,
       "effective_polls": 7.53,
       "latest_poll": "2026-10-15",
@@ -1267,48 +1249,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
-    },
-    {
-      "id": "senate:MS:f137f0b7-6bc7-42c5-a594-d1a8a3ef3e15",
-      "office": "senate",
-      "state": "MS",
-      "seat": "",
-      "race_id": "f137f0b7-6bc7-42c5-a594-d1a8a3ef3e15",
-      "dem": "Scott Colom",
-      "rep": "Cindy Hyde-Smith",
-      "dem_poll": 48.0,
-      "rep_poll": 52.0,
-      "margin": -4.0,
-      "dem_win": 29.0,
-      "rep_win": 71.0,
-      "sigma": 7.23,
-      "pollsters": 1,
-      "effective_polls": 1.0,
-      "latest_poll": "2026-10-14",
-      "status": "Experimental probability; not historically calibrated",
-      "polls": [
-        {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-10-14",
-          "dem_pct": 48.0,
-          "rep_pct": 52.0,
-          "n": 511.0,
-          "url": "https://x.com/WedgewoodPolls/status/2110541168874488272",
-          "internal": false
-        }
-      ],
-      "trend_adjustment": 0.0,
-      "trend_pollsters": 0,
-      "model_basis": "Current polls; trend evidence insufficient",
-      "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": -4.0,
-      "prior_margin": null,
-      "prior_weight": 0.0,
-      "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:MT:2de1c5ad-374a-4c51-9f99-8432d8e980f6",
@@ -1323,7 +1265,7 @@
       "margin": -26.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.56,
+      "sigma": 6.55,
       "pollsters": 5,
       "effective_polls": 2.84,
       "latest_poll": "2026-10-18",
@@ -1383,8 +1325,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:NC:70395c5f-9aee-4a8f-a647-b656d0f894a3",
@@ -1394,17 +1336,26 @@
       "race_id": "70395c5f-9aee-4a8f-a647-b656d0f894a3",
       "dem": "Roy Cooper",
       "rep": "Michael Whatley",
-      "dem_poll": 51.2,
-      "rep_poll": 41.3,
-      "margin": 9.9,
+      "dem_poll": 52.1,
+      "rep_poll": 41.6,
+      "margin": 10.5,
       "dem_win": null,
       "rep_win": null,
       "sigma": 4.42,
-      "pollsters": 12,
-      "effective_polls": 10.42,
-      "latest_poll": "2026-10-11",
+      "pollsters": 13,
+      "effective_polls": 10.72,
+      "latest_poll": "2026-10-20",
       "status": "Material third-candidate support; two-candidate model withheld",
       "polls": [
+        {
+          "pollster_name": "ActiVote",
+          "end": "2026-10-20",
+          "dem_pct": 56.9,
+          "rep_pct": 43.1,
+          "n": 400.0,
+          "url": "https://www.activote.net/polls/2026/nc-u-s-senate/",
+          "internal": false
+        },
         {
           "pollster_name": "SurveyUSA",
           "end": "2026-10-11",
@@ -1518,12 +1469,12 @@
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 9.89,
+      "forecast_margin": 10.52,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:NE:b2dc7f12-eb1a-4ec9-9b9e-69d91c1030ca",
@@ -1533,14 +1484,14 @@
       "race_id": "b2dc7f12-eb1a-4ec9-9b9e-69d91c1030ca",
       "dem": "Dan Osborn",
       "rep": "Pete Ricketts",
-      "dem_poll": 46.4,
-      "rep_poll": 47.3,
-      "margin": -0.9,
+      "dem_poll": 46.3,
+      "rep_poll": 46.8,
+      "margin": -0.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.55,
-      "pollsters": 6,
-      "effective_polls": 4.02,
+      "sigma": 4.58,
+      "pollsters": 5,
+      "effective_polls": 3.44,
       "latest_poll": "2026-10-05",
       "status": "Latest poll is more than 14 days old",
       "polls": [
@@ -1572,15 +1523,6 @@
           "internal": false
         },
         {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-09-16",
-          "dem_pct": 48.0,
-          "rep_pct": 52.0,
-          "n": 500.0,
-          "url": "https://drive.google.com/file/d/1KBEbm4P_yziCxsZdgMhTzJ3p5UwtN7X5/view",
-          "internal": false
-        },
-        {
           "pollster_name": "SurveyUSA",
           "end": "2026-09-13",
           "dem_pct": 46.0,
@@ -1603,12 +1545,12 @@
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -0.91,
+      "forecast_margin": -0.6,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:NH:85026c96-181d-4074-b438-5798d23c7077",
@@ -1621,9 +1563,9 @@
       "dem_poll": 49.7,
       "rep_poll": 43.1,
       "margin": 6.6,
-      "dem_win": 93.3,
-      "rep_win": 6.7,
-      "sigma": 4.4,
+      "dem_win": 93.4,
+      "rep_win": 6.6,
+      "sigma": 4.39,
       "pollsters": 8,
       "effective_polls": 6.48,
       "latest_poll": "2026-10-12",
@@ -1710,8 +1652,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:NM:77777465-3b79-4824-bc90-a88a503b985d",
@@ -1726,7 +1668,7 @@
       "margin": 16.6,
       "dem_win": 99.6,
       "rep_win": 0.4,
-      "sigma": 6.31,
+      "sigma": 6.3,
       "pollsters": 2,
       "effective_polls": 1.75,
       "latest_poll": "2026-10-09",
@@ -1759,8 +1701,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:OH:df65b49b-388c-4867-ab75-d8e2a78ed5ea",
@@ -1775,7 +1717,7 @@
       "margin": 2.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.39,
+      "sigma": 4.38,
       "pollsters": 12,
       "effective_polls": 9.34,
       "latest_poll": "2026-10-18",
@@ -1898,8 +1840,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:RI:3134e4df-3e8b-413d-acad-5c82c9839a34",
@@ -1914,7 +1856,7 @@
       "margin": 27.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.04,
+      "sigma": 6.03,
       "pollsters": 3,
       "effective_polls": 2.58,
       "latest_poll": "2026-10-11",
@@ -1956,8 +1898,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:SC:15314566-c454-4722-b119-8ac87efa2e93",
@@ -1972,7 +1914,7 @@
       "margin": -2.1,
       "dem_win": 36.7,
       "rep_win": 63.3,
-      "sigma": 6.17,
+      "sigma": 6.16,
       "pollsters": 2,
       "effective_polls": 1.98,
       "latest_poll": "2026-10-18",
@@ -2005,8 +1947,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "senate:TX:d99dd21d-c466-4b21-b6cc-5018468d17de",
@@ -2021,7 +1963,7 @@
       "margin": 1.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.25,
+      "sigma": 4.24,
       "pollsters": 20,
       "effective_polls": 13.52,
       "latest_poll": "2026-10-16",
@@ -2216,8 +2158,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:AZ:9e8a65f0-fe48-466c-a9e7-7294d4645cdd",
@@ -2232,7 +2174,7 @@
       "margin": 2.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.55,
+      "sigma": 7.54,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
@@ -2256,8 +2198,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:CA:3cbd0c4c-f073-481c-9380-66603077c5dd",
@@ -2296,8 +2238,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:CO:b01b53b0-5e63-4549-bc95-c87319e246a3",
@@ -2312,7 +2254,7 @@
       "margin": -5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.55,
+      "sigma": 7.54,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
@@ -2336,8 +2278,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:CO:92ea55ee-1b9b-4153-a024-667a7f5c8ca3",
@@ -2376,8 +2318,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:FL:09cf2fd1-1aad-4a04-adf7-278e794f0d64",
@@ -2392,7 +2334,7 @@
       "margin": -4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.27,
+      "sigma": 7.26,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-02",
@@ -2416,8 +2358,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:FL:7073f3e5-55fd-4688-9dfd-e9b2f11d6f3b",
@@ -2456,8 +2398,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:FL:062ae644-cfe4-4fc4-a303-cc2eb7c1a24b",
@@ -2472,7 +2414,7 @@
       "margin": 0.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.48,
+      "sigma": 7.47,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-19",
@@ -2496,8 +2438,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:GA:b759d3d7-d667-4100-aecb-0b26a1cd24b8",
@@ -2512,7 +2454,7 @@
       "margin": 2.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.6,
+      "sigma": 7.59,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-11",
@@ -2536,8 +2478,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:GA:56abfe70-7ae1-46b5-804c-ad438295804c",
@@ -2576,8 +2518,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:GA:cbacdaff-d586-46ff-97a6-a9c1bdf0fe18",
@@ -2592,7 +2534,7 @@
       "margin": 2.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.33,
+      "sigma": 7.32,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
@@ -2616,8 +2558,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:KY:fb3da71c-9247-4285-b5ae-462b5e4f19ed",
@@ -2632,7 +2574,7 @@
       "margin": 6.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.02,
+      "sigma": 5.01,
       "pollsters": 4,
       "effective_polls": 3.89,
       "latest_poll": "2026-10-05",
@@ -2683,8 +2625,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:ME:6eda5a76-27ad-4e19-ba29-cb52553b4020",
@@ -2699,7 +2641,7 @@
       "margin": 22.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.85,
+      "sigma": 6.84,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-21",
@@ -2723,8 +2665,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:ME:c587aa21-f06f-47d6-ae64-ebbd9d0a43d7",
@@ -2739,7 +2681,7 @@
       "margin": 4.3,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.08,
+      "sigma": 5.07,
       "pollsters": 3,
       "effective_polls": 2.37,
       "latest_poll": "2026-10-14",
@@ -2781,8 +2723,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:MI:4487bd50-4a44-4e2f-8d00-ffd1d89bd3b8",
@@ -2797,7 +2739,7 @@
       "margin": 1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.21,
+      "sigma": 7.2,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-16",
@@ -2821,8 +2763,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:MN:f5eea5b5-b636-4540-b741-58694bf575cb",
@@ -2837,7 +2779,7 @@
       "margin": 1.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.8,
+      "sigma": 6.79,
       "pollsters": 2,
       "effective_polls": 1.32,
       "latest_poll": "2026-10-12",
@@ -2870,8 +2812,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:MN:88150f1d-9570-4456-ac30-361283162f33",
@@ -2910,8 +2852,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:MO:9fc28897-7a41-4c9c-8288-07e3fe08ff34",
@@ -2926,7 +2868,7 @@
       "margin": -1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.14,
+      "sigma": 7.13,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-15",
@@ -2950,8 +2892,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:MT:f34abca0-d7c7-44c0-a113-a8978a9dad47",
@@ -2966,7 +2908,7 @@
       "margin": 0.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.15,
+      "sigma": 5.14,
       "pollsters": 4,
       "effective_polls": 3.4,
       "latest_poll": "2026-09-24",
@@ -3017,8 +2959,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NC:814ce247-ec2e-47c3-8d53-de7470be442e",
@@ -3031,9 +2973,9 @@
       "dem_poll": 47.2,
       "rep_poll": 41.3,
       "margin": 5.9,
-      "dem_win": 85.1,
-      "rep_win": 14.9,
-      "sigma": 5.68,
+      "dem_win": 85.2,
+      "rep_win": 14.8,
+      "sigma": 5.67,
       "pollsters": 4,
       "effective_polls": 3.28,
       "latest_poll": "2026-10-08",
@@ -3084,8 +3026,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NE:4f7e53a6-1e78-4ae8-ad13-c676356569fb",
@@ -3100,7 +3042,7 @@
       "margin": 9.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.63,
+      "sigma": 7.62,
       "pollsters": 2,
       "effective_polls": 1.77,
       "latest_poll": "2026-10-05",
@@ -3133,8 +3075,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NH:8772ab65-140c-4d53-8108-50b88b523dce",
@@ -3149,7 +3091,7 @@
       "margin": 4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.87,
+      "sigma": 6.86,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-21",
@@ -3173,8 +3115,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NH:10137906-94cd-42be-933a-74f28309d24f",
@@ -3189,7 +3131,7 @@
       "margin": 21.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.81,
+      "sigma": 6.8,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-21",
@@ -3213,8 +3155,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NJ:4b0ae732-48b7-4572-a896-107b4fba126b",
@@ -3229,7 +3171,7 @@
       "margin": 5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.23,
+      "sigma": 7.22,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-12",
@@ -3253,8 +3195,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NM:9e8a1134-ef1c-40b4-bceb-8c9af73a2681",
@@ -3269,7 +3211,7 @@
       "margin": 18.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.56,
+      "sigma": 7.55,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
@@ -3293,8 +3235,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NM:1e2b969c-7a2e-4def-bb6d-7768188df3d7",
@@ -3309,7 +3251,7 @@
       "margin": 4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.59,
+      "sigma": 7.58,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
@@ -3333,8 +3275,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NM:5d3e4495-d08e-48e7-a8f0-f0c7aa91bc75",
@@ -3349,7 +3291,7 @@
       "margin": 14.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.65,
+      "sigma": 7.64,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
@@ -3373,8 +3315,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NY:f78af32c-a079-4969-9b04-00752b7e0de2",
@@ -3389,7 +3331,7 @@
       "margin": 0.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.04,
+      "sigma": 7.03,
       "pollsters": 2,
       "effective_polls": 1.82,
       "latest_poll": "2026-09-30",
@@ -3422,8 +3364,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NY:09c0b3f1-d400-483f-bebc-782fac808201",
@@ -3438,7 +3380,7 @@
       "margin": 17.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.08,
+      "sigma": 7.07,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-30",
@@ -3462,8 +3404,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NY:3344edbf-b5c1-4f1c-a0d9-fe706d6c307a",
@@ -3476,13 +3418,13 @@
       "dem_poll": 45.4,
       "rep_poll": 44.3,
       "margin": 1.2,
-      "dem_win": 58.2,
-      "rep_win": 41.8,
-      "sigma": 5.76,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 5.75,
       "pollsters": 3,
       "effective_polls": 2.09,
       "latest_poll": "2026-10-06",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Latest poll is more than 14 days old",
       "polls": [
         {
           "pollster_name": "Siena University",
@@ -3520,8 +3462,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:NY:27dd113f-29fb-4660-8043-bae2d34ea2e9",
@@ -3536,7 +3478,7 @@
       "margin": -17.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.97,
+      "sigma": 6.96,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-23",
@@ -3560,8 +3502,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:OH:cb91fa27-43b7-4f38-bb13-fa7928a64174",
@@ -3576,7 +3518,7 @@
       "margin": 1.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.53,
+      "sigma": 7.52,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-02",
@@ -3600,8 +3542,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:OH:8a9842b4-3062-4d0b-a90d-185620067134",
@@ -3640,8 +3582,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:OH:f0193a3b-5e5c-4b7a-b6cb-8dca9a94f2a6",
@@ -3656,7 +3598,7 @@
       "margin": 1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.22,
+      "sigma": 7.21,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
@@ -3680,8 +3622,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:OH:1c4705be-f4e7-4561-9665-29199794732f",
@@ -3720,8 +3662,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:OK:26553913-f86b-4671-8756-c97a992f0375",
@@ -3760,8 +3702,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:PA:74b4585d-53eb-4f7c-b06a-39f485261149",
@@ -3776,7 +3718,7 @@
       "margin": -1.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.96,
+      "sigma": 6.95,
       "pollsters": 2,
       "effective_polls": 1.37,
       "latest_poll": "2026-10-08",
@@ -3809,8 +3751,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:PA:7a73a2bb-7253-43a0-bb03-78ae58794086",
@@ -3825,7 +3767,7 @@
       "margin": 3.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.17,
+      "sigma": 7.16,
       "pollsters": 2,
       "effective_polls": 1.69,
       "latest_poll": "2026-10-11",
@@ -3858,8 +3800,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:PA:bfab286e-07a7-490d-b463-a655e61481ab",
@@ -3874,7 +3816,7 @@
       "margin": 5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.76,
+      "sigma": 7.75,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-20",
@@ -3898,8 +3840,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:RI:ef3ff558-8054-4c65-a27a-5c9735a6d9b5",
@@ -3914,7 +3856,7 @@
       "margin": 28.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.54,
+      "sigma": 7.53,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-11",
@@ -3938,8 +3880,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:RI:f92e5ccf-c49e-4f83-83a8-975b8eb230b2",
@@ -3954,7 +3896,7 @@
       "margin": 16.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.47,
+      "sigma": 7.46,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-11",
@@ -3978,8 +3920,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:SC:1fa0063d-2105-4335-a22a-93aaf03f359b",
@@ -3994,7 +3936,7 @@
       "margin": -5.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.78,
+      "sigma": 6.77,
       "pollsters": 2,
       "effective_polls": 1.28,
       "latest_poll": "2026-10-01",
@@ -4027,8 +3969,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:TN:5fa03260-8362-4444-b1cb-93746056c378",
@@ -4043,7 +3985,7 @@
       "margin": -5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.13,
+      "sigma": 7.12,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
@@ -4067,8 +4009,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:TX:f2824fcb-026e-41e1-8edf-befb6821bd66",
@@ -4083,7 +4025,7 @@
       "margin": -7.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.99,
+      "sigma": 6.98,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-22",
@@ -4107,8 +4049,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:TX:c3aca1fa-8928-4ee0-ae7a-7fcb6774d8ce",
@@ -4123,7 +4065,7 @@
       "margin": 13.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.51,
+      "sigma": 7.5,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-28",
@@ -4147,8 +4089,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:TX:e27a8bd0-d019-4c33-b14e-747a92f8f5ad",
@@ -4163,7 +4105,7 @@
       "margin": -9.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.3,
+      "sigma": 7.29,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-04",
@@ -4187,8 +4129,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:TX:4cc4cc40-257f-4221-869e-57150dfd388d",
@@ -4227,8 +4169,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:TX:7e1c30ea-72d7-4d57-90a4-22c6c5d3f770",
@@ -4243,7 +4185,7 @@
       "margin": -6.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.65,
+      "sigma": 6.64,
       "pollsters": 2,
       "effective_polls": 1.36,
       "latest_poll": "2026-10-07",
@@ -4276,8 +4218,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:UT:b63fe1ab-a4c8-4994-912e-16a8b6ac6829",
@@ -4292,7 +4234,7 @@
       "margin": 41.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.03,
+      "sigma": 7.02,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-10",
@@ -4316,8 +4258,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:UT:3664833e-1f2f-44cd-8202-3b81c8a5e98f",
@@ -4356,8 +4298,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:UT:b278901b-6b18-4ba9-9e95-da976c14e451",
@@ -4372,7 +4314,7 @@
       "margin": -18.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.63,
+      "sigma": 7.62,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-15",
@@ -4396,8 +4338,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:UT:f6c68ed2-3413-44a8-864c-f710a16a7adb",
@@ -4412,7 +4354,7 @@
       "margin": -8.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.51,
+      "sigma": 7.5,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-17",
@@ -4436,8 +4378,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:VA:b4ed2906-ddb9-4b3a-880e-b8443d5dcc16",
@@ -4452,7 +4394,7 @@
       "margin": 2.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.81,
+      "sigma": 6.8,
       "pollsters": 2,
       "effective_polls": 1.5,
       "latest_poll": "2026-09-28",
@@ -4485,8 +4427,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:VA:df823ad4-9e56-413d-ac88-0b96f98841e1",
@@ -4525,8 +4467,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:VA:9172b6a3-f2ac-4630-855a-e7a73a90babf",
@@ -4574,8 +4516,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:VA:f90cc099-7c5f-4964-ac56-38287da89d45",
@@ -4590,7 +4532,7 @@
       "margin": -30.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.69,
+      "sigma": 6.68,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-30",
@@ -4614,8 +4556,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:VT:35715f3a-d630-4af0-b766-a3ebafa87cdf",
@@ -4663,8 +4605,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:WA:c8fd3235-6723-4535-b93f-38cce6627569",
@@ -4679,7 +4621,7 @@
       "margin": -1.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.11,
+      "sigma": 7.1,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-27",
@@ -4703,8 +4645,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "house:WI:97df6c18-2da3-407e-a447-cbce4d15d0b6",
@@ -4752,8 +4694,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:AL:ff4ece22-ea3e-48ca-9955-d0e4c01d8e3a",
@@ -4768,7 +4710,7 @@
       "margin": -11.7,
       "dem_win": 0.9,
       "rep_win": 99.1,
-      "sigma": 5.0,
+      "sigma": 4.99,
       "pollsters": 3,
       "effective_polls": 2.39,
       "latest_poll": "2026-10-17",
@@ -4810,8 +4752,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:AR:154362f5-6626-453d-a16b-47c27fa09e5f",
@@ -4850,8 +4792,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:AZ:118daea0-3ebb-4a32-af77-bb896d1c7e6d",
@@ -4866,7 +4808,7 @@
       "margin": 10.3,
       "dem_win": 97.5,
       "rep_win": 2.5,
-      "sigma": 5.24,
+      "sigma": 5.23,
       "pollsters": 4,
       "effective_polls": 3.51,
       "latest_poll": "2026-10-08",
@@ -4917,8 +4859,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:CA:6d765d6a-c857-4bea-b1fe-bf9bae0713a1",
@@ -4933,7 +4875,7 @@
       "margin": 19.8,
       "dem_win": 100.0,
       "rep_win": 0.0,
-      "sigma": 4.97,
+      "sigma": 4.96,
       "pollsters": 7,
       "effective_polls": 5.97,
       "latest_poll": "2026-10-16",
@@ -5011,8 +4953,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:CT:53ee206c-198b-40d7-b3e5-9c2970c20843",
@@ -5027,7 +4969,7 @@
       "margin": 18.5,
       "dem_win": 100.0,
       "rep_win": 0.0,
-      "sigma": 4.9,
+      "sigma": 4.89,
       "pollsters": 6,
       "effective_polls": 4.95,
       "latest_poll": "2026-10-12",
@@ -5096,8 +5038,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:FL:5c30013f-cca8-40cc-bdbf-2dfb75c5214b",
@@ -5112,7 +5054,7 @@
       "margin": -5.3,
       "dem_win": 12.0,
       "rep_win": 88.0,
-      "sigma": 4.56,
+      "sigma": 4.55,
       "pollsters": 9,
       "effective_polls": 8.15,
       "latest_poll": "2026-10-19",
@@ -5208,8 +5150,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:GA:51846c5c-5e12-4a8c-bd23-e24dbcd12ef5",
@@ -5219,17 +5161,26 @@
       "race_id": "51846c5c-5e12-4a8c-bd23-e24dbcd12ef5",
       "dem": "Keisha Lance Bottoms",
       "rep": "Rick Jackson",
-      "dem_poll": 46.8,
-      "rep_poll": 48.3,
-      "margin": -1.5,
-      "dem_win": 36.4,
-      "rep_win": 63.6,
-      "sigma": 4.4,
+      "dem_poll": 46.9,
+      "rep_poll": 48.6,
+      "margin": -1.8,
+      "dem_win": 34.5,
+      "rep_win": 65.5,
+      "sigma": 4.43,
       "pollsters": 6,
-      "effective_polls": 4.9,
-      "latest_poll": "2026-10-17",
+      "effective_polls": 5.12,
+      "latest_poll": "2026-10-20",
       "status": "Experimental probability; not historically calibrated",
       "polls": [
+        {
+          "pollster_name": "ActiVote",
+          "end": "2026-10-20",
+          "dem_pct": 48.5,
+          "rep_pct": 51.5,
+          "n": 400.0,
+          "url": "https://www.activote.net/polls/2026/ga-governor/",
+          "internal": false
+        },
         {
           "pollster_name": "Quantus Insights",
           "end": "2026-10-17",
@@ -5258,15 +5209,6 @@
           "internal": false
         },
         {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-10-03",
-          "dem_pct": 49.0,
-          "rep_pct": 51.0,
-          "n": 600.0,
-          "url": "https://drive.google.com/file/d/1-Qoij2YeWwq-EFaTY_W0iTf1fotSrKHI/view",
-          "internal": false
-        },
-        {
           "pollster_name": "Big Data Poll",
           "end": "2026-09-23",
           "dem_pct": 49.5,
@@ -5289,12 +5231,12 @@
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -1.54,
+      "forecast_margin": -1.77,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:IA:75a8a639-52be-4bd4-8d35-f46ea99c5786",
@@ -5309,7 +5251,7 @@
       "margin": 6.7,
       "dem_win": 93.8,
       "rep_win": 6.2,
-      "sigma": 4.39,
+      "sigma": 4.38,
       "pollsters": 10,
       "effective_polls": 7.66,
       "latest_poll": "2026-10-19",
@@ -5414,8 +5356,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:IL:120431fc-7a75-4bf8-b06a-e67a6d7732ec",
@@ -5430,7 +5372,7 @@
       "margin": 20.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.04,
+      "sigma": 7.03,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
@@ -5454,8 +5396,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:KS:87794e93-b6e9-4ae8-90f2-349d5ede05ca",
@@ -5465,14 +5407,14 @@
       "race_id": "87794e93-b6e9-4ae8-90f2-349d5ede05ca",
       "dem": "Cindy Holscher",
       "rep": "Ty Masterson",
-      "dem_poll": 44.8,
-      "rep_poll": 48.7,
+      "dem_poll": 44.3,
+      "rep_poll": 48.2,
       "margin": -4.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.55,
-      "pollsters": 6,
-      "effective_polls": 4.17,
+      "sigma": 4.65,
+      "pollsters": 5,
+      "effective_polls": 3.37,
       "latest_poll": "2026-10-04",
       "status": "Latest poll is more than 14 days old",
       "polls": [
@@ -5492,15 +5434,6 @@
           "rep_pct": 48.52,
           "n": 605.0,
           "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-crosstabs.html",
-          "internal": false
-        },
-        {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-09-24",
-          "dem_pct": 48.0,
-          "rep_pct": 52.0,
-          "n": 500.0,
-          "url": "https://drive.google.com/file/d/1MxCohCdxLl3Gy2iIUBnctm4oPipKwjSg/view",
           "internal": false
         },
         {
@@ -5539,8 +5472,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:MA:f715ce1b-4cbf-42a3-baee-d2ed158596e3",
@@ -5555,7 +5488,7 @@
       "margin": 22.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.95,
+      "sigma": 4.94,
       "pollsters": 4,
       "effective_polls": 3.16,
       "latest_poll": "2026-10-18",
@@ -5606,8 +5539,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:MD:53f66065-619f-4925-be3a-27d73c487076",
@@ -5622,7 +5555,7 @@
       "margin": 27.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.1,
+      "sigma": 7.09,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-27",
@@ -5646,8 +5579,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:ME:c907ae73-739f-4b4d-af3f-bd59c57ed993",
@@ -5662,7 +5595,7 @@
       "margin": 11.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.44,
+      "sigma": 4.43,
       "pollsters": 10,
       "effective_polls": 8.36,
       "latest_poll": "2026-10-11",
@@ -5767,8 +5700,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:MI:8f54223a-e319-4635-b757-4e45fc86c856",
@@ -5778,26 +5711,17 @@
       "race_id": "8f54223a-e319-4635-b757-4e45fc86c856",
       "dem": "Jocelyn Benson",
       "rep": "John James",
-      "dem_poll": 50.2,
-      "rep_poll": 42.4,
-      "margin": 7.8,
-      "dem_win": 96.2,
-      "rep_win": 3.8,
-      "sigma": 4.42,
-      "pollsters": 14,
-      "effective_polls": 11.03,
-      "latest_poll": "2026-10-09",
-      "status": "Experimental probability; not historically calibrated",
+      "dem_poll": 49.5,
+      "rep_poll": 42.0,
+      "margin": 7.5,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.45,
+      "pollsters": 13,
+      "effective_polls": 10.25,
+      "latest_poll": "2026-10-04",
+      "status": "Latest poll is more than 14 days old",
       "polls": [
-        {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-10-09",
-          "dem_pct": 55.0,
-          "rep_pct": 45.0,
-          "n": 607.0,
-          "url": "https://drive.google.com/file/d/1aJZLOtyfQnZtPDHogNEN2UATqMhrLgxc/view?usp=drivesdk",
-          "internal": false
-        },
         {
           "pollster_name": "YouGov",
           "end": "2026-10-04",
@@ -5920,12 +5844,12 @@
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 7.82,
+      "forecast_margin": 7.5,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:MN:3450e89a-4d4b-454e-bd27-b92950f69af0",
@@ -5940,7 +5864,7 @@
       "margin": 7.7,
       "dem_win": 94.7,
       "rep_win": 5.3,
-      "sigma": 4.76,
+      "sigma": 4.75,
       "pollsters": 4,
       "effective_polls": 3.52,
       "latest_poll": "2026-10-12",
@@ -5991,8 +5915,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:NE:17ee3d2c-159b-45f4-b3bb-5ba1b867bee9",
@@ -6002,14 +5926,14 @@
       "race_id": "17ee3d2c-159b-45f4-b3bb-5ba1b867bee9",
       "dem": "Lynne Walz",
       "rep": "Jim Pillen",
-      "dem_poll": 40.8,
-      "rep_poll": 44.6,
-      "margin": -3.8,
+      "dem_poll": 41.2,
+      "rep_poll": 43.9,
+      "margin": -2.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.99,
-      "pollsters": 7,
-      "effective_polls": 5.1,
+      "sigma": 4.73,
+      "pollsters": 6,
+      "effective_polls": 4.48,
       "latest_poll": "2026-10-14",
       "status": "Material third-candidate support; two-candidate model withheld",
       "polls": [
@@ -6050,15 +5974,6 @@
           "internal": false
         },
         {
-          "pollster_name": "Wedgewood Polls",
-          "end": "2026-09-16",
-          "dem_pct": 36.0,
-          "rep_pct": 53.0,
-          "n": 500.0,
-          "url": "https://drive.google.com/file/d/1KBEbm4P_yziCxsZdgMhTzJ3p5UwtN7X5/view",
-          "internal": false
-        },
-        {
           "pollster_name": "Lake Research Partners",
           "end": "2026-09-14",
           "dem_pct": 40.0,
@@ -6081,12 +5996,12 @@
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -3.83,
+      "forecast_margin": -2.75,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:NH:aa4c8492-41ef-43e6-8771-ad6f1238b696",
@@ -6101,7 +6016,7 @@
       "margin": -10.0,
       "dem_win": 2.0,
       "rep_win": 98.0,
-      "sigma": 4.89,
+      "sigma": 4.88,
       "pollsters": 6,
       "effective_polls": 4.92,
       "latest_poll": "2026-10-12",
@@ -6170,8 +6085,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:NM:8c21109e-b56d-4126-81d7-88b555c9cec3",
@@ -6186,7 +6101,7 @@
       "margin": 6.7,
       "dem_win": 85.6,
       "rep_win": 14.4,
-      "sigma": 6.29,
+      "sigma": 6.28,
       "pollsters": 2,
       "effective_polls": 1.75,
       "latest_poll": "2026-10-09",
@@ -6219,8 +6134,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:NV:3d1bb307-25e7-4313-a1a0-142ed01dd9fd",
@@ -6268,8 +6183,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:NY:830006b7-3338-4479-91e2-6676f21dde7f",
@@ -6284,7 +6199,7 @@
       "margin": 11.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.83,
+      "sigma": 4.82,
       "pollsters": 7,
       "effective_polls": 6.24,
       "latest_poll": "2026-10-14",
@@ -6362,8 +6277,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:OH:f53d2c84-3d3b-451a-ad32-a0355ffaeae9",
@@ -6378,7 +6293,7 @@
       "margin": 3.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.6,
+      "sigma": 4.59,
       "pollsters": 9,
       "effective_polls": 7.47,
       "latest_poll": "2026-10-19",
@@ -6474,8 +6389,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:OK:92f116c4-6174-46c6-8a80-f68f4c3d4845",
@@ -6488,9 +6403,9 @@
       "dem_poll": 45.0,
       "rep_poll": 49.0,
       "margin": -4.0,
-      "dem_win": 28.4,
-      "rep_win": 71.6,
-      "sigma": 6.99,
+      "dem_win": 28.3,
+      "rep_win": 71.7,
+      "sigma": 6.98,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-13",
@@ -6514,8 +6429,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:OR:97bf563e-8aaf-462b-9b20-2acf8b435179",
@@ -6563,8 +6478,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:PA:85f663f1-ccfd-4b88-991f-d204dbaec233",
@@ -6579,7 +6494,7 @@
       "margin": 24.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.0,
+      "sigma": 4.99,
       "pollsters": 5,
       "effective_polls": 4.16,
       "latest_poll": "2026-10-11",
@@ -6639,8 +6554,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:RI:f1a05535-a07c-4c91-bc78-41280b96f1a8",
@@ -6655,7 +6570,7 @@
       "margin": 28.3,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.54,
+      "sigma": 7.53,
       "pollsters": 4,
       "effective_polls": 3.06,
       "latest_poll": "2026-10-11",
@@ -6706,8 +6621,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:SC:5fd56fa3-965a-4bb0-97c9-e2224a12dedb",
@@ -6722,7 +6637,7 @@
       "margin": -13.6,
       "dem_win": 2.0,
       "rep_win": 98.0,
-      "sigma": 6.62,
+      "sigma": 6.61,
       "pollsters": 2,
       "effective_polls": 1.93,
       "latest_poll": "2026-10-18",
@@ -6755,8 +6670,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:SD:e8910f80-95a1-4fdf-b402-379938f2a1a1",
@@ -6771,7 +6686,7 @@
       "margin": -20.0,
       "dem_win": 0.3,
       "rep_win": 99.7,
-      "sigma": 7.16,
+      "sigma": 7.15,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
@@ -6795,8 +6710,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:TN:a48ea5a3-9d42-4555-a32b-c10094ad634a",
@@ -6811,7 +6726,7 @@
       "margin": -11.3,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.17,
+      "sigma": 7.16,
       "pollsters": 2,
       "effective_polls": 1.18,
       "latest_poll": "2026-10-16",
@@ -6844,8 +6759,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:TX:fe1f0a9f-398c-415d-a0f1-74b42972f5db",
@@ -6860,7 +6775,7 @@
       "margin": -3.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.27,
+      "sigma": 4.26,
       "pollsters": 17,
       "effective_polls": 11.21,
       "latest_poll": "2026-10-16",
@@ -7028,8 +6943,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:VT:0cfd4c9a-8767-4d53-bc7b-33584b6c53e5",
@@ -7044,7 +6959,7 @@
       "margin": -2.2,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 5.83,
+      "sigma": 5.82,
       "pollsters": 3,
       "effective_polls": 2.62,
       "latest_poll": "2026-10-04",
@@ -7086,8 +7001,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     },
     {
       "id": "governor:WI:21105b67-0435-425e-a9ef-284ab91297b8",
@@ -7100,9 +7015,9 @@
       "dem_poll": 47.5,
       "rep_poll": 43.6,
       "margin": 3.9,
-      "dem_win": 80.3,
-      "rep_win": 19.7,
-      "sigma": 4.59,
+      "dem_win": 80.4,
+      "rep_win": 19.6,
+      "sigma": 4.58,
       "pollsters": 3,
       "effective_polls": 2.69,
       "latest_poll": "2026-10-09",
@@ -7144,8 +7059,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.28,
-      "collected_at": "2026-10-20T23:20:16.491540+00:00"
+      "national_poll_margin": 8.22,
+      "collected_at": "2026-10-21T01:43:21.883549+00:00"
     }
   ],
   "source_checks": [
@@ -7153,8 +7068,8 @@
       "office": "senate",
       "ok": true,
       "truncated": false,
-      "downloaded": 799,
-      "usable": 241,
+      "downloaded": 790,
+      "usable": 238,
       "rejected": 0
     },
     {
@@ -7169,8 +7084,8 @@
       "office": "governor",
       "ok": true,
       "truncated": false,
-      "downloaded": 903,
-      "usable": 204,
+      "downloaded": 894,
+      "usable": 201,
       "rejected": 0
     }
   ],
