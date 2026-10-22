@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-10-21",
-  "prepared_at": "2026-10-21T23:41:17.619785+00:00",
+  "show_date": "2026-10-22",
+  "prepared_at": "2026-10-22T23:38:41.819965+00:00",
   "reports": [
     {
-      "title": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation",
-      "url": "https://www.jpost.com/international/article-912467",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-21T23:41:54+00:00",
+      "title": "Almost all shallow-water coral reefs now face extinction risk, study warns",
+      "url": "https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-10-22T23:32:13+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Meta ordered to pay New Mexico $25b for deceiving users about Facebook privacy",
-      "url": "https://www.abc.net.au/news/2026-10-22/meta-ordered-to-pay-new-mexico-us25-billion/107294964",
+      "title": "Denmark to purchase long-range air and ground precision missiles",
+      "url": "https://www.jpost.com/defense-and-tech/article-912627",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-10-22T23:31:40+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Meet Yang Yan: The rising Singaporean star putting his best foot forward",
+      "url": "https://www.channelnewsasia.com/style-beauty/yang-yan-onitsuka-tiger-6465331",
+      "source": "CNA / Singapore",
+      "published_at": "2026-10-22T23:26:21+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Trump calls LeBron 'total disgrace' over perceived anthem disrespect",
+      "url": "https://www.abc.net.au/news/2026-10-23/basketball-donald-trump-accuses-lebron-james-anthem-disrespect/107300334",
       "source": "ABC / Australia",
-      "published_at": "2026-10-21T23:35:45+00:00",
+      "published_at": "2026-10-22T23:23:47+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-10-21T23:27:05+00:00",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-10-22T23:22:45+00:00",
+      "topic": "weather",
+      "kind": "News report"
+    },
+    {
+      "title": "Cave divers search for rare ghost bats after flooding",
+      "url": "https://www.abc.net.au/news/2026-10-23/cave-divers-search-for-ghost-bats-near-mount-isa/107296978",
+      "source": "ABC / Australia",
+      "published_at": "2026-10-22T23:18:39+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "UAE set to nominate Lana Nusseibeh to succeed Guterres as UN secretary-general, sources tell 'Post'",
-      "url": "https://www.jpost.com/international/article-912466",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-21T23:21:21+00:00",
+      "title": "Tom Skerritt, Emmy-winning actor with roles in 'Alien', 'Top Gun' and 'Picket Fences,' dies at 93",
+      "url": "https://www.pbs.org/newshour/arts/tom-skerritt-emmy-winning-actor-with-roles-in-alien-top-gun-and-picket-fences-dies-at-93",
+      "source": "PBS NewsHour",
+      "published_at": "2026-10-22T23:17:02+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "London's cult-favourite Bao founders to open BFF at New Bahru with Taiwanese fried chicken, gravy-filled baos",
-      "url": "https://www.channelnewsasia.com/dining/london-bao-bff-new-bahru-taiwanese-fried-chicken-6458811",
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-10-22T23:16:20+00:00",
+      "topic": "conflict",
+      "kind": "News report"
+    },
+    {
+      "title": "A possible three tornados wallop Arizona, bringing golf-ball sized hail",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
+      "source": "Guardian world news",
+      "published_at": "2026-10-22T23:15:40+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "24-hour PSI readings remain at good to moderate level across Singapore",
+      "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-23-6484486",
       "source": "CNA / Singapore",
-      "published_at": "2026-10-21T23:21:12+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
-      "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-10-21T23:20:58+00:00",
-      "topic": "research",
-      "kind": "News report"
-    },
-    {
-      "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
-      "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-10-21T23:20:12+00:00",
-      "topic": "health",
-      "kind": "News report"
-    },
-    {
-      "title": "KKH says abused baby had no injuries during admission months before death; case later closed",
-      "url": "https://www.channelnewsasia.com/singapore/kkh-trevor-neo-abuse-death-6478016",
-      "source": "CNA / Singapore",
-      "published_at": "2026-10-21T23:20:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "The grads ditching the UK for a fresh start abroad",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-10-21T23:12:06+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "German youth plan France-style mass protests",
-      "url": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf",
-      "source": "DW / Germany",
-      "published_at": "2026-10-21T23:11:00+00:00",
+      "published_at": "2026-10-22T23:11:42+00:00",
       "topic": "News",
       "kind": "News report"
     }
