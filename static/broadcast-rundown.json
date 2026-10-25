@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-10-24",
-  "prepared_at": "2026-10-24T22:00:34.869640+00:00",
+  "show_date": "2026-10-25",
+  "prepared_at": "2026-10-25T22:04:30.624686+00:00",
   "reports": [
     {
-      "title": "Obama hits campaign trail for Democrats as midterm elections approach",
-      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S. and Canada",
-      "published_at": "2026-10-24T21:58:08+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Valkyries shut down Borlase's Dream to square WNBA Finals",
-      "url": "https://www.abc.net.au/news/2026-10-25/valkyries-shut-down-dream-in-game-4-to-square-wnba-finals/107305956",
-      "source": "ABC / Australia",
-      "published_at": "2026-10-24T21:54:20+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Volkanovski keeps promise with quick win over Evloev at UFC 333",
-      "url": "https://www.channelnewsasia.com/sport/volkanovski-keeps-promise-quick-win-over-evloev-ufc-333-6489821",
+      "title": "Commentary: Why work from home doesn’t mean work from anywhere",
+      "url": "https://www.channelnewsasia.com/commentary/work-home-not-anywhere-employers-policy-6487366",
       "source": "CNA / Singapore",
-      "published_at": "2026-10-24T21:53:11+00:00",
+      "published_at": "2026-10-25T22:00:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Eisenkot's security to be placed in charge of private company, in coordination with Shin Bet",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912718",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-24T21:51:28+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-      "url": "https://www.channelnewsasia.com/world/thousands-rally-in-tel-aviv-against-netanyahu-ahead-vote-6489811",
+      "title": "Not every maritime threat needs a warship: Why Singapore is turning to offshore patrol vessels",
+      "url": "https://www.channelnewsasia.com/singapore/singapore-navy-warship-offshore-patrol-vessel-maritime-security-6478186",
       "source": "CNA / Singapore",
-      "published_at": "2026-10-24T21:50:07+00:00",
+      "published_at": "2026-10-25T22:00:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "A vote for Netanyahu is a vote for isolation, poverty, and vulnerability - opinion",
-      "url": "https://www.jpost.com/opinion/article-912159",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-24T21:47:47+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-10-24T21:39:29+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-10-24T21:36:23+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Regional students band together for unique performance",
-      "url": "https://www.abc.net.au/news/2026-10-25/adelaide-youth-orchestra-southern-flinders-students-concert/107301252",
-      "source": "ABC / Australia",
-      "published_at": "2026-10-24T21:35:23+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Healey’s first budget to include big devolution package to boost growth",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+      "title": "Two dead and more than 160,000 properties without power as Storm Boelo batters UK",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
       "source": "Guardian world news",
-      "published_at": "2026-10-24T21:30:43+00:00",
+      "published_at": "2026-10-25T21:50:55+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+      "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-10-25T21:50:36+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Trump escalates rhetoric against El-Sayed as he tries to undermine Democrat in Michigan Senate race",
+      "url": "https://www.pbs.org/newshour/politics/trump-escalates-rhetoric-against-el-sayed-as-he-tries-to-undermine-democrat-in-michigan-senate-race",
+      "source": "PBS NewsHour",
+      "published_at": "2026-10-25T21:50:29+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "source": "Guardian world news",
+      "published_at": "2026-10-25T21:50:24+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Iran fears only Netanyahu. On Tuesday, make sure it stays that way - opinion",
+      "url": "https://www.jpost.com/opinion/article-912840",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-10-25T21:46:06+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+      "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-10-25T21:41:10+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+      "url": "https://www.pbs.org/newshour/world/serbias-strongman-leader-vucic-concedes-defeat-to-student-led-movement-in-seismic-political-shift",
+      "source": "PBS NewsHour",
+      "published_at": "2026-10-25T21:35:34+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Manchester United booed off pitch after calamitous defeat",
+      "url": "https://www.abc.net.au/news/2026-10-26/manchester-united-humiliated-at-home-by-bournemouth/107307822",
+      "source": "ABC / Australia",
+      "published_at": "2026-10-25T21:28:48+00:00",
       "topic": "News",
       "kind": "News report"
     }
