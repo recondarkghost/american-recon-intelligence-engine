@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T17:16:40.189008+00:00",
+  "checked_at": "2026-10-25T19:42:42.264291+00:00",
   "records": [
     {
       "government": "Palm Beach County",
@@ -25,10 +25,16 @@
       "publisher": "Ohio Treasurer, June 2026 portfolio report",
       "update_status": "Amount extracted from official closing-balance summary",
       "source_sha256": "920a901dc400b6ada60e18d06566c7f52d925507a573b9e17bc783b83307bfbd",
-      "last_verified_at": "2026-10-25T17:16:40.189008+00:00"
+      "last_verified_at": "2026-10-25T19:42:42.264291+00:00"
     }
   ],
   "source_checks": [
+    {
+      "source": "Ohio monthly report",
+      "ok": false,
+      "url": "https://www.tos.ohio.gov/files/Pdfs/BOD/2026/September2026_MonthlyPortfolioReview.pdf",
+      "error": "Not a PDF report"
+    },
     {
       "source": "Ohio monthly report",
       "ok": true,
