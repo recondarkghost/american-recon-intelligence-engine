@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-10-25",
-  "prepared_at": "2026-10-25T22:04:30.624686+00:00",
+  "show_date": "2026-10-26",
+  "prepared_at": "2026-10-27T00:36:49.827423+00:00",
   "reports": [
     {
-      "title": "Commentary: Why work from home doesn’t mean work from anywhere",
-      "url": "https://www.channelnewsasia.com/commentary/work-home-not-anywhere-employers-policy-6487366",
+      "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+      "source": "NPR News",
+      "published_at": "2026-10-27T00:31:45+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Japan's September corporate services prices rise 3.7% yr/yr",
+      "url": "https://www.channelnewsasia.com/business/japans-september-corporate-services-prices-rise-37-yryr-6494756",
       "source": "CNA / Singapore",
-      "published_at": "2026-10-25T22:00:00+00:00",
+      "published_at": "2026-10-27T00:27:15+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Not every maritime threat needs a warship: Why Singapore is turning to offshore patrol vessels",
-      "url": "https://www.channelnewsasia.com/singapore/singapore-navy-warship-offshore-patrol-vessel-maritime-security-6478186",
-      "source": "CNA / Singapore",
-      "published_at": "2026-10-25T22:00:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Two dead and more than 160,000 properties without power as Storm Boelo batters UK",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-      "source": "Guardian world news",
-      "published_at": "2026-10-25T21:50:55+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
-      "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-10-25T21:50:36+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Trump escalates rhetoric against El-Sayed as he tries to undermine Democrat in Michigan Senate race",
-      "url": "https://www.pbs.org/newshour/politics/trump-escalates-rhetoric-against-el-sayed-as-he-tries-to-undermine-democrat-in-michigan-senate-race",
-      "source": "PBS NewsHour",
-      "published_at": "2026-10-25T21:50:29+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "source": "Guardian world news",
-      "published_at": "2026-10-25T21:50:24+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Iran fears only Netanyahu. On Tuesday, make sure it stays that way - opinion",
-      "url": "https://www.jpost.com/opinion/article-912840",
+      "title": "Romanian intelligence identifies Russian sabotage network thought to have caused industrial fire",
+      "url": "https://www.jpost.com/international/article-912982",
       "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-25T21:46:06+00:00",
+      "published_at": "2026-10-27T00:14:46+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-      "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+      "title": "Trump approval rises from record low to 32% ahead of midterm election - poll",
+      "url": "https://www.jpost.com/american-politics/article-912981",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-10-27T00:08:39+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Australian politics live: Fatima Payman linking Haines-style attack to staffing allocation is ‘outrageous’, Labor says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "source": "Guardian world news",
+      "published_at": "2026-10-27T00:08:11+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S. and Canada",
+      "published_at": "2026-10-27T00:07:28+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
+      "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+      "source": "Guardian world news",
+      "published_at": "2026-10-27T00:01:02+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-10-27T00:01:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
       "source": "Al Jazeera world news",
-      "published_at": "2026-10-25T21:41:10+00:00",
-      "topic": "News",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "topic": "conflict",
       "kind": "News report"
     },
     {
-      "title": "Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
-      "url": "https://www.pbs.org/newshour/world/serbias-strongman-leader-vucic-concedes-defeat-to-student-led-movement-in-seismic-political-shift",
-      "source": "PBS NewsHour",
-      "published_at": "2026-10-25T21:35:34+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Manchester United booed off pitch after calamitous defeat",
-      "url": "https://www.abc.net.au/news/2026-10-26/manchester-united-humiliated-at-home-by-bournemouth/107307822",
+      "title": "Brisbane hospital boards lack Indigenous voices despite legal requirements",
+      "url": "https://www.abc.net.au/news/2026-10-27/metro-north-south-indigenous-roles-empty-despite-act/107310958",
       "source": "ABC / Australia",
-      "published_at": "2026-10-25T21:28:48+00:00",
+      "published_at": "2026-10-26T23:59:10+00:00",
       "topic": "News",
       "kind": "News report"
     }
