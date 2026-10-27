@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-10-26",
-  "prepared_at": "2026-10-27T00:36:49.827423+00:00",
+  "show_date": "2026-10-27",
+  "prepared_at": "2026-10-27T23:59:04.884616+00:00",
   "reports": [
     {
-      "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
-      "url": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
-      "source": "NPR News",
-      "published_at": "2026-10-27T00:31:45+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Japan's September corporate services prices rise 3.7% yr/yr",
-      "url": "https://www.channelnewsasia.com/business/japans-september-corporate-services-prices-rise-37-yryr-6494756",
+      "title": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts",
+      "url": "https://www.channelnewsasia.com/business/sk-hynix-q3-profit-jumps-more-7-fold-beats-forecasts-6498106",
       "source": "CNA / Singapore",
-      "published_at": "2026-10-27T00:27:15+00:00",
+      "published_at": "2026-10-27T23:50:27+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Romanian intelligence identifies Russian sabotage network thought to have caused industrial fire",
-      "url": "https://www.jpost.com/international/article-912982",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-27T00:14:46+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Trump approval rises from record low to 32% ahead of midterm election - poll",
-      "url": "https://www.jpost.com/american-politics/article-912981",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-27T00:08:39+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Australian politics live: Fatima Payman linking Haines-style attack to staffing allocation is ‘outrageous’, Labor says",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "source": "Guardian world news",
-      "published_at": "2026-10-27T00:08:11+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S. and Canada",
-      "published_at": "2026-10-27T00:07:28+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
-      "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
-      "source": "Guardian world news",
-      "published_at": "2026-10-27T00:01:02+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-10-27T00:01:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-10-27T00:00:00+00:00",
-      "topic": "conflict",
-      "kind": "News report"
-    },
-    {
-      "title": "Brisbane hospital boards lack Indigenous voices despite legal requirements",
-      "url": "https://www.abc.net.au/news/2026-10-27/metro-north-south-indigenous-roles-empty-despite-act/107310958",
+      "title": "Access to the pill and UTI treatment is changing. Is it a win for women?",
+      "url": "https://www.abc.net.au/news/2026-10-28/access-uti-treatment-the-pill-access-policy-evidence/107317620",
       "source": "ABC / Australia",
-      "published_at": "2026-10-26T23:59:10+00:00",
+      "published_at": "2026-10-27T23:47:21+00:00",
+      "topic": "research",
+      "kind": "News report"
+    },
+    {
+      "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over alleged false Bondi shooting claim",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+      "source": "Guardian world news",
+      "published_at": "2026-10-27T23:46:48+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Breaking: Star Casino fined $260m for money laundering violations",
+      "url": "https://www.abc.net.au/news/2026-10-28/star-entertainment-fined-over-casino-money-laundering-austrac/107317384",
+      "source": "ABC / Australia",
+      "published_at": "2026-10-27T23:45:23+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Israel election live: setback for Netanyahu as exit polls show strong opposition",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "source": "Guardian world news",
+      "published_at": "2026-10-27T23:42:23+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Singapore haze: PM2.5 readings remain normal, air quality moderate across all regions",
+      "url": "https://www.channelnewsasia.com/singapore/singapore-haze-moderate-air-quality-pm25-normal-oct-28-6498021",
+      "source": "CNA / Singapore",
+      "published_at": "2026-10-27T23:42:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-10-27T23:41:23+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "‘Only Bibi’: At Likud headquarters, supporters put their faith in Netanyahu",
+      "url": "https://www.jpost.com/israel-election-2026/article-913072",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-10-27T23:38:52+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+      "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-10-27T23:35:51+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Israel: opposition supporters celebrate narrow lead in exit polls",
+      "url": "https://www.euronews.com/video/2026/10/28/israel-opposition-supporters-celebrate-narrow-lead-in-exit-polls",
+      "source": "Euronews / Europe",
+      "published_at": "2026-10-27T23:31:17+00:00",
       "topic": "News",
       "kind": "News report"
     }
