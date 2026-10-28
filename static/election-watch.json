@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28T05:24:34.440224+00:00",
+  "checked_at": "2026-10-28T11:28:30.354060+00:00",
   "election_date": "2026-11-03",
   "model_version": "1.2-current-polls-trend-unvalidated",
   "races": [
@@ -20,7 +20,7 @@
       "pollsters": 3,
       "effective_polls": 2.84,
       "latest_poll": "2026-10-01",
-      "status": "Ranked-choice rules require a separate model",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -72,13 +72,13 @@
       "dem_poll": 34.8,
       "rep_poll": 53.1,
       "margin": -18.3,
-      "dem_win": 0.0,
-      "rep_win": 100.0,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 5.35,
       "pollsters": 3,
       "effective_polls": 2.39,
       "latest_poll": "2026-10-17",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Cygnal Political",
@@ -136,7 +136,7 @@
       "pollsters": 2,
       "effective_polls": 1.52,
       "latest_poll": "2026-10-13",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Hendrix College",
@@ -179,13 +179,13 @@
       "dem_poll": 43.3,
       "rep_poll": 49.7,
       "margin": -6.4,
-      "dem_win": 6.9,
-      "rep_win": 93.1,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.33,
       "pollsters": 12,
       "effective_polls": 9.53,
       "latest_poll": "2026-10-27",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "ActiVote",
@@ -318,13 +318,13 @@
       "dem_poll": 52.2,
       "rep_poll": 42.7,
       "margin": 9.6,
-      "dem_win": 98.4,
-      "rep_win": 1.6,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.48,
       "pollsters": 8,
       "effective_polls": 6.45,
       "latest_poll": "2026-10-23",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Echelon Insights",
@@ -427,7 +427,7 @@
       "pollsters": 14,
       "effective_polls": 11.25,
       "latest_poll": "2026-10-23",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Echelon Insights",
@@ -578,13 +578,13 @@
       "dem_poll": 55.5,
       "rep_poll": 39.8,
       "margin": 15.7,
-      "dem_win": 98.9,
-      "rep_win": 1.1,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 6.87,
       "pollsters": 2,
       "effective_polls": 1.77,
       "latest_poll": "2026-10-20",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "ActiVote",
@@ -633,7 +633,7 @@
       "pollsters": 7,
       "effective_polls": 4.49,
       "latest_poll": "2026-10-14",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "InsiderAdvantage",
@@ -727,7 +727,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-19",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Hart Research Associates",
@@ -767,7 +767,7 @@
       "pollsters": 4,
       "effective_polls": 3.16,
       "latest_poll": "2026-10-18",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Suffolk University",
@@ -834,7 +834,7 @@
       "pollsters": 15,
       "effective_polls": 9.67,
       "latest_poll": "2026-10-25",
-      "status": "Ranked-choice rules require a separate model",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Marist University",
@@ -1000,7 +1000,7 @@
       "pollsters": 21,
       "effective_polls": 12.02,
       "latest_poll": "2026-10-22",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "InsiderAdvantage",
@@ -1220,7 +1220,7 @@
       "pollsters": 8,
       "effective_polls": 7.05,
       "latest_poll": "2026-10-15",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Trafalgar Group",
@@ -1323,7 +1323,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-22",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Change Research",
@@ -1363,7 +1363,7 @@
       "pollsters": 5,
       "effective_polls": 3.03,
       "latest_poll": "2026-10-18",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Quantus Insights",
@@ -1439,7 +1439,7 @@
       "pollsters": 13,
       "effective_polls": 9.41,
       "latest_poll": "2026-10-25",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Quantus Insights",
@@ -1581,13 +1581,13 @@
       "dem_poll": 49.9,
       "rep_poll": 42.8,
       "margin": 7.0,
-      "dem_win": 94.8,
-      "rep_win": 5.2,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.32,
       "pollsters": 7,
       "effective_polls": 4.08,
       "latest_poll": "2026-10-20",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "St. Anselm",
@@ -1681,7 +1681,7 @@
       "pollsters": 2,
       "effective_polls": 1.75,
       "latest_poll": "2026-10-09",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -1730,7 +1730,7 @@
       "pollsters": 16,
       "effective_polls": 12.1,
       "latest_poll": "2026-10-23",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Echelon Insights",
@@ -1905,7 +1905,7 @@
       "pollsters": 3,
       "effective_polls": 2.58,
       "latest_poll": "2026-10-11",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -1963,7 +1963,7 @@
       "pollsters": 4,
       "effective_polls": 3.13,
       "latest_poll": "2026-10-25",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Targoz Market Research",
@@ -2030,7 +2030,7 @@
       "pollsters": 21,
       "effective_polls": 16.1,
       "latest_poll": "2026-10-21",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "ActiVote",
@@ -8075,11 +8075,8 @@
   "source_checks": [
     {
       "office": "senate",
-      "ok": true,
-      "truncated": false,
-      "downloaded": 835,
-      "usable": 254,
-      "rejected": 0
+      "ok": false,
+      "error": "The read operation timed out"
     },
     {
       "office": "house",
