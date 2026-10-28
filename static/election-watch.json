@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T23:58:39.103452+00:00",
+  "checked_at": "2026-10-28T05:24:34.440224+00:00",
   "election_date": "2026-11-03",
   "model_version": "1.2-current-polls-trend-unvalidated",
   "races": [
@@ -58,8 +58,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:AL:a58c75c1-3077-4166-b423-7fc106199529",
@@ -74,7 +74,7 @@
       "margin": -18.3,
       "dem_win": 0.0,
       "rep_win": 100.0,
-      "sigma": 5.36,
+      "sigma": 5.35,
       "pollsters": 3,
       "effective_polls": 2.39,
       "latest_poll": "2026-10-17",
@@ -116,8 +116,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:AR:8815ec42-9966-4a24-8d13-e9e88e52747f",
@@ -130,13 +130,13 @@
       "dem_poll": 40.6,
       "rep_poll": 50.0,
       "margin": -9.4,
-      "dem_win": 7.4,
-      "rep_win": 92.6,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 6.51,
       "pollsters": 2,
       "effective_polls": 1.52,
       "latest_poll": "2026-10-13",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Latest poll is more than 14 days old",
       "polls": [
         {
           "pollster_name": "Hendrix College",
@@ -165,8 +165,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:FL:b59d96b4-5318-4497-a4d1-9bd83217ac76",
@@ -304,8 +304,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:GA:00fd3a01-c10a-4a40-89fd-9b97bcc17d82",
@@ -400,15 +400,15 @@
         }
       ],
       "trend_adjustment": 0.0,
-      "trend_pollsters": 1,
+      "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
       "forecast_margin": 9.57,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:IA:6504c9a1-f6af-4517-8475-b563a47234cf",
@@ -564,8 +564,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:IL:3be1195b-6fc6-42c2-b5cd-8605748da86a",
@@ -613,8 +613,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:KS:5cb51572-4167-49a2-b7a6-eec3fa3a1945",
@@ -707,8 +707,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:LA:08728cf9-27d9-4d84-8a37-2168f60a35cb",
@@ -747,8 +747,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:MA:98240db9-3ce6-4ded-8a07-afc3f0903c21",
@@ -814,8 +814,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:ME:eea2d6d6-bcb0-4fe7-b1da-ec22a14df253",
@@ -980,8 +980,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:MI:8069ba7e-4ac6-449d-ae1e-f7fc5dee4a19",
@@ -996,7 +996,7 @@
       "margin": 2.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.23,
+      "sigma": 4.22,
       "pollsters": 21,
       "effective_polls": 12.02,
       "latest_poll": "2026-10-22",
@@ -1200,8 +1200,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:MN:fd4a6546-ff73-46f2-a9df-6f92f6f959a8",
@@ -1303,8 +1303,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:MS:f137f0b7-6bc7-42c5-a594-d1a8a3ef3e15",
@@ -1319,7 +1319,7 @@
       "margin": -3.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.8,
+      "sigma": 6.79,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-22",
@@ -1343,8 +1343,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:MT:2de1c5ad-374a-4c51-9f99-8432d8e980f6",
@@ -1419,8 +1419,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:NC:70395c5f-9aee-4a8f-a647-b656d0f894a3",
@@ -1567,8 +1567,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:NH:85026c96-181d-4074-b438-5798d23c7077",
@@ -1583,7 +1583,7 @@
       "margin": 7.0,
       "dem_win": 94.8,
       "rep_win": 5.2,
-      "sigma": 4.33,
+      "sigma": 4.32,
       "pollsters": 7,
       "effective_polls": 4.08,
       "latest_poll": "2026-10-20",
@@ -1661,8 +1661,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:NM:77777465-3b79-4824-bc90-a88a503b985d",
@@ -1677,7 +1677,7 @@
       "margin": 16.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.27,
+      "sigma": 6.26,
       "pollsters": 2,
       "effective_polls": 1.75,
       "latest_poll": "2026-10-09",
@@ -1710,8 +1710,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:OH:df65b49b-388c-4867-ab75-d8e2a78ed5ea",
@@ -1885,8 +1885,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:RI:3134e4df-3e8b-413d-acad-5c82c9839a34",
@@ -1901,7 +1901,7 @@
       "margin": 27.4,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.0,
+      "sigma": 5.99,
       "pollsters": 3,
       "effective_polls": 2.58,
       "latest_poll": "2026-10-11",
@@ -1943,8 +1943,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:SC:15314566-c454-4722-b119-8ac87efa2e93",
@@ -2010,8 +2010,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "senate:TX:d99dd21d-c466-4b21-b6cc-5018468d17de",
@@ -2026,7 +2026,7 @@
       "margin": 2.2,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.18,
+      "sigma": 4.17,
       "pollsters": 21,
       "effective_polls": 16.1,
       "latest_poll": "2026-10-21",
@@ -2222,16 +2222,16 @@
           "internal": false
         }
       ],
-      "trend_adjustment": -0.13,
+      "trend_adjustment": -0.12,
       "trend_pollsters": 4,
       "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 2.1,
+      "forecast_margin": 2.12,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 8.57,
-      "collected_at": "2026-10-27T23:58:35.033040+00:00"
+      "national_poll_margin": null,
+      "collected_at": "2026-10-28T05:24:14.638257+00:00"
     },
     {
       "id": "house:AR:16ff0301-898c-4878-b2bf-b079a6f3eebc",
@@ -2250,7 +2250,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -2290,7 +2290,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "FirstStrategic Communications and Public Affairs",
@@ -2330,7 +2330,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -2370,7 +2370,7 @@
       "pollsters": 2,
       "effective_polls": 1.99,
       "latest_poll": "2026-10-20",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Tarrance Group",
@@ -2419,7 +2419,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-21",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -2459,7 +2459,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -2499,7 +2499,7 @@
       "pollsters": 2,
       "effective_polls": 1.99,
       "latest_poll": "2026-10-20",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -2548,7 +2548,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-17",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "McLaughlin & Associates",
@@ -2588,7 +2588,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "OnMessage Inc.",
@@ -2628,7 +2628,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -2668,7 +2668,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-02",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -2708,7 +2708,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-25",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Upswing Research",
@@ -2748,7 +2748,7 @@
       "pollsters": 2,
       "effective_polls": 1.78,
       "latest_poll": "2026-10-27",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -2797,7 +2797,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-13",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Tulchin Research",
@@ -2837,7 +2837,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-19",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -2877,7 +2877,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-07",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "VoteNexus",
@@ -2917,7 +2917,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "20/20 Insight",
@@ -2957,7 +2957,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -2997,7 +2997,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Quantus Insights",
@@ -3037,7 +3037,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-20",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -3077,7 +3077,7 @@
       "pollsters": 4,
       "effective_polls": 3.89,
       "latest_poll": "2026-10-05",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -3144,7 +3144,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-21",
-      "status": "Ranked-choice rules require a separate model",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -3184,7 +3184,7 @@
       "pollsters": 3,
       "effective_polls": 2.37,
       "latest_poll": "2026-10-14",
-      "status": "Ranked-choice rules require a separate model",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Tulchin Research",
@@ -3242,7 +3242,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-16",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "GBAO",
@@ -3282,7 +3282,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3322,7 +3322,7 @@
       "pollsters": 2,
       "effective_polls": 1.32,
       "latest_poll": "2026-10-12",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "SurveyUSA",
@@ -3371,7 +3371,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-13",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -3411,7 +3411,7 @@
       "pollsters": 2,
       "effective_polls": 1.52,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3460,7 +3460,7 @@
       "pollsters": 3,
       "effective_polls": 2.12,
       "latest_poll": "2026-10-14",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3518,7 +3518,7 @@
       "pollsters": 3,
       "effective_polls": 2.87,
       "latest_poll": "2026-10-08",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "co/efficient",
@@ -3576,7 +3576,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3616,7 +3616,7 @@
       "pollsters": 2,
       "effective_polls": 1.77,
       "latest_poll": "2026-10-05",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "National Public Affairs",
@@ -3665,7 +3665,7 @@
       "pollsters": 2,
       "effective_polls": 1.41,
       "latest_poll": "2026-10-20",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "St. Anselm",
@@ -3714,7 +3714,7 @@
       "pollsters": 2,
       "effective_polls": 1.42,
       "latest_poll": "2026-10-20",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "St. Anselm",
@@ -3763,7 +3763,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-12",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "StimSight Research",
@@ -3803,7 +3803,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -3843,7 +3843,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -3883,7 +3883,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -3923,7 +3923,7 @@
       "pollsters": 2,
       "effective_polls": 1.82,
       "latest_poll": "2026-09-30",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "McLaughlin & Associates",
@@ -3972,7 +3972,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-30",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -4012,7 +4012,7 @@
       "pollsters": 2,
       "effective_polls": 1.75,
       "latest_poll": "2026-10-06",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Siena University",
@@ -4061,7 +4061,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-23",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -4101,7 +4101,7 @@
       "pollsters": 2,
       "effective_polls": 1.32,
       "latest_poll": "2026-10-21",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Quantus Insights",
@@ -4150,7 +4150,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-13",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -4190,7 +4190,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Hart Research Associates",
@@ -4230,7 +4230,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-23",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -4270,7 +4270,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-20",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "GBAO",
@@ -4310,7 +4310,7 @@
       "pollsters": 3,
       "effective_polls": 1.87,
       "latest_poll": "2026-10-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -4362,13 +4362,13 @@
       "dem_poll": 48.0,
       "rep_poll": 47.0,
       "margin": 1.0,
-      "dem_win": 57.4,
-      "rep_win": 42.6,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 5.39,
       "pollsters": 3,
       "effective_polls": 2.24,
       "latest_poll": "2026-10-22",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -4426,7 +4426,7 @@
       "pollsters": 2,
       "effective_polls": 1.37,
       "latest_poll": "2026-10-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -4475,7 +4475,7 @@
       "pollsters": 2,
       "effective_polls": 1.92,
       "latest_poll": "2026-10-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -4524,7 +4524,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-11",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -4564,7 +4564,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-11",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -4604,7 +4604,7 @@
       "pollsters": 2,
       "effective_polls": 1.96,
       "latest_poll": "2026-10-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -4653,7 +4653,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Mason-Dixon Polling & Research, Inc.",
@@ -4693,7 +4693,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -4733,7 +4733,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Change Research",
@@ -4773,7 +4773,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-28",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Normington, Petts & Associates",
@@ -4813,7 +4813,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-04",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -4853,7 +4853,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-13",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -4893,7 +4893,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-19",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "The Washington Post/George Mason University Schar School of Policy and Government",
@@ -4933,7 +4933,7 @@
       "pollsters": 2,
       "effective_polls": 1.91,
       "latest_poll": "2026-10-19",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "The Washington Post/George Mason University Schar School of Policy and Government",
@@ -4976,13 +4976,13 @@
       "dem_poll": 43.9,
       "rep_poll": 47.7,
       "margin": -3.9,
-      "dem_win": 22.7,
-      "rep_win": 77.3,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 5.15,
       "pollsters": 3,
       "effective_polls": 2.36,
       "latest_poll": "2026-10-22",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -5040,7 +5040,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Lighthouse Research",
@@ -5080,7 +5080,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-15",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Lighthouse Research",
@@ -5120,7 +5120,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-17",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Lighthouse Research",
@@ -5154,13 +5154,13 @@
       "dem_poll": 48.1,
       "rep_poll": 46.4,
       "margin": 1.7,
-      "dem_win": 63.8,
-      "rep_win": 36.2,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.84,
       "pollsters": 3,
       "effective_polls": 2.87,
       "latest_poll": "2026-10-25",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -5218,7 +5218,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-10",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Christopher Newport University",
@@ -5258,7 +5258,7 @@
       "pollsters": 2,
       "effective_polls": 1.6,
       "latest_poll": "2026-09-28",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "The Washington Post/George Mason University Schar School of Policy and Government",
@@ -5307,7 +5307,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-30",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "co/efficient",
@@ -5347,7 +5347,7 @@
       "pollsters": 2,
       "effective_polls": 2.0,
       "latest_poll": "2026-09-21",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -5396,7 +5396,7 @@
       "pollsters": 2,
       "effective_polls": 1.89,
       "latest_poll": "2026-10-21",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Change Research",
@@ -5445,7 +5445,7 @@
       "pollsters": 2,
       "effective_polls": 1.92,
       "latest_poll": "2026-10-01",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -5488,13 +5488,13 @@
       "dem_poll": 39.3,
       "rep_poll": 51.0,
       "margin": -11.7,
-      "dem_win": 0.9,
-      "rep_win": 99.1,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.95,
       "pollsters": 3,
       "effective_polls": 2.39,
       "latest_poll": "2026-10-17",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Cygnal Political",
@@ -5552,7 +5552,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-13",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Hendrix College",
@@ -5586,13 +5586,13 @@
       "dem_poll": 49.7,
       "rep_poll": 40.1,
       "margin": 9.7,
-      "dem_win": 97.4,
-      "rep_win": 2.6,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.96,
       "pollsters": 4,
       "effective_polls": 3.72,
       "latest_poll": "2026-10-25",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "HighGround",
@@ -5653,13 +5653,13 @@
       "dem_poll": 56.9,
       "rep_poll": 36.0,
       "margin": 20.9,
-      "dem_win": 100.0,
-      "rep_win": 0.0,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.71,
       "pollsters": 8,
       "effective_polls": 6.76,
       "latest_poll": "2026-10-24",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "SurveyUSA",
@@ -5762,7 +5762,7 @@
       "pollsters": 6,
       "effective_polls": 4.95,
       "latest_poll": "2026-10-12",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Quinnipiac University",
@@ -5841,13 +5841,13 @@
       "dem_poll": 43.5,
       "rep_poll": 48.9,
       "margin": -5.4,
-      "dem_win": 10.9,
-      "rep_win": 89.1,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.39,
       "pollsters": 12,
       "effective_polls": 10.1,
       "latest_poll": "2026-10-23",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Echelon Insights",
@@ -5980,13 +5980,13 @@
       "dem_poll": 47.3,
       "rep_poll": 48.5,
       "margin": -1.2,
-      "dem_win": 39.1,
-      "rep_win": 60.9,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.38,
       "pollsters": 7,
       "effective_polls": 6.05,
       "latest_poll": "2026-10-23",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Echelon Insights",
@@ -6074,13 +6074,13 @@
       "dem_poll": 51.0,
       "rep_poll": 44.2,
       "margin": 6.8,
-      "dem_win": 94.3,
-      "rep_win": 5.7,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.32,
       "pollsters": 11,
       "effective_polls": 9.43,
       "latest_poll": "2026-10-23",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Echelon Insights",
@@ -6210,7 +6210,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-22",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "VoteNexus",
@@ -6250,7 +6250,7 @@
       "pollsters": 2,
       "effective_polls": 1.72,
       "latest_poll": "2026-10-22",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "ActiVote",
@@ -6293,13 +6293,13 @@
       "dem_poll": 44.9,
       "rep_poll": 47.7,
       "margin": -2.9,
-      "dem_win": 26.7,
-      "rep_win": 73.3,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.6,
       "pollsters": 4,
       "effective_polls": 3.42,
       "latest_poll": "2026-10-21",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Global Strategy Group",
@@ -6366,7 +6366,7 @@
       "pollsters": 4,
       "effective_polls": 3.16,
       "latest_poll": "2026-10-18",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Suffolk University",
@@ -6433,7 +6433,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-27",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "UMBC Institute of Politics",
@@ -6473,7 +6473,7 @@
       "pollsters": 11,
       "effective_polls": 6.88,
       "latest_poll": "2026-10-25",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Marist University",
@@ -6603,7 +6603,7 @@
       "pollsters": 14,
       "effective_polls": 8.71,
       "latest_poll": "2026-10-22",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Glengariff Group, Inc.",
@@ -6760,7 +6760,7 @@
       "pollsters": 4,
       "effective_polls": 3.52,
       "latest_poll": "2026-10-12",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "SurveyUSA",
@@ -6827,7 +6827,7 @@
       "pollsters": 9,
       "effective_polls": 7.02,
       "latest_poll": "2026-10-23",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Echelon Insights",
@@ -6933,13 +6933,13 @@
       "dem_poll": 41.2,
       "rep_poll": 50.0,
       "margin": -8.9,
-      "dem_win": 2.9,
-      "rep_win": 97.1,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.68,
       "pollsters": 5,
       "effective_polls": 3.2,
       "latest_poll": "2026-10-20",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "St. Anselm",
@@ -7015,7 +7015,7 @@
       "pollsters": 2,
       "effective_polls": 1.75,
       "latest_poll": "2026-10-09",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -7064,7 +7064,7 @@
       "pollsters": 3,
       "effective_polls": 2.19,
       "latest_poll": "2026-10-25",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Hart Research Associates/Public Opinion Strategies",
@@ -7122,7 +7122,7 @@
       "pollsters": 8,
       "effective_polls": 6.16,
       "latest_poll": "2026-10-23",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "ActiVote",
@@ -7225,7 +7225,7 @@
       "pollsters": 13,
       "effective_polls": 10.77,
       "latest_poll": "2026-10-23",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Echelon Insights",
@@ -7367,13 +7367,13 @@
       "dem_poll": 45.0,
       "rep_poll": 49.0,
       "margin": -4.0,
-      "dem_win": 28.3,
-      "rep_win": 71.7,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 6.95,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-13",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Workbench Strategy",
@@ -7413,7 +7413,7 @@
       "pollsters": 2,
       "effective_polls": 1.94,
       "latest_poll": "2026-10-04",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "GBAO",
@@ -7462,7 +7462,7 @@
       "pollsters": 7,
       "effective_polls": 5.6,
       "latest_poll": "2026-10-21",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "ActiVote",
@@ -7556,7 +7556,7 @@
       "pollsters": 4,
       "effective_polls": 3.06,
       "latest_poll": "2026-10-11",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -7617,13 +7617,13 @@
       "dem_poll": 39.9,
       "rep_poll": 51.4,
       "margin": -11.4,
-      "dem_win": 1.1,
-      "rep_win": 98.9,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.97,
       "pollsters": 3,
       "effective_polls": 2.24,
       "latest_poll": "2026-10-25",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Targoz Market Research",
@@ -7675,13 +7675,13 @@
       "dem_poll": 38.8,
       "rep_poll": 57.2,
       "margin": -18.4,
-      "dem_win": 0.0,
-      "rep_win": 100.0,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 5.12,
       "pollsters": 3,
       "effective_polls": 2.26,
       "latest_poll": "2026-10-21",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -7739,7 +7739,7 @@
       "pollsters": 2,
       "effective_polls": 1.18,
       "latest_poll": "2026-10-16",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "Spry Strategies",
@@ -7788,7 +7788,7 @@
       "pollsters": 17,
       "effective_polls": 12.88,
       "latest_poll": "2026-10-21",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "ActiVote",
@@ -7966,13 +7966,13 @@
       "dem_poll": 45.1,
       "rep_poll": 47.8,
       "margin": -2.7,
-      "dem_win": 34.5,
-      "rep_win": 65.5,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 6.69,
       "pollsters": 3,
       "effective_polls": 1.55,
       "latest_poll": "2026-10-25",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "State Navigate",
@@ -8030,7 +8030,7 @@
       "pollsters": 3,
       "effective_polls": 2.69,
       "latest_poll": "2026-10-09",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Source unavailable; older poll snapshot retained, win odds withheld",
       "polls": [
         {
           "pollster_name": "YouGov",
@@ -8077,25 +8077,19 @@
       "office": "senate",
       "ok": true,
       "truncated": false,
-      "downloaded": 834,
-      "usable": 255,
+      "downloaded": 835,
+      "usable": 254,
       "rejected": 0
     },
     {
       "office": "house",
-      "ok": true,
-      "truncated": true,
-      "downloaded": 1200,
-      "usable": 243,
-      "rejected": 0
+      "ok": false,
+      "error": "The read operation timed out"
     },
     {
       "office": "governor",
-      "ok": true,
-      "truncated": false,
-      "downloaded": 937,
-      "usable": 239,
-      "rejected": 0
+      "ok": false,
+      "error": "The read operation timed out"
     }
   ],
   "method": "Current-poll experimental forecast: no 2024 state-lean adjustment. Latest poll per pollster and current candidate pair; 14-day recency half-life; square-root sample weight capped at 1500; partisan/internal polls half weight. Trend uses at least three matched pollsters, same candidate pair and population, with polls 7-28 days apart. Median daily movement is projected at half strength for at most 7 days and capped at 2 margin points; its size is also added to uncertainty. Trend rules are assumptions, not fitted. Normal margin model retains a 4-point shared-error floor, disagreement, sampling, undecided and time terms; sparse statewide polling adds 4 points of uncertainty and requires sample 250 or larger. House needs at least 3 pollsters and effective poll count 2. Third-candidate and ranked-choice restrictions remain. Historical accuracy is NOT established. No candidate-quality, fundraising, economic or news model is implemented. No chamber-control forecast. Candidate roster not independently verified.",
