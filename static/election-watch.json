@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T19:41:43.930641+00:00",
+  "checked_at": "2026-10-29T23:36:21.913170+00:00",
   "election_date": "2026-11-03",
   "model_version": "1.2-current-polls-trend-unvalidated",
   "races": [
@@ -59,7 +59,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:AL:a58c75c1-3077-4166-b423-7fc106199529",
@@ -126,7 +126,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:AR:8815ec42-9966-4a24-8d13-e9e88e52747f",
@@ -175,7 +175,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:FL:b59d96b4-5318-4497-a4d1-9bd83217ac76",
@@ -323,7 +323,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:GA:00fd3a01-c10a-4a40-89fd-9b97bcc17d82",
@@ -426,7 +426,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:IA:6504c9a1-f6af-4517-8475-b563a47234cf",
@@ -583,7 +583,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:IL:3be1195b-6fc6-42c2-b5cd-8605748da86a",
@@ -632,7 +632,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:KS:5cb51572-4167-49a2-b7a6-eec3fa3a1945",
@@ -735,7 +735,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:LA:08728cf9-27d9-4d84-8a37-2168f60a35cb",
@@ -775,7 +775,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:MA:98240db9-3ce6-4ded-8a07-afc3f0903c21",
@@ -851,7 +851,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:ME:eea2d6d6-bcb0-4fe7-b1da-ec22a14df253",
@@ -1026,7 +1026,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:MI:8069ba7e-4ac6-449d-ae1e-f7fc5dee4a19",
@@ -1273,7 +1273,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:MN:fd4a6546-ff73-46f2-a9df-6f92f6f959a8",
@@ -1394,7 +1394,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:MS:f137f0b7-6bc7-42c5-a594-d1a8a3ef3e15",
@@ -1434,7 +1434,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:MT:2de1c5ad-374a-4c51-9f99-8432d8e980f6",
@@ -1510,7 +1510,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:NC:70395c5f-9aee-4a8f-a647-b656d0f894a3",
@@ -1658,7 +1658,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:NH:85026c96-181d-4074-b438-5798d23c7077",
@@ -1761,7 +1761,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:NM:77777465-3b79-4824-bc90-a88a503b985d",
@@ -1810,7 +1810,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:OH:df65b49b-388c-4867-ab75-d8e2a78ed5ea",
@@ -1985,7 +1985,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:RI:3134e4df-3e8b-413d-acad-5c82c9839a34",
@@ -2043,7 +2043,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:SC:15314566-c454-4722-b119-8ac87efa2e93",
@@ -2128,7 +2128,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "senate:TX:d99dd21d-c466-4b21-b6cc-5018468d17de",
@@ -2375,7 +2375,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:AL:c5e7e34c-92d5-42b6-ad57-e5c784dcdf20",
@@ -2415,7 +2415,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:AR:16ff0301-898c-4878-b2bf-b079a6f3eebc",
@@ -2455,7 +2455,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:AZ:9e8a65f0-fe48-466c-a9e7-7294d4645cdd",
@@ -2465,17 +2465,26 @@
       "race_id": "9e8a65f0-fe48-466c-a9e7-7294d4645cdd",
       "dem": "Amish Shah",
       "rep": "Jay Feely",
-      "dem_poll": 44.4,
-      "rep_poll": 41.6,
-      "margin": 2.8,
+      "dem_poll": 48.1,
+      "rep_poll": 44.4,
+      "margin": 3.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.51,
-      "pollsters": 1,
-      "effective_polls": 1.0,
-      "latest_poll": "2026-10-01",
+      "sigma": 6.79,
+      "pollsters": 2,
+      "effective_polls": 1.45,
+      "latest_poll": "2026-10-28",
       "status": "Sparse House polling cannot support a win forecast",
       "polls": [
+        {
+          "pollster_name": "Keating Research, Inc.",
+          "end": "2026-10-28",
+          "dem_pct": 49.0,
+          "rep_pct": 45.0,
+          "n": 500.0,
+          "url": "https://keatingresearch.com/polls/az-01-october-2026/",
+          "internal": false
+        },
         {
           "pollster_name": "FirstStrategic Communications and Public Affairs",
           "end": "2026-10-01",
@@ -2490,12 +2499,12 @@
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 2.8,
+      "forecast_margin": 3.77,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:AZ:addd1a22-6c2f-4004-af4e-b87b09191157",
@@ -2535,7 +2544,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:CA:3cbd0c4c-f073-481c-9380-66603077c5dd",
@@ -2584,7 +2593,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:CO:6a947c92-e683-47ef-ba80-71e56a333bcb",
@@ -2624,7 +2633,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:CO:b01b53b0-5e63-4549-bc95-c87319e246a3",
@@ -2664,7 +2673,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:CO:7465714e-dca1-4566-b075-3196f87d733b",
@@ -2713,7 +2722,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:CO:92ea55ee-1b9b-4153-a024-667a7f5c8ca3",
@@ -2753,7 +2762,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:CT:9496123f-ba00-4404-9be4-ed3118418b8a",
@@ -2793,7 +2802,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:FL:1f58532f-d586-440f-ab0a-3bcc44eeaf74",
@@ -2833,7 +2842,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:FL:09cf2fd1-1aad-4a04-adf7-278e794f0d64",
@@ -2873,7 +2882,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:FL:9f30cec9-16d8-4030-ab8b-4be993d6bf4b",
@@ -2913,7 +2922,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:FL:5363fdfe-9699-4e1a-aa3d-61394471f296",
@@ -2962,7 +2971,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:FL:062ae644-cfe4-4fc4-a303-cc2eb7c1a24b",
@@ -3002,7 +3011,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:GA:56abfe70-7ae1-46b5-804c-ad438295804c",
@@ -3042,7 +3051,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:GA:cbacdaff-d586-46ff-97a6-a9c1bdf0fe18",
@@ -3082,7 +3091,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:IA:8eed2fd1-02c2-4509-bbfb-f5ba16c2c1fc",
@@ -3122,7 +3131,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:IN:60b481c4-238d-48f6-b390-ec4e73f67e4d",
@@ -3162,7 +3171,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:KS:b6b96497-d095-45c0-8db5-1f8bd1794017",
@@ -3202,7 +3211,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:KY:fb3da71c-9247-4285-b5ae-462b5e4f19ed",
@@ -3269,7 +3278,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:ME:6eda5a76-27ad-4e19-ba29-cb52553b4020",
@@ -3309,7 +3318,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:ME:c587aa21-f06f-47d6-ae64-ebbd9d0a43d7",
@@ -3358,7 +3367,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:MI:4487bd50-4a44-4e2f-8d00-ffd1d89bd3b8",
@@ -3398,7 +3407,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:MI:c19a87d4-ae23-4352-85e0-c4bb86a3fec4",
@@ -3438,7 +3447,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:MN:f5eea5b5-b636-4540-b741-58694bf575cb",
@@ -3487,7 +3496,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:MN:88e4b99a-494c-46f3-9805-131a4529923c",
@@ -3527,7 +3536,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:MO:9fc28897-7a41-4c9c-8288-07e3fe08ff34",
@@ -3576,7 +3585,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:MT:f34abca0-d7c7-44c0-a113-a8978a9dad47",
@@ -3634,7 +3643,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NC:814ce247-ec2e-47c3-8d53-de7470be442e",
@@ -3692,7 +3701,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NC:b9b9b903-71ab-4e73-987d-65f1579a31f8",
@@ -3732,7 +3741,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NE:4f7e53a6-1e78-4ae8-ad13-c676356569fb",
@@ -3772,7 +3781,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NH:8772ab65-140c-4d53-8108-50b88b523dce",
@@ -3821,7 +3830,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NH:10137906-94cd-42be-933a-74f28309d24f",
@@ -3870,7 +3879,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NM:9e8a1134-ef1c-40b4-bceb-8c9af73a2681",
@@ -3910,7 +3919,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NM:1e2b969c-7a2e-4def-bb6d-7768188df3d7",
@@ -3950,7 +3959,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NM:5d3e4495-d08e-48e7-a8f0-f0c7aa91bc75",
@@ -3990,7 +3999,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NY:f78af32c-a079-4969-9b04-00752b7e0de2",
@@ -4039,7 +4048,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NY:09c0b3f1-d400-483f-bebc-782fac808201",
@@ -4079,7 +4088,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NY:3344edbf-b5c1-4f1c-a0d9-fe706d6c307a",
@@ -4128,7 +4137,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:NY:27dd113f-29fb-4660-8043-bae2d34ea2e9",
@@ -4168,7 +4177,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:OH:cb91fa27-43b7-4f38-bb13-fa7928a64174",
@@ -4217,7 +4226,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:OH:8a9842b4-3062-4d0b-a90d-185620067134",
@@ -4257,7 +4266,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:OH:f0193a3b-5e5c-4b7a-b6cb-8dca9a94f2a6",
@@ -4297,7 +4306,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:OH:1c4705be-f4e7-4561-9665-29199794732f",
@@ -4337,7 +4346,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:OK:26553913-f86b-4671-8756-c97a992f0375",
@@ -4377,7 +4386,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:PA:74b4585d-53eb-4f7c-b06a-39f485261149",
@@ -4435,7 +4444,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:PA:7a73a2bb-7253-43a0-bb03-78ae58794086",
@@ -4493,7 +4502,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:PA:bfab286e-07a7-490d-b463-a655e61481ab",
@@ -4551,7 +4560,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:PA:4868e333-5fd2-4237-9f71-b119177aa9df",
@@ -4600,7 +4609,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:RI:ef3ff558-8054-4c65-a27a-5c9735a6d9b5",
@@ -4640,7 +4649,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:RI:f92e5ccf-c49e-4f83-83a8-975b8eb230b2",
@@ -4680,7 +4689,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:SC:1fa0063d-2105-4335-a22a-93aaf03f359b",
@@ -4729,7 +4738,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:SD:84dac736-abfe-4463-bb60-10f202ea1251",
@@ -4769,7 +4778,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:TN:5fa03260-8362-4444-b1cb-93746056c378",
@@ -4809,7 +4818,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:TX:f2824fcb-026e-41e1-8edf-befb6821bd66",
@@ -4849,7 +4858,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:TX:c3aca1fa-8928-4ee0-ae7a-7fcb6774d8ce",
@@ -4889,7 +4898,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:TX:e27a8bd0-d019-4c33-b14e-747a92f8f5ad",
@@ -4929,7 +4938,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:TX:4cc4cc40-257f-4221-869e-57150dfd388d",
@@ -4969,7 +4978,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:TX:e2ff1d6e-f2ef-432c-ba6b-b3eb17a123f4",
@@ -5009,7 +5018,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:TX:63a220e9-427d-4b10-8435-eb2d33c3c0e3",
@@ -5058,7 +5067,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:TX:7e1c30ea-72d7-4d57-90a4-22c6c5d3f770",
@@ -5116,7 +5125,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:UT:3664833e-1f2f-44cd-8202-3b81c8a5e98f",
@@ -5156,7 +5165,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:UT:b278901b-6b18-4ba9-9e95-da976c14e451",
@@ -5196,7 +5205,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:UT:f6c68ed2-3413-44a8-864c-f710a16a7adb",
@@ -5236,7 +5245,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:VA:b4ed2906-ddb9-4b3a-880e-b8443d5dcc16",
@@ -5294,7 +5303,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:VA:df823ad4-9e56-413d-ac88-0b96f98841e1",
@@ -5334,7 +5343,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:VA:9172b6a3-f2ac-4630-855a-e7a73a90babf",
@@ -5383,7 +5392,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:VA:f90cc099-7c5f-4964-ac56-38287da89d45",
@@ -5423,7 +5432,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:VT:35715f3a-d630-4af0-b766-a3ebafa87cdf",
@@ -5472,7 +5481,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:WA:c8fd3235-6723-4535-b93f-38cce6627569",
@@ -5521,7 +5530,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "house:WI:97df6c18-2da3-407e-a447-cbce4d15d0b6",
@@ -5570,7 +5579,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:AL:ff4ece22-ea3e-48ca-9955-d0e4c01d8e3a",
@@ -5637,7 +5646,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:AR:154362f5-6626-453d-a16b-47c27fa09e5f",
@@ -5677,7 +5686,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:AZ:118daea0-3ebb-4a32-af77-bb896d1c7e6d",
@@ -5753,7 +5762,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:CA:6d765d6a-c857-4bea-b1fe-bf9bae0713a1",
@@ -5865,7 +5874,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:CT:53ee206c-198b-40d7-b3e5-9c2970c20843",
@@ -5950,7 +5959,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:FL:5c30013f-cca8-40cc-bdbf-2dfb75c5214b",
@@ -6098,7 +6107,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:GA:51846c5c-5e12-4a8c-bd23-e24dbcd12ef5",
@@ -6201,7 +6210,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:IA:75a8a639-52be-4bd4-8d35-f46ea99c5786",
@@ -6331,7 +6340,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:ID:bfc47176-249a-4860-904b-708e1a0c0242",
@@ -6371,7 +6380,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:IL:120431fc-7a75-4bf8-b06a-e67a6d7732ec",
@@ -6420,7 +6429,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:KS:87794e93-b6e9-4ae8-90f2-349d5ede05ca",
@@ -6496,7 +6505,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:MA:f715ce1b-4cbf-42a3-baee-d2ed158596e3",
@@ -6572,7 +6581,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:MD:53f66065-619f-4925-be3a-27d73c487076",
@@ -6612,7 +6621,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:ME:c907ae73-739f-4b4d-af3f-bd59c57ed993",
@@ -6751,7 +6760,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:MI:8f54223a-e319-4635-b757-4e45fc86c856",
@@ -6761,14 +6770,14 @@
       "race_id": "8f54223a-e319-4635-b757-4e45fc86c856",
       "dem": "Jocelyn Benson",
       "rep": "John James",
-      "dem_poll": 51.0,
-      "rep_poll": 42.3,
-      "margin": 8.7,
+      "dem_poll": 50.9,
+      "rep_poll": 42.6,
+      "margin": 8.3,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.34,
+      "sigma": 4.35,
       "pollsters": 16,
-      "effective_polls": 9.44,
+      "effective_polls": 9.74,
       "latest_poll": "2026-10-27",
       "status": "Material third-candidate support; two-candidate model withheld",
       "polls": [
@@ -6779,6 +6788,15 @@
           "rep_pct": 41.0,
           "n": 768.0,
           "url": "https://edition.cnn.com/2026/10/29/politics/cnn-polls-michigan-maine-texas-kansas-senate-races-midterms-vis",
+          "internal": false
+        },
+        {
+          "pollster_name": "Mitchell Research & Communications",
+          "end": "2026-10-27",
+          "dem_pct": 49.0,
+          "rep_pct": 44.0,
+          "n": 636.0,
+          "url": "https://www.cbsnews.com/detroit/news/el-sayed-widens-lead-rogers-michigan-senate-poll/",
           "internal": false
         },
         {
@@ -6824,15 +6842,6 @@
           "rep_pct": 45.0,
           "n": 3949.0,
           "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20260921_lv.pdf",
-          "internal": false
-        },
-        {
-          "pollster_name": "Mitchell Research & Communications",
-          "end": "2026-10-01",
-          "dem_pct": 46.0,
-          "rep_pct": 39.0,
-          "n": 682.0,
-          "url": "https://www.cbsnews.com/detroit/news/michigan-voter-poll-abdul-el-sayed-mike-rogers/",
           "internal": false
         },
         {
@@ -6918,15 +6927,15 @@
         }
       ],
       "trend_adjustment": 0.0,
-      "trend_pollsters": 0,
+      "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 8.73,
+      "forecast_margin": 8.31,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:MN:3450e89a-4d4b-454e-bd27-b92950f69af0",
@@ -7020,7 +7029,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:NE:17ee3d2c-159b-45f4-b3bb-5ba1b867bee9",
@@ -7123,7 +7132,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:NH:aa4c8492-41ef-43e6-8771-ad6f1238b696",
@@ -7208,7 +7217,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:NM:8c21109e-b56d-4126-81d7-88b555c9cec3",
@@ -7257,7 +7266,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:NV:3d1bb307-25e7-4313-a1a0-142ed01dd9fd",
@@ -7315,7 +7324,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:NY:830006b7-3338-4479-91e2-6676f21dde7f",
@@ -7418,7 +7427,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:OH:f53d2c84-3d3b-451a-ad32-a0355ffaeae9",
@@ -7566,7 +7575,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:OK:92f116c4-6174-46c6-8a80-f68f4c3d4845",
@@ -7606,7 +7615,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:OR:97bf563e-8aaf-462b-9b20-2acf8b435179",
@@ -7655,7 +7664,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:PA:85f663f1-ccfd-4b88-991f-d204dbaec233",
@@ -7749,7 +7758,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:RI:f1a05535-a07c-4c91-bc78-41280b96f1a8",
@@ -7816,7 +7825,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:SC:5fd56fa3-965a-4bb0-97c9-e2224a12dedb",
@@ -7892,7 +7901,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:SD:e8910f80-95a1-4fdf-b402-379938f2a1a1",
@@ -7950,7 +7959,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:TN:a48ea5a3-9d42-4555-a32b-c10094ad634a",
@@ -7990,7 +7999,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:TX:fe1f0a9f-398c-415d-a0f1-74b42972f5db",
@@ -8000,17 +8009,26 @@
       "race_id": "fe1f0a9f-398c-415d-a0f1-74b42972f5db",
       "dem": "Gina Hinojosa",
       "rep": "Greg Abbott",
-      "dem_poll": 46.7,
+      "dem_poll": 46.8,
       "rep_poll": 49.0,
       "margin": -2.3,
       "dem_win": null,
       "rep_win": null,
       "sigma": 4.17,
       "pollsters": 19,
-      "effective_polls": 14.14,
-      "latest_poll": "2026-10-27",
+      "effective_polls": 14.24,
+      "latest_poll": "2026-10-29",
       "status": "Material third-candidate support; two-candidate model withheld",
       "polls": [
+        {
+          "pollster_name": "ActiVote",
+          "end": "2026-10-29",
+          "dem_pct": 47.9,
+          "rep_pct": 52.1,
+          "n": 400.0,
+          "url": "https://www.activote.net/polls/2026/tx-governor/2026-10-29/",
+          "internal": false
+        },
         {
           "pollster_name": "CNN/SSRS",
           "end": "2026-10-27",
@@ -8036,15 +8054,6 @@
           "rep_pct": 50.0,
           "n": 2000.0,
           "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6ae28aaadbf6636957aa51e7/1793231530759/TSUStatewideOct2026.pdf",
-          "internal": false
-        },
-        {
-          "pollster_name": "ActiVote",
-          "end": "2026-10-21",
-          "dem_pct": 47.5,
-          "rep_pct": 52.5,
-          "n": 400.0,
-          "url": "https://www.activote.net/polls/2026/tx-u-s-senate/2026-10-21/",
           "internal": false
         },
         {
@@ -8183,16 +8192,16 @@
           "internal": true
         }
       ],
-      "trend_adjustment": 0.0,
+      "trend_adjustment": 0.1,
       "trend_pollsters": 3,
       "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -2.28,
+      "forecast_margin": -2.19,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:VT:0cfd4c9a-8767-4d53-bc7b-33584b6c53e5",
@@ -8250,7 +8259,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     },
     {
       "id": "governor:WI:21105b67-0435-425e-a9ef-284ab91297b8",
@@ -8317,7 +8326,7 @@
       "prior_weight": 0.0,
       "historical_source": null,
       "national_poll_margin": 8.53,
-      "collected_at": "2026-10-29T19:41:38.965386+00:00"
+      "collected_at": "2026-10-29T23:36:17.734887+00:00"
     }
   ],
   "source_checks": [
@@ -8325,7 +8334,7 @@
       "office": "senate",
       "ok": true,
       "truncated": false,
-      "downloaded": 860,
+      "downloaded": 861,
       "usable": 279,
       "rejected": 0
     },
@@ -8334,15 +8343,15 @@
       "ok": true,
       "truncated": true,
       "downloaded": 1200,
-      "usable": 243,
+      "usable": 244,
       "rejected": 0
     },
     {
       "office": "governor",
       "ok": true,
       "truncated": false,
-      "downloaded": 964,
-      "usable": 266,
+      "downloaded": 966,
+      "usable": 268,
       "rejected": 0
     }
   ],
