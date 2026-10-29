@@ -1,85 +1,85 @@
 {
-  "show_date": "2026-10-27",
-  "prepared_at": "2026-10-27T23:59:04.884616+00:00",
+  "show_date": "2026-10-28",
+  "prepared_at": "2026-10-29T01:16:38.015793+00:00",
   "reports": [
     {
-      "title": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts",
-      "url": "https://www.channelnewsasia.com/business/sk-hynix-q3-profit-jumps-more-7-fold-beats-forecasts-6498106",
-      "source": "CNA / Singapore",
-      "published_at": "2026-10-27T23:50:27+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Access to the pill and UTI treatment is changing. Is it a win for women?",
-      "url": "https://www.abc.net.au/news/2026-10-28/access-uti-treatment-the-pill-access-policy-evidence/107317620",
-      "source": "ABC / Australia",
-      "published_at": "2026-10-27T23:47:21+00:00",
-      "topic": "research",
-      "kind": "News report"
-    },
-    {
-      "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over alleged false Bondi shooting claim",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "source": "Guardian world news",
-      "published_at": "2026-10-27T23:46:48+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Breaking: Star Casino fined $260m for money laundering violations",
-      "url": "https://www.abc.net.au/news/2026-10-28/star-entertainment-fined-over-casino-money-laundering-austrac/107317384",
-      "source": "ABC / Australia",
-      "published_at": "2026-10-27T23:45:23+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Israel election live: setback for Netanyahu as exit polls show strong opposition",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "source": "Guardian world news",
-      "published_at": "2026-10-27T23:42:23+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Singapore haze: PM2.5 readings remain normal, air quality moderate across all regions",
-      "url": "https://www.channelnewsasia.com/singapore/singapore-haze-moderate-air-quality-pm25-normal-oct-28-6498021",
-      "source": "CNA / Singapore",
-      "published_at": "2026-10-27T23:42:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC world news",
-      "published_at": "2026-10-27T23:41:23+00:00",
+      "published_at": "2026-10-29T01:14:01+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "‘Only Bibi’: At Likud headquarters, supporters put their faith in Netanyahu",
-      "url": "https://www.jpost.com/israel-election-2026/article-913072",
+      "title": "Microsoft profits surge days after announcing major job cuts",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-10-29T01:08:04+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Personal data of 40,000 U.S. Homeland Security employees leaked in security breach",
+      "url": "https://www.cbc.ca/news/world/dhs-data-breach-leak-distributed-denial-of-secrets-9.7400488?cmp=rss",
+      "source": "CBC / Canada",
+      "published_at": "2026-10-29T01:05:21+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Australian politics live: Paterson accuses PM of ‘no standards’ over golf club error; Haines office to reopen",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "source": "Guardian world news",
+      "published_at": "2026-10-29T01:02:19+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "How the Cinema South Festival has survived and thrived in Sderot for 25 years",
+      "url": "https://www.jpost.com/israel-news/culture/article-913170",
       "source": "Jerusalem Post Headlines",
-      "published_at": "2026-10-27T23:38:52+00:00",
+      "published_at": "2026-10-29T01:01:12+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-      "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-10-27T23:35:51+00:00",
+      "title": "Australia has highest rates of anorexia and bulimia globally",
+      "url": "https://www.abc.net.au/news/health/2026-10-29/anorexia-bulimia-cases-rising-90s-australia/107315546",
+      "source": "ABC / Australia",
+      "published_at": "2026-10-29T01:00:22+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Israel: opposition supporters celebrate narrow lead in exit polls",
-      "url": "https://www.euronews.com/video/2026/10/28/israel-opposition-supporters-celebrate-narrow-lead-in-exit-polls",
-      "source": "Euronews / Europe",
-      "published_at": "2026-10-27T23:31:17+00:00",
+      "title": "Samsung posts record profit in Q3 on AI chip boom",
+      "url": "https://www.channelnewsasia.com/business/samsung-posts-record-profit-in-q3-ai-chip-boom-6501761",
+      "source": "CNA / Singapore",
+      "published_at": "2026-10-29T00:57:41+00:00",
       "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Canada and EU drop associate membership plan in bid to deepen ties",
+      "url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties",
+      "source": "France 24 / France",
+      "published_at": "2026-10-29T00:56:33+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Arrows, paint and iron bars used to damage businesses in NT town",
+      "url": "https://www.abc.net.au/news/2026-10-29/fighting-in-nt-town-of-elliott-damages-property-and-businesses/107322312",
+      "source": "ABC / Australia",
+      "published_at": "2026-10-29T00:55:28+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
+      "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law",
+      "source": "Guardian world news",
+      "published_at": "2026-10-29T00:53:26+00:00",
+      "topic": "unrest",
       "kind": "News report"
     }
   ],
