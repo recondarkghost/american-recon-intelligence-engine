@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T19:47:23.023770+00:00",
+  "checked_at": "2026-11-03T01:53:29.547639+00:00",
   "election_date": "2026-11-03",
   "model_version": "1.2-current-polls-trend-unvalidated",
   "races": [
@@ -20,7 +20,7 @@
       "pollsters": 2,
       "effective_polls": 1.47,
       "latest_poll": "2026-10-30",
-      "status": "Ranked-choice rules require a separate model",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -49,8 +49,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:AL:a58c75c1-3077-4166-b423-7fc106199529",
@@ -63,13 +63,13 @@
       "dem_poll": 36.8,
       "rep_poll": 50.8,
       "margin": -14.0,
-      "dem_win": 0.7,
-      "rep_win": 99.3,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 5.66,
       "pollsters": 4,
       "effective_polls": 3.13,
       "latest_poll": "2026-10-24",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Blueprint Polling",
@@ -116,8 +116,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:AR:8815ec42-9966-4a24-8d13-e9e88e52747f",
@@ -130,13 +130,13 @@
       "dem_poll": 40.1,
       "rep_poll": 52.4,
       "margin": -12.3,
-      "dem_win": 3.6,
-      "rep_win": 96.4,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 6.82,
       "pollsters": 2,
       "effective_polls": 1.99,
       "latest_poll": "2026-10-28",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "GrayHouse",
@@ -165,8 +165,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:CO:fe24b75f-0b09-4c0a-afdf-805b480929f7",
@@ -176,17 +176,26 @@
       "race_id": "fe24b75f-0b09-4c0a-afdf-805b480929f7",
       "dem": "John Hickenlooper",
       "rep": "Mark Baisley",
-      "dem_poll": 56.3,
-      "rep_poll": 38.9,
-      "margin": 17.4,
-      "dem_win": 99.6,
-      "rep_win": 0.4,
-      "sigma": 6.61,
-      "pollsters": 2,
-      "effective_polls": 1.33,
-      "latest_poll": "2026-10-20",
-      "status": "Experimental probability; not historically calibrated",
+      "dem_poll": 56.7,
+      "rep_poll": 36.7,
+      "margin": 20.0,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 5.24,
+      "pollsters": 3,
+      "effective_polls": 2.17,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 57.0,
+          "rep_pct": 35.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "YouGov",
           "end": "2026-10-20",
@@ -209,13 +218,13 @@
       "trend_adjustment": 0.0,
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
-      "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 17.42,
+      "evidence_level": "Multiple pollsters; calibration still untested",
+      "forecast_margin": 20.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:FL:b59d96b4-5318-4497-a4d1-9bd83217ac76",
@@ -226,16 +235,25 @@
       "dem": "Angie Nixon",
       "rep": "Ashley Moody",
       "dem_poll": 43.4,
-      "rep_poll": 49.3,
+      "rep_poll": 49.5,
       "margin": -6.0,
-      "dem_win": 8.0,
-      "rep_win": 92.0,
-      "sigma": 4.22,
-      "pollsters": 16,
-      "effective_polls": 13.22,
-      "latest_poll": "2026-10-30",
-      "status": "Experimental probability; not historically calibrated",
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.21,
+      "pollsters": 17,
+      "effective_polls": 14.22,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 44.0,
+          "rep_pct": 51.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "Big Data Poll",
           "end": "2026-10-30",
@@ -381,16 +399,16 @@
           "internal": true
         }
       ],
-      "trend_adjustment": 0.02,
+      "trend_adjustment": 0.0,
       "trend_pollsters": 4,
       "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -5.93,
+      "forecast_margin": -6.03,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:GA:00fd3a01-c10a-4a40-89fd-9b97bcc17d82",
@@ -400,17 +418,35 @@
       "race_id": "00fd3a01-c10a-4a40-89fd-9b97bcc17d82",
       "dem": "Jon Ossoff",
       "rep": "Mike Collins",
-      "dem_poll": 52.2,
-      "rep_poll": 42.7,
-      "margin": 9.6,
-      "dem_win": 98.4,
-      "rep_win": 1.6,
-      "sigma": 4.46,
+      "dem_poll": 52.5,
+      "rep_poll": 43.7,
+      "margin": 8.8,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.39,
       "pollsters": 8,
-      "effective_polls": 6.45,
-      "latest_poll": "2026-10-23",
-      "status": "Experimental probability; not historically calibrated",
+      "effective_polls": 5.36,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "InsiderAdvantage",
+          "end": "2026-11-02",
+          "dem_pct": 52.7,
+          "rep_pct": 46.0,
+          "n": 2500.0,
+          "url": "https://jamesmagazinega.com/2026/11/02/48131/",
+          "internal": false
+        },
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 52.0,
+          "rep_pct": 42.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "Echelon Insights",
           "end": "2026-10-23",
@@ -457,15 +493,6 @@
           "internal": true
         },
         {
-          "pollster_name": "InsiderAdvantage",
-          "end": "2026-09-23",
-          "dem_pct": 50.0,
-          "rep_pct": 42.0,
-          "n": 1200.0,
-          "url": "https://insideradvantage.com/insideradvantage-georgia-survey-jackson-leads-by-two-in-race-for-governor-ossoff-leads-by-eight-in-senate-contest/",
-          "internal": false
-        },
-        {
           "pollster_name": "Big Data Poll",
           "end": "2026-09-23",
           "dem_pct": 55.4,
@@ -473,27 +500,18 @@
           "n": 678.0,
           "url": "https://www.bigdatapoll.com/blog/peach-state-poll-jon-ossoff-opens-up-lead-over-mike-collins-in-georgia/",
           "internal": false
-        },
-        {
-          "pollster_name": "YouGov",
-          "end": "2026-09-18",
-          "dem_pct": 52.0,
-          "rep_pct": 42.0,
-          "n": 3301.0,
-          "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ga_20260915.pdf",
-          "internal": false
         }
       ],
       "trend_adjustment": 0.0,
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 9.57,
+      "forecast_margin": 8.76,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:IA:6504c9a1-f6af-4517-8475-b563a47234cf",
@@ -503,17 +521,26 @@
       "race_id": "6504c9a1-f6af-4517-8475-b563a47234cf",
       "dem": "Josh Turek",
       "rep": "Ashley Hinson",
-      "dem_poll": 46.9,
-      "rep_poll": 47.0,
-      "margin": -0.1,
+      "dem_poll": 47.4,
+      "rep_poll": 46.9,
+      "margin": 0.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.23,
-      "pollsters": 15,
-      "effective_polls": 10.39,
+      "sigma": 4.22,
+      "pollsters": 16,
+      "effective_polls": 10.96,
       "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 50.5,
+          "rep_pct": 46.4,
+          "n": 1219.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-ia-20261101-governor",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -651,15 +678,15 @@
         }
       ],
       "trend_adjustment": 0.0,
-      "trend_pollsters": 3,
-      "model_basis": "Current polls + matched-pollster trend",
+      "trend_pollsters": 2,
+      "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -0.08,
+      "forecast_margin": 0.51,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:IL:3be1195b-6fc6-42c2-b5cd-8605748da86a",
@@ -669,17 +696,26 @@
       "race_id": "3be1195b-6fc6-42c2-b5cd-8605748da86a",
       "dem": "Juliana Stratton",
       "rep": "Don Tracy",
-      "dem_poll": 54.1,
-      "rep_poll": 42.5,
-      "margin": 11.6,
-      "dem_win": 95.3,
-      "rep_win": 4.7,
-      "sigma": 6.94,
-      "pollsters": 2,
-      "effective_polls": 1.53,
-      "latest_poll": "2026-10-30",
-      "status": "Experimental probability; not historically calibrated",
+      "dem_poll": 53.6,
+      "rep_poll": 41.8,
+      "margin": 11.8,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 5.05,
+      "pollsters": 3,
+      "effective_polls": 2.44,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 53.0,
+          "rep_pct": 41.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "ActiVote",
           "end": "2026-10-30",
@@ -702,13 +738,13 @@
       "trend_adjustment": 0.0,
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
-      "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 11.6,
+      "evidence_level": "Multiple pollsters; calibration still untested",
+      "forecast_margin": 11.79,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:KS:5cb51572-4167-49a2-b7a6-eec3fa3a1945",
@@ -718,17 +754,35 @@
       "race_id": "5cb51572-4167-49a2-b7a6-eec3fa3a1945",
       "dem": "Adam Hamilton",
       "rep": "Roger Marshall",
-      "dem_poll": 49.6,
-      "rep_poll": 46.0,
-      "margin": 3.6,
+      "dem_poll": 50.1,
+      "rep_poll": 45.5,
+      "margin": 4.6,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.42,
-      "pollsters": 8,
-      "effective_polls": 6.15,
+      "sigma": 4.29,
+      "pollsters": 10,
+      "effective_polls": 7.8,
       "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 51.9,
+          "rep_pct": 44.9,
+          "n": 2038.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-ks-20261101-senate",
+          "internal": false
+        },
+        {
+          "pollster_name": "Survey 160",
+          "end": "2026-11-01",
+          "dem_pct": 50.0,
+          "rep_pct": 44.0,
+          "n": 1267.0,
+          "url": "https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -806,12 +860,12 @@
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 3.58,
+      "forecast_margin": 4.57,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:LA:08728cf9-27d9-4d84-8a37-2168f60a35cb",
@@ -824,13 +878,13 @@
       "dem_poll": 45.0,
       "rep_poll": 45.0,
       "margin": 0.0,
-      "dem_win": 50.0,
-      "rep_win": 50.0,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 7.17,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-29",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Hart Research Associates",
@@ -850,8 +904,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:MA:98240db9-3ce6-4ded-8a07-afc3f0903c21",
@@ -870,7 +924,7 @@
       "pollsters": 5,
       "effective_polls": 3.72,
       "latest_poll": "2026-10-31",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -926,8 +980,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:ME:eea2d6d6-bcb0-4fe7-b1da-ec22a14df253",
@@ -937,17 +991,35 @@
       "race_id": "eea2d6d6-bcb0-4fe7-b1da-ec22a14df253",
       "dem": "Troy Jackson",
       "rep": "Susan Collins",
-      "dem_poll": 50.4,
-      "rep_poll": 46.2,
-      "margin": 4.2,
+      "dem_poll": 50.6,
+      "rep_poll": 46.1,
+      "margin": 4.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.21,
-      "pollsters": 15,
-      "effective_polls": 11.09,
+      "sigma": 4.19,
+      "pollsters": 17,
+      "effective_polls": 12.76,
       "latest_poll": "2026-11-01",
-      "status": "Ranked-choice rules require a separate model",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Survey 160",
+          "end": "2026-11-01",
+          "dem_pct": 50.0,
+          "rep_pct": 47.0,
+          "n": 1322.0,
+          "url": "https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states",
+          "internal": false
+        },
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 53.1,
+          "rep_pct": 44.0,
+          "n": 967.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-me-20261101-governor",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -1084,16 +1156,16 @@
           "internal": false
         }
       ],
-      "trend_adjustment": 0.04,
+      "trend_adjustment": 0.0,
       "trend_pollsters": 3,
       "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 4.24,
+      "forecast_margin": 4.53,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:MI:8069ba7e-4ac6-449d-ae1e-f7fc5dee4a19",
@@ -1103,17 +1175,35 @@
       "race_id": "8069ba7e-4ac6-449d-ae1e-f7fc5dee4a19",
       "dem": "Abdul El-Sayed",
       "rep": "Mike Rogers",
-      "dem_poll": 49.7,
-      "rep_poll": 44.9,
+      "dem_poll": 50.2,
+      "rep_poll": 45.4,
       "margin": 4.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.23,
-      "pollsters": 24,
-      "effective_polls": 15.14,
-      "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "sigma": 4.19,
+      "pollsters": 26,
+      "effective_polls": 16.34,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "John Zogby Strategies",
+          "end": "2026-11-02",
+          "dem_pct": 51.0,
+          "rep_pct": 49.0,
+          "n": 1001.0,
+          "url": "https://johnzogbystrategies.com/el-sayed-leads-rogers-51-49-new-john-zogby-strategies-eve-of-election-day-poll/",
+          "internal": false
+        },
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 53.5,
+          "rep_pct": 46.4,
+          "n": 1316.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-mi-20261101-senate",
+          "internal": false
+        },
         {
           "pollster_name": "Trafalgar Group",
           "end": "2026-11-01",
@@ -1331,16 +1421,16 @@
           "internal": true
         }
       ],
-      "trend_adjustment": 0.05,
+      "trend_adjustment": 0.0,
       "trend_pollsters": 4,
       "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 4.86,
+      "forecast_margin": 4.78,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:MN:fd4a6546-ff73-46f2-a9df-6f92f6f959a8",
@@ -1350,17 +1440,35 @@
       "race_id": "fd4a6546-ff73-46f2-a9df-6f92f6f959a8",
       "dem": "Peggy Flanagan",
       "rep": "Michele Tafoya",
-      "dem_poll": 49.0,
-      "rep_poll": 43.2,
+      "dem_poll": 49.3,
+      "rep_poll": 43.6,
       "margin": 5.8,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.52,
-      "pollsters": 10,
-      "effective_polls": 7.16,
+      "sigma": 4.39,
+      "pollsters": 12,
+      "effective_polls": 8.27,
       "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 48.1,
+          "rep_pct": 45.7,
+          "n": 2133.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-mn-20261101-senate",
+          "internal": false
+        },
+        {
+          "pollster_name": "Survey 160",
+          "end": "2026-11-01",
+          "dem_pct": 52.0,
+          "rep_pct": 43.0,
+          "n": 1365.0,
+          "url": "https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states",
+          "internal": false
+        },
         {
           "pollster_name": "Research Co.",
           "end": "2026-11-01",
@@ -1456,12 +1564,12 @@
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 5.82,
+      "forecast_margin": 5.75,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:MS:f137f0b7-6bc7-42c5-a594-d1a8a3ef3e15",
@@ -1480,7 +1588,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-22",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Change Research",
@@ -1500,8 +1608,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:MT:2de1c5ad-374a-4c51-9f99-8432d8e980f6",
@@ -1520,7 +1628,7 @@
       "pollsters": 5,
       "effective_polls": 3.81,
       "latest_poll": "2026-10-23",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Concord Public Opinion Partners",
@@ -1576,8 +1684,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:NC:70395c5f-9aee-4a8f-a647-b656d0f894a3",
@@ -1587,17 +1695,26 @@
       "race_id": "70395c5f-9aee-4a8f-a647-b656d0f894a3",
       "dem": "Roy Cooper",
       "rep": "Michael Whatley",
-      "dem_poll": 53.4,
-      "rep_poll": 42.7,
-      "margin": 10.7,
+      "dem_poll": 54.0,
+      "rep_poll": 42.5,
+      "margin": 11.6,
       "dem_win": null,
       "rep_win": null,
       "sigma": 4.24,
-      "pollsters": 12,
-      "effective_polls": 7.69,
-      "latest_poll": "2026-10-29",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "pollsters": 13,
+      "effective_polls": 8.07,
+      "latest_poll": "2026-11-01",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 56.4,
+          "rep_pct": 41.5,
+          "n": 1459.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-nc-20261101-senate",
+          "internal": false
+        },
         {
           "pollster_name": "YouGov",
           "end": "2026-10-29",
@@ -1711,12 +1828,12 @@
       "trend_pollsters": 2,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 10.74,
+      "forecast_margin": 11.58,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:NH:85026c96-181d-4074-b438-5798d23c7077",
@@ -1726,17 +1843,26 @@
       "race_id": "85026c96-181d-4074-b438-5798d23c7077",
       "dem": "Chris Pappas",
       "rep": "John Sununu",
-      "dem_poll": 51.4,
-      "rep_poll": 42.7,
-      "margin": 8.6,
-      "dem_win": 97.5,
-      "rep_win": 2.5,
-      "sigma": 4.42,
-      "pollsters": 7,
-      "effective_polls": 4.42,
-      "latest_poll": "2026-10-31",
-      "status": "Experimental probability; not historically calibrated",
+      "dem_poll": 51.6,
+      "rep_poll": 43.1,
+      "margin": 8.5,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.34,
+      "pollsters": 8,
+      "effective_polls": 5.29,
+      "latest_poll": "2026-11-01",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 52.3,
+          "rep_pct": 44.2,
+          "n": 1057.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-nh-20261101-governor",
+          "internal": false
+        },
         {
           "pollster_name": "University of New Hampshire",
           "end": "2026-10-31",
@@ -1805,12 +1931,12 @@
       "trend_pollsters": 2,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 8.63,
+      "forecast_margin": 8.5,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:NM:77777465-3b79-4824-bc90-a88a503b985d",
@@ -1820,17 +1946,26 @@
       "race_id": "77777465-3b79-4824-bc90-a88a503b985d",
       "dem": "Ben Ray Luj\u00e1n",
       "rep": "Larry Marker",
-      "dem_poll": 53.3,
-      "rep_poll": 36.7,
-      "margin": 16.6,
+      "dem_poll": 54.9,
+      "rep_poll": 36.9,
+      "margin": 18.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.25,
-      "pollsters": 2,
-      "effective_polls": 1.75,
-      "latest_poll": "2026-10-09",
-      "status": "Latest poll is more than 14 days old",
+      "sigma": 5.05,
+      "pollsters": 3,
+      "effective_polls": 2.26,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 56.0,
+          "rep_pct": 37.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "Research & Polling Inc.",
           "end": "2026-10-09",
@@ -1853,13 +1988,13 @@
       "trend_adjustment": 0.0,
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
-      "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 16.63,
+      "evidence_level": "Multiple pollsters; calibration still untested",
+      "forecast_margin": 18.02,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:OH:df65b49b-388c-4867-ab75-d8e2a78ed5ea",
@@ -1869,17 +2004,35 @@
       "race_id": "df65b49b-388c-4867-ab75-d8e2a78ed5ea",
       "dem": "Sherrod Brown",
       "rep": "Jon Husted",
-      "dem_poll": 48.3,
-      "rep_poll": 45.5,
-      "margin": 2.9,
+      "dem_poll": 48.8,
+      "rep_poll": 45.3,
+      "margin": 3.5,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.2,
-      "pollsters": 18,
-      "effective_polls": 14.03,
+      "sigma": 4.18,
+      "pollsters": 20,
+      "effective_polls": 15.15,
       "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 51.4,
+          "rep_pct": 43.9,
+          "n": 1801.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-oh-20261101-governor",
+          "internal": false
+        },
+        {
+          "pollster_name": "Survey 160",
+          "end": "2026-11-01",
+          "dem_pct": 50.0,
+          "rep_pct": 46.0,
+          "n": 1122.0,
+          "url": "https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states",
+          "internal": false
+        },
         {
           "pollster_name": "Trafalgar Group",
           "end": "2026-11-01",
@@ -2047,12 +2200,12 @@
       "trend_pollsters": 2,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 2.86,
+      "forecast_margin": 3.47,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:RI:3134e4df-3e8b-413d-acad-5c82c9839a34",
@@ -2071,7 +2224,7 @@
       "pollsters": 3,
       "effective_polls": 2.58,
       "latest_poll": "2026-10-11",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -2109,8 +2262,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:SC:15314566-c454-4722-b119-8ac87efa2e93",
@@ -2129,7 +2282,7 @@
       "pollsters": 7,
       "effective_polls": 6.05,
       "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Trafalgar Group",
@@ -2203,8 +2356,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "senate:TX:d99dd21d-c466-4b21-b6cc-5018468d17de",
@@ -2214,17 +2367,26 @@
       "race_id": "d99dd21d-c466-4b21-b6cc-5018468d17de",
       "dem": "James Talarico",
       "rep": "Ken Paxton",
-      "dem_poll": 49.3,
+      "dem_poll": 49.2,
       "rep_poll": 45.9,
       "margin": 3.3,
       "dem_win": null,
       "rep_win": null,
       "sigma": 4.13,
-      "pollsters": 27,
-      "effective_polls": 20.17,
-      "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "pollsters": 28,
+      "effective_polls": 21.17,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 49.0,
+          "rep_pct": 46.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -2469,7 +2631,7 @@
           "internal": true
         }
       ],
-      "trend_adjustment": -0.01,
+      "trend_adjustment": -0.0,
       "trend_pollsters": 6,
       "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
@@ -2477,8 +2639,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:AK:1a6333ce-cb11-4484-9abc-8b4e93aef172",
@@ -2497,7 +2659,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-30",
-      "status": "Ranked-choice rules require a separate model",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -2517,8 +2679,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:AL:c5e7e34c-92d5-42b6-ad57-e5c784dcdf20",
@@ -2537,7 +2699,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-25",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Remington",
@@ -2557,8 +2719,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:AR:16ff0301-898c-4878-b2bf-b079a6f3eebc",
@@ -2577,7 +2739,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -2597,8 +2759,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:AZ:9e8a65f0-fe48-466c-a9e7-7294d4645cdd",
@@ -2617,7 +2779,7 @@
       "pollsters": 2,
       "effective_polls": 1.45,
       "latest_poll": "2026-10-28",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Keating Research, Inc.",
@@ -2646,8 +2808,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:AZ:addd1a22-6c2f-4004-af4e-b87b09191157",
@@ -2666,7 +2828,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -2686,8 +2848,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:CA:657a5e3c-f0ab-41ed-9f95-23cacfcb2bdc",
@@ -2706,7 +2868,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-26",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "USC Democracy and Fair Elections Lab",
@@ -2726,8 +2888,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:CA:9ca8cff2-8c65-40af-8d46-e33ae5563a58",
@@ -2746,7 +2908,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-28",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "USC Democracy and Fair Elections Lab",
@@ -2766,8 +2928,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:CA:3cbd0c4c-f073-481c-9380-66603077c5dd",
@@ -2780,13 +2942,13 @@
       "dem_poll": 49.9,
       "rep_poll": 42.6,
       "margin": 7.3,
-      "dem_win": 91.8,
-      "rep_win": 8.2,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 5.21,
       "pollsters": 3,
       "effective_polls": 2.34,
       "latest_poll": "2026-10-27",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "USC Democracy and Fair Elections Lab",
@@ -2824,8 +2986,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:CO:6a947c92-e683-47ef-ba80-71e56a333bcb",
@@ -2844,7 +3006,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-21",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -2864,8 +3026,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:CO:b01b53b0-5e63-4549-bc95-c87319e246a3",
@@ -2884,7 +3046,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -2904,8 +3066,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:CO:7465714e-dca1-4566-b075-3196f87d733b",
@@ -2924,7 +3086,7 @@
       "pollsters": 2,
       "effective_polls": 1.99,
       "latest_poll": "2026-10-20",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -2953,8 +3115,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:CT:9496123f-ba00-4404-9be4-ed3118418b8a",
@@ -2973,7 +3135,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "OnMessage Inc.",
@@ -2993,8 +3155,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:FL:1f58532f-d586-440f-ab0a-3bcc44eeaf74",
@@ -3013,7 +3175,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3033,8 +3195,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:FL:09cf2fd1-1aad-4a04-adf7-278e794f0d64",
@@ -3053,7 +3215,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-02",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -3073,8 +3235,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:FL:9f30cec9-16d8-4030-ab8b-4be993d6bf4b",
@@ -3093,7 +3255,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-25",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Upswing Research",
@@ -3113,8 +3275,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:FL:5363fdfe-9699-4e1a-aa3d-61394471f296",
@@ -3133,7 +3295,7 @@
       "pollsters": 2,
       "effective_polls": 1.78,
       "latest_poll": "2026-10-27",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -3162,8 +3324,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:FL:062ae644-cfe4-4fc4-a303-cc2eb7c1a24b",
@@ -3182,7 +3344,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-19",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -3202,8 +3364,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:GA:56abfe70-7ae1-46b5-804c-ad438295804c",
@@ -3222,7 +3384,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-07",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "VoteNexus",
@@ -3242,8 +3404,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:GA:cbacdaff-d586-46ff-97a6-a9c1bdf0fe18",
@@ -3262,7 +3424,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "20/20 Insight",
@@ -3282,8 +3444,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:IA:8eed2fd1-02c2-4509-bbfb-f5ba16c2c1fc",
@@ -3302,7 +3464,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3322,8 +3484,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:IN:60b481c4-238d-48f6-b390-ec4e73f67e4d",
@@ -3342,7 +3504,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Quantus Insights",
@@ -3362,8 +3524,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:KS:b6b96497-d095-45c0-8db5-1f8bd1794017",
@@ -3382,7 +3544,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-20",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -3402,8 +3564,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:KY:fb3da71c-9247-4285-b5ae-462b5e4f19ed",
@@ -3422,7 +3584,7 @@
       "pollsters": 4,
       "effective_polls": 3.89,
       "latest_poll": "2026-10-05",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -3469,8 +3631,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:ME:6eda5a76-27ad-4e19-ba29-cb52553b4020",
@@ -3489,7 +3651,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-31",
-      "status": "Ranked-choice rules require a separate model",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -3509,8 +3671,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:ME:c587aa21-f06f-47d6-ae64-ebbd9d0a43d7",
@@ -3529,7 +3691,7 @@
       "pollsters": 2,
       "effective_polls": 1.33,
       "latest_poll": "2026-10-31",
-      "status": "Ranked-choice rules require a separate model",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -3558,8 +3720,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:MI:760ac9f7-8805-4a79-bb99-716c3b3309a9",
@@ -3578,7 +3740,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-30",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Center for Strategic Politics",
@@ -3598,8 +3760,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:MI:c19a87d4-ae23-4352-85e0-c4bb86a3fec4",
@@ -3618,7 +3780,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3638,8 +3800,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:MN:f5eea5b5-b636-4540-b741-58694bf575cb",
@@ -3658,7 +3820,7 @@
       "pollsters": 2,
       "effective_polls": 1.32,
       "latest_poll": "2026-10-12",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "SurveyUSA",
@@ -3687,8 +3849,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:MN:88e4b99a-494c-46f3-9805-131a4529923c",
@@ -3707,7 +3869,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-26",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -3727,8 +3889,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:MO:9fc28897-7a41-4c9c-8288-07e3fe08ff34",
@@ -3747,7 +3909,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3767,8 +3929,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:MT:f34abca0-d7c7-44c0-a113-a8978a9dad47",
@@ -3787,7 +3949,7 @@
       "pollsters": 4,
       "effective_polls": 2.88,
       "latest_poll": "2026-10-21",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Montana State University Billings",
@@ -3834,8 +3996,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:MT:58da9b39-ca7d-44e9-b1b9-08ccd9629d4a",
@@ -3854,7 +4016,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-21",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Montana State University Billings",
@@ -3874,8 +4036,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NC:814ce247-ec2e-47c3-8d53-de7470be442e",
@@ -3894,7 +4056,7 @@
       "pollsters": 3,
       "effective_polls": 2.87,
       "latest_poll": "2026-10-08",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "co/efficient",
@@ -3932,8 +4094,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NC:b9b9b903-71ab-4e73-987d-65f1579a31f8",
@@ -3952,7 +4114,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -3972,8 +4134,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NE:4f7e53a6-1e78-4ae8-ad13-c676356569fb",
@@ -3992,7 +4154,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-05",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "National Public Affairs",
@@ -4012,8 +4174,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NH:8772ab65-140c-4d53-8108-50b88b523dce",
@@ -4032,7 +4194,7 @@
       "pollsters": 2,
       "effective_polls": 1.83,
       "latest_poll": "2026-10-31",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -4061,8 +4223,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NH:10137906-94cd-42be-933a-74f28309d24f",
@@ -4081,7 +4243,7 @@
       "pollsters": 2,
       "effective_polls": 1.82,
       "latest_poll": "2026-10-31",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -4110,8 +4272,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NM:9e8a1134-ef1c-40b4-bceb-8c9af73a2681",
@@ -4130,7 +4292,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -4150,8 +4312,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NM:1e2b969c-7a2e-4def-bb6d-7768188df3d7",
@@ -4170,7 +4332,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -4190,8 +4352,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NM:5d3e4495-d08e-48e7-a8f0-f0c7aa91bc75",
@@ -4210,7 +4372,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-09",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Research & Polling Inc.",
@@ -4230,8 +4392,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NY:f78af32c-a079-4969-9b04-00752b7e0de2",
@@ -4250,7 +4412,7 @@
       "pollsters": 2,
       "effective_polls": 1.82,
       "latest_poll": "2026-09-30",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "McLaughlin & Associates",
@@ -4279,8 +4441,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NY:09c0b3f1-d400-483f-bebc-782fac808201",
@@ -4299,7 +4461,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-30",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -4319,8 +4481,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NY:3344edbf-b5c1-4f1c-a0d9-fe706d6c307a",
@@ -4339,7 +4501,7 @@
       "pollsters": 2,
       "effective_polls": 1.75,
       "latest_poll": "2026-10-06",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Siena University",
@@ -4368,8 +4530,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:NY:27dd113f-29fb-4660-8043-bae2d34ea2e9",
@@ -4388,7 +4550,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-23",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -4408,8 +4570,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:OH:cb91fa27-43b7-4f38-bb13-fa7928a64174",
@@ -4428,7 +4590,7 @@
       "pollsters": 2,
       "effective_polls": 1.32,
       "latest_poll": "2026-10-21",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Quantus Insights",
@@ -4457,8 +4619,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:OH:8a9842b4-3062-4d0b-a90d-185620067134",
@@ -4477,7 +4639,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-13",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -4497,8 +4659,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:OH:f0193a3b-5e5c-4b7a-b6cb-8dca9a94f2a6",
@@ -4517,7 +4679,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Hart Research Associates",
@@ -4537,8 +4699,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:OH:1c4705be-f4e7-4561-9665-29199794732f",
@@ -4557,7 +4719,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-23",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -4577,8 +4739,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:OK:26553913-f86b-4671-8756-c97a992f0375",
@@ -4597,7 +4759,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-20",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "GBAO",
@@ -4617,8 +4779,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:PA:74b4585d-53eb-4f7c-b06a-39f485261149",
@@ -4637,7 +4799,7 @@
       "pollsters": 2,
       "effective_polls": 1.69,
       "latest_poll": "2026-10-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -4666,8 +4828,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:PA:7a73a2bb-7253-43a0-bb03-78ae58794086",
@@ -4680,13 +4842,13 @@
       "dem_poll": 48.0,
       "rep_poll": 47.0,
       "margin": 1.0,
-      "dem_win": 57.5,
-      "rep_win": 42.5,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 5.37,
       "pollsters": 3,
       "effective_polls": 2.24,
       "latest_poll": "2026-10-22",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -4724,8 +4886,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:PA:bfab286e-07a7-490d-b463-a655e61481ab",
@@ -4738,13 +4900,13 @@
       "dem_poll": 48.7,
       "rep_poll": 43.3,
       "margin": 5.5,
-      "dem_win": 85.8,
-      "rep_win": 14.2,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 5.08,
       "pollsters": 3,
       "effective_polls": 2.37,
       "latest_poll": "2026-10-22",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -4782,8 +4944,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:PA:4868e333-5fd2-4237-9f71-b119177aa9df",
@@ -4802,7 +4964,7 @@
       "pollsters": 2,
       "effective_polls": 1.92,
       "latest_poll": "2026-10-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "The New York Times/Siena University",
@@ -4831,8 +4993,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:RI:ef3ff558-8054-4c65-a27a-5c9735a6d9b5",
@@ -4851,7 +5013,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-11",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -4871,8 +5033,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:RI:f92e5ccf-c49e-4f83-83a8-975b8eb230b2",
@@ -4891,7 +5053,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-11",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Emerson College",
@@ -4911,8 +5073,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:SC:1fa0063d-2105-4335-a22a-93aaf03f359b",
@@ -4931,7 +5093,7 @@
       "pollsters": 2,
       "effective_polls": 1.96,
       "latest_poll": "2026-10-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Public Policy Polling",
@@ -4960,8 +5122,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:SD:84dac736-abfe-4463-bb60-10f202ea1251",
@@ -4980,7 +5142,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-14",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Mason-Dixon Polling & Research, Inc.",
@@ -5000,8 +5162,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:TN:5fa03260-8362-4444-b1cb-93746056c378",
@@ -5020,7 +5182,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-01",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -5040,8 +5202,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:TX:f2824fcb-026e-41e1-8edf-befb6821bd66",
@@ -5060,7 +5222,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-22",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Change Research",
@@ -5080,8 +5242,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:TX:c3aca1fa-8928-4ee0-ae7a-7fcb6774d8ce",
@@ -5100,7 +5262,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-28",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Normington, Petts & Associates",
@@ -5120,8 +5282,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:TX:e27a8bd0-d019-4c33-b14e-747a92f8f5ad",
@@ -5140,7 +5302,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-04",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -5160,8 +5322,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:TX:4cc4cc40-257f-4221-869e-57150dfd388d",
@@ -5180,7 +5342,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-13",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -5200,8 +5362,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:TX:e2ff1d6e-f2ef-432c-ba6b-b3eb17a123f4",
@@ -5220,7 +5382,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-19",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "The Washington Post/George Mason University Schar School of Policy and Government",
@@ -5240,8 +5402,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:TX:63a220e9-427d-4b10-8435-eb2d33c3c0e3",
@@ -5260,7 +5422,7 @@
       "pollsters": 2,
       "effective_polls": 1.91,
       "latest_poll": "2026-10-19",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "The Washington Post/George Mason University Schar School of Policy and Government",
@@ -5289,8 +5451,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:TX:7e1c30ea-72d7-4d57-90a4-22c6c5d3f770",
@@ -5303,13 +5465,13 @@
       "dem_poll": 43.9,
       "rep_poll": 47.7,
       "margin": -3.9,
-      "dem_win": 22.7,
-      "rep_win": 77.3,
-      "sigma": 5.14,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 5.13,
       "pollsters": 3,
       "effective_polls": 2.36,
       "latest_poll": "2026-10-22",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -5347,8 +5509,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:UT:3664833e-1f2f-44cd-8202-3b81c8a5e98f",
@@ -5363,11 +5525,11 @@
       "margin": -5.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 7.53,
+      "sigma": 7.52,
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-24",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Lighthouse Research",
@@ -5387,8 +5549,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:VA:b4ed2906-ddb9-4b3a-880e-b8443d5dcc16",
@@ -5401,13 +5563,13 @@
       "dem_poll": 48.1,
       "rep_poll": 46.4,
       "margin": 1.7,
-      "dem_win": 63.8,
-      "rep_win": 36.2,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.82,
       "pollsters": 3,
       "effective_polls": 2.87,
       "latest_poll": "2026-10-25",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "DCCC Targeting Team",
@@ -5445,8 +5607,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:VA:df823ad4-9e56-413d-ac88-0b96f98841e1",
@@ -5465,7 +5627,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-10",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Christopher Newport University",
@@ -5485,8 +5647,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:VA:9172b6a3-f2ac-4630-855a-e7a73a90babf",
@@ -5505,7 +5667,7 @@
       "pollsters": 2,
       "effective_polls": 1.6,
       "latest_poll": "2026-09-28",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "The Washington Post/George Mason University Schar School of Policy and Government",
@@ -5534,8 +5696,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:VA:f90cc099-7c5f-4964-ac56-38287da89d45",
@@ -5554,7 +5716,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-30",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "co/efficient",
@@ -5574,8 +5736,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:VT:35715f3a-d630-4af0-b766-a3ebafa87cdf",
@@ -5594,7 +5756,7 @@
       "pollsters": 2,
       "effective_polls": 2.0,
       "latest_poll": "2026-09-21",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -5623,8 +5785,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:WA:c8fd3235-6723-4535-b93f-38cce6627569",
@@ -5643,7 +5805,7 @@
       "pollsters": 2,
       "effective_polls": 1.89,
       "latest_poll": "2026-10-21",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Change Research",
@@ -5672,8 +5834,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "house:WI:97df6c18-2da3-407e-a447-cbce4d15d0b6",
@@ -5692,7 +5854,7 @@
       "pollsters": 2,
       "effective_polls": 1.92,
       "latest_poll": "2026-10-01",
-      "status": "Sparse House polling cannot support a win forecast",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Impact Research",
@@ -5721,8 +5883,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:AL:ff4ece22-ea3e-48ca-9955-d0e4c01d8e3a",
@@ -5735,13 +5897,13 @@
       "dem_poll": 41.7,
       "rep_poll": 49.7,
       "margin": -8.0,
-      "dem_win": 6.4,
-      "rep_win": 93.6,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 5.27,
       "pollsters": 4,
       "effective_polls": 3.13,
       "latest_poll": "2026-10-24",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Blueprint Polling",
@@ -5788,8 +5950,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:AR:154362f5-6626-453d-a16b-47c27fa09e5f",
@@ -5808,7 +5970,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-13",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Hendrix College",
@@ -5828,8 +5990,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:AZ:118daea0-3ebb-4a32-af77-bb896d1c7e6d",
@@ -5844,11 +6006,11 @@
       "margin": 8.2,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.76,
+      "sigma": 4.75,
       "pollsters": 7,
       "effective_polls": 5.96,
       "latest_poll": "2026-10-29",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "GrayHouse",
@@ -5922,8 +6084,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:CA:6d765d6a-c857-4bea-b1fe-bf9bae0713a1",
@@ -5936,13 +6098,13 @@
       "dem_poll": 58.7,
       "rep_poll": 35.9,
       "margin": 22.8,
-      "dem_win": 100.0,
-      "rep_win": 0.0,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.55,
       "pollsters": 9,
       "effective_polls": 7.85,
       "latest_poll": "2026-10-31",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "ActiVote",
@@ -6034,8 +6196,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:CO:db393a4f-5a08-4076-a593-57b0a89622db",
@@ -6045,17 +6207,26 @@
       "race_id": "db393a4f-5a08-4076-a593-57b0a89622db",
       "dem": "Phil Weiser",
       "rep": "Victor Marx",
-      "dem_poll": 56.1,
-      "rep_poll": 36.9,
-      "margin": 19.3,
-      "dem_win": 99.8,
-      "rep_win": 0.2,
-      "sigma": 6.68,
-      "pollsters": 2,
-      "effective_polls": 1.33,
-      "latest_poll": "2026-10-20",
-      "status": "Experimental probability; not historically calibrated",
+      "dem_poll": 54.4,
+      "rep_poll": 37.5,
+      "margin": 16.9,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 5.27,
+      "pollsters": 3,
+      "effective_polls": 2.17,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 53.0,
+          "rep_pct": 38.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "YouGov",
           "end": "2026-10-20",
@@ -6078,13 +6249,13 @@
       "trend_adjustment": 0.0,
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
-      "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 19.27,
+      "evidence_level": "Multiple pollsters; calibration still untested",
+      "forecast_margin": 16.86,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:CT:53ee206c-198b-40d7-b3e5-9c2970c20843",
@@ -6097,13 +6268,13 @@
       "dem_poll": 54.5,
       "rep_poll": 37.5,
       "margin": 17.0,
-      "dem_win": 100.0,
-      "rep_win": 0.0,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.87,
       "pollsters": 5,
       "effective_polls": 4.14,
       "latest_poll": "2026-10-31",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -6159,8 +6330,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:FL:5c30013f-cca8-40cc-bdbf-2dfb75c5214b",
@@ -6173,14 +6344,23 @@
       "dem_poll": 44.1,
       "rep_poll": 48.4,
       "margin": -4.3,
-      "dem_win": 15.0,
-      "rep_win": 85.0,
-      "sigma": 4.25,
-      "pollsters": 17,
-      "effective_polls": 14.04,
-      "latest_poll": "2026-10-31",
-      "status": "Experimental probability; not historically calibrated",
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.24,
+      "pollsters": 18,
+      "effective_polls": 15.04,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 44.0,
+          "rep_pct": 48.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "ActiVote",
           "end": "2026-10-31",
@@ -6335,16 +6515,16 @@
           "internal": false
         }
       ],
-      "trend_adjustment": -0.05,
+      "trend_adjustment": -0.0,
       "trend_pollsters": 5,
       "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -4.39,
+      "forecast_margin": -4.32,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:GA:51846c5c-5e12-4a8c-bd23-e24dbcd12ef5",
@@ -6354,17 +6534,35 @@
       "race_id": "51846c5c-5e12-4a8c-bd23-e24dbcd12ef5",
       "dem": "Keisha Lance Bottoms",
       "rep": "Rick Jackson",
-      "dem_poll": 47.9,
-      "rep_poll": 48.2,
-      "margin": -0.3,
-      "dem_win": 47.5,
-      "rep_win": 52.5,
-      "sigma": 4.37,
+      "dem_poll": 48.2,
+      "rep_poll": 47.9,
+      "margin": 0.3,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.29,
       "pollsters": 8,
-      "effective_polls": 6.7,
-      "latest_poll": "2026-10-27",
-      "status": "Experimental probability; not historically calibrated",
+      "effective_polls": 5.94,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "InsiderAdvantage",
+          "end": "2026-11-02",
+          "dem_pct": 49.3,
+          "rep_pct": 49.0,
+          "n": 2500.0,
+          "url": "https://jamesmagazinega.com/2026/11/02/48131/",
+          "internal": false
+        },
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 46.0,
+          "rep_pct": 45.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "State Navigate",
           "end": "2026-10-27",
@@ -6411,15 +6609,6 @@
           "internal": false
         },
         {
-          "pollster_name": "InsiderAdvantage",
-          "end": "2026-10-13",
-          "dem_pct": 47.0,
-          "rep_pct": 49.0,
-          "n": 800.0,
-          "url": "https://jamesmagazinega.com/2026/10/14/georgia-governors-poll-from-insideradvantage-jackson-maintains-slight-edge/",
-          "internal": false
-        },
-        {
           "pollster_name": "Big Data Poll",
           "end": "2026-09-23",
           "dem_pct": 49.5,
@@ -6427,27 +6616,18 @@
           "n": 678.0,
           "url": "https://www.bigdatapoll.com/blog/peach-state-poll-jon-ossoff-opens-up-lead-over-mike-collins-in-georgia/",
           "internal": false
-        },
-        {
-          "pollster_name": "YouGov",
-          "end": "2026-09-18",
-          "dem_pct": 44.0,
-          "rep_pct": 46.0,
-          "n": 3299.0,
-          "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ga_20260915.pdf",
-          "internal": false
         }
       ],
       "trend_adjustment": 0.0,
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -0.28,
+      "forecast_margin": 0.29,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:IA:75a8a639-52be-4bd4-8d35-f46ea99c5786",
@@ -6457,17 +6637,26 @@
       "race_id": "75a8a639-52be-4bd4-8d35-f46ea99c5786",
       "dem": "Rob Sand",
       "rep": "Zach Lahn",
-      "dem_poll": 51.6,
-      "rep_poll": 44.6,
-      "margin": 7.0,
-      "dem_win": 95.0,
-      "rep_win": 5.0,
-      "sigma": 4.26,
-      "pollsters": 11,
-      "effective_polls": 7.38,
+      "dem_poll": 52.1,
+      "rep_poll": 44.5,
+      "margin": 7.6,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.24,
+      "pollsters": 12,
+      "effective_polls": 8.02,
       "latest_poll": "2026-11-01",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 54.1,
+          "rep_pct": 44.0,
+          "n": 1219.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-ia-20261101-governor",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -6572,12 +6761,12 @@
       "trend_pollsters": 2,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 7.02,
+      "forecast_margin": 7.6,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:ID:bfc47176-249a-4860-904b-708e1a0c0242",
@@ -6596,7 +6785,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-22",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "VoteNexus",
@@ -6616,8 +6805,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:IL:120431fc-7a75-4bf8-b06a-e67a6d7732ec",
@@ -6627,17 +6816,26 @@
       "race_id": "120431fc-7a75-4bf8-b06a-e67a6d7732ec",
       "dem": "JB Pritzker",
       "rep": "Darren Bailey",
-      "dem_poll": 57.9,
-      "rep_poll": 39.5,
-      "margin": 18.4,
+      "dem_poll": 57.5,
+      "rep_poll": 37.8,
+      "margin": 19.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.94,
-      "pollsters": 2,
-      "effective_polls": 1.5,
-      "latest_poll": "2026-10-31",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "sigma": 5.09,
+      "pollsters": 3,
+      "effective_polls": 2.44,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 57.0,
+          "rep_pct": 36.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "ActiVote",
           "end": "2026-10-31",
@@ -6660,13 +6858,13 @@
       "trend_adjustment": 0.0,
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
-      "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 18.43,
+      "evidence_level": "Multiple pollsters; calibration still untested",
+      "forecast_margin": 19.66,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:KS:87794e93-b6e9-4ae8-90f2-349d5ede05ca",
@@ -6676,17 +6874,35 @@
       "race_id": "87794e93-b6e9-4ae8-90f2-349d5ede05ca",
       "dem": "Cindy Holscher",
       "rep": "Ty Masterson",
-      "dem_poll": 48.1,
-      "rep_poll": 49.0,
-      "margin": -0.9,
-      "dem_win": 42.1,
-      "rep_win": 57.9,
-      "sigma": 4.53,
-      "pollsters": 6,
-      "effective_polls": 5.32,
+      "dem_poll": 48.6,
+      "rep_poll": 48.2,
+      "margin": 0.4,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.37,
+      "pollsters": 8,
+      "effective_polls": 7.06,
       "latest_poll": "2026-11-01",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 49.9,
+          "rep_pct": 45.6,
+          "n": 2038.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-ks-20261101-senate",
+          "internal": false
+        },
+        {
+          "pollster_name": "Survey 160",
+          "end": "2026-11-01",
+          "dem_pct": 49.0,
+          "rep_pct": 48.0,
+          "n": 1267.0,
+          "url": "https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -6746,12 +6962,12 @@
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -0.9,
+      "forecast_margin": 0.4,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:MA:f715ce1b-4cbf-42a3-baee-d2ed158596e3",
@@ -6770,7 +6986,7 @@
       "pollsters": 5,
       "effective_polls": 3.7,
       "latest_poll": "2026-10-31",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -6826,8 +7042,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:MD:53f66065-619f-4925-be3a-27d73c487076",
@@ -6846,7 +7062,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-09-27",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "UMBC Institute of Politics",
@@ -6866,8 +7082,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:ME:c907ae73-739f-4b4d-af3f-bd59c57ed993",
@@ -6877,17 +7093,35 @@
       "race_id": "c907ae73-739f-4b4d-af3f-bd59c57ed993",
       "dem": "Hannah Pingree",
       "rep": "Bobby Charles",
-      "dem_poll": 50.5,
-      "rep_poll": 40.3,
+      "dem_poll": 50.7,
+      "rep_poll": 40.6,
       "margin": 10.1,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.49,
-      "pollsters": 12,
-      "effective_polls": 9.18,
+      "sigma": 4.39,
+      "pollsters": 14,
+      "effective_polls": 10.97,
       "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Survey 160",
+          "end": "2026-11-01",
+          "dem_pct": 53.0,
+          "rep_pct": 41.0,
+          "n": 1323.0,
+          "url": "https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states",
+          "internal": false
+        },
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 49.5,
+          "rep_pct": 42.1,
+          "n": 967.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-me-20261101-governor",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -7001,12 +7235,12 @@
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 10.14,
+      "forecast_margin": 10.08,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:MI:8f54223a-e319-4635-b757-4e45fc86c856",
@@ -7016,17 +7250,26 @@
       "race_id": "8f54223a-e319-4635-b757-4e45fc86c856",
       "dem": "Jocelyn Benson",
       "rep": "John James",
-      "dem_poll": 51.6,
-      "rep_poll": 42.5,
-      "margin": 9.2,
+      "dem_poll": 51.8,
+      "rep_poll": 42.8,
+      "margin": 9.0,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.27,
-      "pollsters": 16,
-      "effective_polls": 10.97,
+      "sigma": 4.23,
+      "pollsters": 17,
+      "effective_polls": 11.61,
       "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 53.2,
+          "rep_pct": 45.2,
+          "n": 1316.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-mi-20261101-senate",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -7176,12 +7419,12 @@
       "trend_pollsters": 2,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 9.15,
+      "forecast_margin": 9.0,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:MN:3450e89a-4d4b-454e-bd27-b92950f69af0",
@@ -7191,17 +7434,26 @@
       "race_id": "3450e89a-4d4b-454e-bd27-b92950f69af0",
       "dem": "Amy Klobuchar",
       "rep": "Lisa Demuth",
-      "dem_poll": 52.1,
-      "rep_poll": 40.1,
-      "margin": 11.9,
-      "dem_win": 99.6,
-      "rep_win": 0.4,
-      "sigma": 4.57,
-      "pollsters": 7,
-      "effective_polls": 6.12,
+      "dem_poll": 52.3,
+      "rep_poll": 40.8,
+      "margin": 11.5,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.44,
+      "pollsters": 8,
+      "effective_polls": 6.54,
       "latest_poll": "2026-11-01",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Survey 160",
+          "end": "2026-11-01",
+          "dem_pct": 53.0,
+          "rep_pct": 43.0,
+          "n": 1365.0,
+          "url": "https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states",
+          "internal": false
+        },
         {
           "pollster_name": "Research Co.",
           "end": "2026-11-01",
@@ -7270,12 +7522,12 @@
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 11.94,
+      "forecast_margin": 11.47,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:NE:17ee3d2c-159b-45f4-b3bb-5ba1b867bee9",
@@ -7294,7 +7546,7 @@
       "pollsters": 8,
       "effective_polls": 4.96,
       "latest_poll": "2026-10-29",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "YouGov",
@@ -7377,8 +7629,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:NH:aa4c8492-41ef-43e6-8771-ad6f1238b696",
@@ -7388,17 +7640,26 @@
       "race_id": "aa4c8492-41ef-43e6-8771-ad6f1238b696",
       "dem": "Cinde Warmington",
       "rep": "Kelly Ayotte",
-      "dem_poll": 44.2,
-      "rep_poll": 49.2,
-      "margin": -5.0,
-      "dem_win": 14.2,
-      "rep_win": 85.8,
-      "sigma": 4.71,
-      "pollsters": 6,
-      "effective_polls": 4.18,
-      "latest_poll": "2026-10-31",
-      "status": "Experimental probability; not historically calibrated",
+      "dem_poll": 44.1,
+      "rep_poll": 49.3,
+      "margin": -5.3,
+      "dem_win": null,
+      "rep_win": null,
+      "sigma": 4.53,
+      "pollsters": 7,
+      "effective_polls": 5.07,
+      "latest_poll": "2026-11-01",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 43.8,
+          "rep_pct": 49.7,
+          "n": 1057.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-nh-20261101-governor",
+          "internal": false
+        },
         {
           "pollster_name": "University of New Hampshire",
           "end": "2026-10-31",
@@ -7458,12 +7719,12 @@
       "trend_pollsters": 2,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -5.04,
+      "forecast_margin": -5.26,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:NM:8c21109e-b56d-4126-81d7-88b555c9cec3",
@@ -7473,17 +7734,26 @@
       "race_id": "8c21109e-b56d-4126-81d7-88b555c9cec3",
       "dem": "Deb Haaland",
       "rep": "Gregg Hull",
-      "dem_poll": 48.4,
-      "rep_poll": 41.7,
-      "margin": 6.7,
+      "dem_poll": 49.9,
+      "rep_poll": 43.0,
+      "margin": 6.9,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 6.23,
-      "pollsters": 2,
-      "effective_polls": 1.75,
-      "latest_poll": "2026-10-09",
-      "status": "Latest poll is more than 14 days old",
+      "sigma": 4.99,
+      "pollsters": 3,
+      "effective_polls": 2.26,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 51.0,
+          "rep_pct": 44.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "Research & Polling Inc.",
           "end": "2026-10-09",
@@ -7506,13 +7776,13 @@
       "trend_adjustment": 0.0,
       "trend_pollsters": 0,
       "model_basis": "Current polls; trend evidence insufficient",
-      "evidence_level": "Low: fewer than 3 pollsters or effective polls below 2",
-      "forecast_margin": 6.69,
+      "evidence_level": "Multiple pollsters; calibration still untested",
+      "forecast_margin": 6.87,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:NV:3d1bb307-25e7-4313-a1a0-142ed01dd9fd",
@@ -7531,7 +7801,7 @@
       "pollsters": 3,
       "effective_polls": 2.18,
       "latest_poll": "2026-10-28",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Noble Predictive Insights",
@@ -7569,8 +7839,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:NY:830006b7-3338-4479-91e2-6676f21dde7f",
@@ -7583,13 +7853,13 @@
       "dem_poll": 53.5,
       "rep_poll": 41.3,
       "margin": 12.2,
-      "dem_win": 99.7,
-      "rep_win": 0.3,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.5,
       "pollsters": 9,
       "effective_polls": 6.8,
       "latest_poll": "2026-11-01",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Research Co.",
@@ -7681,8 +7951,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:OH:f53d2c84-3d3b-451a-ad32-a0355ffaeae9",
@@ -7692,17 +7962,35 @@
       "race_id": "f53d2c84-3d3b-451a-ad32-a0355ffaeae9",
       "dem": "Amy Acton",
       "rep": "Vivek Ramaswamy",
-      "dem_poll": 49.0,
-      "rep_poll": 45.0,
-      "margin": 3.9,
+      "dem_poll": 49.5,
+      "rep_poll": 44.8,
+      "margin": 4.7,
       "dem_win": null,
       "rep_win": null,
-      "sigma": 4.25,
-      "pollsters": 16,
-      "effective_polls": 12.72,
+      "sigma": 4.22,
+      "pollsters": 18,
+      "effective_polls": 13.94,
       "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "AtlasIntel",
+          "end": "2026-11-01",
+          "dem_pct": 51.8,
+          "rep_pct": 43.9,
+          "n": 1801.0,
+          "url": "https://pollstergraph.com/poll/exclusive-atlas-us-oh-20261101-governor",
+          "internal": false
+        },
+        {
+          "pollster_name": "Survey 160",
+          "end": "2026-11-01",
+          "dem_pct": 51.0,
+          "rep_pct": 44.0,
+          "n": 1122.0,
+          "url": "https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -7852,12 +8140,12 @@
       "trend_pollsters": 1,
       "model_basis": "Current polls; trend evidence insufficient",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": 3.95,
+      "forecast_margin": 4.71,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:OK:92f116c4-6174-46c6-8a80-f68f4c3d4845",
@@ -7876,7 +8164,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-13",
-      "status": "Latest poll is more than 14 days old",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Workbench Strategy",
@@ -7896,8 +8184,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:OR:97bf563e-8aaf-462b-9b20-2acf8b435179",
@@ -7916,7 +8204,7 @@
       "pollsters": 2,
       "effective_polls": 1.94,
       "latest_poll": "2026-10-04",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "GBAO",
@@ -7945,8 +8233,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:PA:85f663f1-ccfd-4b88-991f-d204dbaec233",
@@ -7965,7 +8253,7 @@
       "pollsters": 8,
       "effective_polls": 5.87,
       "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Research Co.",
@@ -8048,8 +8336,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:RI:f1a05535-a07c-4c91-bc78-41280b96f1a8",
@@ -8068,7 +8356,7 @@
       "pollsters": 4,
       "effective_polls": 2.57,
       "latest_poll": "2026-10-31",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -8115,8 +8403,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:SC:5fd56fa3-965a-4bb0-97c9-e2224a12dedb",
@@ -8129,13 +8417,13 @@
       "dem_poll": 38.9,
       "rep_poll": 49.3,
       "margin": -10.5,
-      "dem_win": 1.3,
-      "rep_win": 98.7,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.69,
       "pollsters": 5,
       "effective_polls": 4.46,
       "latest_poll": "2026-11-01",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Trafalgar Group",
@@ -8191,8 +8479,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:SD:e8910f80-95a1-4fdf-b402-379938f2a1a1",
@@ -8211,7 +8499,7 @@
       "pollsters": 3,
       "effective_polls": 2.69,
       "latest_poll": "2026-10-26",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Concord Public Opinion Partners",
@@ -8249,8 +8537,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:TN:a48ea5a3-9d42-4555-a32b-c10094ad634a",
@@ -8269,7 +8557,7 @@
       "pollsters": 1,
       "effective_polls": 1.0,
       "latest_poll": "2026-10-16",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Spry Strategies",
@@ -8289,8 +8577,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:TX:fe1f0a9f-398c-415d-a0f1-74b42972f5db",
@@ -8300,17 +8588,26 @@
       "race_id": "fe1f0a9f-398c-415d-a0f1-74b42972f5db",
       "dem": "Gina Hinojosa",
       "rep": "Greg Abbott",
-      "dem_poll": 47.3,
-      "rep_poll": 49.0,
+      "dem_poll": 47.1,
+      "rep_poll": 48.8,
       "margin": -1.7,
       "dem_win": null,
       "rep_win": null,
       "sigma": 4.13,
-      "pollsters": 23,
-      "effective_polls": 17.01,
-      "latest_poll": "2026-11-01",
-      "status": "Material third-candidate support; two-candidate model withheld",
+      "pollsters": 24,
+      "effective_polls": 18.01,
+      "latest_poll": "2026-11-02",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
+        {
+          "pollster_name": "Research Co.",
+          "end": "2026-11-02",
+          "dem_pct": 44.0,
+          "rep_pct": 46.0,
+          "n": 450.0,
+          "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+          "internal": false
+        },
         {
           "pollster_name": "The New York Times/Siena University",
           "end": "2026-11-01",
@@ -8519,16 +8816,16 @@
           "internal": true
         }
       ],
-      "trend_adjustment": 0.05,
+      "trend_adjustment": 0.0,
       "trend_pollsters": 4,
       "model_basis": "Current polls + matched-pollster trend",
       "evidence_level": "Multiple pollsters; calibration still untested",
-      "forecast_margin": -1.65,
+      "forecast_margin": -1.72,
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:VT:0cfd4c9a-8767-4d53-bc7b-33584b6c53e5",
@@ -8541,13 +8838,13 @@
       "dem_poll": 47.9,
       "rep_poll": 45.6,
       "margin": 2.3,
-      "dem_win": 64.8,
-      "rep_win": 35.2,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 6.01,
       "pollsters": 3,
       "effective_polls": 2.21,
       "latest_poll": "2026-10-31",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "University of New Hampshire",
@@ -8585,8 +8882,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     },
     {
       "id": "governor:WI:21105b67-0435-425e-a9ef-284ab91297b8",
@@ -8599,13 +8896,13 @@
       "dem_poll": 49.9,
       "rep_poll": 44.8,
       "margin": 5.1,
-      "dem_win": 86.4,
-      "rep_win": 13.6,
+      "dem_win": null,
+      "rep_win": null,
       "sigma": 4.62,
       "pollsters": 5,
       "effective_polls": 3.75,
       "latest_poll": "2026-11-01",
-      "status": "Experimental probability; not historically calibrated",
+      "status": "Pre-election model stopped; consult official election results",
       "polls": [
         {
           "pollster_name": "Research Co.",
@@ -8661,8 +8958,8 @@
       "prior_margin": null,
       "prior_weight": 0.0,
       "historical_source": null,
-      "national_poll_margin": 9.03,
-      "collected_at": "2026-11-02T19:47:19.386170+00:00"
+      "national_poll_margin": 8.64,
+      "collected_at": "2026-11-03T01:53:25.777654+00:00"
     }
   ],
   "source_checks": [
@@ -8670,8 +8967,8 @@
       "office": "senate",
       "ok": true,
       "truncated": false,
-      "downloaded": 921,
-      "usable": 310,
+      "downloaded": 941,
+      "usable": 327,
       "rejected": 0
     },
     {
@@ -8679,15 +8976,15 @@
       "ok": true,
       "truncated": true,
       "downloaded": 1200,
-      "usable": 245,
+      "usable": 251,
       "rejected": 0
     },
     {
       "office": "governor",
       "ok": true,
       "truncated": false,
-      "downloaded": 1024,
-      "usable": 313,
+      "downloaded": 1041,
+      "usable": 331,
       "rejected": 0
     }
   ],
