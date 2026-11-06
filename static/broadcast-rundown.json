@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-04",
-  "prepared_at": "2026-11-05T02:48:56.290138+00:00",
+  "show_date": "2026-11-05",
+  "prepared_at": "2026-11-06T03:02:44.532014+00:00",
   "reports": [
     {
-      "title": "Research could reverse peanut allergy diagnosis for some infants",
-      "url": "https://www.abc.net.au/news/2026-11-05/infants-diagnosed-with-peanut-allergy-may-not-be-study-shows/107348650",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-05T02:39:50+00:00",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-06T02:57:24+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Palestinian teacher arrested in West Bank over posts praising terrorists, October 7 attack",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-913876",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-05T02:38:06+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "South Korea to deploy military mission to help keep Hormuz open",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-deploy-mission-strait-hormuz-6526131",
+      "title": "Trevor Noah plays pickleball in Singapore, including with actress Jaime Teo, during comedy tour",
+      "url": "https://www.channelnewsasia.com/entertainment/trevor-noah-pickleball-singapore-jaime-teo-6529806",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-05T02:37:44+00:00",
-      "topic": "conflict",
-      "kind": "News report"
-    },
-    {
-      "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-      "source": "Guardian world news",
-      "published_at": "2026-11-05T02:35:58+00:00",
+      "published_at": "2026-11-06T02:57:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-      "source": "Guardian world news",
-      "published_at": "2026-11-05T02:33:53+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Canadian police find remains of mother and daughter killed by grizzly bears",
-      "url": "https://www.abc.net.au/news/2026-11-05/mother-and-daughter-killed-in-bear-attack-in-canada/107349256",
+      "title": "AFP officers meet flight at Sydney airport after 'threat' sent",
+      "url": "https://www.abc.net.au/news/2026-11-06/afp-search-sydney-flight-after-european-airline-bomb-threats/107354870",
       "source": "ABC / Australia",
-      "published_at": "2026-11-05T02:25:14+00:00",
+      "published_at": "2026-11-06T02:55:43+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "A caricature no more: Inside iconic designer Dorin Frankfurt’s next act",
-      "url": "https://www.jpost.com/israel-news/culture/article-913877",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-05T02:24:53+00:00",
+      "title": "Artwork honouring children killed in Gaza on show after being dropped by council",
+      "url": "https://www.abc.net.au/news/2026-11-06/wall-of-tears-gaza-exhibition-on-show-nsw-south-coast/107350408",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-06T02:53:21+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Yo-Chi opening at i12 Katong with exclusive Chin Mee Chin kaya toppings and new iced latte yoghurt",
-      "url": "https://www.channelnewsasia.com/dining/yo-chi-i12-katong-opening-chin-mee-chin-kaya-iced-latte-yoghurt-6525901",
+      "title": "CTC Travel warns of impersonation scams offering discounted holiday packages to seniors",
+      "url": "https://www.channelnewsasia.com/singapore/ctc-travel-impersonation-scam-seniors-6529801",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-05T02:21:00+00:00",
+      "published_at": "2026-11-06T02:51:22+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "El Salvador’s Bukele touts military intervention in Haiti",
-      "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+      "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
       "source": "Al Jazeera world news",
-      "published_at": "2026-11-05T02:10:07+00:00",
-      "topic": "conflict",
+      "published_at": "2026-11-06T02:48:19+00:00",
+      "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Election deniers lose races for governor in key US swing states",
-      "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-11-05T02:06:07+00:00",
+      "title": "Asian stocks slump after US tech rout amid AI jitters",
+      "url": "https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-all-1573-rdf",
+      "source": "DW / Germany",
+      "published_at": "2026-11-06T02:41:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "source": "Guardian world news",
+      "published_at": "2026-11-06T02:34:18+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Beau Lamarre-Condon trial live updates: prosecution begins cross-examination of double murder accused",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+      "source": "Guardian world news",
+      "published_at": "2026-11-06T02:30:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-06T02:08:57+00:00",
       "topic": "News",
       "kind": "News report"
     }
