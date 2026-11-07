@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-05",
-  "prepared_at": "2026-11-06T03:02:44.532014+00:00",
+  "show_date": "2026-11-06",
+  "prepared_at": "2026-11-07T02:05:46.952619+00:00",
   "reports": [
     {
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC world news",
-      "published_at": "2026-11-06T02:57:24+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Trevor Noah plays pickleball in Singapore, including with actress Jaime Teo, during comedy tour",
-      "url": "https://www.channelnewsasia.com/entertainment/trevor-noah-pickleball-singapore-jaime-teo-6529806",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-06T02:57:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "AFP officers meet flight at Sydney airport after 'threat' sent",
-      "url": "https://www.abc.net.au/news/2026-11-06/afp-search-sydney-flight-after-european-airline-bomb-threats/107354870",
+      "title": "From TikTok to underground labs, inside the $4 billion peptides black market",
+      "url": "https://www.abc.net.au/news/2026-11-07/peptide-black-market-led-by-social-media-influencers/107217418",
       "source": "ABC / Australia",
-      "published_at": "2026-11-06T02:55:43+00:00",
+      "published_at": "2026-11-07T02:03:43+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Artwork honouring children killed in Gaza on show after being dropped by council",
-      "url": "https://www.abc.net.au/news/2026-11-06/wall-of-tears-gaza-exhibition-on-show-nsw-south-coast/107350408",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-06T02:53:21+00:00",
+      "title": "US midterms reshaped Washington - but they won't decide our Jewish destiny - opinion",
+      "url": "https://www.jpost.com/opinion/article-913822",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-07T01:52:32+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "CTC Travel warns of impersonation scams offering discounted holiday packages to seniors",
-      "url": "https://www.channelnewsasia.com/singapore/ctc-travel-impersonation-scam-seniors-6529801",
+      "title": "Cornell faculty vote no confidence in university's leadership",
+      "url": "https://www.cbc.ca/news/world/cornell-university-leadership-no-confience-9.7413319?cmp=rss",
+      "source": "CBC / Canada",
+      "published_at": "2026-11-07T01:46:19+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Paraguay president ousted and placed under house arrest, successor sworn in",
+      "url": "https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-06T02:51:22+00:00",
+      "published_at": "2026-11-07T01:46:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
-      "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+      "title": "Schoolgirl fighting cancer meets her idol Benson Boone",
+      "url": "https://www.abc.net.au/news/2026-11-07/kingscliff-schoolgirl-fighting-cancer-meets-idol-benson-boone/107355016",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-07T01:41:51+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-11-07T01:41:36+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Political division, crisis in Kurdistan region of Iraq could provide Iran with opening",
+      "url": "https://www.jpost.com/middle-east/article-914102",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-07T01:40:12+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+      "source": "Guardian world news",
+      "published_at": "2026-11-07T01:38:06+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Sheila Sim on her runway return at Chanel in Sydney: ‘I represent women who have forgotten to love themselves’",
+      "url": "https://www.channelnewsasia.com/style-beauty/sheila-sim-chanel-cruise-show-sydney-6530466",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-07T01:37:46+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "EU prosecutor office investigates fatal train crash in Spain",
+      "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
       "source": "Al Jazeera world news",
-      "published_at": "2026-11-06T02:48:19+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Asian stocks slump after US tech rout amid AI jitters",
-      "url": "https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-all-1573-rdf",
-      "source": "DW / Germany",
-      "published_at": "2026-11-06T02:41:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-      "source": "Guardian world news",
-      "published_at": "2026-11-06T02:34:18+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Beau Lamarre-Condon trial live updates: prosecution begins cross-examination of double murder accused",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-      "source": "Guardian world news",
-      "published_at": "2026-11-06T02:30:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC world news",
-      "published_at": "2026-11-06T02:08:57+00:00",
+      "published_at": "2026-11-07T01:33:39+00:00",
       "topic": "News",
       "kind": "News report"
     }
