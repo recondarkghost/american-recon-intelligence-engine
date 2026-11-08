@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-06",
-  "prepared_at": "2026-11-07T02:05:46.952619+00:00",
+  "show_date": "2026-11-07",
+  "prepared_at": "2026-11-08T01:54:54.539316+00:00",
   "reports": [
     {
-      "title": "From TikTok to underground labs, inside the $4 billion peptides black market",
-      "url": "https://www.abc.net.au/news/2026-11-07/peptide-black-market-led-by-social-media-influencers/107217418",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-07T02:03:43+00:00",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-08T01:47:41+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "US midterms reshaped Washington - but they won't decide our Jewish destiny - opinion",
-      "url": "https://www.jpost.com/opinion/article-913822",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-07T01:52:32+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Cornell faculty vote no confidence in university's leadership",
-      "url": "https://www.cbc.ca/news/world/cornell-university-leadership-no-confience-9.7413319?cmp=rss",
-      "source": "CBC / Canada",
-      "published_at": "2026-11-07T01:46:19+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Paraguay president ousted and placed under house arrest, successor sworn in",
-      "url": "https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-07T01:46:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Schoolgirl fighting cancer meets her idol Benson Boone",
-      "url": "https://www.abc.net.au/news/2026-11-07/kingscliff-schoolgirl-fighting-cancer-meets-idol-benson-boone/107355016",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-07T01:41:51+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
-      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-11-07T01:41:36+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Political division, crisis in Kurdistan region of Iraq could provide Iran with opening",
-      "url": "https://www.jpost.com/middle-east/article-914102",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-07T01:40:12+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
-      "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-      "source": "Guardian world news",
-      "published_at": "2026-11-07T01:38:06+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Sheila Sim on her runway return at Chanel in Sydney: ‘I represent women who have forgotten to love themselves’",
-      "url": "https://www.channelnewsasia.com/style-beauty/sheila-sim-chanel-cruise-show-sydney-6530466",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-07T01:37:46+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "EU prosecutor office investigates fatal train crash in Spain",
-      "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+      "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+      "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
       "source": "Al Jazeera world news",
-      "published_at": "2026-11-07T01:33:39+00:00",
+      "published_at": "2026-11-08T01:37:55+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Canavan supports Paris Agreement but says EU trade deal goes too far",
+      "url": "https://www.abc.net.au/news/2026-11-08/federal-politics-matt-canavan-insiders-paris-eu-free-trade/107360586",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-08T01:35:27+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Prosecutors seek two years for Belgium man accused of threats, swastikas, and Holocaust denial",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-914155",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-08T01:33:24+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Israel president taps Eisenkot to form new government",
+      "url": "https://www.channelnewsasia.com/world/israel-president-taps-eisenkot-form-new-government-6533711",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-08T01:30:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Meet the surgeon saving the careers of cricket's best fast bowlers",
+      "url": "https://www.abc.net.au/news/2026-11-08/pars-stabilisation-surgery-saving-crickets-best-fast-bowlers/107272126",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-08T01:24:37+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+      "source": "Guardian world news",
+      "published_at": "2026-11-08T01:00:48+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "From K-dramas to BTS: How pop culture is reshaping tourism in South Korea",
+      "url": "https://www.channelnewsasia.com/asia/south-korea-k-drama-bts-pop-culture-tourism-6530111",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-08T01:00:32+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S. and Canada",
+      "published_at": "2026-11-08T00:52:39+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-11-08T00:50:28+00:00",
       "topic": "News",
       "kind": "News report"
     }
