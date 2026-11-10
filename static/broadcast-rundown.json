@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-08",
-  "prepared_at": "2026-11-08T23:13:42.146426+00:00",
+  "show_date": "2026-11-09",
+  "prepared_at": "2026-11-10T02:59:53.712635+00:00",
   "reports": [
     {
-      "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
-      "url": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
-      "source": "DW / Germany",
-      "published_at": "2026-11-08T23:07:00+00:00",
+      "title": "Palestinians, Jewish settlers carry out retaliatory arson attacks in West Bank",
+      "url": "https://www.jpost.com/israel-news/article-914395",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-10T03:04:50+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Search resumes for man missing in Gold Coast Broadwater",
-      "url": "https://www.abc.net.au/news/2026-11-09/police-search-for-missing-boatie-on-gold-coast/107362434",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-08T23:04:48+00:00",
+      "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "source": "CNBC Economy",
+      "published_at": "2026-11-10T02:55:48+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
-      "url": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
-      "source": "France 24 / France",
-      "published_at": "2026-11-08T23:02:54+00:00",
+      "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+      "source": "Guardian world news",
+      "published_at": "2026-11-10T02:54:54+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
-      "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S. and Canada",
-      "published_at": "2026-11-08T22:49:53+00:00",
+      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+      "source": "Guardian world news",
+      "published_at": "2026-11-10T02:46:16+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Lens' nightmare week worsens with late Marseille defeat",
-      "url": "https://www.channelnewsasia.com/sport/lens-nightmare-week-worsens-late-marseille-defeat-6534806",
+      "title": "KFC Singapore launching Avengers: Doomsday menu with Doctor Doom burger, chicken and Marvel collectibles",
+      "url": "https://www.channelnewsasia.com/dining/kfc-marvel-avengers-doomsday-singapore-menu-6537731",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-08T22:47:40+00:00",
+      "published_at": "2026-11-10T02:46:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Raffles Hotel launches its first global online shop, bringing its signature style into your home",
-      "url": "https://www.channelnewsasia.com/remarkable-living/raffles-hotel-little-shop-6523921",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-08T22:44:27+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Young retail workers allegedly strangle accused shoplifter in Katherine",
-      "url": "https://www.abc.net.au/news/2026-11-09/nt-katherine-accused-shoplifter-allegedly-strangled-retail-staff/107362516",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-08T22:43:29+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Pope Leo arrives in Argentina and tells Milei that people, not the economy, should come first",
-      "url": "https://www.pbs.org/newshour/world/pope-arrives-in-argentina-and-tells-milei-that-people-not-the-economy-should-come-first",
-      "source": "PBS NewsHour",
-      "published_at": "2026-11-08T22:42:57+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S. and Canada",
-      "published_at": "2026-11-08T22:42:41+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Lopez double fires Barcelona to win at Atletico Madrid",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
       "source": "Al Jazeera world news",
-      "published_at": "2026-11-08T22:42:12+00:00",
+      "published_at": "2026-11-10T02:45:14+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Cricket Australia CEO says will not open another investigation into 'Sandpapergate'",
+      "url": "https://www.channelnewsasia.com/sport/cricket-australia-ceo-says-will-not-open-another-investigation-sandpapergate-6537976",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-10T02:43:56+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S. and Canada",
+      "published_at": "2026-11-10T02:38:00+00:00",
+      "topic": "conflict",
+      "kind": "News report"
+    },
+    {
+      "title": "Mother accused of choking child remanded in custody in Coober Pedy",
+      "url": "https://www.abc.net.au/news/2026-11-10/coober-pedy-mother-appears-in-court-dv-charges/107368256",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-10T02:30:11+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "What to know about fuel prices after a midterm elections oil price drop",
+      "url": "https://www.abc.net.au/news/2026-11-10/fuel-update-oil-prices-drop-midterms-iran-ukraine/107364786",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-10T02:28:28+00:00",
       "topic": "News",
       "kind": "News report"
     }
