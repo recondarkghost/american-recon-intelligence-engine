@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-11",
-  "prepared_at": "2026-11-12T00:31:49.041550+00:00",
+  "show_date": "2026-11-12",
+  "prepared_at": "2026-11-13T02:39:30.081113+00:00",
   "reports": [
     {
-      "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-      "source": "Guardian world news",
-      "published_at": "2026-11-12T00:24:22+00:00",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-13T02:39:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Labor apologises after CFMEU inquiry finds construction policy drove up costs",
-      "url": "https://www.abc.net.au/news/2026-11-12/qld-cfmeu-inquiry-report-response/107376800",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-12T00:19:35+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-      "source": "Guardian world news",
-      "published_at": "2026-11-12T00:16:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874",
-      "url": "https://www.channelnewsasia.com/world/mississippi-senate-scott-colom-democrat-us-midterms-6544221",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-12T00:11:29+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "US election results could be positive for Lebanon, Hezbollah chief says",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-11-12T00:06:50+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "From Paris to DC - why offices are being turned into apartments",
-      "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published_at": "2026-11-12T00:05:40+00:00",
+      "published_at": "2026-11-13T02:38:02+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Dollar near one-month high as yen edges toward 160",
-      "url": "https://www.channelnewsasia.com/business/dollar-near-one-month-high-yen-edges-toward-160-6544211",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-12T00:05:12+00:00",
+      "title": "US doctor kills building manager after long-running dispute over mould, police say",
+      "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S. and Canada",
+      "published_at": "2026-11-13T02:35:34+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
-      "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf",
-      "source": "DW / Germany",
-      "published_at": "2026-11-12T00:01:00+00:00",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-13T02:33:07+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-11-12T00:00:44+00:00",
+      "title": "Trump says Gulf allies urged restraint on Iran, admits war hurt Republicans in midterms",
+      "url": "https://www.jpost.com/international/article-914787",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-13T02:31:44+00:00",
       "topic": "conflict",
       "kind": "News report"
     },
     {
-      "title": "Indictment sheds light on alleged Iran-backed plots across U.S. and Europe",
-      "url": "https://www.pbs.org/newshour/show/indictment-sheds-light-on-alleged-iran-backed-plots-across-u-s-and-europe",
-      "source": "PBS NewsHour",
-      "published_at": "2026-11-11T23:55:44+00:00",
+      "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+      "source": "Guardian world news",
+      "published_at": "2026-11-13T02:30:07+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "source": "Guardian world news",
+      "published_at": "2026-11-13T02:27:35+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Darth Vader strikes back at auction as his lightsaber from two original Star Wars films reclaims the record from Luke Skywalker's prop",
+      "url": "https://www.dw.com/en/darth-vader-strikes-back-at-auction-as-his-lightsaber-from-two-original-star-wars-films-reclaims-the-record-from-luke-skywalker-s-prop/a-79935960?maca=en-rss-en-all-1573-rdf",
+      "source": "DW / Germany",
+      "published_at": "2026-11-13T02:27:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "24-year-old cyclist dies in Changi accident involving tipper truck",
+      "url": "https://www.channelnewsasia.com/singapore/cyclist-accident-changi-fatal-eastern-region-6548116",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-13T02:20:34+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "How could the Nvidia CEO’s affair threaten US national security?",
+      "url": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S. and Canada",
+      "published_at": "2026-11-13T02:15:59+00:00",
       "topic": "News",
       "kind": "News report"
     }
