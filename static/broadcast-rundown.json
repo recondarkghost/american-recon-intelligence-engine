@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-12",
-  "prepared_at": "2026-11-13T02:39:30.081113+00:00",
+  "show_date": "2026-11-13",
+  "prepared_at": "2026-11-14T02:46:01.674343+00:00",
   "reports": [
     {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC world news",
-      "published_at": "2026-11-13T02:39:00+00:00",
+      "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "source": "Guardian world news",
+      "published_at": "2026-11-14T02:37:33+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-11-13T02:38:02+00:00",
+      "title": "US flights resume after nationwide ground stop lifted",
+      "url": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
+      "source": "France 24 / France",
+      "published_at": "2026-11-14T02:35:48+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "US doctor kills building manager after long-running dispute over mould, police say",
-      "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S. and Canada",
-      "published_at": "2026-11-13T02:35:34+00:00",
+      "title": "The Townsville creatives making their own queer community",
+      "url": "https://www.abc.net.au/news/2026-11-14/townsville-creatives-queer-community-writing/107106238",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-14T02:33:08+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC world news",
-      "published_at": "2026-11-13T02:33:07+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Trump says Gulf allies urged restraint on Iran, admits war hurt Republicans in midterms",
-      "url": "https://www.jpost.com/international/article-914787",
+      "title": "Every major problem in Middle East caused by Iran's radical Shia clerics, Rubio says",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914838",
       "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-13T02:31:44+00:00",
-      "topic": "conflict",
-      "kind": "News report"
-    },
-    {
-      "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
-      "source": "Guardian world news",
-      "published_at": "2026-11-13T02:30:07+00:00",
+      "published_at": "2026-11-14T02:30:54+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-      "source": "Guardian world news",
-      "published_at": "2026-11-13T02:27:35+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Darth Vader strikes back at auction as his lightsaber from two original Star Wars films reclaims the record from Luke Skywalker's prop",
-      "url": "https://www.dw.com/en/darth-vader-strikes-back-at-auction-as-his-lightsaber-from-two-original-star-wars-films-reclaims-the-record-from-luke-skywalker-s-prop/a-79935960?maca=en-rss-en-all-1573-rdf",
-      "source": "DW / Germany",
-      "published_at": "2026-11-13T02:27:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "24-year-old cyclist dies in Changi accident involving tipper truck",
-      "url": "https://www.channelnewsasia.com/singapore/cyclist-accident-changi-fatal-eastern-region-6548116",
+      "title": "'I may lose my mind': Frustrated travellers stuck in US flight havoc",
+      "url": "https://www.channelnewsasia.com/world/us-flights-ground-stop-travel-disruption-delays-6551081",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-13T02:20:34+00:00",
+      "published_at": "2026-11-14T02:26:51+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "How could the Nvidia CEO’s affair threaten US national security?",
-      "url": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S. and Canada",
-      "published_at": "2026-11-13T02:15:59+00:00",
+      "title": "USA travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/usa",
+      "source": "UK foreign policy",
+      "published_at": "2026-11-14T02:26:03+00:00",
+      "topic": "News",
+      "kind": "Primary source"
+    },
+    {
+      "title": "SpaceX launches Starship rocket, fails to recover booster",
+      "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
+      "source": "DW / Germany",
+      "published_at": "2026-11-14T02:24:00+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Predicting weather in the Southern Hemisphere is challenging. Here's why",
+      "url": "https://www.abc.net.au/news/science/2026-11-14/southern-hemisphere-forecasting-accuracy-atmospheric-rivers/107211984",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-14T02:21:19+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Merkel defends Israel's right to exist, questions disproportionate global criticism",
+      "url": "https://www.jpost.com/international/article-914837",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-14T02:16:21+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "source": "Guardian world news",
+      "published_at": "2026-11-14T02:15:53+00:00",
       "topic": "News",
       "kind": "News report"
     }
