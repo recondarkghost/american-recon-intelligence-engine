@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-13",
-  "prepared_at": "2026-11-14T02:46:01.674343+00:00",
+  "show_date": "2026-11-14",
+  "prepared_at": "2026-11-15T00:13:18.290109+00:00",
   "reports": [
     {
-      "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "source": "Guardian world news",
-      "published_at": "2026-11-14T02:37:33+00:00",
+      "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+      "source": "NPR News",
+      "published_at": "2026-11-15T00:03:52+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "US flights resume after nationwide ground stop lifted",
-      "url": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
-      "source": "France 24 / France",
-      "published_at": "2026-11-14T02:35:48+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "The Townsville creatives making their own queer community",
-      "url": "https://www.abc.net.au/news/2026-11-14/townsville-creatives-queer-community-writing/107106238",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-14T02:33:08+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Every major problem in Middle East caused by Iran's radical Shia clerics, Rubio says",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-914838",
+      "title": "On the Swiss beat: Boston-born, Zurich-based saxophonist brings his heart to Tel Aviv - interview",
+      "url": "https://www.jpost.com/israel-news/culture/article-914685",
       "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-14T02:30:54+00:00",
+      "published_at": "2026-11-15T00:02:52+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "'I may lose my mind': Frustrated travellers stuck in US flight havoc",
-      "url": "https://www.channelnewsasia.com/world/us-flights-ground-stop-travel-disruption-delays-6551081",
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-11-15T00:01:07+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Lambie suggests change to childcare subsidies to cut spending",
+      "url": "https://www.abc.net.au/news/2026-11-15/jacqui-lambie-childcare-subsidy-cuts/107387182",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-14T23:56:32+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "How an evolutionary biologist is taking the fight to the 'mutating virus' of anti-Zionism",
+      "url": "https://www.jpost.com/diaspora/article-914770",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-14T23:53:31+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Filipino singer Carmelle wins inaugural Eurovision Asia Song Contest in Bangkok",
+      "url": "https://www.channelnewsasia.com/entertainment/eurovision-asia-song-contest-6552346",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-14T02:26:51+00:00",
+      "published_at": "2026-11-14T23:51:31+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "USA travel advice",
-      "url": "https://www.gov.uk/foreign-travel-advice/usa",
-      "source": "UK foreign policy",
-      "published_at": "2026-11-14T02:26:03+00:00",
-      "topic": "News",
-      "kind": "Primary source"
-    },
-    {
-      "title": "SpaceX launches Starship rocket, fails to recover booster",
-      "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
-      "source": "DW / Germany",
-      "published_at": "2026-11-14T02:24:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Predicting weather in the Southern Hemisphere is challenging. Here's why",
-      "url": "https://www.abc.net.au/news/science/2026-11-14/southern-hemisphere-forecasting-accuracy-atmospheric-rivers/107211984",
+      "title": "Police investigate suspected fatal stabbing of man in Melbourne's south-east",
+      "url": "https://www.abc.net.au/news/2026-11-15/suspected-fatal-stabbing-overnight-frankston/107387222",
       "source": "ABC / Australia",
-      "published_at": "2026-11-14T02:21:19+00:00",
+      "published_at": "2026-11-14T23:41:27+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Merkel defends Israel's right to exist, questions disproportionate global criticism",
-      "url": "https://www.jpost.com/international/article-914837",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-14T02:16:21+00:00",
+      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-11-14T23:34:37+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
-      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-      "source": "Guardian world news",
-      "published_at": "2026-11-14T02:15:53+00:00",
+      "title": "Sabalenka apologies for outburst during loss to Svitolina",
+      "url": "https://www.channelnewsasia.com/sport/sabalenka-apologies-outburst-during-loss-svitolina-6552321",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-14T23:14:30+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-14T23:11:27+00:00",
       "topic": "News",
       "kind": "News report"
     }
