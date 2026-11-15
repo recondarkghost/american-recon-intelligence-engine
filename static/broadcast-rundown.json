@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-14",
-  "prepared_at": "2026-11-15T00:13:18.290109+00:00",
+  "show_date": "2026-11-15",
+  "prepared_at": "2026-11-15T23:35:50.446838+00:00",
   "reports": [
     {
-      "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-      "source": "NPR News",
-      "published_at": "2026-11-15T00:03:52+00:00",
+      "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
+      "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
+      "source": "France 24 / France",
+      "published_at": "2026-11-15T23:31:15+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "On the Swiss beat: Boston-born, Zurich-based saxophonist brings his heart to Tel Aviv - interview",
-      "url": "https://www.jpost.com/israel-news/culture/article-914685",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-15T00:02:52+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
-      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-11-15T00:01:07+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Lambie suggests change to childcare subsidies to cut spending",
-      "url": "https://www.abc.net.au/news/2026-11-15/jacqui-lambie-childcare-subsidy-cuts/107387182",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-14T23:56:32+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "How an evolutionary biologist is taking the fight to the 'mutating virus' of anti-Zionism",
-      "url": "https://www.jpost.com/diaspora/article-914770",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-14T23:53:31+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Filipino singer Carmelle wins inaugural Eurovision Asia Song Contest in Bangkok",
-      "url": "https://www.channelnewsasia.com/entertainment/eurovision-asia-song-contest-6552346",
+      "title": "A positive HPV test does not mean you have cervical cancer. Here's what to know",
+      "url": "https://www.channelnewsasia.com/women/positive-hpv-test-cervical-cancer-risk-6527016",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-14T23:51:31+00:00",
+      "published_at": "2026-11-15T23:29:42+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Police investigate suspected fatal stabbing of man in Melbourne's south-east",
-      "url": "https://www.abc.net.au/news/2026-11-15/suspected-fatal-stabbing-overnight-frankston/107387222",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-14T23:41:27+00:00",
+      "title": "Yemen: Anti-Houthi forces pull back as rebels advance",
+      "url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
+      "source": "DW / Germany",
+      "published_at": "2026-11-15T23:29:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-11-14T23:34:37+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Sabalenka apologies for outburst during loss to Svitolina",
-      "url": "https://www.channelnewsasia.com/sport/sabalenka-apologies-outburst-during-loss-svitolina-6552321",
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies: Report",
+      "url": "https://www.channelnewsasia.com/world/jensen-huang-discusses-comback-nvidia-6553591",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-14T23:14:30+00:00",
+      "published_at": "2026-11-15T23:25:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC world news",
-      "published_at": "2026-11-14T23:11:27+00:00",
+      "title": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+      "source": "Guardian world news",
+      "published_at": "2026-11-15T23:20:59+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Live: Stalking laws in focus, days from early voting in Victorian election",
+      "url": "https://www.abc.net.au/news/2026-11-16/vic-election-live-stalking-laws-nov-16/107388914",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-15T23:20:13+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+      "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+      "source": "Guardian world news",
+      "published_at": "2026-11-15T23:19:05+00:00",
+      "topic": "research",
+      "kind": "News report"
+    },
+    {
+      "title": "Steering issue caused tanker to crash into cruise boat, U.S. officials say",
+      "url": "https://www.cbc.ca/news/world/tanker-cruise-ship-steering-problem-issue-mississippi-river-new-orleans-9.7423018?cmp=rss",
+      "source": "CBC / Canada",
+      "published_at": "2026-11-15T23:10:20+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Jury hung in trial exploring dark chapter of Sydney's criminal history",
+      "url": "https://www.abc.net.au/news/2026-11-16/bilal-hamze-murder-trial-verdict-samuel-rokomaqisa/107336682",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-15T23:09:47+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+      "url": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
+      "source": "PBS NewsHour",
+      "published_at": "2026-11-15T23:02:00+00:00",
       "topic": "News",
       "kind": "News report"
     }
