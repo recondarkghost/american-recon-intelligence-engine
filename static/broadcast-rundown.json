@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-15",
-  "prepared_at": "2026-11-15T23:35:50.446838+00:00",
+  "show_date": "2026-11-16",
+  "prepared_at": "2026-11-17T03:19:56.081037+00:00",
   "reports": [
     {
-      "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
-      "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
+      "title": "Rubio condemns Iranian strikes in Bahrain in call with Bahraini counterpart",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-915110",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-17T03:21:30+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "How one Reform synagogue became a test of religious pluralism in Jerusalem",
+      "url": "https://www.jpost.com/israel-news/article-915111",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-17T03:18:28+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Robert Pattinson eyes his biggest role yet as James Bond",
+      "url": "https://www.abc.net.au/news/2026-11-17/how-robert-pattinson-went-from-twilight-to-james-bond/107393970",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-17T03:09:32+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Trump heads to Asia for historic nuclear talks with China and Russia",
+      "url": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
       "source": "France 24 / France",
-      "published_at": "2026-11-15T23:31:15+00:00",
+      "published_at": "2026-11-17T03:07:59+00:00",
+      "topic": "conflict",
+      "kind": "News report"
+    },
+    {
+      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S. and Canada",
+      "published_at": "2026-11-17T03:07:23+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "A positive HPV test does not mean you have cervical cancer. Here's what to know",
-      "url": "https://www.channelnewsasia.com/women/positive-hpv-test-cervical-cancer-risk-6527016",
+      "title": "Horns and drones banned as Shenzhen hushes for Trump and APEC",
+      "url": "https://www.channelnewsasia.com/east-asia/shenzhen-apec-drone-cars-bikes-horns-city-ban-6557581",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-15T23:29:42+00:00",
+      "published_at": "2026-11-17T03:07:10+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Yemen: Anti-Houthi forces pull back as rebels advance",
-      "url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
-      "source": "DW / Germany",
-      "published_at": "2026-11-15T23:29:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies: Report",
-      "url": "https://www.channelnewsasia.com/world/jensen-huang-discusses-comback-nvidia-6553591",
+      "title": "New Zealand coach Rennie says All Blacks let country down with shock Wales loss",
+      "url": "https://www.channelnewsasia.com/sport/new-zealand-coach-rennie-says-all-blacks-let-country-down-shock-wales-loss-6557591",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-15T23:25:00+00:00",
+      "published_at": "2026-11-17T02:59:29+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+      "title": "United Airlines says ‘widespread’ system outage resolved",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
       "source": "Guardian world news",
-      "published_at": "2026-11-15T23:20:59+00:00",
+      "published_at": "2026-11-17T02:57:06+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Live: Stalking laws in focus, days from early voting in Victorian election",
-      "url": "https://www.abc.net.au/news/2026-11-16/vic-election-live-stalking-laws-nov-16/107388914",
+      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-11-17T02:52:56+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "MP declares shares in data centre developer before calling for moratorium",
+      "url": "https://www.abc.net.au/news/2026-11-17/peter-george-mp-data-centre-shares/107393668",
       "source": "ABC / Australia",
-      "published_at": "2026-11-15T23:20:13+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
-      "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
-      "source": "Guardian world news",
-      "published_at": "2026-11-15T23:19:05+00:00",
-      "topic": "research",
-      "kind": "News report"
-    },
-    {
-      "title": "Steering issue caused tanker to crash into cruise boat, U.S. officials say",
-      "url": "https://www.cbc.ca/news/world/tanker-cruise-ship-steering-problem-issue-mississippi-river-new-orleans-9.7423018?cmp=rss",
-      "source": "CBC / Canada",
-      "published_at": "2026-11-15T23:10:20+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Jury hung in trial exploring dark chapter of Sydney's criminal history",
-      "url": "https://www.abc.net.au/news/2026-11-16/bilal-hamze-murder-trial-verdict-samuel-rokomaqisa/107336682",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-15T23:09:47+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
-      "url": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
-      "source": "PBS NewsHour",
-      "published_at": "2026-11-15T23:02:00+00:00",
+      "published_at": "2026-11-17T02:49:00+00:00",
       "topic": "News",
       "kind": "News report"
     }
