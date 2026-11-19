@@ -1,84 +1,84 @@
 {
-  "show_date": "2026-11-17",
-  "prepared_at": "2026-11-18T02:38:29.403355+00:00",
+  "show_date": "2026-11-18",
+  "prepared_at": "2026-11-19T01:07:04.558230+00:00",
   "reports": [
     {
-      "title": "Iran hardens negotiating stance after US midterms, weighs Strait of Hormuz escalation - report",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-915254",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-18T02:41:12+00:00",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-19T01:05:03+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Surgeon had ‘cognitive lapse’ when mistakenly removing woman’s ovaries, Hong Kong hospital says",
-      "url": "https://www.channelnewsasia.com/east-asia/surgeon-had-cognitive-lapse-when-mistakenly-removing-womans-ovaries-hong-kong-hospital-says-6561046",
+      "title": "Breaking: Analysts surprised as unemployment rate surges to 4.9pc in October",
+      "url": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-19T00:59:34+00:00",
+      "topic": "economy",
+      "kind": "News report"
+    },
+    {
+      "title": "CNA Now: Trump, Xi and Putin expected to hold talks in China - plus other news as it happens",
+      "url": "https://www.channelnewsasia.com/singapore/cna-now-live-blog-6562016",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-18T02:26:47+00:00",
+      "published_at": "2026-11-19T00:58:57+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Australia sanctions individuals, organizations tied to West Bank settlements, settler violence",
-      "url": "https://www.jpost.com/international/article-915252",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-18T02:26:41+00:00",
+      "title": "Four Aussies chasing biggest payday in history of women's golf",
+      "url": "https://www.abc.net.au/news/2026-11-19/four-aussies-chasing-biggest-payday-in-history-of-women-golf/107403068",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-19T00:56:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Arrested or in prison in Malaysia",
-      "url": "https://www.gov.uk/guidance/arrested-or-in-prison-in-malaysia",
-      "source": "UK foreign policy",
-      "published_at": "2026-11-18T02:24:12+00:00",
-      "topic": "News",
-      "kind": "Primary source"
-    },
-    {
-      "title": "Collagen supplements: What matters when choosing one",
-      "url": "https://www.channelnewsasia.com/advertorial/collagen-supplements-what-matters-when-choosing-one-6526536",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-18T02:23:00+00:00",
+      "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+      "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
+      "source": "PBS NewsHour",
+      "published_at": "2026-11-19T00:54:39+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "ICE agents shove and pepper-spray pregnant woman",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+      "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "source": "Guardian world news",
+      "published_at": "2026-11-19T00:50:01+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-19T00:49:19+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Unemployment rate jumps to 4.9% – the highest level in five years",
+      "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+      "source": "Guardian world news",
+      "published_at": "2026-11-19T00:47:27+00:00",
+      "topic": "economy",
+      "kind": "News report"
+    },
+    {
+      "title": "Rainfall supercharged by El Ni&ntilde;o causes road flooding, synagogue roof collapse in South Florida",
+      "url": "https://www.pbs.org/newshour/nation/rainfall-supercharged-by-el-nino-causes-road-flooding-synagogue-roof-collapse-in-south-florida",
+      "source": "PBS NewsHour",
+      "published_at": "2026-11-19T00:46:37+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "German FA backs France’s Diallo for FIFA presidency",
+      "url": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
       "source": "Al Jazeera world news",
-      "published_at": "2026-11-18T02:17:12+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-      "source": "Guardian world news",
-      "published_at": "2026-11-18T02:16:54+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "AI is transforming the world and the US–China relationship",
-      "url": "https://www.abc.net.au/news/2026-11-18/ai-is-transforming-us-china-relationship/107393980",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-18T02:14:44+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
-      "url": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
-      "source": "Guardian world news",
-      "published_at": "2026-11-18T02:13:58+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "After losing a friend to suicide, Hannah Smith is channelling grief into song",
-      "url": "https://www.abc.net.au/news/2026-11-18/creating-joy-and-laughter-out-of-grief/107393694",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-18T02:03:09+00:00",
+      "published_at": "2026-11-19T00:44:50+00:00",
       "topic": "News",
       "kind": "News report"
     }
