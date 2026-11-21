@@ -1,85 +1,85 @@
 {
-  "show_date": "2026-11-19",
-  "prepared_at": "2026-11-19T23:50:59.813094+00:00",
+  "show_date": "2026-11-20",
+  "prepared_at": "2026-11-21T02:34:27.433390+00:00",
   "reports": [
     {
-      "title": "News Wrap: Russian drone attack damages Dutch embassy and cathedral in Ukraine",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-russian-drone-attack-damages-dutch-embassy-and-cathedral-in-ukraine",
-      "source": "PBS NewsHour",
-      "published_at": "2026-11-19T23:45:23+00:00",
+      "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+      "url": "https://www.jpost.com/middle-east/article-915616",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-21T02:35:34+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Japan reports cooler-than-expected core inflation in October of 2.2% — but highest this year so far",
-      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-      "source": "CNBC Economy",
-      "published_at": "2026-11-19T23:45:23+00:00",
-      "topic": "economy",
-      "kind": "News report"
-    },
-    {
-      "title": "Japan's core inflation accelerates in October, cementing rate hike expectations",
-      "url": "https://www.channelnewsasia.com/business/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations-6567561",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-19T23:44:44+00:00",
-      "topic": "economy",
-      "kind": "News report"
-    },
-    {
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC world news",
-      "published_at": "2026-11-19T23:40:29+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Anthropic's trillion-dollar valuation tests its promise to develop AI responsibly",
-      "url": "https://www.pbs.org/newshour/show/anthropics-trillion-dollar-valuation-tests-its-promise-to-develop-ai-responsibly",
-      "source": "PBS NewsHour",
-      "published_at": "2026-11-19T23:40:24+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC world news",
-      "published_at": "2026-11-19T23:33:51+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
-      "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
-      "source": "Guardian world news",
-      "published_at": "2026-11-19T23:30:26+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "9-month-old dies of hypothermia in Gaza as territory heads into winter season",
-      "url": "https://www.cbc.ca/news/world/baby-death-hypothermia-gaza-9.7428594?cmp=rss",
-      "source": "CBC / Canada",
-      "published_at": "2026-11-19T23:28:53+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Who says dress shoes have to be boring? This Japanese brand's premium line gives them a modern twist",
-      "url": "https://www.channelnewsasia.com/style-beauty/dress-shoes-onitsuka-6512521",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-19T23:27:58+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Young Aussies stun Argentina at under-17 World Cup",
-      "url": "https://www.abc.net.au/news/2026-11-20/australia-defeats-argentina-under-17-world-cup/107407632",
+      "title": "Four people struck by lightning at Strawberry Fields music festival",
+      "url": "https://www.abc.net.au/news/2026-11-21/four-strawberry-fields-festivalgoers-struck-by-lightning/107412498",
       "source": "ABC / Australia",
-      "published_at": "2026-11-19T23:24:36+00:00",
+      "published_at": "2026-11-21T02:23:29+00:00",
       "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "'Do you wanna run for president?' Trump floats chief of staff for 2028",
+      "url": "https://www.channelnewsasia.com/world/donald-trump-us-presidency-stephen-miller-6571076",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-21T02:23:27+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Australia-wide rallies warn freebirths will soar under new rules",
+      "url": "https://www.abc.net.au/news/2026-11-21/homebirth-rallies-midwife-insurance-freebirth/107412380",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-21T02:23:16+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Russell leads Mercedes one-two in final Las Vegas F1 practice",
+      "url": "https://www.channelnewsasia.com/sport/russell-leads-mercedes-one-two-in-final-las-vegas-f1-practice-6571081",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-21T02:20:38+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-21T02:09:46+00:00",
+      "topic": "conflict",
+      "kind": "News report"
+    },
+    {
+      "title": "Thanksgiving in Israel? Why the Jewish state should adopt the American holiday - opinion",
+      "url": "https://www.jpost.com/opinion/article-915452",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-21T01:49:48+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+      "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-11-21T01:49:07+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-11-21T01:44:09+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+      "source": "Guardian world news",
+      "published_at": "2026-11-21T01:43:15+00:00",
+      "topic": "weather",
       "kind": "News report"
     }
   ],
