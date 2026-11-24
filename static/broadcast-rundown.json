@@ -1,85 +1,85 @@
 {
-  "show_date": "2026-11-22",
-  "prepared_at": "2026-11-23T03:10:32.878540+00:00",
+  "show_date": "2026-11-23",
+  "prepared_at": "2026-11-24T00:17:45.720947+00:00",
   "reports": [
     {
-      "title": "IU to stage concert at Singapore's National Stadium in March",
-      "url": "https://www.channelnewsasia.com/entertainment/iu-singapore-concert-2027-national-stadium-6573656",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-23T03:01:56+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC world news",
-      "published_at": "2026-11-23T02:59:35+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "title": "Australian politics live: Taylor notes ‘tough year’ for Coalition party room; King Charles ‘deeply saddened’ by Meldrum’s death",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
       "source": "Guardian world news",
-      "published_at": "2026-11-23T02:53:53+00:00",
+      "published_at": "2026-11-24T00:14:12+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "UN urges probe after Russian ship attacked off Libya",
-      "url": "https://www.channelnewsasia.com/world/un-urges-probe-after-russian-ship-attacked-libya-6573101",
+      "title": "New Zealand lose Tickner to hamstring injury for second India test",
+      "url": "https://www.channelnewsasia.com/sport/new-zealand-lose-tickner-hamstring-injury-second-india-test-6576331",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-23T02:50:07+00:00",
+      "published_at": "2026-11-24T00:02:29+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Cricket NSW slams door on Bears' North Sydney NRL homecoming",
-      "url": "https://www.abc.net.au/news/2026-11-23/cricket-nsw-rules-out-perth-bears-play-north-sydney-oval/107416898",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-23T02:44:25+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Former Bachelor star Sam Wood seeking mediation amid DV charges for allegedly strangling wife",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/bachelor-sam-wood-domestic-violence-charges-mediation-ntwnfb",
+      "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
       "source": "Guardian world news",
-      "published_at": "2026-11-23T02:40:33+00:00",
+      "published_at": "2026-11-24T00:02:14+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Police find body of man who jumped into Melbourne's Yarra River",
-      "url": "https://www.abc.net.au/news/2026-11-23/body-found-in-yarra-river-after-man-jumps-from-bridge/107416916",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-23T02:37:32+00:00",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-11-24T00:01:04+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC world news",
-      "published_at": "2026-11-23T02:37:02+00:00",
+      "title": "Singapore upgrades 2026 GDP growth forecast to around 6%; economy expanded 6.1% in Q3",
+      "url": "https://www.channelnewsasia.com/singapore/economy-gdp-growth-q3-forecast-meti-6573976",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-24T00:00:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Indonesian police remove 24 body bags from factory fire site",
-      "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
+      "title": "Why Trump pushed for Jensen Huang's return to Nvidia",
+      "url": "https://www.pbs.org/newshour/show/why-trump-pushed-for-jensen-huangs-return-to-nvidia",
+      "source": "PBS NewsHour",
+      "published_at": "2026-11-23T23:55:49+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
       "source": "Al Jazeera world news",
-      "published_at": "2026-11-23T02:35:42+00:00",
+      "published_at": "2026-11-23T23:54:27+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "IDF launches mentorship program to integrate discharged haredi soldiers into high-tech sector",
-      "url": "https://www.jpost.com/israel-news/article-915761",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-23T02:28:52+00:00",
+      "title": "Experts weigh national security implications of Huang's return to Nvidia",
+      "url": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
+      "source": "PBS NewsHour",
+      "published_at": "2026-11-23T23:50:21+00:00",
       "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Drone attack on Colombia police base injures civilians, including infant",
+      "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-11-23T23:49:37+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
+      "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
+      "source": "CBC / Canada",
+      "published_at": "2026-11-23T23:32:21+00:00",
+      "topic": "conflict",
       "kind": "News report"
     }
   ],
