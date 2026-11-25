@@ -1,85 +1,85 @@
 {
-  "show_date": "2026-11-23",
-  "prepared_at": "2026-11-24T00:17:45.720947+00:00",
+  "show_date": "2026-11-24",
+  "prepared_at": "2026-11-25T03:45:51.165830+00:00",
   "reports": [
     {
-      "title": "Australian politics live: Taylor notes ‘tough year’ for Coalition party room; King Charles ‘deeply saddened’ by Meldrum’s death",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-      "source": "Guardian world news",
-      "published_at": "2026-11-24T00:14:12+00:00",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-25T03:44:07+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "New Zealand lose Tickner to hamstring injury for second India test",
-      "url": "https://www.channelnewsasia.com/sport/new-zealand-lose-tickner-hamstring-injury-second-india-test-6576331",
+      "title": "Starbucks to engage banks for sale of Japan business, Bloomberg News reports",
+      "url": "https://www.channelnewsasia.com/business/starbucks-engage-banks-sale-japan-business-bloomberg-news-reports-6580461",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-24T00:02:29+00:00",
+      "published_at": "2026-11-25T03:32:50+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-      "source": "Guardian world news",
-      "published_at": "2026-11-24T00:02:14+00:00",
+      "title": "Why inflation is up, but interest rates are not expected to follow",
+      "url": "https://www.abc.net.au/news/2026-11-25/inflation-up-but-rates-not-expected-to-follow/107424642",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-25T03:32:26+00:00",
+      "topic": "economy",
+      "kind": "News report"
+    },
+    {
+      "title": "Asia’s stock markets dive as doubts swirl over AI boom",
+      "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+      "source": "Al Jazeera world news",
+      "published_at": "2026-11-25T03:31:59+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-11-24T00:01:04+00:00",
+      "title": "Ireland lose skipper for Wallabies clash while Suaalii relishing centre role",
+      "url": "https://www.abc.net.au/news/2026-11-25/ireland-skipper-out-of-wallabies-clash-through-suspension/107425640",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-25T03:31:53+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Singapore upgrades 2026 GDP growth forecast to around 6%; economy expanded 6.1% in Q3",
-      "url": "https://www.channelnewsasia.com/singapore/economy-gdp-growth-q3-forecast-meti-6573976",
+      "title": "Tech firms back in crosshairs as Huang rally reverses",
+      "url": "https://www.channelnewsasia.com/business/tech-stocks-jensen-huang-nvidia-rally-reverses-6580451",
       "source": "CNA / Singapore",
-      "published_at": "2026-11-24T00:00:00+00:00",
+      "published_at": "2026-11-25T03:31:00+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Why Trump pushed for Jensen Huang's return to Nvidia",
-      "url": "https://www.pbs.org/newshour/show/why-trump-pushed-for-jensen-huangs-return-to-nvidia",
-      "source": "PBS NewsHour",
-      "published_at": "2026-11-23T23:55:49+00:00",
+      "title": "Politics live: Chalmers says economy faces ‘serious moment’ amid inflation; NSW ‘scaling up’ response after fire ants found in Sydney",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "source": "Guardian world news",
+      "published_at": "2026-11-25T03:26:36+00:00",
+      "topic": "economy",
+      "kind": "News report"
+    },
+    {
+      "title": "Israel Police ramps up enforcement against intersection blocking in Tel Aviv",
+      "url": "https://www.jpost.com/israel-news/article-916034",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-25T03:17:35+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-11-23T23:54:27+00:00",
+      "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
+      "source": "Guardian world news",
+      "published_at": "2026-11-25T03:05:42+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Experts weigh national security implications of Huang's return to Nvidia",
-      "url": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
-      "source": "PBS NewsHour",
-      "published_at": "2026-11-23T23:50:21+00:00",
+      "title": "Thomas Markle charged in US on second count of possessing child sexual abuse material",
+      "url": "https://www.jpost.com/international/article-916033",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-25T03:01:57+00:00",
       "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Drone attack on Colombia police base injures civilians, including infant",
-      "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-11-23T23:49:37+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
-      "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
-      "source": "CBC / Canada",
-      "published_at": "2026-11-23T23:32:21+00:00",
-      "topic": "conflict",
       "kind": "News report"
     }
   ],
