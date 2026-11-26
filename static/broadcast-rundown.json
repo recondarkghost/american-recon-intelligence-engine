@@ -1,85 +1,85 @@
 {
-  "show_date": "2026-11-24",
-  "prepared_at": "2026-11-25T03:45:51.165830+00:00",
+  "show_date": "2026-11-25",
+  "prepared_at": "2026-11-26T04:24:32.934175+00:00",
   "reports": [
     {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel, Hungary strengthen water, energy cooperation at Budapest innovation forum",
+      "url": "https://www.jpost.com/environment-and-climate-change/article-916166",
+      "source": "Jerusalem Post Headlines",
+      "published_at": "2026-11-26T04:20:39+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Australian politics live: Chalmers says unemployment rise a ‘very bad development’; Liberals ‘tossing up whether to leave or remain’, PM says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "source": "Guardian world news",
+      "published_at": "2026-11-26T04:19:20+00:00",
+      "topic": "economy",
+      "kind": "News report"
+    },
+    {
+      "title": "Musk says every child in the US will get two SpaceX shares",
+      "url": "https://www.channelnewsasia.com/business/musk-says-every-child-in-us-will-get-two-spacex-shares-6584096",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-26T04:17:43+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons",
+      "url": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-all-1573-rdf",
+      "source": "DW / Germany",
+      "published_at": "2026-11-26T04:12:00+00:00",
+      "topic": "conflict",
+      "kind": "News report"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "source": "BBC world news",
-      "published_at": "2026-11-25T03:44:07+00:00",
+      "published_at": "2026-11-26T04:10:58+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Starbucks to engage banks for sale of Japan business, Bloomberg News reports",
-      "url": "https://www.channelnewsasia.com/business/starbucks-engage-banks-sale-japan-business-bloomberg-news-reports-6580461",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-25T03:32:50+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Why inflation is up, but interest rates are not expected to follow",
-      "url": "https://www.abc.net.au/news/2026-11-25/inflation-up-but-rates-not-expected-to-follow/107424642",
+      "title": "Anti-Netanyahu bloc vows to swear in Israel's new government by end of week",
+      "url": "https://www.abc.net.au/news/2026-11-26/eisenkot-vows-to-form-israeli-government-by-end-of-week/107429976",
       "source": "ABC / Australia",
-      "published_at": "2026-11-25T03:32:26+00:00",
+      "published_at": "2026-11-26T04:10:18+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Witness recounts dramatic 'crash tackle' arrest of balaclava-clad men",
+      "url": "https://www.abc.net.au/news/2026-11-26/lidcombe-attempted-kidnapping-men-charged-amid-further-arrests/107430090",
+      "source": "ABC / Australia",
+      "published_at": "2026-11-26T04:09:29+00:00",
+      "topic": "News",
+      "kind": "News report"
+    },
+    {
+      "title": "Commentary: New US tariff threat seeks to ramp up pressure on trading partners – will it work?",
+      "url": "https://www.channelnewsasia.com/commentary/trump-new-us-tariffs-excess-industrial-capacity-impact-singapore-trading-partners-6584001",
+      "source": "CNA / Singapore",
+      "published_at": "2026-11-26T04:07:00+00:00",
       "topic": "economy",
       "kind": "News report"
     },
     {
-      "title": "Asia’s stock markets dive as doubts swirl over AI boom",
-      "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
-      "source": "Al Jazeera world news",
-      "published_at": "2026-11-25T03:31:59+00:00",
+      "title": "Macy's postpones Thanksgiving parade due to severe weather",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC world news",
+      "published_at": "2026-11-26T04:04:14+00:00",
       "topic": "News",
       "kind": "News report"
     },
     {
-      "title": "Ireland lose skipper for Wallabies clash while Suaalii relishing centre role",
-      "url": "https://www.abc.net.au/news/2026-11-25/ireland-skipper-out-of-wallabies-clash-through-suspension/107425640",
-      "source": "ABC / Australia",
-      "published_at": "2026-11-25T03:31:53+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Tech firms back in crosshairs as Huang rally reverses",
-      "url": "https://www.channelnewsasia.com/business/tech-stocks-jensen-huang-nvidia-rally-reverses-6580451",
-      "source": "CNA / Singapore",
-      "published_at": "2026-11-25T03:31:00+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Politics live: Chalmers says economy faces ‘serious moment’ amid inflation; NSW ‘scaling up’ response after fire ants found in Sydney",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
       "source": "Guardian world news",
-      "published_at": "2026-11-25T03:26:36+00:00",
+      "published_at": "2026-11-26T03:54:24+00:00",
       "topic": "economy",
-      "kind": "News report"
-    },
-    {
-      "title": "Israel Police ramps up enforcement against intersection blocking in Tel Aviv",
-      "url": "https://www.jpost.com/israel-news/article-916034",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-25T03:17:35+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
-      "source": "Guardian world news",
-      "published_at": "2026-11-25T03:05:42+00:00",
-      "topic": "News",
-      "kind": "News report"
-    },
-    {
-      "title": "Thomas Markle charged in US on second count of possessing child sexual abuse material",
-      "url": "https://www.jpost.com/international/article-916033",
-      "source": "Jerusalem Post Headlines",
-      "published_at": "2026-11-25T03:01:57+00:00",
-      "topic": "News",
       "kind": "News report"
     }
   ],
